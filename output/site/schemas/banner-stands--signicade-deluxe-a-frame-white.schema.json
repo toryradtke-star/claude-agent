@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "White Signicade Deluxe",
+  "description": "Discover the White Signicade Deluxe A-Frame, a durable plastic sidewalk sign perfect for versatile outdoor advertising. Easy to set up and weather-resistant.",
+  "url": "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-white",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

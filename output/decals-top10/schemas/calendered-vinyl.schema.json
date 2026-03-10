@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "1",
+  "promptVersion": "unknown",
+  "model": "claude-3-5-haiku-latest",
+  "createdAt": "2026-03-05T22:02:53.947Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Calandered Vinyl Material",
+    "description": "Use this popular, durable 3 millimeter calendared vinyl for your next decal, label or sticker! This vinyl is excellent for car stickers, truck decals and fun outdoor signage. Order today from Decals.com!",
+    "url": "https://www.decals.com/calendered-vinyl",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

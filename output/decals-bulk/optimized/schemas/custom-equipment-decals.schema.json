@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:47:22.634Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Equipment Decals Equipment",
+    "description": "Discover durable and customizable rental equipment stickers and decals at Decals.com. Perfect for labeling machinery, tools, and more. Order yours today!",
+    "url": "https://www.decals.com/custom-equipment-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

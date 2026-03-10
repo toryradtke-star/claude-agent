@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:55:32.203Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Kiss-Cut Stickers Kiss",
+    "description": "Kiss-Cut stickers are easy to peel because of the extra material surrounding your design. Create your custom vinyl stickers at Decals.com.",
+    "url": "https://www.decals.com/stickers/kiss-cut-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

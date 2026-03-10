@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "High Quality Yard",
+  "description": "Tired of the same old yard sign sizes? Banners.com has you covered. Choose from a min of 12\" x 12\" all the way up to 48\" x 96\" and any combination in between.",
+  "url": "https://www.banners.com/yard-signs/custom-sizes",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

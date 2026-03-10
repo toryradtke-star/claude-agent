@@ -1,0 +1,11 @@
+{
+  "url": "https://www.decals.com/custom-holographic-vinyl-material",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 24871,
+    "output_tokens": 4578
+  },
+  "durationMs": 87855
+}

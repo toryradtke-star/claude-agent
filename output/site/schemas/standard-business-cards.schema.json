@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Business Cards &",
+  "description": "Professional business cards will help you make connections, build your network, or advertise a promotion at events or tradeshows! Banners.com",
+  "url": "https://www.banners.com/standard-business-cards",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

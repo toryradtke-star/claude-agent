@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/truck-magnetic-signs",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4680,
+    "output_tokens": 2943
+  },
+  "durationMs": 60461
+}

@@ -1,0 +1,633 @@
+{
+  "baseUrl": "https://banners.com",
+  "domain": "banners.com",
+  "generatedAt": "2026-03-04T16:18:15.011Z",
+  "discoveryMethod": "pre-scraped",
+  "totalUrlsDiscovered": 3,
+  "pagesAudited": 3,
+  "productPagesDetected": 2,
+  "productPagesOptimized": 2,
+  "errors": [],
+  "pageAudits": [
+    {
+      "url": "https://banners.com/10k-banners",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "",
+        "metaDescription": "",
+        "canonical": "",
+        "robots": "",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 17,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 2898,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h2",
+            "text": "Custom 10K Race Banners for Start Lines, Finish Lines & Sponsor Recognition"
+          },
+          {
+            "tag": "h2",
+            "text": "Banner Material Options for Durable 10K Race Signage"
+          },
+          {
+            "tag": "h3",
+            "text": "13 oz Matte Vinyl 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "13 oz Gloss Vinyl 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "18 oz Heavy-Duty Vinyl 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Mesh 10K Banners for Outdoor Courses"
+          },
+          {
+            "tag": "h3",
+            "text": "Fabric 10K Banners for Indoor Events"
+          },
+          {
+            "tag": "h3",
+            "text": "Adhesive 10K Banners for Smooth Surfaces"
+          },
+          {
+            "tag": "h2",
+            "text": "Finishing Options for 10K Race Banner Installation"
+          },
+          {
+            "tag": "h3",
+            "text": "Heat-Welded Hems & Grommets"
+          },
+          {
+            "tag": "h3",
+            "text": "Pole Pockets for 10K Banner Mounting"
+          },
+          {
+            "tag": "h3",
+            "text": "Reinforced Corners for 10K Banner Durability"
+          },
+          {
+            "tag": "h3",
+            "text": "Reinforced Hems for Long-Lasting 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Double-Sided 10K Banner Finishing"
+          },
+          {
+            "tag": "h2",
+            "text": "Artwork Requirements for 10K Banner Printing"
+          },
+          {
+            "tag": "h3",
+            "text": "Artwork & Order Proofs"
+          },
+          {
+            "tag": "h3",
+            "text": "Color Match Proof System"
+          },
+          {
+            "tag": "h2",
+            "text": "Production & Turnaround Times for Custom 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "1 Business Day Priority"
+          },
+          {
+            "tag": "h3",
+            "text": "2 Business Days Express"
+          },
+          {
+            "tag": "h3",
+            "text": "3 Business Days Standard"
+          },
+          {
+            "tag": "h3",
+            "text": "5 Business Days Saver"
+          },
+          {
+            "tag": "h2",
+            "text": "10K Banner Payment & Checkout Options"
+          },
+          {
+            "tag": "h2",
+            "text": "Shipping & Delivery for Custom 10K Race Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "International Shipping for 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Shipping Facility Locations"
+          },
+          {
+            "tag": "h3",
+            "text": "Available Shipping Methods"
+          },
+          {
+            "tag": "h3",
+            "text": "Economy Shipping Details"
+          },
+          {
+            "tag": "h2",
+            "text": "Popular Uses for Custom 10K Race Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Starting Line & Finish Line Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Sponsor & Partner Recognition Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Course Direction & Wayfinding Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Registration & First Aid Station Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Promotional & Pre-Race Event Banners"
+          },
+          {
+            "tag": "h2",
+            "text": "Design & Order Custom 10K Banners Online"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions About 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "What materials are available for 10K banners?"
+          },
+          {
+            "tag": "h3",
+            "text": "What finishing options work best for outdoor 10K race banners?"
+          },
+          {
+            "tag": "h3",
+            "text": "How fast can I get my 10K banners printed and delivered?"
+          },
+          {
+            "tag": "h3",
+            "text": "What file formats are accepted for 10K banner artwork?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I order double-sided 10K banners?"
+          },
+          {
+            "tag": "h3",
+            "text": "What sizes are available for 10K race banners?"
+          }
+        ],
+        "paragraphCount": 80
+      },
+      "headings": [],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/4th-of-july-flags",
+      "productPage": true,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": true,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "",
+        "metaDescription": "",
+        "canonical": "",
+        "robots": "",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 1,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 2436,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h2",
+            "text": "Custom 4th of July Flags for Home, Garden & Outdoor Celebrations"
+          },
+          {
+            "tag": "h3",
+            "text": "Dye-Sublimation Printed Independence Day Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Reusable 4th of July Flags for Every Celebration"
+          },
+          {
+            "tag": "h2",
+            "text": "Polyester-Nylon Flag Material for 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Dye-Sublimation Printing on Fabric Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Temperature Sensitivity and Sizing for Fabric Flag Material"
+          },
+          {
+            "tag": "h3",
+            "text": "4th of July Flag Lifespan and Care"
+          },
+          {
+            "tag": "h3",
+            "text": "Prorated Warranty for Custom Flag Orders"
+          },
+          {
+            "tag": "h2",
+            "text": "Finishing Options for Custom 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Single / Reverse 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Double-Sided Independence Day Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Flag Finishing and Mounting Options"
+          },
+          {
+            "tag": "h2",
+            "text": "Production and Turnaround Times for Custom 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "2 Business Days Express Production"
+          },
+          {
+            "tag": "h3",
+            "text": "3 Business Days Standard Production"
+          },
+          {
+            "tag": "h3",
+            "text": "5 Business Days Saver Production"
+          },
+          {
+            "tag": "h2",
+            "text": "Payment Methods for 4th of July Flag Orders"
+          },
+          {
+            "tag": "h3",
+            "text": "Accepted Payment Types for Custom Flag Purchases"
+          },
+          {
+            "tag": "h2",
+            "text": "Shipping and Delivery for Custom 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "General Shipping Guidelines for Flag Orders"
+          },
+          {
+            "tag": "h3",
+            "text": "Shipping Facility Locations for Flag Production"
+          },
+          {
+            "tag": "h3",
+            "text": "Available Shipping Methods for Custom Flags"
+          },
+          {
+            "tag": "h2",
+            "text": "Popular Uses for Custom 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Residential Yard and Garden Flag Displays"
+          },
+          {
+            "tag": "h3",
+            "text": "Community and Neighborhood Independence Day Decorations"
+          },
+          {
+            "tag": "h3",
+            "text": "Business and Storefront Patriotic Flag Displays"
+          },
+          {
+            "tag": "h2",
+            "text": "Artwork Requirements for 4th of July Flag Printing"
+          },
+          {
+            "tag": "h3",
+            "text": "Recommended File Formats for Flag Artwork"
+          },
+          {
+            "tag": "h3",
+            "text": "Artwork and Order Proofs for Custom Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Color Match Proof System for Flag Printing"
+          },
+          {
+            "tag": "h2",
+            "text": "Design & Order Your Custom 4th of July Flags Today"
+          },
+          {
+            "tag": "h3",
+            "text": "Why Choose Banners.com for Your 4th of July Flags?"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions About Custom 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "What material are your 4th of July flags made from?"
+          },
+          {
+            "tag": "h3",
+            "text": "How long do custom 4th of July flags last outdoors?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do your 4th of July flags come with a warranty?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I get a double-sided 4th of July flag?"
+          },
+          {
+            "tag": "h3",
+            "text": "What file formats do you accept for custom flag artwork?"
+          },
+          {
+            "tag": "h3",
+            "text": "How quickly can I receive my 4th of July flag order?"
+          }
+        ],
+        "paragraphCount": 45
+      },
+      "headings": [],
+      "seoRecommendations": "==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Custom 4th of July Flags\nH2: Dye-Sublimation Printed Independence Day Flags  \nH2: Custom 4th of July Flags for Home, Garden & Outdoor Celebrations\nH3: Dye-Sublimation Printed Independence Day Flags\nH3: Reusable 4th of July Flags for Every Celebration\nH2: Polyester-Nylon Flag Material for 4th of July Flags\nH3: Dye-Sublimation Printing on Fabric Flags\nH3: Temperature Sensitivity and Sizing for Fabric Flag Material\nH3: 4th of July Flag Lifespan and Care\nH3: Prorated Warranty for Custom Flag Orders\nH2: Finishing Options for Custom 4th of July Flags\nH3: Single / Reverse 4th of July Flags\nH3: Double-Sided Independence Day Flags\nH3: Flag Finishing and Mounting Options\nH2: Production and Turnaround Times for Custom 4th of July Flags\nH3: 2 Business Days Express Production\nH3: 3 Business Days Standard Production\nH3: 5 Business Days Saver Production\nH2: Payment Methods for 4th of July Flag Orders\nH3: Accepted Payment Types for Custom Flag Purchases\nH2: Shipping and Delivery for Custom 4th of July Flags\nH3: General Shipping Guidelines for Flag Orders\nH3: Shipping Facility Locations for Flag Production\nH3: Available Shipping Methods for Custom Flags\nH2: Popular Uses for Custom 4th of July Flags\nH3: Residential Yard and Garden Flag Displays\nH3: Community and Neighborhood Independence Day Decorations\nH3: Business and Storefront Patriotic Flag Displays\nH2: Artwork Requirements for 4th of July Flag Printing\nH3: Recommended File Formats for Flag Artwork\nH3: Artwork and Order Proofs for Custom Flags\nH3: Color Match Proof System for Flag Printing\nH2: Design & Order Your Custom 4th of July Flags Today\nH3: Why Choose Banners.com for Your 4th of July Flags?\nH2: Frequently Asked Questions About Custom 4th of July Flags\nH3: What material are your 4th of July flags made from?\nH3: How long do custom 4th of July flags last outdoors?\nH3: Do your 4th of July flags come with a warranty?\nH3: Can I get a double-sided 4th of July flag?\nH3: What file formats do you accept for custom flag artwork?\nH3: How quickly can I receive my 4th of July flag order?\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom 4th of July Flags for Patriotic Home & Business Display\nH2: Premium Polyester-Nylon 4th of July Flags with Dye-Sublimated Printing & Full Customization\nH2: Custom 4th of July Flags for Home, Garden & Outdoor Celebrations\nH3: Dye-Sublimated Independence Day Flag Printing\nH3: Durable 4th of July Flags for Annual Celebrations\nH2: Polyester-Nylon Flag Material for 4th of July Display\nH3: Dye-Sublimation Printing on 4th of July Flags\nH3: Flag Material Sizing and Temperature Considerations\nH3: 4th of July Flag Durability and Maintenance\nH3: Warranty Coverage for Custom Flag Orders\nH2: Finishing Options for 4th of July Flag Installation\nH3: Single/Reverse Printed 4th of July Flags\nH3: Double-Sided 4th of July Flag Construction\nH3: Mounting and Hardware Options for Flag Display\nH2: Production and Turnaround Times for Custom 4th of July Flags\nH3: 2 Business Days Express Production\nH3: 3 Business Days Standard Production\nH3: 5 Business Days Saver Production\nH2: 4th of July Flag Payment and Ordering Options\nH3: Accepted Payment Methods for Flag Orders\nH2: Shipping and Delivery for Custom 4th of July Flags\nH3: General Shipping Guidelines for Flag Orders\nH3: Production Facility Locations for Flag Manufacturing\nH3: Available Shipping Methods for Flag Delivery\nH2: Patriotic Display Applications for 4th of July Flags\nH3: Residential Yard and Garden Flag Displays\nH3: Community and Neighborhood Independence Day Decorations\nH3: Business and Storefront Patriotic Flag Displays\nH2: Artwork Requirements for 4th of July Flag Printing\nH3: Recommended File Formats for Flag Artwork\nH3: Artwork Proofs for Custom Flag Orders\nH3: Color Matching for Professional Flag Printing\nH2: Design & Order Your Custom 4th of July Flags Today\nH3: Why Choose Banners.com for Your 4th of July Flags?\nH2: Frequently Asked Questions About Custom 4th of July Flags\nH3: What material are your 4th of July flags made from?\nH3: How long do custom 4th of July flags last outdoors?\nH3: Do your 4th of July flags come with a warranty?\nH3: Can I get a double-sided 4th of July flag?\nH3: What file formats do you accept for custom flag artwork?\nH3: How quickly can I receive my 4th of July flag order?\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h1>Custom 4th of July Flags for Patriotic Home & Business Display</h1>\n\n<h2>Premium Polyester-Nylon 4th of July Flags with Dye-Sublimated Printing & Full Customization</h2>\n\nPASTE INTO:\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nProduct Options\n\nSize (H x W):\n\nHeight:\n1.0' | 1.5' | 2.0' | 2.5' | 3.0' | 3.5' | 4.0' | 4.5'\n\nWidth:\n1.0' | 1.5' | 2.0' | 2.5' | 3.0' | 3.5' | 4.0' | 4.5' | 5.0' | 5.5' | 6.0' | 6.5' | 7.0' | 7.5' | 8.0'\n\nNot seeing the size you want? Request a custom quote.\n\nQty:\n\nDesign Method:\n- Template Design\n- Upload a File\n- Professional Designer\n\nPASTE INTO:\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom 4th of July Flags for Home, Garden & Outdoor Celebrations</h2>\n\n<h3>Dye-Sublimated Independence Day Flag Printing</h3>\n\n<p>Celebrate Independence Day with custom 4th of July flags made from a durable polyester-nylon blend. Each flag is printed using a direct dye-sublimation process, where the ink dyes the fabric rather than sitting on the surface. This produces vibrant, full-color designs that stand out in any yard, garden, or outdoor display.</p>\n\n<p>Use our online designer to customize your 4th of July flag with patriotic templates, custom text, clip art, and your own uploaded images. Choose from a wide range of sizes to fit garden flag holders, porch displays, and large outdoor installations.</p>\n\n<h3>Durable 4th of July Flags for Annual Celebrations</h3>\n\n<p>These Independence Day flags are built to last and can be reused year after year. Whether you are decorating your front yard, welcoming guests at a community celebration, or adding patriotic flair to your business storefront, custom 4th of July flags deliver bold, eye-catching color that captures the spirit of the holiday.</p>\n\nPASTE INTO:\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nMATERIAL OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Polyester-Nylon Flag Material for 4th of July Display</h2>\n\n<h3>Dye-Sublimation Printing on 4th of July Flags</h3>\n\n<p>All 4th of July flags are printed using a direct dye-sublimation printing process. This means the ink dyes the fabric rather than sitting on top of the material. This allows the flag material to act in its natural state rather than being weighed down or made more rigid with ink adhered to the surface. This is an important factor when selecting properly manufactured flags.</p>\n\n<p>The dye-sublimation printing process creates an eye-popping display. You can add full-color images, custom logos, graphics, and text to your 4th of July flag.</p>\n\n<p><strong>Our fabric flags are a polyester-nylon blend. They are NOT the same material as a standard U.S. flag.</strong></p>\n\n<h3>Flag Material Sizing and Temperature Considerations</h3>\n\n<p>Our fabric material is temperature sensitive, and due to the printing process it can expand and contract in response to heat or cold. Because of this, exact sizing cannot be guaranteed for any fabric product due to temperature fluctuations. If the size needs to be precise, such as for installation into an existing frame or hardware, please communicate this to your customer service representative to discuss your specific application.</p>\n\n<h3>4th of July Flag Durability and Maintenance</h3>\n\n<p>With proper care and installation, custom-made 4th of July flags have an outdoor lifespan of 3 to 6 months. To help increase the lifespan, take your flag down and store it indoors during inclement weather.</p>\n\n<h3>Warranty Coverage for Custom Flag Orders</h3>\n\n<p>A prorated monthly warranty is available for standard flags. For example, a standard 3x5 flag that fails 2 months after proper installation will be replaced with 33% of the replacement cost covered for a new 3x5 flag.</p>\n\nPASTE INTO:\nMaterial Options Tab\n\n--------------------------------------------------\n\n==================================================\nFINISHING OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Finishing Options for 4th of July Flag Installation</h2>\n\n<h3>Single/Reverse Printed 4th of July Flags</h3>\n\n<img src=\"https://lag.azureedge.net/w2p-cms-1/Single-Reverse-Sided-both-WEB-KB.jpg\" alt=\"Single / Reverse 4th of July Flag showing front and back print\" />\n\n<p>Single / reverse flags are printed on a single layer of material. This allows the ink to fully permeate the fabric, causing a reverse image on the back. When the flag is flipped, the artwork will appear reversed.</p>\n\n<h3>Double-Sided 4th of July Flag Construction</h3>\n\n<img src=\"https://lag.azureedge.net/w2p-cms-1/Double-Sided-both-WEB-KB.jpg\" alt=\"Double-Sided 4th of July Flag showing matching print on both sides\" />\n\n<p>Double-sided flags are printed on two separate layers of fabric with a blockout liner between them. This ensures that any wording and images are always seen in the correct orientation from both sides.</p>\n\n<h3>Mounting and Hardware Options for Flag Display</h3>\n\n<img src=\"https://lag.azureedge.net/w2p-cms-1/Finishing-Options_Fabric-Flags-KB-Riot.jpg\" alt=\"Finishing options for custom 4th of July fabric flags\" />\n\n<p>Multiple finishing options are available to fit your display setup. Choose the finishing style that works best for your flag pole, garden stake, or mounting hardware.</p>\n\n<p>If you have questions about which finishing option is right for your 4th of July flag, please give us a call at <a href=\"tel:13203915300\">(320) 391-5300</a> and one of our customer service representatives will be happy to help.</p>\n\nPASTE INTO:\nFinishing Options Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Production and Turnaround Times for Custom 4th of July Flags</h2>\n\n<p>Flexible production time ranges are available so you have full control over when your 4th of July flags are completed. Production times range from two to five business days, allowing you to choose the turnaround that fits your schedule.</p>\n\n<h3>2 Business Days Express Production</h3>\n\n<p>Need your 4th of July flags quickly? The express option delivers a fast 2-business-day production turnaround.</p>\n\n<img src=\"https://lag.azureedge.net/w2p-cms-1/22-09-14-BANS-production time infographic-2 Business Days Express.jpg\" alt=\"2 Business Day Express production infographic for custom flag orders\" />\n\n<ul>\n<li>Orders approved after 5:00 PM CST will be processed the following business day.</li>\n<li>Emergency and same-day rushes are available in some cases. Please speak with a customer service representative for more information.</li>\n<li>Total delivery time includes both production time and shipping time.</li>\n<li>Turnaround starts from the time the file upload is complete. If an order is flagged in prepress or a proof is requested, turnaround starts from the time approval is given.</li>\n</ul>\n\n<h3>3 Business Days Standard Production</h3>\n\n<p>The most popular turnaround option. Standard 3-business-day production is fast enough for most custom 4th of July flag orders.</p>\n\n<img src=\"https://lag.azureedge.net/w2p-cms-1/22-09-14-BANS-production time infographic-3 Business Days Standard.jpg\" alt=\"3 Business Day Standard production infographic for custom flag orders\" />\n\n<ul>\n<li>Orders approved after 5:00 PM CST will be processed the following business day.</li>\n<li>Emergency and same-day rushes are available in some cases. Please speak with a customer service representative for more information.</li>\n<li>Total delivery time includes both production time and shipping time.</li>\n<li>Turnaround starts from the time the file upload is complete. If an order is flagged in prepress or a proof is requested, turnaround starts from the time approval is given.</li>\n</ul>\n\n<h3>5 Business Days Saver Production</h3>\n\n<p>Not in a rush? The 5-business-day saver option provides a cost-effective turnaround for 4th of July flag orders that do not need expedited production.</p>\n\n<img src=\"https://lag.azureedge.net/w2p-cms-1/22-09-14-BANS-production time infographic-5 Business Days Saver.jpg\" alt=\"5 Business Day Saver production infographic for custom flag orders\" />\n\n<ul>\n<li>Orders received after 5:00 PM CST will be processed the following business day.</li>\n<li>Emergency and same-day rushes are available in some cases. Please speak with a customer service representative for more information.</li>\n<li>Total delivery time includes both production time and shipping time.</li>\n<li>Turnaround starts from the time the file upload is complete. If an order is flagged in prepress or a proof is requested, turnaround starts from the time approval is given.</li>\n</ul>\n\nPASTE INTO:\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nPAYMENT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>4th of July Flag Payment and Ordering Options</h2>\n\n<h3>Accepted Payment Methods for Flag Orders</h3>\n\n<p>All 4th of July flags must be paid for prior to entering production. The following payment methods are accepted:</p>\n\n<ul>\n<li>Visa</li>\n<li>MasterCard</li>\n<li>American Express</li>\n<li>Discover</li>\n<li>Check (must be received before the order enters production)</li>\n</ul>\n\n<p>For more information on paying by check, <a href=\"https://www.banners.com/resources/online-orders-pay-with-check\">see this article on check orders</a>.</p>\n\n<p>Your credit card will not be charged until you have approved your order.</p>\n\nPASTE INTO:\nPayment Options Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING GUIDELINES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Shipping and Delivery for Custom 4th of July Flags</h2>\n\n<h3>General Shipping Guidelines for Flag Orders</h3>\n\n<p>If you have any questions about shipping, please contact customer service at <a href=\"tel:13203915300\">(320) 391-5300</a> prior to placing your order. Unless otherwise specified at the time of ordering, your order will be shipped via UPS Ground. A 1&ndash;3 day ground shipment is available to 90% of the United States.</p>\n\n<p><strong>You will receive a tracking number once your package has been shipped.</strong></p>\n\n<p>Shipping prices are determined by the weight and destination of the package. Additional shipping charges apply to large orders.</p>\n\n<p>After products have been shipped, all shipping company terms and conditions apply for lost or delayed packages. The cost of your 4th of July flags will not be refunded if UPS or any other shipping company causes a delay.</p>\n\n<p>Delays due to natural disasters or circumstances beyond our control will not result in shipping refunds. If the product is damaged in shipping, the damaged goods must be returned and a replacement will be sent.</p>\n\n<p>Lost packages will be replaced after the shipping company confirms the loss. This generally takes 7&ndash;10 business days after the initial scheduled delivery.</p>\n\n<p><strong>International Shipping Notes:</strong> For international shipments, customers must provide both shipping labels and customs documentation. Currently, only international shipping labels from USPS and UPS are accepted. For more details, please contact customer service.</p>\n\n<h3>Production Facility Locations for Flag Manufacturing</h3>\n\n<p><strong>Fabric Flags:</strong> All fabric 4th of July flags are produced in our Minnesota facility.</p>\n\n<h3>Available Shipping Methods for Flag Delivery</h3>\n\n<p>The following shipping methods are available for 4th of July flag orders:</p>\n\n<ul>\n<li>Standard (3&ndash;5 Business Days)</li>\n<li>Three Day (3 Business Days)</li>\n<li>Two Day (2 Business Days)</li>\n<li>Overnight (1 Business Day)</li>\n<li>UPS Overnight AM</li>\n</ul>\n\n<p><strong>Economy Shipping:</strong> If choosing economy shipping, please add additional postal information such as a P.O. Box in the &ldquo;Address Two&rdquo; field on the checkout page to help ensure delivery. Economy shipping can add an additional 5&ndash;10 days depending on the destination.</p>\n\nPASTE INTO:\nShipping Guidelines Tab\n\n--------------------------------------------------\n\n==================================================\nCOMMON USES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Patriotic Display Applications for 4th of July Flags</h2>\n\n<p>Custom 4th of July flags are a versatile way to display patriotic spirit for Independence Day. Here are the most popular ways customers use their custom flags:</p>\n\n<h3>Residential Yard and Garden Flag Displays</h3>\n\n<p>Add festive Independence Day decor to your front yard, garden, or porch. Custom 4th of July garden flags fit standard garden flag holders and create a welcoming patriotic display for neighbors and guests. Choose from dozens of templates or upload your own design.</p>\n\n<h3>Community and Neighborhood Independence Day Decorations</h3>\n\n<p>Coordinate matching 4th of July flags for neighborhood entrances, community centers, parks, and parade routes. Custom flags bring consistent, vibrant branding to any community celebration or Independence Day event.</p>\n\n<h3>Business and Storefront Patriotic Flag Displays</h3>\n\n<p>Show patriotic pride at your business with custom 4th of July flags displayed at storefronts, restaurants, car dealerships, or office buildings. Eye-catching dye-sublimated flags attract attention and demonstrate community spirit during the holiday season.</p>\n\nPASTE INTO:\nCommon Uses Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Artwork Requirements for 4th of July Flag Printing</h2>\n\n<h3>Recommended File Formats for Flag Artwork</h3>\n\n<p>The best file format for 4th of July flag printing is an .eps file with fonts converted to outlines. High-resolution .pdf and .jpg files are also accepted. If you are unsure about the quality of your files, our professional graphic designers are available to assist.</p>\n\n<h3>Artwork Proofs for Custom Flag Orders</h3>\n\n<p>Requesting an order proof allows you to double-check your 4th of July flag order for accuracy before production. Your proof will include a low-resolution image of your artwork and a summary of your order, including pricing, billing, and shipping information. If you request a proof, your order will not enter production until you send approval.</p>\n\n<h3>Color Matching for Professional Flag Printing</h3>\n\n<p>For color-critical projects, the Color Match Proof System is the best way to ensure accurate color reproduction on your 4th of July flags. For more details about color matching, please contact a customer service representative.</p>\n\nPASTE INTO:\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Design & Order Your Custom 4th of July Flags Today</h2>\n\n<p>Ready to celebrate Independence Day? Design your own custom 4th of July flags using our online template designer, upload your own artwork, or let our professional graphic designers create the perfect patriotic flag for you. With dye-sublimated printing on durable polyester-nylon fabric, your flags will feature vivid, full-color designs that stand out in any yard, garden, or outdoor display.</p>\n\n<p>Choose from multiple sizes, single-reverse or double-sided printing, and a range of finishing options to match your display setup. With production times as fast as 2 business days and multiple shipping methods available, you can have your custom 4th of July flags in hand well before the celebration begins.</p>\n\n<h3>Why Choose Banners.com for Your 4th of July Flags?</h3>\n\n<ul>\n<li><strong>In-House Customer Service:</strong> Our customer service team is 100% in-house and staffed by friendly, professional graphic designers ready to help with your flag order.</li>\n<li><strong>Fast Turnaround:</strong> Choose between 2, 3, or 5 business day production times to complete your 4th of July flag order on your schedule.</li>\n<li><strong>Quality Materials:</strong> Every flag is made with premium polyester-nylon fabric and printed using the latest dye-sublimation technology for vibrant, long-lasting color.</li>\n<li><strong>Live Order Tracking:</strong> Track your 4th of July flag order every step of the way with our proprietary Live Order Tracking system.</li>\n</ul>\n\nPASTE INTO:\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Frequently Asked Questions About Custom 4th of July Flags</h2>\n\n<h3>What material are your 4th of July flags made from?</h3>\n<p>Our 4th of July flags are made from a durable polyester-nylon blend. Each flag is printed using a dye-sublimation process where the ink dyes the fabric rather than sitting on the surface, creating vibrant, long-lasting colors. Please note that this fabric is not the same material as a standard U.S. flag.</p>\n\n<h3>How long do custom 4th of July flags last outdoors?</h3>\n<p>With proper care and installation, custom 4th of July flags have an outdoor lifespan of 3 to 6 months. To extend the life of your flag, take it down and store it indoors during inclement weather.</p>\n\n<h3>Do your 4th of July flags come with a warranty?</h3>\n<p>Yes, a prorated monthly warranty is available for standard flags. For example, a standard 3x5 flag that fails 2 months after proper installation will be replaced with 33% of the replacement cost covered for a new flag.</p>\n\n<h3>Can I get a double-sided 4th of July flag?</h3>\n<p>Yes. Double-sided 4th of July flags are printed on two separate layers of fabric with a blockout liner between them. This ensures your design is seen in the correct orientation from both sides. Single/reverse flags, which show a mirror image on the back, are also available.</p>\n\n<h3>What file formats do you accept for custom flag artwork?</h3>\n<p>The recommended file format is an .eps file with fonts converted to outlines. High-resolution .pdf and .jpg files (typically 300 dpi or higher) are also accepted. If you are unsure about your file quality, our graphic design team is available to assist.</p>\n\n<h3>How quickly can I receive my 4th of July flag order?</h3>\n<p>Production times range from 2 to 5 business days depending on the option selected. Total delivery time includes both production and shipping. Shipping methods include Standard (3&ndash;5 days), Three Day, Two Day, Overnight, and UPS Overnight AM. Emergency same-day rushes may also be available &mdash; contact customer service for details.</p>\n\nPASTE INTO:\nFAQ Tab\n\n--------------------------------------------------"
+    },
+    {
+      "url": "https://banners.com/5k-banners",
+      "productPage": true,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": true,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "",
+        "metaDescription": "",
+        "canonical": "",
+        "robots": "",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 15,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 2956,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h2",
+            "text": "Custom Printed 5K Banners for Races, Fun Runs & Charity Events"
+          },
+          {
+            "tag": "h2",
+            "text": "5K Banner Material Options for Indoor & Outdoor Race Events"
+          },
+          {
+            "tag": "h3",
+            "text": "13 oz Matte Vinyl 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "13 oz Gloss Vinyl 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "18 oz Vinyl 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Mesh 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Fabric 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Adhesive 5K Banners"
+          },
+          {
+            "tag": "h2",
+            "text": "Finishing Options for Durable 5K Race Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Heat Welded Hems & Grommets"
+          },
+          {
+            "tag": "h3",
+            "text": "Pole Pockets for 5K Race Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Reinforced Corners"
+          },
+          {
+            "tag": "h3",
+            "text": "Reinforced Hems"
+          },
+          {
+            "tag": "h3",
+            "text": "Double-Sided 5K Banner Finishing"
+          },
+          {
+            "tag": "h2",
+            "text": "Artwork Requirements for 5K Banner Printing"
+          },
+          {
+            "tag": "h3",
+            "text": "5K Banner File Specifications"
+          },
+          {
+            "tag": "h3",
+            "text": "Artwork & Order Proofs for 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Color Match Proof System"
+          },
+          {
+            "tag": "h2",
+            "text": "Production & Turnaround Times for Custom 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "1 Business Day Priority"
+          },
+          {
+            "tag": "h3",
+            "text": "2 Business Days Express"
+          },
+          {
+            "tag": "h3",
+            "text": "3 Business Days Standard"
+          },
+          {
+            "tag": "h3",
+            "text": "5 Business Days Saver"
+          },
+          {
+            "tag": "h2",
+            "text": "Payment Options for 5K Banner Orders"
+          },
+          {
+            "tag": "h2",
+            "text": "Shipping Guidelines for 5K Race Banner Delivery"
+          },
+          {
+            "tag": "h3",
+            "text": "International Shipping for 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "5K Banner Shipping Maps"
+          },
+          {
+            "tag": "h3",
+            "text": "Available Shipping Methods"
+          },
+          {
+            "tag": "h3",
+            "text": "Economy Shipping"
+          },
+          {
+            "tag": "h2",
+            "text": "Popular Uses for Custom 5K Race Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Start & Finish Line Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Sponsor & Branding Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Registration & Information Signage"
+          },
+          {
+            "tag": "h3",
+            "text": "Race Course Signage"
+          },
+          {
+            "tag": "h3",
+            "text": "Charity & Community 5K Events"
+          },
+          {
+            "tag": "h3",
+            "text": "Post-Race Celebration Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Related 5K Event Products"
+          },
+          {
+            "tag": "h2",
+            "text": "Design & Order Your Custom 5K Banners Online Today"
+          },
+          {
+            "tag": "h3",
+            "text": "5K Race Banner Signage for Every Part of Your Event"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions About 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Do you offer 5K race banners with wind slits?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are your 5K race banners printed in full color?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are 5K race banners suitable for outdoor use?"
+          },
+          {
+            "tag": "h3",
+            "text": "What sizes are available for 5K banners?"
+          },
+          {
+            "tag": "h3",
+            "text": "How quickly can I get my 5K race banners?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I use a custom design for my 5K banner?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com for Your 5K Race Banners?"
+          }
+        ],
+        "paragraphCount": 64
+      },
+      "headings": [],
+      "seoRecommendations": "I notice you've provided the comprehensive optimization framework and rules, but I don't see the actual PDP content that needs to be audited and optimized. \n\nTo proceed with the optimization, I need you to provide:\n\n1. **The current PDP content** including:\n   - Current H1 and page title\n   - URL slug \n   - Existing heading structure\n   - All current tab content\n   - Current product header\n   - Current configurator\n   - Current FAQ section\n   - Any other existing content sections\n\n2. **What product this PDP is for** - so I can detect the primary product entity according to your PRIMARY PRODUCT ENTITY RULE\n\nOnce you provide the actual PDP content that needs optimization, I'll:\n\n1. Detect the primary purchasable product entity from the H1/title/URL\n2. Audit the current heading structure (BEFORE)\n3. Create the optimized heading structure (AFTER) \n4. Optimize all 12 content sections according to your rules\n5. Ensure proper transactional intent, heading hierarchy, and semantic variation\n\nPlease share the current PDP content you'd like me to optimize."
+    }
+  ]
+}

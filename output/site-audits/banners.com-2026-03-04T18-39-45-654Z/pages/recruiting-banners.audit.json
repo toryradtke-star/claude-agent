@@ -1,0 +1,157 @@
+{
+  "url": "https://www.banners.com/recruiting-banners",
+  "productPage": true,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": true,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 826,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Custom Recruitment Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Vinyl Banners for Recruiting"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Recruitment Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Design and Order Custom Recruiting Banners Online at Banners.com - Banners for Any Occasion!"
+      },
+      {
+        "tag": "h3",
+        "text": "Get started on your Vinyl Banner by selecting a design option:"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Custom Recruitment Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Custom Vinyl Banners for Recruiting"
+    },
+    {
+      "tag": "h3",
+      "text": "Products you might like"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Recruitment Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Design and Order Custom Recruiting Banners Online at Banners.com - Banners for Any Occasion!"
+    },
+    {
+      "tag": "h3",
+      "text": "Get started on your Vinyl Banner by selecting a design option:"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": "==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Custom Recruitment Banners\nH3: Custom Vinyl Banners for Recruiting (should be H2)\nH3: Products you might like (navigational UI - ignore)\nH4: Upload a Print Ready File (configurator element)\nH3: Step 1 - Choose Choose a product and the size you want (configurator element)\nH3: Step 2 - Upload Upload the image from your computer (configurator element)\nH4: Let us design your product (configurator element)\nH3: Step 1 - Choose Choose a product and the size you want (configurator element)\nH3: Step 2 - Upload Upload the image from your computer (configurator element)\nH3: Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together! (configurator element)\nH2: More About Recruitment Banners (tab content - informational heading)\nH3: Design and Order Custom Recruiting Banners Online at Banners.com - Banners for Any Occasion! (should not be in tab)\nH3: Get started on your Vinyl Banner by selecting a design option: (should not be in tab)\nH2: Why Choose Banners.com? (missing product entity)\nH4: Search (ignore)\n\nIssues:\n- Skipped heading levels (H1 to H3)\n- Missing product entity in several headings\n- Informational tab heading \"More About Recruitment Banners\"\n- Missing material, durability, customization language\n- No clear post-tab CTA section\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Recruitment Banners for Sports Teams & Athletic Programs\nH2: Professional Vinyl Recruiting Banners - Custom Designed & Outdoor Durable\n[Tab Structure]\nH2: Custom Recruiting Banner Design & Team Branding Options\nH2: Vinyl Material Options for Outdoor Recruiting Banner Displays\nH2: Finishing Options for Recruiting Banner Installation\nH2: Artwork Requirements for Custom Recruiting Banner Design\nH2: Production Times for Custom Recruiting Banner Orders\nH2: Payment Options for Team Recruiting Banner Orders\nH2: Shipping Guidelines for Large Format Recruiting Banners\nH2: Sports Team & Athletic Program Uses for Recruiting Banners\n[Post-Tab Content]\nH2: Order Custom Recruiting Banners for Your Athletic Program Today\n[FAQ]\nH2: Frequently Asked Questions About Custom Recruiting Banners\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n# Custom Recruitment Banners for Sports Teams & Athletic Programs\n\n## Professional Vinyl Recruiting Banners - Custom Designed & Outdoor Durable\n\nPASTE INTO:\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\n**Upload Your Print-Ready Design**\nSelect your banner size and upload your completed artwork file\n\n**Professional Design Service Available**\nChoose your banner specifications and let our design team create your custom recruiting banner\n\n**Step 1:** Select your recruiting banner size and material options\n**Step 2:** Upload your team logos, photos, and design elements  \n**Step 3:** Provide design instructions including team colors, player information, and messaging requirements\n\nPASTE INTO:\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Recruiting Banner Design & Team Branding Options</h2>\n\n<p>Make the most of your recruiting events with eye-catching vinyl recruiting banners designed specifically for sports teams and athletic programs. From college recruiting fairs and high school sports displays to team showcases and athletic banquets, we help you improve visibility and make an unforgettable first impression with professionally designed custom recruiting banners.</p>\n\n<p>Here at Banners.com, our goal is to deliver a recruiting banner that you're proud to display at any athletic event. That's why we take great care in our craft and work closely with coaches and athletic departments to bring your team vision to reality through strict quality checks and collaboration.</p>\n\n<p><a href=\"https://www.banners.com/resources/working-with-graphic-designers\">Our team includes seasoned graphic designers</a> and production experts who have been with us for many years. They're deeply familiar with sports branding and recruiting banner requirements, dedicated to ensuring you receive a tailor-made vinyl banner that represents your program professionally.</p>\n\n<p>We offer extensive customization for recruiting banners including sizes ranging from 1'x1' to 8'x50', unlimited design options in our <a href=\"https://www.banners.com/resources/how-to-use-online-designer\">online designer</a>, and flexible production times to ensure your banner arrives when you need it for recruiting season.</p>\n\n<p><strong>Professional Vinyl Construction</strong><br>\nYour recruiting banner is manufactured with premium 13oz vinyl material and <a href=\"https://www.banners.com/banner-printing\">printed using state-of-the-art, large-format printers</a> for vibrant team colors that showcase your program professionally. All banners are manufactured and printed in the USA.</p>\n\n<p><em>Due to shipping regulations, vinyl banners exceeding 8 feet in both directions will be folded for shipping. <a href=\"https://www.banners.com/quotes\">Contact us</a> for custom freight quotes to avoid folding.</em></p>\n\nPASTE INTO:\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nMATERIAL OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Vinyl Material Options for Outdoor Recruiting Banner Displays</h2>\n\n<p><strong>Premium 13oz Vinyl Material</strong><br>\nOur recruiting banners are constructed using professional-grade 13oz vinyl material, specifically engineered for outdoor sporting events and recruiting displays. This heavyweight vinyl provides excellent durability for gymnasium installations, outdoor field displays, and recruiting fair setups.</p>\n\n<p><strong>Weather-Resistant Performance</strong><br>\nThe vinyl material offers superior resistance to UV rays, rain, and wind conditions commonly encountered at outdoor sporting events and recruiting showcases. Your team colors and graphics will maintain their vibrant appearance throughout the recruiting season.</p>\n\n<p><strong>Six Customizable Banner Material Options</strong><br>\nChoose from multiple vinyl specifications to match your specific recruiting banner application, whether for indoor gymnasium displays, outdoor field installations, or portable recruiting fair setups.</p>\n\n<p><strong>Temperature Considerations</strong><br>\nVinyl is a temperature-sensitive material, and some fluctuation can occur due to heat application in printing and finishing processes. Our acceptable size variance is up to 1/2 inch per linear foot. For precise sizing requirements, please contact our team for specialized production options.</p>\n\nPASTE INTO:\nMaterial Options Tab\n\n--------------------------------------------------\n\n==================================================\nFINISHING OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Finishing Options for Recruiting Banner Installation</h2>\n\n<p><strong>Reinforced Hem Construction</strong><br>\nAll recruiting banners include professionally sewn hems on all four sides, providing additional durability for gymnasium installations and outdoor sporting event displays.</p>\n\n<p><strong>Grommets for Secure Installation</strong><br>\nStandard grommet placement every 18-24 inches ensures secure mounting for recruiting fair displays, fence installations at athletic facilities, and gymnasium wall mounting applications.</p>\n\n<p><strong>Pole Pocket Options Available</strong><br>\nPole pocket finishing allows for clean installation on banner stands commonly used at recruiting events, college fairs, and indoor athletic showcases.</p>\n\n<p><strong>Wind Slits for Outdoor Use</strong><br>\nOptional wind slit finishing reduces wind stress on banners displayed at outdoor sporting events and athletic field installations, extending banner lifespan during recruiting season.</p>\n\n<p><strong>Custom Finishing Available</strong><br>\nSpecial finishing requirements for unique recruiting banner installations can be accommodated. Contact our production team to discuss specific mounting and installation needs for your athletic program.</p>\n\nPASTE INTO:\nFinishing Options Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Production Times for Custom Recruiting Banner Orders</h2>\n\n<p><strong>Standard Production Timeline</strong><br>\nMost custom recruiting banners are produced within 1-3 business days after artwork approval, ensuring timely delivery for your recruiting events and athletic program deadlines.</p>\n\n<p><strong>Rush Production Available</strong><br>\nExpedited production options are available for urgent recruiting banner needs, including same-day and next-day production for time-sensitive athletic events and recruiting deadlines.</p>\n\n<p><strong>Design Review Process</strong><br>\nOur graphic design team reviews all recruiting banner artwork to ensure optimal print quality and professional appearance. Any necessary adjustments are communicated promptly to maintain your production timeline.</p>\n\n<p><strong>Quality Control Standards</strong><br>\nEach recruiting banner undergoes thorough quality inspection before shipping, including color accuracy verification and construction quality checks to ensure your banner meets professional athletic program standards.</p>\n\n<p><strong>Seasonal Considerations</strong><br>\nDuring peak recruiting seasons, we recommend placing orders with additional lead time to accommodate increased demand from athletic programs and educational institutions.</p>\n\nPASTE INTO:\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nPAYMENT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Payment Options for Team Recruiting Banner Orders</h2>\n\n<p><strong>Flexible Payment Methods</strong><br>\nWe accept major credit cards, PayPal, and electronic payments to accommodate athletic department purchasing procedures and team booster club payment preferences.</p>\n\n<p><strong>Educational Institution Billing</strong><br>\nNet payment terms are available for qualified educational institutions and athletic departments. Contact our customer service team to establish institutional billing accounts.</p>\n\n<p><strong>Purchase Order Processing</strong><br>\nWe process purchase orders from schools, athletic departments, and educational institutions following standard institutional procurement procedures.</p>\n\n<p><strong>Team Fundraising Support</strong><br>\nSpecial payment arrangements can be made for team fundraising projects and booster club recruiting banner initiatives. Contact our customer service team to discuss fundraising payment options.</p>\n\n<p><strong>Secure Online Processing</strong><br>\nAll online payments are processed through secure, encrypted systems to protect athletic department and team payment information.</p>\n\nPASTE INTO:\nPayment Options Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING GUIDELINES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Shipping Guidelines for Large Format Recruiting Banners</h2>\n\n<p><strong>Standard Shipping Options</strong><br>\nRecruiting banners are typically shipped via UPS or FedEx ground service, with expedited shipping available for urgent athletic program deadlines and recruiting event requirements.</p>\n\n<p><strong>Large Banner Shipping Specifications</strong><br>\nBanners exceeding 8 feet in both dimensions will be carefully folded for standard shipping. Custom freight shipping is available to avoid folding for premium recruiting banner presentations.</p>\n\n<p><strong>Educational Institution Delivery</strong><br>\nWe accommodate delivery to athletic departments, gymnasiums, and other campus facilities as specified in shipping instructions for educational institution orders.</p>\n\n<p><strong>Event Site Delivery</strong><br>\nDirect shipping to recruiting event locations, athletic facilities, and tournament venues is available when shipping addresses are provided during order placement.</p>\n\n<p><strong>Tracking and Delivery Confirmation</strong><br>\nAll recruiting banner shipments include tracking information and delivery confirmation to ensure timely arrival for your athletic program needs.</p>\n\nPASTE INTO:\nShipping Guidelines Tab\n\n--------------------------------------------------\n\n==================================================\nCOMMON USES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Sports Team & Athletic Program Uses for Recruiting Banners</h2>\n\n<p><strong>College Recruiting Events</strong><br>\nDisplay recruiting banners at college fairs, recruiting showcases, and athletic department open houses to attract prospective student-athletes and highlight your program's achievements.</p>\n\n<p><strong>High School Athletic Programs</strong><br>\nPromote your high school teams at sporting events, homecoming celebrations, and athletic banquets while showcasing team accomplishments and recruiting talented athletes to your program.</p>\n\n<p><strong>Gymnasium and Facility Displays</strong><br>\nInstall recruiting banners in gymnasiums, athletic facilities, and training centers to create an impressive environment that demonstrates program pride and athletic excellence.</p>\n\n<p><strong>Tournament and Competition Use</strong><br>\nRepresent your team professionally at tournaments, competitions, and athletic events with portable recruiting banners that showcase team branding and accomplishments.</p>\n\n<p><strong>Recruiting Fair Presentations</strong><br>\nStand out at recruiting fairs and athletic showcases with eye-catching banners that highlight your program's unique offerings, coaching staff, and athletic achievements.</p>\n\n<p><strong>Alumni and Booster Events</strong><br>\nUse recruiting banners at alumni gatherings, booster club meetings, and fundraising events to promote ongoing athletic program success and attract community support.</p>\n\nPASTE INTO:\nCommon Uses Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Artwork Requirements for Custom Recruiting Banner Design</h2>\n\n<p><strong>File Format Requirements</strong><br>\nSubmit recruiting banner artwork in high-resolution PDF, AI, or PSD formats at actual size or proportional scale. Vector-based team logos and graphics ensure optimal print quality for professional athletic displays.</p>\n\n<p><strong>Resolution Specifications</strong><br>\nProvide artwork at minimum 150 DPI at actual size for crisp text and graphics. Team photos and player images should be high-resolution to ensure professional appearance on large format recruiting banners.</p>\n\n<p><strong>Color Profile Standards</strong><br>\nUse CMYK color profiles for accurate team color reproduction. Provide Pantone color specifications for exact team color matching when brand consistency is critical for athletic program representation.</p>\n\n<p><strong>Typography Guidelines</strong><br>\nEnsure all fonts are outlined or embedded in artwork files. Use readable font sizes appropriate for viewing distances at recruiting events and athletic facility installations.</p>\n\n<p><strong>Design Review Service</strong><br>\nOur graphic design team reviews all recruiting banner artwork for print optimization and professional appearance. We'll contact you regarding any necessary adjustments to ensure optimal results.</p>\n\n<p><strong>Professional Design Service Available</strong><br>\nComplete design services are available for recruiting banners. Provide team logos, photos, text content, and color preferences, and our designers will create professional recruiting banner artwork for your athletic program.</p>\n\nPASTE INTO:\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Order Custom Recruiting Banners for Your Athletic Program Today</h2>\n\n<p>Ready to elevate your team's recruiting presence with professional vinyl banners? Our custom recruiting banners are designed specifically for athletic programs, featuring durable outdoor vinyl construction and professional printing that showcases your team with pride.</p>\n\n<p><strong>Why Choose Banners.com for Your Recruiting Banner Needs?</strong></p>\n<ul>\n<li><strong>Athletic Program Specialists:</strong> Years of experience creating recruiting materials for sports teams and educational institutions</li>\n<li><strong>Professional Quality Materials:</strong> Premium 13oz vinyl construction built for gymnasium and outdoor athletic facility use</li>\n<li><strong>Fast Turnaround Times:</strong> Rush production available to meet recruiting deadlines and athletic event schedules</li>\n<li><strong>Design Support:</strong> Professional graphic designers familiar with sports branding and recruiting requirements</li>\n<li><strong>Educational Institution Friendly:</strong> Purchase order processing and net payment terms available</li>\n</ul>\n\n<p><strong>Get Started Today</strong><br>\nSelect your banner size, upload your team artwork, or work with our design team to create the perfect recruiting banner for your athletic program. If you have questions about materials, sizing, or design options, our customer support team is ready to help.</p>\n\n<p><strong>Need a Custom Quote?</strong><br>\n<a href=\"https://www.banners.com/quotes\">Contact us for custom pricing</a> on large quantity orders, unique sizes, or special finishing requirements for your recruiting banner project.</p>\n\n<p><strong>Questions? We're Here to Help!</strong><br>\nCall us at <a href=\"tel:13203915300\">(320) 391-5300</a> to speak with a customer service representative who understands athletic program needs and recruiting banner requirements.</p>\n\nPASTE INTO:\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Frequently Asked Questions About Custom Recruiting Banners</h2>\n\n<h3>What material is best for outdoor recruiting banner displays?</h3>\n<p>Our 13oz vinyl material is ideal for outdoor recruiting events and athletic facility installations. It provides excellent durability against weather conditions while maintaining vibrant team colors throughout the recruiting season.</p>\n\n<h3>Can you match our exact team colors on recruiting banners?</h3>\n<p>Yes, we can match specific team colors using Pantone color specifications. Provide your team's official color codes during the design process for accurate brand representation on your recruiting banners.</p>\n\n<h3>What's the largest size available for recruiting banners?</h3>\n<p>We can produce recruiting banners up to 8'x50' for large gymnasium installations and outdoor athletic facility displays. Custom sizes are available for specific recruiting venue requirements.</p>\n\n<h3>How quickly can you produce recruiting banners for urgent events?</h3>\n<p>Standard production is 1-3 business days, with rush options available including same-day and next-day production for urgent recruiting deadlines and athletic events.</p>\n\n<h3>Do you offer design services for recruiting banners?</h3>\n<p>Yes, our graphic designers specialize in athletic program branding and can create professional recruiting banner designs using your team logos, photos, and messaging requirements.</p>\n\n<h3>What finishing options work best for gymnasium installations?</h3>\n<p>Grommets are standard for most gymnasium installations, while pole pockets work well for banner stand displays at recruiting fairs. We can recommend the best finishing based on your installation requirements.</p>\n\n<h3>Can you ship recruiting banners directly to athletic events?</h3>\n<p>Yes, we can ship directly to recruiting venues, athletic facilities, or tournament locations when shipping addresses are provided during order placement.</p>\n\n<h3>Do you offer educational institution billing terms?</h3>\n<p>Yes, we provide net payment terms and purchase order processing for qualified educational institutions and athletic departments. Contact us to establish institutional billing.</p>\n\nPASTE INTO:\nFAQ Tab\n\n--------------------------------------------------"
+}

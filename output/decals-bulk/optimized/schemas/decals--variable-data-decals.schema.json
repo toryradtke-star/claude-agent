@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:53:52.319Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Variable Data Decals",
+    "description": "Personalize each decal with unique details using our Variable Data Decals! Perfect for ID tags, asset tracking, and custom branding. Durable, weather-resistant, and tailored to your needs. Print unique info on each decal with ease!",
+    "url": "https://www.decals.com/decals/variable-data-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

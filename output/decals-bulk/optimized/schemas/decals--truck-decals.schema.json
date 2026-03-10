@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:53:52.873Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Truck Decals Truck",
+    "description": "Rev up your advertising with custom truck decals for your business. Take your marketing on the road with a cost-effective way to reach customers everywhere you go.",
+    "url": "https://www.decals.com/decals/truck-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

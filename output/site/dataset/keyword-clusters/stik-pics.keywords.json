@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "stikpics photo tiles",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "stikpics photo tiles installation printing",
+        "stikpics photo tiles installation custom sizes",
+        "stikpics photo tiles installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "stikpics photo tiles durability printing",
+        "stikpics photo tiles durability custom sizes",
+        "stikpics photo tiles durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "stikpics photo tiles pricing printing",
+        "stikpics photo tiles pricing custom sizes",
+        "stikpics photo tiles pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "stikpics photo tiles printing",
+        "stikpics photo tiles custom sizes",
+        "stikpics photo tiles design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "stikpics photo tiles shipping printing",
+        "stikpics photo tiles shipping custom sizes",
+        "stikpics photo tiles shipping design upload"
+      ]
+    }
+  ]
+}

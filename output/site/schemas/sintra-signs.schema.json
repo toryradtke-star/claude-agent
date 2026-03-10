@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Sintra Signs Plastic",
+  "description": "Order Custom 3 mm or 6 mm Sintra Signs Online! Long Term Indoor & Outdoor Advertising! Sintra Signs are great for opening new doors and gaining more foot traffic for your business.",
+  "url": "https://www.banners.com/sintra-signs",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "updatedAt": "2026-03-05T22:05:58.232Z",
+  "pages": {
+    "https://www.decals.com/3m-control-tac": {
+      "status": "done",
+      "runAt": "2026-03-05T21:59:38.974Z",
+      "skipped": false,
+      "outputPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\optimized\\3m-control-tac.optimized.html",
+      "evalPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\3m-control-tac.eval.json",
+      "scorePath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\3m-control-tac.score.json",
+      "optimizationAttemptCount": 2,
+      "retryReason": "missing_sections",
+      "retryMetadata": {
+        "attemptCount": 1,
+        "retryReason": null,
+        "timestamp": "2026-03-05T22:02:47.731Z"
+      },
+      "lastContentHash": "1f81bb636401cf2a22103440766011874d7047d3ccdad10ad6f16a58304d8586",
+      "lastRunAt": "2026-03-05T22:02:51.155Z"
+    },
+    "https://www.decals.com/adhesive-wallpaper": {
+      "status": "done",
+      "runAt": "2026-03-05T21:59:38.984Z",
+      "skipped": false,
+      "outputPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\optimized\\adhesive-wallpaper.optimized.html",
+      "evalPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\adhesive-wallpaper.eval.json",
+      "scorePath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\adhesive-wallpaper.score.json",
+      "optimizationAttemptCount": 2,
+      "retryReason": "missing_sections",
+      "retryMetadata": {
+        "attemptCount": 1,
+        "retryReason": null,
+        "timestamp": "2026-03-05T22:02:34.686Z"
+      },
+      "lastContentHash": "ff38461ebb37b02e806f93dcdb9164094d4207d5b8609a8dd2c90d49aa722a96",
+      "lastRunAt": "2026-03-05T22:02:37.551Z"
+    },
+    "https://www.decals.com/calendered-vinyl": {
+      "status": "done",
+      "runAt": "2026-03-05T21:59:38.995Z",
+      "skipped": false,
+      "outputPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\optimized\\calendered-vinyl.optimized.html",
+      "evalPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\calendered-vinyl.eval.json",
+      "scorePath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\calendered-vinyl.score.json",
+      "optimizationAttemptCount": 2,
+      "retryReason": "missing_sections",
+      "retryMetadata": {
+        "attemptCount": 1,
+        "retryReason": null,
+        "timestamp": "2026-03-05T22:02:50.388Z"
+      },
+      "lastContentHash": "4435a0aa1aea42cc553a830dbe2175478345cefbc025f901714cce2cd1b365fb",
+      "lastRunAt": "2026-03-05T22:02:53.953Z"
+    },
+    "https://www.decals.com/cast-vinyl": {
+      "status": "done",
+      "runAt": "2026-03-05T21:59:39.005Z",
+      "skipped": false,
+      "outputPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\optimized\\cast-vinyl.optimized.html",
+      "evalPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\cast-vinyl.eval.json",
+      "scorePath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\cast-vinyl.score.json",
+      "optimizationAttemptCount": 2,
+      "retryReason": "missing_sections",
+      "retryMetadata": {
+        "attemptCount": 1,
+        "retryReason": null,
+        "timestamp": "2026-03-05T22:02:40.250Z"
+      },
+      "lastContentHash": "fb07053a7e087ed8127f08b38d3d9ac115e11f1ca8acfb60aacd5d40de2b63a5",
+      "lastRunAt": "2026-03-05T22:02:44.217Z"
+    },
+    "https://www.decals.com/circle-labels": {
+      "status": "done",
+      "runAt": "2026-03-05T21:59:39.016Z",
+      "skipped": false,
+      "outputPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\optimized\\circle-labels.optimized.html",
+      "evalPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\circle-labels.eval.json",
+      "scorePath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\circle-labels.score.json",
+      "optimizationAttemptCount": 2,
+      "retryReason": "missing_sections",
+      "retryMetadata": {
+        "attemptCount": 1,
+        "retryReason": null,
+        "timestamp": "2026-03-05T22:02:51.543Z"
+      },
+      "lastContentHash": "4e935fdc7912311b6c56b3db29b7cd0aa240fb457cb1e251b6023ec3ef562f10",
+      "lastRunAt": "2026-03-05T22:02:54.985Z"
+    },
+    "https://www.decals.com/clear-labels": {
+      "status": "done",
+      "runAt": "2026-03-05T21:59:39.029Z",
+      "skipped": false,
+      "outputPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\optimized\\clear-labels.optimized.html",
+      "evalPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\clear-labels.eval.json",
+      "scorePath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\clear-labels.score.json",
+      "optimizationAttemptCount": 2,
+      "retryReason": "missing_sections",
+      "retryMetadata": {
+        "attemptCount": 1,
+        "retryReason": null,
+        "timestamp": "2026-03-05T22:02:40.333Z"
+      },
+      "lastContentHash": "dce18b22e3a726857436682dc960bf188cb2464e2bcfbb835996f09c32214320",
+      "lastRunAt": "2026-03-05T22:02:44.126Z"
+    },
+    "https://www.decals.com/clear-stickers": {
+      "status": "done",
+      "runAt": "2026-03-05T21:59:39.042Z",
+      "skipped": false,
+      "outputPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\optimized\\clear-stickers.optimized.html",
+      "evalPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\clear-stickers.eval.json",
+      "scorePath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\clear-stickers.score.json",
+      "optimizationAttemptCount": 2,
+      "retryReason": "missing_sections",
+      "retryMetadata": {
+        "attemptCount": 1,
+        "retryReason": null,
+        "timestamp": "2026-03-05T22:02:43.006Z"
+      },
+      "lastContentHash": "b206871e3c99d2e9687d8b4e3af9d86dd818ba9dfb7c23889fa1832ee4ef1451",
+      "lastRunAt": "2026-03-05T22:02:45.478Z"
+    },
+    "https://www.decals.com/custom-car-magnet": {
+      "status": "done",
+      "runAt": "2026-03-05T21:59:39.065Z",
+      "skipped": false,
+      "outputPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\optimized\\custom-car-magnet.optimized.html",
+      "evalPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\custom-car-magnet.eval.json",
+      "scorePath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\custom-car-magnet.score.json",
+      "optimizationAttemptCount": 2,
+      "retryReason": "missing_sections",
+      "retryMetadata": {
+        "attemptCount": 1,
+        "retryReason": null,
+        "timestamp": "2026-03-05T22:02:29.794Z"
+      },
+      "lastContentHash": "99f3eaeeaab23987d14616d0cc2a931f9ed05bd0ea16fc57066d951299ebd4d2",
+      "lastRunAt": "2026-03-05T22:02:34.013Z"
+    },
+    "https://www.decals.com/custom-fridge-magnet": {
+      "status": "done",
+      "runAt": "2026-03-05T22:02:34.015Z",
+      "skipped": false,
+      "outputPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\optimized\\custom-fridge-magnet.optimized.html",
+      "evalPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\custom-fridge-magnet.eval.json",
+      "scorePath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\custom-fridge-magnet.score.json",
+      "optimizationAttemptCount": 2,
+      "retryReason": "missing_sections",
+      "retryMetadata": {
+        "attemptCount": 1,
+        "retryReason": null,
+        "timestamp": "2026-03-05T22:05:32.967Z"
+      },
+      "lastContentHash": "d9ca153a058494221c0386499e210c68fcd34e128152830b90d6cf6eb52ff445",
+      "lastRunAt": "2026-03-05T22:05:36.713Z"
+    },
+    "https://www.decals.com/custom-holographic-vinyl-material": {
+      "status": "done",
+      "runAt": "2026-03-05T22:02:37.553Z",
+      "skipped": false,
+      "outputPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\optimized\\custom-holographic-vinyl-material.optimized.html",
+      "evalPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\custom-holographic-vinyl-material.eval.json",
+      "scorePath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\evals\\custom-holographic-vinyl-material.score.json",
+      "optimizationAttemptCount": 2,
+      "retryReason": "missing_sections",
+      "retryMetadata": {
+        "attemptCount": 1,
+        "retryReason": null,
+        "timestamp": "2026-03-05T22:05:53.316Z"
+      },
+      "lastContentHash": "dcc134dfebbf87f3e7666a9f1e602cccca29228464d725f354cf95b155ae1aa9",
+      "lastRunAt": "2026-03-05T22:05:58.232Z"
+    }
+  }
+}

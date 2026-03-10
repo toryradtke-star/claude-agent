@@ -1,0 +1,101 @@
+{
+  "url": "https://www.banners.com/race-banners-and-signs",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": true,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 1355,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h4",
+        "text": "Products"
+      },
+      {
+        "tag": "h1",
+        "text": "Fun Run and Race Banners & Signs - Easy Online Ordering!"
+      },
+      {
+        "tag": "h3",
+        "text": "[Running Event Banners - 13 oz Vinyl Banners](https://www.banners.com/5k-banners)"
+      },
+      {
+        "tag": "h3",
+        "text": "[Race Event Yard Signs](https://www.banners.com/running-race-yard-signs)"
+      },
+      {
+        "tag": "h3",
+        "text": "[Custom Fabric Flags](https://www.banners.com/custom-flags)"
+      },
+      {
+        "tag": "h3",
+        "text": "Benefits of Ordering Banners and Signs Online from Banners.com"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h4",
+      "text": "Products"
+    },
+    {
+      "tag": "h1",
+      "text": "Fun Run and Race Banners & Signs - Easy Online Ordering!"
+    },
+    {
+      "tag": "h3",
+      "text": "[Running Event Banners - 13 oz Vinyl Banners](https://www.banners.com/5k-banners)"
+    },
+    {
+      "tag": "h3",
+      "text": "[Race Event Yard Signs](https://www.banners.com/running-race-yard-signs)"
+    },
+    {
+      "tag": "h3",
+      "text": "[Custom Fabric Flags](https://www.banners.com/custom-flags)"
+    },
+    {
+      "tag": "h3",
+      "text": "Benefits of Ordering Banners and Signs Online from Banners.com"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

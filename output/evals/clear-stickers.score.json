@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "contentScorer",
+  "runId": "single-1772740935157",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-05T20:03:36.534Z",
+  "data": {
+    "score": 100,
+    "missingEntities": [],
+    "missingHeadings": [],
+    "improvementSuggestions": []
+  }
+}

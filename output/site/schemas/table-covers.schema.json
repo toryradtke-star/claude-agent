@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Fabric Table Covers",
+  "description": "Table Covers - Full Color Table Runners, Full Color Table Throws & Fitted Table Covers | Direct Dye Sublimation Printing. Order your table cover online today!",
+  "url": "https://www.banners.com/table-covers",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

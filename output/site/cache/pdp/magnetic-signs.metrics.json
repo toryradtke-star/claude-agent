@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/magnetic-signs",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4762,
+    "output_tokens": 3167
+  },
+  "durationMs": 67060
+}

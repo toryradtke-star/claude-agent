@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "clear stickers clear",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "clear stickers clear installation printing",
+        "clear stickers clear installation custom sizes",
+        "clear stickers clear installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "clear stickers clear durability printing",
+        "clear stickers clear durability custom sizes",
+        "clear stickers clear durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "clear stickers clear pricing printing",
+        "clear stickers clear pricing custom sizes",
+        "clear stickers clear pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "clear stickers clear printing",
+        "clear stickers clear custom sizes",
+        "clear stickers clear design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "clear stickers clear shipping printing",
+        "clear stickers clear shipping custom sizes",
+        "clear stickers clear shipping design upload"
+      ]
+    }
+  ]
+}

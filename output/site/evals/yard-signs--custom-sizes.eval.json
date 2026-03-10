@@ -1,0 +1,20 @@
+{
+  "score": 82,
+  "failedChecks": [
+    {
+      "check": "cta_section_rules",
+      "details": [
+        "FINISHING OPTIONS TAB",
+        "PRODUCTION TIMES TAB",
+        "SHIPPING GUIDELINES TAB",
+        "ARTWORK TAB"
+      ]
+    },
+    {
+      "check": "generic_headings",
+      "details": "Contains generic headings"
+    }
+  ],
+  "retry": true,
+  "threshold": 85
+}

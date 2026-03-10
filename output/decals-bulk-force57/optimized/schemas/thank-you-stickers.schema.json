@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:33:59.399Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Thank You Stickers",
+    "description": "Buy custom thank you stickers online today. Make gratitude stick by designing custom stickers with our online design tool. Upload artwork or begin from scratch.",
+    "url": "https://www.decals.com/thank-you-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

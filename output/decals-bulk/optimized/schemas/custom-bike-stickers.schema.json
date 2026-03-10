@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:06:32.207Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Bike Stickers Bike",
+    "description": "Show the world your personality with bike stickers! Simply upload your artwork or work with our in-house graphic designers to create the perfect bike stickers for you.",
+    "url": "https://www.decals.com/custom-bike-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

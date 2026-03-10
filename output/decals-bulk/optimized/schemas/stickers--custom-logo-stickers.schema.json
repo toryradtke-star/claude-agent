@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:57:19.327Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Logo Stickers Logo",
+    "description": "Design logo stickers for your business at Decals.com. Customize your logo sticker using our online design tool or upload print ready artwork. Order today!",
+    "url": "https://www.decals.com/stickers/custom-logo-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

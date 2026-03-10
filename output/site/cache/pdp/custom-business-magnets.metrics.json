@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/custom-business-magnets",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4727,
+    "output_tokens": 3614
+  },
+  "durationMs": 67956
+}

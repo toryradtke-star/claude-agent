@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/postcards",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4517,
+    "output_tokens": 3708
+  },
+  "durationMs": 64853
+}

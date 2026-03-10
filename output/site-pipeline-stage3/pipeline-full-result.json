@@ -1,0 +1,36 @@
+{
+  "mode": "full",
+  "baseUrl": "https://banners.com",
+  "generatedAt": "2026-03-05T17:52:52.550Z",
+  "discovery": {
+    "totalUrlsDiscovered": 1,
+    "discoveryMethod": "explicit-list",
+    "preloadedFromScraper": 1,
+    "preloadErrors": 0
+  },
+  "audit": {
+    "pagesAudited": 0,
+    "pagesSkipped": 1,
+    "reusedPreScraped": 0,
+    "reusedMemoryCache": 0,
+    "errors": 0,
+    "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site-pipeline-stage3\\audit\\audit-report.json"
+  },
+  "optimize": {
+    "pagesOptimized": 0,
+    "pagesSkipped": 1,
+    "reusedPreScraped": 0,
+    "reusedMemoryCache": 0,
+    "errors": 0,
+    "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site-pipeline-stage3\\optimized\\optimized-report.json"
+  },
+  "contentGaps": {
+    "pagesAnalyzed": 1,
+    "reusedPreScraped": 0,
+    "reusedMemoryCache": 0,
+    "outputDir": "C:\\Users\\Tory\\claude-agent\\output\\site-pipeline-stage3\\content-gaps",
+    "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site-pipeline-stage3\\content-gaps\\gap-report.json",
+    "errors": 0
+  },
+  "outputDir": "C:\\Users\\Tory\\claude-agent\\output\\site-pipeline-stage3"
+}

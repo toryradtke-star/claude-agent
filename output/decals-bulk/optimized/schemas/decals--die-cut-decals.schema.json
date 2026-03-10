@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:47:38.361Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Die-Cut Decals Die",
+    "description": "Order custom die-cut decals with edges shaped precise to your design. Die-cut decals fit laptops, windows, packaging, and more for personal or business use.",
+    "url": "https://www.decals.com/decals/die-cut-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

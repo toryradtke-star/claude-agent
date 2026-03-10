@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/custom-bumper-magnets",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4716,
+    "output_tokens": 3540
+  },
+  "durationMs": 67305
+}

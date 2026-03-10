@@ -1,0 +1,85 @@
+{
+  "url": "https://banners.com/custom-t-shirts",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "Custom T-Shirts | Personalized Apparel | Banners.com",
+    "metaDescription": "Order custom apparel at Banners.com. Custom T-shirts, polos, fleece, sweatshirts and more. High quality materials tailored for you.",
+    "canonical": "https://www.banners.com/custom-t-shirts",
+    "robots": "index, follow",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 577,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h4",
+        "text": "Products"
+      },
+      {
+        "tag": "h1",
+        "text": "Custom T-shirts - Shirtspot.com"
+      },
+      {
+        "tag": "h3",
+        "text": "High-Quality Clothing"
+      },
+      {
+        "tag": "h2",
+        "text": "Banners.com is Now Partnering With Shirtspot.com - Save 15% on Your Next Order!"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h4",
+      "text": "Products"
+    },
+    {
+      "tag": "h1",
+      "text": "Custom T-shirts - Shirtspot.com"
+    },
+    {
+      "tag": "h3",
+      "text": "High-Quality Clothing"
+    },
+    {
+      "tag": "h2",
+      "text": "Banners.com is Now Partnering With Shirtspot.com - Save 15% on Your Next Order!"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

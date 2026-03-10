@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Simpo Sign -",
+  "description": "Order A-frame sidewalk signs from Banners.com! Our Simpo Sign A-frame kit includes sign hardware and two 22” x 27” compatible signs.",
+  "url": "https://www.banners.com/banner-stands/simpo-sign",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

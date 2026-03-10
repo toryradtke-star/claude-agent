@@ -1,0 +1,77 @@
+{
+  "url": "https://banners.com/window-perf",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "Window Perf - One Way Perforated Window Vinyl | Banners.com",
+    "metaDescription": "Turn your windows and glass into premium advertising space! | Spray laminated to protect against UV Fading and Light Scratches | service@banners.com 1-866-419-SIGN",
+    "canonical": "https://www.banners.com/window-perf",
+    "robots": "index, follow",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 534,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Window Perf"
+      },
+      {
+        "tag": "h3",
+        "text": "Perforated Window Film"
+      },
+      {
+        "tag": "h3",
+        "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Window Perf"
+    },
+    {
+      "tag": "h3",
+      "text": "Perforated Window Film"
+    },
+    {
+      "tag": "h3",
+      "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:00:16.517Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Halloween Stickers Halloween",
+    "description": "Tired of the same old Halloween stickers? At decals.com you can create completely custom Halloween stickers to your liking. Add your own text and imagery to make it super spooky. These stickers are digitally printed in full color so you can add as many color and images as you would like.",
+    "url": "https://www.decals.com/stickers/halloween-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

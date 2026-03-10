@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:56:36.473Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Reflective Stickers Reflective",
+    "description": "Design custom reflective stickers at Decals.com for poor visibility, low light conditions and general safety labeling.",
+    "url": "https://www.decals.com/stickers/reflective-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

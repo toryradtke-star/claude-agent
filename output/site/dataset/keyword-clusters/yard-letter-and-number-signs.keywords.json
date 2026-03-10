@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "yard letter and",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "yard letter and installation printing",
+        "yard letter and installation custom sizes",
+        "yard letter and installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "yard letter and durability printing",
+        "yard letter and durability custom sizes",
+        "yard letter and durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "yard letter and pricing printing",
+        "yard letter and pricing custom sizes",
+        "yard letter and pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "yard letter and printing",
+        "yard letter and custom sizes",
+        "yard letter and design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "yard letter and shipping printing",
+        "yard letter and shipping custom sizes",
+        "yard letter and shipping design upload"
+      ]
+    }
+  ]
+}

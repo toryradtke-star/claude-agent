@@ -1,0 +1,261 @@
+{
+  "url": "https://www.banners.com/banner-stands/x-stands/value-x-display",
+  "productPage": true,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": true,
+    "pricing": true,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 853,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Value X Banner Stand with 75\" x 40\" Banner"
+      },
+      {
+        "tag": "h2",
+        "text": "Pick a Template"
+      },
+      {
+        "tag": "h4",
+        "text": "[Material](#materialCollapse)"
+      },
+      {
+        "tag": "h3",
+        "text": "Value X Banner Stand with 75\" X 40\" Banner Material"
+      },
+      {
+        "tag": "h4",
+        "text": "13 oz Vinyl"
+      },
+      {
+        "tag": "h4",
+        "text": "Banner Soft Fabric"
+      },
+      {
+        "tag": "h4",
+        "text": "[Artwork](#artworkCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "[Artwork Guidelines](#artwork-guidelinesCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "[Artwork/Order Proofs](#artworkorder-proofsCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "[Color Match Proof System](#color-match-proof-systemCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "[Production Times](#production-timesCollapse)"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h4",
+        "text": "**2 Business Days Express:**"
+      },
+      {
+        "tag": "h4",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h4",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h4",
+        "text": "[Payment](#paymentCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "[Shipping](#shippingCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "[General Shipping Guidelines](#general-shipping-guidelinesCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "[Shipping Methods](#shipping-methodsCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Value X Banner Stand with 75\" x 40\" Banner"
+    },
+    {
+      "tag": "h2",
+      "text": "Pick a Template"
+    },
+    {
+      "tag": "h4",
+      "text": "[Material](#materialCollapse)"
+    },
+    {
+      "tag": "h3",
+      "text": "Value X Banner Stand with 75\" X 40\" Banner Material"
+    },
+    {
+      "tag": "h4",
+      "text": "13 oz Vinyl"
+    },
+    {
+      "tag": "h4",
+      "text": "Banner Soft Fabric"
+    },
+    {
+      "tag": "h4",
+      "text": "[Artwork](#artworkCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "[Artwork Guidelines](#artwork-guidelinesCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "[Artwork/Order Proofs](#artworkorder-proofsCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "[Color Match Proof System](#color-match-proof-systemCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "[Production Times](#production-timesCollapse)"
+    },
+    {
+      "tag": "h3",
+      "text": "Production Time Tables"
+    },
+    {
+      "tag": "h4",
+      "text": "**2 Business Days Express:**"
+    },
+    {
+      "tag": "h4",
+      "text": "3 Business Days Standard:"
+    },
+    {
+      "tag": "h4",
+      "text": "5 Business Days Saver:"
+    },
+    {
+      "tag": "h4",
+      "text": "[Payment](#paymentCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "[Shipping](#shippingCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "[General Shipping Guidelines](#general-shipping-guidelinesCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "[Shipping Methods](#shipping-methodsCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": "==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Value X Banner Stand with 75\" x 40\" Banner\nH2: Pick a Template\nH4: [Material](#materialCollapse) ❌ (Should be H2)\nH3: Value X Banner Stand with 75\" X 40\" Banner Material ❌ (Should be H2)\nH4: 13 oz Vinyl ❌ (Should be H3)\nH4: Banner Soft Fabric ❌ (Should be H3)\nH4: [Artwork](#artworkCollapse) ❌ (Should be H2)\nH4: [Artwork Guidelines](#artwork-guidelinesCollapse) ❌ (Should be H3)\nH4: [Artwork/Order Proofs](#artworkorder-proofsCollapse) ❌ (Should be H3)\nH4: [Color Match Proof System](#color-match-proof-systemCollapse) ❌ (Should be H3)\nH4: [Production Times](#production-timesCollapse) ❌ (Should be H2)\nH3: Production Time Tables ❌ (Should be H2)\nH4: **2 Business Days Express:** ❌ (Should be H3)\nH4: 3 Business Days Standard: ❌ (Should be H3)\nH4: 5 Business Days Saver: ❌ (Should be H3)\nH4: [Payment](#paymentCollapse) ❌ (Should be H2)\nH4: [Shipping](#shippingCollapse) ❌ (Should be H2)\nH4: [General Shipping Guidelines](#general-shipping-guidelinesCollapse) ❌ (Should be H3)\nH4: [Shipping Methods](#shipping-methodsCollapse) ❌ (Should be H3)\nH4: Upload a Print Ready File ❌ (Should be H2)\nH3: Step 1 - Choose Choose a product and the size you want ❌ (Should be H3)\nH3: Step 2 - Upload Upload the image from your computer ❌ (Should be H3)\nH4: Let us design your product ❌ (Should be H2)\nH3: Step 1 - Choose Choose a product and the size you want ❌ (Should be H3)\nH3: Step 2 - Upload Upload the image from your computer ❌ (Should be H3)\nH3: Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together! ❌ (Should be H3)\nH2: Why Choose Banners.com?\nH4: Search ❌ (Should be removed)\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom X Banner Stands with 75\" x 40\" Display Banners\nH2: Durable Vinyl & Fabric X Banner Stands for Indoor & Outdoor Display Use\nH2: Custom X Banner Stand Material for Professional Display Applications\n    H3: Premium 13 oz Vinyl Banner Material\n    H3: Banner Soft Fabric Material\nH2: X Banner Stand Production Times & Express Options\n    H3: 2 Business Days Express Production\n    H3: 3 Business Days Standard Production\n    H3: 5 Business Days Economy Production\nH2: X Banner Stand Payment & Ordering Options\nH2: Shipping Options for Custom X Banner Stand Delivery\n    H3: General Shipping Guidelines for Banner Stands\n    H3: Available Shipping Methods\nH2: X Banner Stand Artwork Requirements for Printing\n    H3: Professional Artwork Guidelines\n    H3: Order Proof Options\n    H3: Color Match Proof System\nH2: Order Custom X Banner Stands for Professional Display Applications\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n# Custom X Banner Stands with 75\" x 40\" Display Banners\n\n## Durable Vinyl & Fabric X Banner Stands for Indoor & Outdoor Display Use\n\nPASTE INTO:\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nMaterial Choice: Select premium 13 oz vinyl or banner soft fabric for your custom X banner stand display.\n\nProduct Configuration: Complete X banner stand package includes professional display hardware and custom printed banner.\n\nSize Options: 75\" x 40\" display banner with adjustable X banner stand frame.\n\nPASTE INTO:\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom X Banner Stands for Professional Display & Trade Show Applications</h2>\n\n<p>Our Value X Banner Stand provides a professional display solution for trade shows, retail environments, and business presentations. This portable banner stand system features a compact gear hub that allows easy adjustment of banner arms with the push of a button, making setup and breakdown quick and efficient.</p>\n\n<p>Each X banner stand includes durable hardware construction designed for repeated use in both indoor and outdoor display applications. The adjustable arm system accommodates your 75\" x 40\" custom printed banner while maintaining professional presentation quality.</p>\n\n<p>Choose from premium 13 oz vinyl material for outdoor durability or banner soft fabric for indoor presentations with vibrant color reproduction. Both material options are specifically engineered for banner stand applications and professional display requirements.</p>\n\n<p>The compact design allows for easy transportation between events while the sturdy construction ensures your custom graphics remain properly displayed throughout extended use periods.</p>\n\nPASTE INTO:\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nMATERIAL OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>X Banner Stand Material for Professional Display Applications</h2>\n\n<h3>Premium 13 oz Vinyl Banner Material</h3>\n<p>Our highest quality 13 oz vinyl banner material serves as the standard for professional banner stand displays. This durable material is rated for both indoor and outdoor applications, providing weather resistance and long-term color stability for extended display periods.</p>\n\n<p>The 13 oz vinyl construction offers excellent print quality with vibrant color reproduction while maintaining the flexibility required for banner stand mounting systems. This material choice ensures your custom graphics remain professional-looking throughout repeated setup and storage cycles.</p>\n\n<h3>Banner Soft Fabric Material</h3>\n<p>Banner soft fabric material delivers a premium matte finish with exceptional color vibrancy for indoor display applications. The fabric construction provides a sophisticated appearance ideal for trade shows, retail environments, and professional presentations.</p>\n\n<p>Fabric banner edges are precision-cut with hot knife technology to prevent fraying during banner stand operation. While this process significantly reduces fraying potential, careful handling during banner retraction helps maintain long-term material integrity.</p>\n\n<p><a href=\"https://www.banners.com/sample-packet-request\" title=\"Sample Packet\">Request a sample packet of materials</a> to evaluate material options for your specific display requirements.</p>\n\nPASTE INTO:\nMaterial Options Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>X Banner Stand Production Times & Express Options</h2>\n\n<p>Choose from multiple production timeframes to meet your display deadline requirements. All production times begin after artwork approval and payment processing completion.</p>\n\n<h3>2 Business Days Express Production</h3>\n<p>Fast-track production available for urgent display requirements. Express production ensures your custom X banner stand ships within 2 business days of order confirmation.</p>\n\n<h3>3 Business Days Standard Production</h3>\n<p>Standard production timeline provides reliable delivery for most display projects while maintaining our quality printing standards.</p>\n\n<h3>5 Business Days Economy Production</h3>\n<p>Economy production offers cost-effective pricing for display projects with flexible timing requirements.</p>\n\n<p>Production times do not include shipping duration. Consider shipping timeframes when planning for specific event dates or installation deadlines.</p>\n\nPASTE INTO:\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nPAYMENT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>X Banner Stand Payment & Ordering Options</h2>\n\n<p>Multiple payment methods are accepted for custom X banner stand orders, including major credit cards, business checks, and approved business accounts.</p>\n\n<p>Secure online payment processing ensures transaction safety while streamlined checkout reduces ordering time for urgent display projects.</p>\n\n<p>Business accounts are available for organizations requiring purchase order processing or extended payment terms. Contact our customer service team to establish business account credentials.</p>\n\n<p>All orders require payment confirmation before production begins. Express production orders must include expedited payment processing to meet accelerated timeframes.</p>\n\nPASTE INTO:\nPayment Options Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING GUIDELINES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Shipping Options for Custom X Banner Stand Delivery</h2>\n\n<h3>General Shipping Guidelines for Banner Stands</h3>\n<p>X banner stands ship in protective packaging designed to prevent hardware damage during transit. Custom banners are carefully rolled and packaged to prevent creasing or material damage.</p>\n\n<p>Shipping costs are calculated based on package dimensions, weight, destination, and selected delivery timeframe. Banner stand hardware adds dimensional weight requirements that may affect shipping calculations.</p>\n\n<h3>Available Shipping Methods</h3>\n<p>Ground shipping provides economical delivery for most locations within the continental United States. Expedited shipping options include 3-day, 2-day, and overnight delivery for urgent display requirements.</p>\n\n<p>Alaska, Hawaii, and international destinations require special shipping arrangements. Contact customer service for shipping quotes to these locations.</p>\n\n<p>Tracking information is provided for all shipments, allowing you to monitor delivery progress and plan for banner stand arrival.</p>\n\nPASTE INTO:\nShipping Guidelines Tab\n\n--------------------------------------------------\n\n==================================================\nCOMMON USES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Professional Display Applications for X Banner Stands</h2>\n\n<p>X banner stands provide versatile display solutions for numerous professional and commercial applications where portable, professional presentation is required.</p>\n\n<h3>Trade Show & Convention Displays</h3>\n<p>Ideal for booth displays, product presentations, and company branding at trade shows and industry conventions. The portable design allows easy transportation between events.</p>\n\n<h3>Retail & Point-of-Sale Displays</h3>\n<p>Perfect for in-store promotions, product launches, and seasonal marketing campaigns. Quick setup enables rapid display changes for promotional updates.</p>\n\n<h3>Business Presentations & Meetings</h3>\n<p>Professional appearance suitable for corporate presentations, client meetings, and business conferences where visual impact is essential.</p>\n\n<h3>Event Marketing & Promotions</h3>\n<p>Excellent for outdoor events, grand openings, and promotional activities where weather-resistant display capability is important.</p>\n\nPASTE INTO:\nCommon Uses Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>X Banner Stand Artwork Requirements for Professional Printing</h2>\n\n<h3>Professional Artwork Guidelines</h3>\n<p>Vector-based .eps files with fonts converted to outlines provide optimal print quality for banner stand graphics. High-resolution .pdf or .jpg files are also acceptable for most display applications.</p>\n\n<p>Artwork should be created at actual print size (75\" x 40\") with 300 DPI resolution to ensure sharp, professional print quality. Our graphic design team is available to assist with file preparation questions.</p>\n\n<h3>Order Proof Options</h3>\n<p>Order proofs allow verification of artwork, pricing, and order details before production begins. Your proof includes a low-resolution image of your graphics, complete order summary with pricing, and billing/shipping information confirmation.</p>\n\n<p>Proof approval is required before production can begin. Plan additional time for proof review when working with tight deadlines.</p>\n\n<h3>Color Match Proof System</h3>\n<p>For color-critical projects, our Color Match Proof System provides the most accurate color matching available. This system ensures precise color reproduction for brand-sensitive graphics and corporate identity applications.</p>\n\n<p>Color match proofs require additional production time but provide confidence in final color accuracy for professional display requirements.</p>\n\nPASTE INTO:\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Order Custom X Banner Stands for Professional Display Applications</h2>\n\n<p>Ready to create your professional X banner stand display? Our streamlined ordering process makes it easy to get the custom display solution your business needs.</p>\n\n<h3>Quick Upload Process</h3>\n<p>Upload your print-ready artwork files directly through our secure system. Our automated prepress review ensures your files meet printing specifications before production begins.</p>\n\n<h3>Professional Design Services</h3>\n<p>Need help creating your banner graphics? Our professional design team can create custom graphics that maximize the visual impact of your X banner stand display.</p>\n\n<h3>Complete Display Solution</h3>\n<p>Every order includes both the custom printed banner and professional X banner stand hardware, providing everything needed for immediate display setup.</p>\n\n<p>Questions about material selection, artwork requirements, or shipping options? Our customer service team is ready to help ensure your X banner stand meets your exact display requirements.</p>\n\nPASTE INTO:\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>X Banner Stand Frequently Asked Questions</h2>\n\n<h3>What material is best for outdoor X banner stand use?</h3>\n<p>13 oz vinyl material is recommended for outdoor applications due to its weather resistance and durability. This material maintains color stability and structural integrity in various weather conditions.</p>\n\n<h3>How portable are X banner stands for event use?</h3>\n<p>X banner stands are designed for portability with compact folding hardware and lightweight construction. The complete system can be transported in a standard carrying case for easy event transportation.</p>\n\n<h3>Can I reuse my X banner stand with different graphics?</h3>\n<p>Yes, X banner stands are designed for repeated use with different banner graphics. Simply order replacement banners when you need to update your display messaging or graphics.</p>\n\n<h3>What artwork resolution is required for 75\" x 40\" banners?</h3>\n<p>300 DPI resolution at actual print size provides optimal print quality. Lower resolution files may be acceptable depending on viewing distance and graphic content.</p>\n\n<h3>Are setup instructions included with X banner stands?</h3>\n<p>Yes, complete setup instructions are included with every X banner stand order. The intuitive design allows for quick assembly without special tools or expertise.</p>\n\nPASTE INTO:\nFAQ Tab\n\n--------------------------------------------------"
+}

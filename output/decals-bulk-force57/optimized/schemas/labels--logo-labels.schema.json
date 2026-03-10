@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:29:50.189Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Logo Labels Logo",
+    "description": "Design your own logo label at Decals.com today! Upload your custom logo design, artwork or use our online designer to create a logo from scratch.",
+    "url": "https://www.decals.com/labels/logo-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

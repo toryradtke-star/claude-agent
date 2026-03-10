@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:16:19.340Z",
+  "data": {
+    "url": "https://www.decals.com/sticker-sheets",
+    "pageType": "blog",
+    "productPage": false,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Custom Sticker Sheets"
+      }
+    ],
+    "serpInsights": {
+      "query": "sticker sheets sticker",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "sticker sheets sticker",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "sticker sheets sticker installation printing",
+            "sticker sheets sticker installation custom sizes",
+            "sticker sheets sticker installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "sticker sheets sticker durability printing",
+            "sticker sheets sticker durability custom sizes",
+            "sticker sheets sticker durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "sticker sheets sticker pricing printing",
+            "sticker sheets sticker pricing custom sizes",
+            "sticker sheets sticker pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "sticker sheets sticker printing",
+            "sticker sheets sticker custom sizes",
+            "sticker sheets sticker design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "sticker sheets sticker shipping printing",
+            "sticker sheets sticker shipping custom sizes",
+            "sticker sheets sticker shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "custom clear roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-clear-roll-labels"
+        },
+        {
+          "anchor": "die cut decals",
+          "url": "https://www.decals.com/decals/die-cut-decals"
+        },
+        {
+          "anchor": "kiss cut decals",
+          "url": "https://www.decals.com/decals/kiss-cut-decals"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 337,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "Custom Sticker Sheets"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": null,
+    "contentScore": null,
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T16:16:19.336Z"
+    },
+    "seoRecommendations": "<h1>Custom Sticker Sheets - Vinyl Stickers on Sheets | Decals.com</h1><p>Strengthen topical depth with structured H2 sections. Add contextual links to related PDPs and categories. Add a clear conversion bridge near conclusion. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:45:44.963Z",
+  "data": {
+    "url": "https://www.decals.com/squeegee",
+    "pageType": "pdp",
+    "productPage": true,
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Products"
+      },
+      {
+        "tag": "h1",
+        "text": "Plastic Squeegee"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      }
+    ],
+    "serpInsights": {
+      "query": "plastic squeegee decal",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "plastic squeegee decal",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "plastic squeegee decal installation printing",
+            "plastic squeegee decal installation custom sizes",
+            "plastic squeegee decal installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "plastic squeegee decal durability printing",
+            "plastic squeegee decal durability custom sizes",
+            "plastic squeegee decal durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "plastic squeegee decal pricing printing",
+            "plastic squeegee decal pricing custom sizes",
+            "plastic squeegee decal pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "plastic squeegee decal printing",
+            "plastic squeegee decal custom sizes",
+            "plastic squeegee decal design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "plastic squeegee decal shipping printing",
+            "plastic squeegee decal shipping custom sizes",
+            "plastic squeegee decal shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "custom clear roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-clear-roll-labels"
+        },
+        {
+          "anchor": "die cut decals",
+          "url": "https://www.decals.com/decals/die-cut-decals"
+        },
+        {
+          "anchor": "kiss cut decals",
+          "url": "https://www.decals.com/decals/kiss-cut-decals"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 343,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Plastic Squeegee"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": {
+      "score": 58,
+      "failedChecks": [
+        {
+          "check": "required_sections",
+          "details": [
+            "MATERIAL OPTIONS TAB",
+            "FINISHING OPTIONS TAB",
+            "SHIPPING GUIDELINES TAB"
+          ]
+        },
+        {
+          "check": "product_entity",
+          "details": "Entity not found: plastic squeegee decal"
+        },
+        {
+          "check": "cta_section_rules",
+          "details": [
+            "PRODUCTION TIMES TAB",
+            "ARTWORK TAB"
+          ]
+        },
+        {
+          "check": "generic_headings",
+          "details": "Contains generic headings"
+        }
+      ],
+      "retry": true,
+      "threshold": 85
+    },
+    "contentScore": {
+      "score": 95,
+      "missingEntities": [],
+      "missingHeadings": [],
+      "improvementSuggestions": []
+    },
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T15:45:44.951Z"
+    },
+    "seoRecommendations": "{\"ts\":\"2026-03-06T15:45:44.940Z\",\"level\":\"info\",\"event\":\"metric\",\"agent\":\"pdpAgent\",\"url\":\"https://www.decals.com/squeegee\",\"model\":\"claude-sonnet-4-20250514\",\"tokensIn\":22463,\"tokensOut\":3207,\"promptVersion\":\"unknown\",\"templateVersion\":\"unknown\",\"durationMs\":60840}\n==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Plastic Squeegee\nH3: Products you might like\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Plastic Squeegee\nH2: Custom Plastic Squeegee Order Process  \nH2: Plastic Squeegee Production & Turnaround Times\nH2: Squeegee Cut Options & Specifications\nH2: Artwork Requirements for Plastic Squeegees\nH2: Plastic Squeegee Shipping Information\nH2: Installation Guide for Plastic Squeegees\nH2: What Are Plastic Squeegees?\nH2: Plastic Squeegee FAQs\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h1>Plastic Squeegee</h1>\n<h2>Professional Vinyl Decal Application Tool</h2>\n\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nProduct: Plastic Squeegee\nQuantity: (Min: 1, Max: 25)\nDimensions: 4\"x3\"\n\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Professional Plastic Squeegee for Vinyl Decal Application</h2>\n<p>Our plastic squeegees are essential tools for professional vinyl decal installation. Each squeegee measures 4\"x3\" and is constructed from sturdy, flat plastic designed for easy maneuverability during decal application. The smooth surface prevents scratching while providing consistent pressure for bubble-free installation. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>\n\n<h3>Plastic Squeegee Features</h3>\n<p>These professional-grade application tools feature a durable plastic construction that maintains its shape through repeated use. The 4\"x3\" dimensions provide optimal control for both large format decals and detailed vinyl graphics. The flat edge design ensures even pressure distribution across the entire application surface.</p>\n\n<h3>Compatible with All Vinyl Types</h3>\n<p>Our plastic squeegees work effectively with all vinyl decal materials including clear decals, transfer decals, and standard vinyl decals. The smooth plastic surface won't damage delicate vinyl films or leave marks on finished applications.</p>\n\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nORDER PROCESS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Plastic Squeegee Order Process</h2>\n<p>Ordering professional plastic squeegees for your decal projects is straightforward. Simply select your desired quantity using our online configurator and add to cart. Our plastic squeegees are ready to ship and don't require custom design or proofing processes.</p>\n\n<h3>Design Process</h3>\n<p>No design work is needed for plastic squeegees as these are standard application tools. Each squeegee features our standard 4\"x3\" dimensions optimized for vinyl decal installation projects.</p>\n\n<h3>Payment</h3>\n<p>Complete your plastic squeegee purchase using our secure checkout process. We accept all major credit cards and provide instant order confirmation with tracking information.</p>\n\n<h3>Live Order Tracking</h3>\n<p>Monitor your plastic squeegee shipment status through our customer portal. You'll receive tracking updates from order processing through delivery completion.</p>\n\nOrder Process Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Plastic Squeegee Production & Turnaround Times</h2>\n<p>Our plastic squeegees are kept in stock and ready for immediate shipment. Since these are standard application tools, no custom production time is required. Orders placed by 2 PM CST ship the same business day.</p>\n\n<h3>Same Day Shipping</h3>\n<p>Plastic squeegee orders placed before 2 PM Central Standard Time ship the same business day. This ensures your decal application tools arrive quickly for your vinyl installation projects.</p>\n\n<h3>Next Business Day Processing</h3>\n<p>Orders placed after 2 PM CST process the following business day. All plastic squeegee orders receive priority handling to minimize delays in your decal installation workflow.</p>\n\n<p>Production time is separate from shipping time. Refer to our shipping information for delivery timeframes to your location.</p>\n\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nCUT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Squeegee Cut Options & Specifications</h2>\n<p>Our plastic squeegees feature precision-cut edges optimized for professional vinyl decal application. Each tool maintains consistent 4\"x3\" dimensions with smooth, straight edges that won't snag or tear delicate vinyl materials.</p>\n\n<h3>Standard Cut Plastic Squeegees</h3>\n<p>Each plastic squeegee is manufactured with clean, straight edges that provide optimal contact with vinyl surfaces. The standard cut design ensures consistent pressure distribution during <a href=\"https://www.decals.com/decals/die-cut-decals\">die cut decals</a> installation and other vinyl applications.</p>\n\n<h3>Flat Edge Design</h3>\n<p>The flat edge construction allows for smooth, controlled movement across vinyl surfaces without creating air bubbles or installation marks. This design works effectively with both small detail work and large format decal installation.</p>\n\n<h3>Rounded Corner Safety</h3>\n<p>Plastic squeegee corners feature slight rounding to prevent accidental damage to vinyl materials during application. This safety design extends the life of both the tool and your vinyl decals.</p>\n\nCut Options Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Artwork Requirements for Plastic Squeegees</h2>\n<p>No artwork files are required for plastic squeegee orders as these are standard application tools. Each squeegee ships ready for immediate use with your vinyl decal installation projects.</p>\n\n<h3>Standard Product Specifications</h3>\n<p>Our plastic squeegees maintain consistent 4\"x3\" dimensions and yellow color finish. No customization options are available for these professional application tools.</p>\n\n<h3>Compatible with All Decal Types</h3>\n<p>These squeegees work effectively with all vinyl decal formats including <a href=\"https://www.decals.com/decals/kiss-cut-decals\">kiss cut decals</a>, transfer applications, and clear vinyl installations. The smooth plastic surface prevents scratching on all vinyl materials.</p>\n\n<h3>Professional Tool Standards</h3>\n<p>Each plastic squeegee meets professional installation standards for vinyl graphics applications. The consistent manufacturing ensures reliable performance across multiple decal installation projects.</p>\n\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Plastic Squeegee Shipping Information</h2>\n<p>Our plastic squeegees ship quickly via standard ground transportation. These lightweight application tools typically arrive within 3-5 business days for most US locations when shipped via our standard delivery method.</p>\n\n<h3>Shipping Methods</h3>\n<p>Standard ground shipping provides cost-effective delivery for plastic squeegee orders. Expedited shipping options are available for urgent decal installation project deadlines.</p>\n\n<h3>Shipping Time Expectations</h3>\n<p>Most plastic squeegee orders arrive within 3-5 business days via standard shipping. Express delivery options can reduce transit time to 1-2 business days for time-sensitive vinyl installation projects.</p>\n\n<h3>Important Shipping Notes</h3>\n<p>Shipping time is calculated separately from production time. Since plastic squeegees ship the same day when ordered before 2 PM CST, total delivery time includes transit time only.</p>\n\n<p>Bulk plastic squeegee orders may require additional packaging time. Contact our customer service team for specific delivery requirements on larger quantity orders.</p>\n\nShipping Tab\n\n--------------------------------------------------\n\n==================================================\nINSTALLATION TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Installation Guide for Plastic Squeegees</h2>\n<p>Proper plastic squeegee technique ensures professional vinyl decal installation results. These application tools work best when used with consistent pressure and overlapping strokes to eliminate air bubbles and ensure strong adhesion.</p>\n\n<h3>Preparing the Surface</h3>\n<p>Clean the application surface thoroughly before beginning vinyl decal installation. Remove any dust, oils, or debris that could interfere with adhesion. Ensure the surface is completely dry before proceeding.</p>\n\n<h3>Using the Plastic Squeegee</h3>\n<p>Hold the squeegee at a 45-degree angle to the vinyl surface. Apply firm, consistent pressure while moving in overlapping strokes from the center outward. This technique prevents air bubbles and ensures complete vinyl adhesion.</p>\n\n<h3>Removing Transfer Tape</h3>\n<p>After using the plastic squeegee to secure the vinyl decal, carefully remove transfer tape at a low angle. The squeegee application ensures the vinyl remains properly adhered during tape removal.</p>\n\n<p>For detailed installation guidance, refer to our comprehensive <a href=\"https://www.decals.com/stickers/custom-hard-hat-stickers\">custom hard hat stickers</a> installation resources and video tutorials.</p>\n\nInstallation Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>What Are Plastic Squeegees?</h2>\n<p>Plastic squeegees are essential application tools used for professional vinyl decal installation. Made from durable plastic materials, these tools measure 4\"x3\" and feature smooth, flat edges designed to eliminate air bubbles and ensure proper vinyl adhesion. Plastic squeegees are commonly used for applying vehicle decals, wall graphics, and transfer vinyl to various surfaces. The tool works by applying consistent pressure across the vinyl surface during installation, creating strong bonds between the adhesive and the substrate.</p>\n\n<h2>Order Professional Plastic Squeegees for Your Decal Projects</h2>\n<p>Ensure professional installation results with our high-quality plastic squeegees. These essential application tools provide the control and precision needed for flawless vinyl decal installation across all project types. Whether you're installing <a href=\"https://www.decals.com/decals/dry-erase-wall-decals\">dry erase wall decals</a> or detailed transfer graphics, our plastic squeegees deliver consistent performance.</p>\n\n<p>Order your plastic squeegees today and experience the difference professional application tools make in your vinyl installation projects. With same-day shipping on orders placed before 2 PM CST, you'll have the tools you need when your decals arrive.</p>\n\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Plastic Squeegee FAQs</h2>\n\n<h3>What size are the plastic squeegees?</h3>\n<p>Our plastic squeegees measure 4\"x3\" and feature smooth, flat edges optimized for vinyl decal application. This size provides excellent control for both detailed work and larger format installations.</p>\n\n<h3>Can plastic squeegees be used with all vinyl types?</h3>\n<p>Yes, plastic squeegees work effectively with all vinyl decal materials including clear vinyl, transfer decals, and standard adhesive vinyl. The smooth plastic surface prevents scratching while ensuring proper installation pressure.</p>\n\n<h3>How many plastic squeegees should I order for my project?</h3>\n<p>Most decal installation projects require 1-2 plastic squeegees for optimal results. Larger projects or professional installers may benefit from ordering additional squeegees to have backup tools available.</p>\n\n<h3>Do plastic squeegees ship the same day?</h3>\n<p>Plastic squeegee orders placed before 2 PM CST ship the same business day. Since these are stock items, no production time is required before shipping.</p>\n\n<h3>Will plastic squeegees scratch my vinyl decals?</h3>\n<p>Our plastic squeegees feature smooth surfaces specifically designed to prevent vinyl damage during application. The flat plastic construction eliminates sharp edges that could scratch or tear delicate vinyl materials.</p>\n\n<h3>Can I use plastic squeegees for removing old decals?</h3>\n<p>While plastic squeegees are primarily designed for installation, they can assist with decal removal when used carefully. However, dedicated removal tools may be more effective for stubborn adhesive removal projects.</p>\n\nFAQ Tab\n\n--------------------------------------------------\n\n==================================================\nSEO ANALYSIS & OPTIMIZATION SUMMARY\n==================================================\n\nThe original page required significant optimization to meet modern ecommerce PDP standards. Key improvements include comprehensive heading structure implementation with proper H1-H3 hierarchy, addition of detailed product information across six core tab sections, and FAQ development targeting user purchase concerns. Technical SEO enhancements include structured heading optimization for AI search visibility, strategic internal linking to related vinyl decal products, and keyword clustering integration focusing on installation, durability, pricing, customization, and shipping themes. Content quality improvements expand thin product descriptions into comprehensive sections covering order process, production timelines, specifications, artwork requirements, shipping information, and detailed installation guidance. The optimized structure transforms a basic product listing into a complete purchase-ready resource that supports both search visibility and customer decision-making throughout the buying journey."
+  }
+}

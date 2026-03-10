@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:34:53.014Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Yard Signs Yard",
+    "description": "Decals.com partners with LawnSigns.com to meet all your lawn sign needs! Click to get started with high-quality lawn signs today.",
+    "url": "https://www.decals.com/yard-signs",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

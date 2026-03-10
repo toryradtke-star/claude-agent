@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Yard Signs Yard",
+  "description": "Get noticed with custom yard signs and personalized lawn signs. Weatherproof, long-lasting, and perfect for outdoor advertising. Create yours online now!",
+  "url": "https://www.banners.com/yard-signs",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

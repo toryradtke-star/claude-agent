@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:26:25.885Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Dry Erase Magnets",
+    "description": "Tidy up kitchen shopping lists or chore charts with an easy to use dry erase board magnet from Decals.com! Use our online designer or upload your file.",
+    "url": "https://www.decals.com/dry-erase-magnet",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

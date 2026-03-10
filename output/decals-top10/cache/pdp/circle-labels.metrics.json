@@ -1,0 +1,11 @@
+{
+  "url": "https://www.decals.com/circle-labels",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 23730,
+    "output_tokens": 4547
+  },
+  "durationMs": 90983
+}

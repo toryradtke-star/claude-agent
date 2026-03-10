@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "business cards",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "business cards installation printing",
+        "business cards installation custom sizes",
+        "business cards installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "business cards durability printing",
+        "business cards durability custom sizes",
+        "business cards durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "business cards pricing printing",
+        "business cards pricing custom sizes",
+        "business cards pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "business cards printing",
+        "business cards custom sizes",
+        "business cards design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "business cards shipping printing",
+        "business cards shipping custom sizes",
+        "business cards shipping design upload"
+      ]
+    }
+  ]
+}

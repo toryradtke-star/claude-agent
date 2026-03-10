@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Refrigerator Magnets Fridge",
+  "description": "Add flair to any magnetic surface with our custom fridge magnets! Great for photos, reminders, or brand promotion. Order your custom fridge magnets today!",
+  "url": "https://www.banners.com/custom-fridge-magnets",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

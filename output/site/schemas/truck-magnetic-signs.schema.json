@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Truck Magnets Magnetic",
+  "description": "Easily advertise on the go with magnetic truck signs from Banners.com! These signs are easy to install, reposition and remove. Begin your order online today!",
+  "url": "https://www.banners.com/truck-magnetic-signs",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

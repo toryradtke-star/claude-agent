@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "retractable banners -",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "retractable banners - installation printing",
+        "retractable banners - installation custom sizes",
+        "retractable banners - installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "retractable banners - durability printing",
+        "retractable banners - durability custom sizes",
+        "retractable banners - durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "retractable banners - pricing printing",
+        "retractable banners - pricing custom sizes",
+        "retractable banners - pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "retractable banners - printing",
+        "retractable banners - custom sizes",
+        "retractable banners - design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "retractable banners - shipping printing",
+        "retractable banners - shipping custom sizes",
+        "retractable banners - shipping design upload"
+      ]
+    }
+  ]
+}

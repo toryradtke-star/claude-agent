@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:06:13.161Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Band Stickers Band",
+    "description": "Customized band stickers help promote your music and band. With a well-designed, high-quality sticker, draw attention to your band's name, logo, and images.",
+    "url": "https://www.decals.com/custom-band-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Black Signicade Deluxe",
+  "description": "The Black Signicade Deluxe A-Frame is perfect for outdoor advertisements. Available with a white or black frame. Design your own custom sidewalk sign with ease!",
+  "url": "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-black",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.banners.com/halloween-signage",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": true,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 1096,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "**Halloween Banners & Signs - Easy Online Ordering!**"
+      },
+      {
+        "tag": "h4",
+        "text": "**[Halloween Banners - 13 oz Vinyl Banners](https://www.banners.com/holiday-banners/halloween)**"
+      },
+      {
+        "tag": "h4",
+        "text": "**[Halloween Yard Signs](https://www.banners.com/halloween-yard-signs)**"
+      },
+      {
+        "tag": "h4",
+        "text": "**[Halloween Fabric Flags](https://www.banners.com/halloween-flags)**"
+      },
+      {
+        "tag": "h2",
+        "text": "**Benefits of Ordering Banners and Signs Online from Banners.com**"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "**Halloween Banners & Signs - Easy Online Ordering!**"
+    },
+    {
+      "tag": "h4",
+      "text": "**[Halloween Banners - 13 oz Vinyl Banners](https://www.banners.com/holiday-banners/halloween)**"
+    },
+    {
+      "tag": "h4",
+      "text": "**[Halloween Yard Signs](https://www.banners.com/halloween-yard-signs)**"
+    },
+    {
+      "tag": "h4",
+      "text": "**[Halloween Fabric Flags](https://www.banners.com/halloween-flags)**"
+    },
+    {
+      "tag": "h2",
+      "text": "**Benefits of Ordering Banners and Signs Online from Banners.com**"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

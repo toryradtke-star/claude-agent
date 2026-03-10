@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:54:20.901Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Vinyl Stickers Stickers",
+    "description": "Design custom vinyl stickers at Decals.com using our online design tool. Create logo stickers, stickers for your car or just for fun.",
+    "url": "https://www.decals.com/stickers/custom-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

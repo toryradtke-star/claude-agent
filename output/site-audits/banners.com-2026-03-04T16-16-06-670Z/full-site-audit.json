@@ -1,0 +1,633 @@
+{
+  "baseUrl": "https://banners.com",
+  "domain": "banners.com",
+  "generatedAt": "2026-03-04T16:16:08.627Z",
+  "discoveryMethod": "pre-scraped",
+  "totalUrlsDiscovered": 3,
+  "pagesAudited": 3,
+  "productPagesDetected": 0,
+  "productPagesOptimized": 0,
+  "errors": [],
+  "pageAudits": [
+    {
+      "url": "https://banners.com/10k-banners",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "",
+        "metaDescription": "",
+        "canonical": "",
+        "robots": "",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 17,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 2898,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h2",
+            "text": "Custom 10K Race Banners for Start Lines, Finish Lines & Sponsor Recognition"
+          },
+          {
+            "tag": "h2",
+            "text": "Banner Material Options for Durable 10K Race Signage"
+          },
+          {
+            "tag": "h3",
+            "text": "13 oz Matte Vinyl 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "13 oz Gloss Vinyl 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "18 oz Heavy-Duty Vinyl 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Mesh 10K Banners for Outdoor Courses"
+          },
+          {
+            "tag": "h3",
+            "text": "Fabric 10K Banners for Indoor Events"
+          },
+          {
+            "tag": "h3",
+            "text": "Adhesive 10K Banners for Smooth Surfaces"
+          },
+          {
+            "tag": "h2",
+            "text": "Finishing Options for 10K Race Banner Installation"
+          },
+          {
+            "tag": "h3",
+            "text": "Heat-Welded Hems & Grommets"
+          },
+          {
+            "tag": "h3",
+            "text": "Pole Pockets for 10K Banner Mounting"
+          },
+          {
+            "tag": "h3",
+            "text": "Reinforced Corners for 10K Banner Durability"
+          },
+          {
+            "tag": "h3",
+            "text": "Reinforced Hems for Long-Lasting 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Double-Sided 10K Banner Finishing"
+          },
+          {
+            "tag": "h2",
+            "text": "Artwork Requirements for 10K Banner Printing"
+          },
+          {
+            "tag": "h3",
+            "text": "Artwork & Order Proofs"
+          },
+          {
+            "tag": "h3",
+            "text": "Color Match Proof System"
+          },
+          {
+            "tag": "h2",
+            "text": "Production & Turnaround Times for Custom 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "1 Business Day Priority"
+          },
+          {
+            "tag": "h3",
+            "text": "2 Business Days Express"
+          },
+          {
+            "tag": "h3",
+            "text": "3 Business Days Standard"
+          },
+          {
+            "tag": "h3",
+            "text": "5 Business Days Saver"
+          },
+          {
+            "tag": "h2",
+            "text": "10K Banner Payment & Checkout Options"
+          },
+          {
+            "tag": "h2",
+            "text": "Shipping & Delivery for Custom 10K Race Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "International Shipping for 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Shipping Facility Locations"
+          },
+          {
+            "tag": "h3",
+            "text": "Available Shipping Methods"
+          },
+          {
+            "tag": "h3",
+            "text": "Economy Shipping Details"
+          },
+          {
+            "tag": "h2",
+            "text": "Popular Uses for Custom 10K Race Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Starting Line & Finish Line Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Sponsor & Partner Recognition Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Course Direction & Wayfinding Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Registration & First Aid Station Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Promotional & Pre-Race Event Banners"
+          },
+          {
+            "tag": "h2",
+            "text": "Design & Order Custom 10K Banners Online"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions About 10K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "What materials are available for 10K banners?"
+          },
+          {
+            "tag": "h3",
+            "text": "What finishing options work best for outdoor 10K race banners?"
+          },
+          {
+            "tag": "h3",
+            "text": "How fast can I get my 10K banners printed and delivered?"
+          },
+          {
+            "tag": "h3",
+            "text": "What file formats are accepted for 10K banner artwork?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I order double-sided 10K banners?"
+          },
+          {
+            "tag": "h3",
+            "text": "What sizes are available for 10K race banners?"
+          }
+        ],
+        "paragraphCount": 80
+      },
+      "headings": [],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/4th-of-july-flags",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": true,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "",
+        "metaDescription": "",
+        "canonical": "",
+        "robots": "",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 1,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 2436,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h2",
+            "text": "Custom 4th of July Flags for Home, Garden & Outdoor Celebrations"
+          },
+          {
+            "tag": "h3",
+            "text": "Dye-Sublimation Printed Independence Day Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Reusable 4th of July Flags for Every Celebration"
+          },
+          {
+            "tag": "h2",
+            "text": "Polyester-Nylon Flag Material for 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Dye-Sublimation Printing on Fabric Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Temperature Sensitivity and Sizing for Fabric Flag Material"
+          },
+          {
+            "tag": "h3",
+            "text": "4th of July Flag Lifespan and Care"
+          },
+          {
+            "tag": "h3",
+            "text": "Prorated Warranty for Custom Flag Orders"
+          },
+          {
+            "tag": "h2",
+            "text": "Finishing Options for Custom 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Single / Reverse 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Double-Sided Independence Day Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Flag Finishing and Mounting Options"
+          },
+          {
+            "tag": "h2",
+            "text": "Production and Turnaround Times for Custom 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "2 Business Days Express Production"
+          },
+          {
+            "tag": "h3",
+            "text": "3 Business Days Standard Production"
+          },
+          {
+            "tag": "h3",
+            "text": "5 Business Days Saver Production"
+          },
+          {
+            "tag": "h2",
+            "text": "Payment Methods for 4th of July Flag Orders"
+          },
+          {
+            "tag": "h3",
+            "text": "Accepted Payment Types for Custom Flag Purchases"
+          },
+          {
+            "tag": "h2",
+            "text": "Shipping and Delivery for Custom 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "General Shipping Guidelines for Flag Orders"
+          },
+          {
+            "tag": "h3",
+            "text": "Shipping Facility Locations for Flag Production"
+          },
+          {
+            "tag": "h3",
+            "text": "Available Shipping Methods for Custom Flags"
+          },
+          {
+            "tag": "h2",
+            "text": "Popular Uses for Custom 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Residential Yard and Garden Flag Displays"
+          },
+          {
+            "tag": "h3",
+            "text": "Community and Neighborhood Independence Day Decorations"
+          },
+          {
+            "tag": "h3",
+            "text": "Business and Storefront Patriotic Flag Displays"
+          },
+          {
+            "tag": "h2",
+            "text": "Artwork Requirements for 4th of July Flag Printing"
+          },
+          {
+            "tag": "h3",
+            "text": "Recommended File Formats for Flag Artwork"
+          },
+          {
+            "tag": "h3",
+            "text": "Artwork and Order Proofs for Custom Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Color Match Proof System for Flag Printing"
+          },
+          {
+            "tag": "h2",
+            "text": "Design & Order Your Custom 4th of July Flags Today"
+          },
+          {
+            "tag": "h3",
+            "text": "Why Choose Banners.com for Your 4th of July Flags?"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions About Custom 4th of July Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "What material are your 4th of July flags made from?"
+          },
+          {
+            "tag": "h3",
+            "text": "How long do custom 4th of July flags last outdoors?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do your 4th of July flags come with a warranty?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I get a double-sided 4th of July flag?"
+          },
+          {
+            "tag": "h3",
+            "text": "What file formats do you accept for custom flag artwork?"
+          },
+          {
+            "tag": "h3",
+            "text": "How quickly can I receive my 4th of July flag order?"
+          }
+        ],
+        "paragraphCount": 45
+      },
+      "headings": [],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/5k-banners",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": true,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "",
+        "metaDescription": "",
+        "canonical": "",
+        "robots": "",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 15,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 2956,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h2",
+            "text": "Custom Printed 5K Banners for Races, Fun Runs & Charity Events"
+          },
+          {
+            "tag": "h2",
+            "text": "5K Banner Material Options for Indoor & Outdoor Race Events"
+          },
+          {
+            "tag": "h3",
+            "text": "13 oz Matte Vinyl 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "13 oz Gloss Vinyl 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "18 oz Vinyl 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Mesh 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Fabric 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Adhesive 5K Banners"
+          },
+          {
+            "tag": "h2",
+            "text": "Finishing Options for Durable 5K Race Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Heat Welded Hems & Grommets"
+          },
+          {
+            "tag": "h3",
+            "text": "Pole Pockets for 5K Race Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Reinforced Corners"
+          },
+          {
+            "tag": "h3",
+            "text": "Reinforced Hems"
+          },
+          {
+            "tag": "h3",
+            "text": "Double-Sided 5K Banner Finishing"
+          },
+          {
+            "tag": "h2",
+            "text": "Artwork Requirements for 5K Banner Printing"
+          },
+          {
+            "tag": "h3",
+            "text": "5K Banner File Specifications"
+          },
+          {
+            "tag": "h3",
+            "text": "Artwork & Order Proofs for 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Color Match Proof System"
+          },
+          {
+            "tag": "h2",
+            "text": "Production & Turnaround Times for Custom 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "1 Business Day Priority"
+          },
+          {
+            "tag": "h3",
+            "text": "2 Business Days Express"
+          },
+          {
+            "tag": "h3",
+            "text": "3 Business Days Standard"
+          },
+          {
+            "tag": "h3",
+            "text": "5 Business Days Saver"
+          },
+          {
+            "tag": "h2",
+            "text": "Payment Options for 5K Banner Orders"
+          },
+          {
+            "tag": "h2",
+            "text": "Shipping Guidelines for 5K Race Banner Delivery"
+          },
+          {
+            "tag": "h3",
+            "text": "International Shipping for 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "5K Banner Shipping Maps"
+          },
+          {
+            "tag": "h3",
+            "text": "Available Shipping Methods"
+          },
+          {
+            "tag": "h3",
+            "text": "Economy Shipping"
+          },
+          {
+            "tag": "h2",
+            "text": "Popular Uses for Custom 5K Race Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Start & Finish Line Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Sponsor & Branding Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Registration & Information Signage"
+          },
+          {
+            "tag": "h3",
+            "text": "Race Course Signage"
+          },
+          {
+            "tag": "h3",
+            "text": "Charity & Community 5K Events"
+          },
+          {
+            "tag": "h3",
+            "text": "Post-Race Celebration Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Related 5K Event Products"
+          },
+          {
+            "tag": "h2",
+            "text": "Design & Order Your Custom 5K Banners Online Today"
+          },
+          {
+            "tag": "h3",
+            "text": "5K Race Banner Signage for Every Part of Your Event"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions About 5K Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Do you offer 5K race banners with wind slits?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are your 5K race banners printed in full color?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are 5K race banners suitable for outdoor use?"
+          },
+          {
+            "tag": "h3",
+            "text": "What sizes are available for 5K banners?"
+          },
+          {
+            "tag": "h3",
+            "text": "How quickly can I get my 5K race banners?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I use a custom design for my 5K banner?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com for Your 5K Race Banners?"
+          }
+        ],
+        "paragraphCount": 64
+      },
+      "headings": [],
+      "seoRecommendations": ""
+    }
+  ]
+}

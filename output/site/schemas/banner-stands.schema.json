@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Banner Stands &",
+  "description": "Order your banner stand displays from Banners.com! We offer many types of banner holders including X-stands, tripods, A-Frames and mini-retractors.",
+  "url": "https://www.banners.com/banner-stands",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

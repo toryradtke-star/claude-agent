@@ -1,0 +1,253 @@
+{
+  "generatedAt": "2026-03-04T22:16:41.548Z",
+  "baseUrl": "https://banners.com",
+  "domain": "banners.com",
+  "pagesWithClaudeCalls": 30,
+  "totals": {
+    "tokensIn": 130079,
+    "tokensOut": 101873,
+    "estimatedCostUsd": 1.918332
+  },
+  "pages": [
+    {
+      "url": "https://www.banners.com/banner-stands/a-frames",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 3370,
+      "tokensOut": 3017,
+      "estimatedCostUsd": 0.055365,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/styrene-signs",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4651,
+      "tokensOut": 3644,
+      "estimatedCostUsd": 0.068613,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/yard-signs/custom-sizes",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4633,
+      "tokensOut": 3669,
+      "estimatedCostUsd": 0.068934,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/yard-signs/custom-shapes",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4650,
+      "tokensOut": 3468,
+      "estimatedCostUsd": 0.06597,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/magnetic-signs",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4762,
+      "tokensOut": 3167,
+      "estimatedCostUsd": 0.061791,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/sintra-signs",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4780,
+      "tokensOut": 3561,
+      "estimatedCostUsd": 0.067755,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/yard-signs",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4648,
+      "tokensOut": 3462,
+      "estimatedCostUsd": 0.065874,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/polymetal-signs-3mm",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4722,
+      "tokensOut": 3628,
+      "estimatedCostUsd": 0.068586,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/coroplast-a-frame-signs",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4871,
+      "tokensOut": 3672,
+      "estimatedCostUsd": 0.069693,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-black",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 3456,
+      "tokensOut": 2991,
+      "estimatedCostUsd": 0.055233,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/banner-stands/simpo-sign",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 3345,
+      "tokensOut": 3416,
+      "estimatedCostUsd": 0.061275,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/magnets",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 3697,
+      "tokensOut": 3559,
+      "estimatedCostUsd": 0.064476,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-white",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 3381,
+      "tokensOut": 3489,
+      "estimatedCostUsd": 0.062478,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/truck-magnetic-signs",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4680,
+      "tokensOut": 2943,
+      "estimatedCostUsd": 0.058185,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/custom-car-magnets",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4788,
+      "tokensOut": 3454,
+      "estimatedCostUsd": 0.066174,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/custom-fridge-magnets",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4720,
+      "tokensOut": 3822,
+      "estimatedCostUsd": 0.07149,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/custom-photo-magnets",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4694,
+      "tokensOut": 3501,
+      "estimatedCostUsd": 0.066597,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/table-covers",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 3790,
+      "tokensOut": 3032,
+      "estimatedCostUsd": 0.05685,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/custom-business-magnets",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4727,
+      "tokensOut": 3614,
+      "estimatedCostUsd": 0.068391,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/custom-dry-erase-magnets",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4779,
+      "tokensOut": 3850,
+      "estimatedCostUsd": 0.072087,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/banner-stands/retractors",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4262,
+      "tokensOut": 2929,
+      "estimatedCostUsd": 0.056721,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/custom-bumper-magnets",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4716,
+      "tokensOut": 3540,
+      "estimatedCostUsd": 0.067248,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/banner-stands",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4060,
+      "tokensOut": 2842,
+      "estimatedCostUsd": 0.05481,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/standard-business-cards",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4363,
+      "tokensOut": 3260,
+      "estimatedCostUsd": 0.061989,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/table-tents",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4438,
+      "tokensOut": 3197,
+      "estimatedCostUsd": 0.061269,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/stik-pics",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4220,
+      "tokensOut": 3236,
+      "estimatedCostUsd": 0.0612,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/postcards",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4517,
+      "tokensOut": 3708,
+      "estimatedCostUsd": 0.069171,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/poster-paper",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4646,
+      "tokensOut": 3954,
+      "estimatedCostUsd": 0.073248,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/custom-t-shirts",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 2820,
+      "tokensOut": 2805,
+      "estimatedCostUsd": 0.050535,
+      "cached": false
+    },
+    {
+      "url": "https://www.banners.com/custom-wallpaper",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 4893,
+      "tokensOut": 3443,
+      "estimatedCostUsd": 0.066324,
+      "cached": false
+    }
+  ]
+}

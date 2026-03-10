@@ -1,0 +1,9 @@
+# Page Audit
+
+- URL: https://www.decals.com/labels/food-and-beverage/jam-and-jelly
+- Page Type: blog
+- Product Page: false
+- Score: n/a
+
+## Recommendations
+<h1>Jam & Jelly Labels - Custom Labels for Your Jelly | Decals.com</h1><p>Strengthen topical depth with structured H2 sections. Add contextual links to related PDPs and categories. Add a clear conversion bridge near conclusion. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>

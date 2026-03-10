@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "1",
+  "promptVersion": "unknown",
+  "model": "claude-3-5-haiku-latest",
+  "createdAt": "2026-03-05T22:02:34.008Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Car Magnets Car",
+    "description": "Design and order custom car magnets to help make your vehicle stand out from the rest. Our custom magnets come in a wide variety of shapes and sizes.",
+    "url": "https://www.decals.com/custom-car-magnet",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

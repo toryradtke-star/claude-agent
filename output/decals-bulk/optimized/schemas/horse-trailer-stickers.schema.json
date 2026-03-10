@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:08:07.771Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Horse Trailer Stickers",
+    "description": "Recreate the likeness of your own trusty stead with a horse trailer decal. Full color printing on high quality vinyl materials. Use the online design tool to upload your artwork.",
+    "url": "https://www.decals.com/horse-trailer-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

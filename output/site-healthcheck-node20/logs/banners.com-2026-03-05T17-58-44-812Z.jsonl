@@ -1,0 +1,4 @@
+{"ts":"2026-03-05T17:58:44.826Z","level":"info","event":"audit.start","agent":"masterAgent","baseUrl":"https://banners.com","concurrency":2,"promptVersion":"unknown","templateVersion":"unknown","model":"claude-3-5-haiku-latest","mode":{"pageTypeFilter":null,"changedOnly":false,"maxPages":null}}
+{"ts":"2026-03-05T18:00:19.381Z","level":"info","event":"metric","agent":"masterAgent.retry","url":"https://www.banners.com/double-sided-banners","attempt":1,"retryReason":"low_score","queueDepthHTTP":0,"queueDepthClaude":0}
+{"ts":"2026-03-05T18:01:47.285Z","level":"info","event":"metric","agent":"masterAgent","url":"https://www.banners.com/double-sided-banners","pageType":"blog","durationMs":182391}
+{"ts":"2026-03-05T18:01:51.777Z","level":"info","event":"audit.complete","agent":"masterAgent","pagesAudited":1,"pagesSkipped":0,"errors":0,"estimatedCostUsd":0.069171}

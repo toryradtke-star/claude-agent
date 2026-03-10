@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Car Magnets Car",
+  "description": "Create custom car magnets with Banners.com—durable, weather-resistant, and removable. Great for business advertising, events, promotions, and more.",
+  "url": "https://www.banners.com/custom-car-magnets",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

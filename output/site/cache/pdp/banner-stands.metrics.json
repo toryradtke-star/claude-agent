@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/banner-stands",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4060,
+    "output_tokens": 2842
+  },
+  "durationMs": 58155
+}

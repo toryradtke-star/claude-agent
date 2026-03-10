@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:51:29.266Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ATV Decals Create",
+    "description": "Conquer the outdoors in style with custom ATV decals. Rugged, weather-proof, and versatile, these decals are printed on high-quality vinyl for a long-lasting finish.",
+    "url": "https://www.decals.com/decals/atv-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:58:05.564Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Oval Sticker Sheets",
+    "description": "Custom oval stickers on sheets are excellent for easy peeling and placing your logo or designs. Use the Decals.com online design tool to upload and customize your design.",
+    "url": "https://www.decals.com/stickers/oval-sticker-sheet",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

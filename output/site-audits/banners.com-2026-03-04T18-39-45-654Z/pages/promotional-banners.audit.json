@@ -1,0 +1,197 @@
+{
+  "url": "https://www.banners.com/promotional-banners",
+  "productPage": true,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": true,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 829,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Custom Promotional Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Event and Sale Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Custom Promotional Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Design and order your promo and company banners online today!"
+      },
+      {
+        "tag": "h3",
+        "text": "Begin your banner design by selecting your options below:"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h4",
+        "text": "What should I put on my promotional banner?"
+      },
+      {
+        "tag": "h4",
+        "text": "What is the largest size banner I can order?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I order a double-sided banner?"
+      },
+      {
+        "tag": "h4",
+        "text": "What are my material options?"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Custom Promotional Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Event and Sale Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Products you might like"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Custom Promotional Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Design and order your promo and company banners online today!"
+    },
+    {
+      "tag": "h3",
+      "text": "Begin your banner design by selecting your options below:"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "h4",
+      "text": "What should I put on my promotional banner?"
+    },
+    {
+      "tag": "h4",
+      "text": "What is the largest size banner I can order?"
+    },
+    {
+      "tag": "h4",
+      "text": "Can I order a double-sided banner?"
+    },
+    {
+      "tag": "h4",
+      "text": "What are my material options?"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": "==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Custom Promotional Banners\n├── H3: Event and Sale Banners (skipped H2 level)\n├── H3: Products you might like (skipped H2 level)\n├── H4: Upload a Print Ready File (under wrong parent)\n├── H3: Step 1 - Choose Choose a product and the size you want (tool-style)\n├── H3: Step 2 - Upload Upload the image from your computer (tool-style)\n├── H4: Let us design your product (under wrong parent)\n├── H3: Step 1 - Choose Choose a product and the size you want (tool-style, duplicate)\n├── H3: Step 2 - Upload Upload the image from your computer (tool-style, duplicate)\n├── H3: Step 3 - Provide Instructions Please include any special instructions... (tool-style)\n├── H2: More About Custom Promotional Banners (informational)\n│   ├── H3: Design and order your promo and company banners online today! (CTA in wrong section)\n│   └── H3: Begin your banner design by selecting your options below: (tool-style)\n├── H2: Frequently Asked Questions\n│   ├── H4: What should I put on my promotional banner? (skipped H3 level)\n│   ├── H4: What is the largest size banner I can order? (skipped H3 level)\n│   ├── H4: Can I order a double-sided banner? (skipped H3 level)\n│   └── H4: What are my material options? (skipped H3 level)\n├── H2: Why Choose Banners.com?\n│   └── H4: Search (under wrong parent, skipped H3 level)\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Promotional Banners for Event & Business Marketing\n├── H2: Durable Vinyl Promotional Banners with Custom Printing & Mounting Options\n├── H2: Custom Promotional Banner Design & Specifications for Marketing Events\n├── H2: Promotional Banner Material for Indoor & Outdoor Event Displays\n├── H2: Finishing Options for Event Promotional Banner Installation\n├── H2: Custom Promotional Banner Production & Turnaround Times\n├── H2: Promotional Banner Payment & Ordering Options\n├── H2: Shipping Options for Custom Promotional Banner Delivery\n├── H2: Business & Event Marketing Uses for Promotional Banners\n├── H2: Promotional Banner Artwork Requirements for Printing\n├── H2: Order Custom Promotional Banners for Your Next Marketing Event\n└── H2: Frequently Asked Questions About Promotional Banners\n    ├── H3: What should I put on my promotional banner?\n    ├── H3: What is the largest size banner I can order?\n    ├── H3: Can I order a double-sided banner?\n    └── H3: What are my material options?\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n# Custom Promotional Banners for Event & Business Marketing\n\n## Durable Vinyl Promotional Banners with Custom Printing & Mounting Options\n\nPASTE INTO:\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nDesign Options:\n- Upload Print Ready File\n- Let Us Design Your Banner\n\nSize Selection:\nChoose your promotional banner size\n\nDesign Upload:\nUpload your artwork file\n\nDesign Instructions:\nProvide special instructions for our design team\n\nPASTE INTO:\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Promotional Banner Design & Specifications for Marketing Events</h2>\n\n<p>Make the most of your next event with an eye-catching vinyl promotional banner. From trade shows and in-store displays to family reunions and parades, we can help you improve your visibility and make an unforgettable first impression with our professionally designed custom vinyl banners.</p>\n\n<p>Here at Banners.com, our goal is to deliver a banner that you're proud to hang. That's why we take great care in our craft and work closely with you to bring your vision to reality. One of the ways we do this is through strict quality checks.</p>\n\n<p>Our team includes seasoned graphic designers and production experts who have been with us for many years. They're deeply familiar with the nuances of the vinyl banner industry and are dedicated to collaborating to ensure you receive a tailor-made promotional banner.</p>\n\n<p>We offer a wide selection of custom promotional banners and signage options, including sizes ranging from 1'x1' to 8'x50', unlimited design options in our online designer, and you can even choose production time to ensure your banner is delivered when you need it.</p>\n\n<p><strong>Key Features:</strong></p>\n<ul>\n<li>Sizes ranging from 1'x1' to 8'x50'</li>\n<li>Unlimited design customization options</li>\n<li>Professional graphic design support</li>\n<li>Quality assurance checks</li>\n<li>Flexible production timelines</li>\n</ul>\n\n<p><em>Please note: Due to shipping regulations, all vinyl banners that exceed 8 feet in both directions will be folded for shipping. Contact us for custom freight quotes if you prefer unfolded shipping.</em></p>\n\nPASTE INTO:\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nMATERIAL OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Promotional Banner Material for Indoor & Outdoor Event Displays</h2>\n\n<p>Your promotional banner is made with the finest materials available and printed using state-of-the-art, large-format printers for vibrant colors that pop. All banners are manufactured and printed in the USA.</p>\n\n<p><strong>Six Customizable Banner Materials Available:</strong></p>\n\n<p>Each material option is specifically chosen for durability and print quality to ensure your promotional banner performs excellently in various indoor and outdoor environments.</p>\n\n<p><strong>Material Specifications:</strong></p>\n<ul>\n<li>UV-resistant inks for fade protection</li>\n<li>Weather-resistant vinyl construction</li>\n<li>High-resolution printing capabilities</li>\n<li>Suitable for both indoor and outdoor use</li>\n</ul>\n\n<p><strong>Size Variance Information:</strong> Exact sizes of promotional banners cannot be guaranteed. Vinyl is a temperature-sensitive material, and some fluctuation can occur due to heat application in printing, finishing, and outside climate. Our acceptable size variance is up to 1/2 inch per linear foot (example: a 5' banner could finish with a 2.5\" variance).</p>\n\nPASTE INTO:\nMaterial Options Tab\n\n--------------------------------------------------\n\n==================================================\nFINISHING OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Finishing Options for Event Promotional Banner Installation</h2>\n\n<p>Professional finishing options ensure your promotional banner is ready for immediate installation at your event or business location.</p>\n\n<p><strong>Available Finishing Options:</strong></p>\n<ul>\n<li>Grommets for secure hanging and mounting</li>\n<li>Hem and pole pockets for professional display</li>\n<li>Wind slits for outdoor stability</li>\n<li>Custom mounting solutions available</li>\n</ul>\n\n<p><strong>Installation Considerations:</strong></p>\n<p>Our finishing options are designed to accommodate various installation scenarios, from temporary event displays to semi-permanent business signage. Each finishing method is selected based on your intended use and installation environment.</p>\n\n<p>Special installation requirements can be accommodated through custom specifications. Contact our team to discuss unique mounting or finishing needs for your promotional banner project.</p>\n\nPASTE INTO:\nFinishing Options Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Promotional Banner Production & Turnaround Times</h2>\n\n<p>Flexible production scheduling ensures your promotional banner arrives when you need it for your event or marketing campaign.</p>\n\n<p><strong>Production Timeline Options:</strong></p>\n<ul>\n<li>Standard production for cost-effective delivery</li>\n<li>Rush production for urgent events</li>\n<li>Scheduled delivery for planned campaigns</li>\n</ul>\n\n<p><strong>Quality Assurance Process:</strong></p>\n<p>Each promotional banner goes through our comprehensive quality check process. Our in-house graphic designers and production experts review every banner to ensure it meets our high standards before shipping.</p>\n\n<p><strong>Production Notes:</strong></p>\n<p>Production times may vary based on size, material selection, and finishing options. Custom design work may require additional time for revisions and approval processes.</p>\n\n<p>If something doesn't meet our standards, our staff of in-house graphic designers will contact you to address any issues immediately.</p>\n\nPASTE INTO:\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nPAYMENT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Promotional Banner Payment & Ordering Options</h2>\n\n<p>Convenient payment and ordering solutions for promotional banner projects of any size.</p>\n\n<p><strong>Standard Payment Methods:</strong></p>\n<ul>\n<li>Credit card processing for immediate orders</li>\n<li>Online payment processing</li>\n<li>Business account options available</li>\n</ul>\n\n<p><strong>Custom Quote Options:</strong></p>\n<p>Large quantity orders, special projects, and unique sizing requirements can be accommodated through our custom quote process. This option is ideal for:</p>\n<ul>\n<li>Bulk promotional banner orders</li>\n<li>Non-standard sizing requirements</li>\n<li>Special material requests</li>\n<li>Complex finishing specifications</li>\n</ul>\n\n<p>Contact our customer service team at (320) 391-5300 for assistance with payment options or custom quote requests.</p>\n\nPASTE INTO:\nPayment Options Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING GUIDELINES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Shipping Options for Custom Promotional Banner Delivery</h2>\n\n<p>Reliable shipping solutions ensure your promotional banner arrives safely and on schedule for your event or marketing campaign.</p>\n\n<p><strong>Standard Shipping Guidelines:</strong></p>\n<ul>\n<li>Secure packaging for banner protection</li>\n<li>Tracking information provided</li>\n<li>Multiple shipping speed options</li>\n</ul>\n\n<p><strong>Large Banner Shipping:</strong></p>\n<p>Due to current shipping regulations, all vinyl banners that exceed 8 feet in both directions will be folded for shipping. This ensures safe delivery while complying with carrier requirements.</p>\n\n<p><strong>Freight Shipping Options:</strong></p>\n<p>For promotional banners that you prefer to receive unfolded, custom freight shipping is available. Contact us for freight quotes on large format banners or bulk orders.</p>\n\n<p>Shipping times and costs vary based on banner size, destination, and selected delivery speed. Rush shipping options are available for time-sensitive promotional campaigns.</p>\n\nPASTE INTO:\nShipping Guidelines Tab\n\n--------------------------------------------------\n\n==================================================\nCOMMON USES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Business & Event Marketing Uses for Promotional Banners</h2>\n\n<p>Custom promotional banners provide versatile marketing solutions for a wide range of business and event applications.</p>\n\n<p><strong>Business Marketing Applications:</strong></p>\n<ul>\n<li>In-store promotional displays</li>\n<li>Storefront sale announcements</li>\n<li>Trade show booth displays</li>\n<li>Business grand opening events</li>\n<li>Seasonal marketing campaigns</li>\n</ul>\n\n<p><strong>Event Marketing Uses:</strong></p>\n<ul>\n<li>Family reunion banners</li>\n<li>Parade participation displays</li>\n<li>Community event sponsorship</li>\n<li>Festival booth identification</li>\n<li>Corporate event branding</li>\n</ul>\n\n<p><strong>Marketing Impact:</strong></p>\n<p>Promotional banners help improve visibility and create unforgettable first impressions for your business or event. The large format and custom design capabilities make them ideal for capturing attention and communicating your message effectively.</p>\n\n<p>Both indoor and outdoor installations are supported through appropriate material and finishing selections.</p>\n\nPASTE INTO:\nCommon Uses Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Promotional Banner Artwork Requirements for Printing</h2>\n\n<p>Proper artwork preparation ensures optimal print quality and color reproduction for your promotional banner.</p>\n\n<p><strong>File Format Requirements:</strong></p>\n<ul>\n<li>High-resolution files for crisp printing</li>\n<li>Vector formats preferred for text and logos</li>\n<li>Color mode specifications for accurate reproduction</li>\n<li>Bleed and safety margin guidelines</li>\n</ul>\n\n<p><strong>Design Support Options:</strong></p>\n<p>Professional design assistance is available through our in-house graphic design team. Our designers can help create your promotional banner from concept to final artwork.</p>\n\n<p><strong>Design Review Process:</strong></p>\n<p>All artwork undergoes review by our experienced graphic designers before production begins. This quality check ensures your promotional banner will print correctly and meet your expectations.</p>\n\n<p><strong>Online Designer Tool:</strong></p>\n<p>Our online designer provides unlimited design options and templates specifically created for promotional banner layouts. This tool allows you to create professional designs with easy-to-use interface.</p>\n\nPASTE INTO:\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Order Custom Promotional Banners for Your Next Marketing Event</h2>\n\n<p>Ready to make an impact with your promotional banner? Our streamlined ordering process makes it easy to get the custom marketing solution you need.</p>\n\n<p><strong>Get Started Today:</strong></p>\n<p>Select your size, upload your artwork or work with our design team, choose your finishing options, and place your order. Your promotional banner will be professionally produced and shipped to arrive when you need it.</p>\n\n<p><strong>Questions About Your Order?</strong></p>\n<p>Our customer support team is here to help. Call us at (320) 391-5300, and one of our customer service representatives will be more than happy to assist you with your promotional banner project.</p>\n\n<p><strong>Custom Quote Requests:</strong></p>\n<p>Need something unique? We can create custom solutions for special projects, unique sizes, and larger quantity orders. Contact us for a personalized quote tailored to your specific promotional banner requirements.</p>\n\n<p>Your satisfaction is our number one priority, and we're committed to delivering a promotional banner that you're proud to display.</p>\n\nPASTE INTO:\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Frequently Asked Questions About Promotional Banners</h2>\n\n<h3>What should I put on my promotional banner?</h3>\n<p>Your promotional banner should include your key message, business name or event title, important dates or details, and contact information. Keep text large and readable from a distance, and include eye-catching colors or graphics that align with your brand.</p>\n\n<h3>What is the largest size banner I can order?</h3>\n<p>We offer promotional banners up to 8'x50' in size. For larger sizes or special dimensions, contact us for a custom quote. Large banners exceeding 8 feet in both directions will be folded for shipping unless freight shipping is arranged.</p>\n\n<h3>Can I order a double-sided banner?</h3>\n<p>Yes, double-sided promotional banners are available. This option is ideal for banners that will be viewed from both sides, such as those hanging in the center of spaces or mounted perpendicular to walls.</p>\n\n<h3>What are my material options?</h3>\n<p>We offer six different banner materials, each selected for specific applications and durability requirements. All materials are printed with UV-resistant inks and are suitable for both indoor and outdoor use. Material selection depends on your specific installation environment and longevity needs.</p>\n\nPASTE INTO:\nFAQ Tab\n\n--------------------------------------------------"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:13:08.934Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "State of Minnesota",
+    "description": "Show support for Minnesota Law Enforcement with a state shaped thin blue line decal from Decals.com! | 320-391-5250 |",
+    "url": "https://www.decals.com/thin-blue-line/minnesota",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

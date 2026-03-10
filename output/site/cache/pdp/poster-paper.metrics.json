@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/poster-paper",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4646,
+    "output_tokens": 3954
+  },
+  "durationMs": 70656
+}

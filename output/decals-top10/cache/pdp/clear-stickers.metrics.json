@@ -1,0 +1,11 @@
+{
+  "url": "https://www.decals.com/clear-stickers",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 23979,
+    "output_tokens": 4219
+  },
+  "durationMs": 81255
+}

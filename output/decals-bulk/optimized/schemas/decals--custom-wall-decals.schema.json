@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:48:59.519Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Wall Decals Wall",
+    "description": "Create custom wall decals to decorate your business, home office or even make come sweet nursery wall decals! Use full colors and be creative at Decals.com!",
+    "url": "https://www.decals.com/decals/custom-wall-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

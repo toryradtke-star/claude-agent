@@ -1,0 +1,517 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:04:23.021Z",
+  "data": {
+    "url": "https://www.decals.com/helmet-stickers",
+    "pageType": "blog",
+    "productPage": false,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Helmet Stickers"
+      },
+      {
+        "tag": "h3",
+        "text": "Create One-of-a-Kind Helmet Stickers!"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Methods"
+      },
+      {
+        "tag": "h3",
+        "text": "Payment"
+      },
+      {
+        "tag": "h3",
+        "text": "Live Order Tracking"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h3",
+        "text": "1 Business Day Priority:"
+      },
+      {
+        "tag": "h3",
+        "text": "2 Business Days Express:"
+      },
+      {
+        "tag": "h3",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h3",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h3",
+        "text": "Die Cut Stickers VS. Kiss Cut Stickers"
+      },
+      {
+        "tag": "h3",
+        "text": "Die-Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Kiss-Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Sticker Artwork Specifications"
+      },
+      {
+        "tag": "h3",
+        "text": "Preferred Files for Printing"
+      },
+      {
+        "tag": "h3",
+        "text": "Additional Files Accepted"
+      },
+      {
+        "tag": "h3",
+        "text": "File Tips"
+      },
+      {
+        "tag": "h3",
+        "text": "Vector Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Raster Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Services"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping Methods:"
+      },
+      {
+        "tag": "h3",
+        "text": "Important Economy Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "National and International Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "How to Apply Vinyl Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload Your File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Helmet Stickers Return to Top"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Decals.com?"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Service"
+      },
+      {
+        "tag": "h3",
+        "text": "Made in the USA"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast Turnaround"
+      },
+      {
+        "tag": "h3",
+        "text": "Track Your Order"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Product Information"
+      },
+      {
+        "tag": "h4",
+        "text": "What material is used for your helmet stickers?"
+      },
+      {
+        "tag": "h4",
+        "text": "Do your helmet stickers have a glossy or matte finish?"
+      },
+      {
+        "tag": "h4",
+        "text": "How small or large can my helmet sticker be?"
+      },
+      {
+        "tag": "h3",
+        "text": "Common Uses"
+      },
+      {
+        "tag": "h4",
+        "text": "What are some common uses for custom helmet stickers?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I apply my helmet stickers to a wet surface?"
+      },
+      {
+        "tag": "h4",
+        "text": "What surfaces can helmet stickers be placed on?"
+      }
+    ],
+    "serpInsights": {
+      "query": "helmet stickers helmet",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "helmet stickers helmet",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "helmet stickers helmet installation printing",
+            "helmet stickers helmet installation custom sizes",
+            "helmet stickers helmet installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "helmet stickers helmet durability printing",
+            "helmet stickers helmet durability custom sizes",
+            "helmet stickers helmet durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "helmet stickers helmet pricing printing",
+            "helmet stickers helmet pricing custom sizes",
+            "helmet stickers helmet pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "helmet stickers helmet printing",
+            "helmet stickers helmet custom sizes",
+            "helmet stickers helmet design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "helmet stickers helmet shipping printing",
+            "helmet stickers helmet shipping custom sizes",
+            "helmet stickers helmet shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "crack and peel stickers",
+          "url": "https://www.decals.com/stickers/crack-and-peel-stickers"
+        },
+        {
+          "anchor": "custom holographic vinyl material",
+          "url": "https://www.decals.com/custom-holographic-vinyl-material"
+        },
+        {
+          "anchor": "custom paper roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-paper-roll-labels"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 1500,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "Helmet Stickers"
+        },
+        {
+          "tag": "h3",
+          "text": "Create One-of-a-Kind Helmet Stickers!"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Methods"
+        },
+        {
+          "tag": "h3",
+          "text": "Payment"
+        },
+        {
+          "tag": "h3",
+          "text": "Live Order Tracking"
+        },
+        {
+          "tag": "h3",
+          "text": "Production Time Tables"
+        },
+        {
+          "tag": "h3",
+          "text": "1 Business Day Priority:"
+        },
+        {
+          "tag": "h3",
+          "text": "2 Business Days Express:"
+        },
+        {
+          "tag": "h3",
+          "text": "3 Business Days Standard:"
+        },
+        {
+          "tag": "h3",
+          "text": "5 Business Days Saver:"
+        },
+        {
+          "tag": "h3",
+          "text": "Die Cut Stickers VS. Kiss Cut Stickers"
+        },
+        {
+          "tag": "h3",
+          "text": "Die-Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Kiss-Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Sticker Artwork Specifications"
+        },
+        {
+          "tag": "h3",
+          "text": "Preferred Files for Printing"
+        },
+        {
+          "tag": "h3",
+          "text": "Additional Files Accepted"
+        },
+        {
+          "tag": "h3",
+          "text": "File Tips"
+        },
+        {
+          "tag": "h3",
+          "text": "Vector Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Raster Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Services"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping Methods:"
+        },
+        {
+          "tag": "h3",
+          "text": "Important Economy Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "National and International Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Apply Vinyl Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload Your File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Helmet Stickers Return to Top"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Decals.com?"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Service"
+        },
+        {
+          "tag": "h3",
+          "text": "Made in the USA"
+        },
+        {
+          "tag": "h3",
+          "text": "Fast Turnaround"
+        },
+        {
+          "tag": "h3",
+          "text": "Track Your Order"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Product Information"
+        },
+        {
+          "tag": "h4",
+          "text": "What material is used for your helmet stickers?"
+        },
+        {
+          "tag": "h4",
+          "text": "Do your helmet stickers have a glossy or matte finish?"
+        },
+        {
+          "tag": "h4",
+          "text": "How small or large can my helmet sticker be?"
+        },
+        {
+          "tag": "h3",
+          "text": "Common Uses"
+        },
+        {
+          "tag": "h4",
+          "text": "What are some common uses for custom helmet stickers?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I apply my helmet stickers to a wet surface?"
+        },
+        {
+          "tag": "h4",
+          "text": "What surfaces can helmet stickers be placed on?"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": null,
+    "contentScore": null,
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T16:04:23.018Z"
+    },
+    "seoRecommendations": "<h1>Helmet Stickers - Design Custom Helmet Stickers | Decals.com</h1><p>Strengthen topical depth with structured H2 sections. Add contextual links to related PDPs and categories. Add a clear conversion bridge near conclusion. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>"
+  }
+}

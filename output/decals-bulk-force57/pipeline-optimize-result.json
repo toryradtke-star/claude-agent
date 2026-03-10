@@ -1,0 +1,12 @@
+{
+  "mode": "optimize",
+  "baseUrl": "https://www.decals.com",
+  "generatedAt": "2026-03-06T16:34:56.450Z",
+  "discoveryMethod": "explicit-list",
+  "totalUrlsDiscovered": 57,
+  "pagesOptimized": 57,
+  "pagesSkipped": 0,
+  "errors": [],
+  "outputDir": "C:\\Users\\Tory\\claude-agent\\output\\decals-bulk-force57\\optimized",
+  "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-bulk-force57\\optimized\\optimized-report.json"
+}

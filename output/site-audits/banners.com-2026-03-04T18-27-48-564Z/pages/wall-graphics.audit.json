@@ -1,0 +1,77 @@
+{
+  "url": "https://banners.com/wall-graphics",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "Wall Graphics - Custom Removable Wall Graphics | Banners.com",
+    "metaDescription": "Create a unique piece with custom wall graphics from Banners.com! We offer complete customization options with high quality materials and affordable prices. Get started today.",
+    "canonical": "https://www.banners.com/wall-graphics",
+    "robots": "index, follow",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 539,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Custom Wall Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Adhesive Graphics & Vinyl Lettering for Interior Walls"
+      },
+      {
+        "tag": "h2",
+        "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Custom Wall Decals"
+    },
+    {
+      "tag": "h3",
+      "text": "Adhesive Graphics & Vinyl Lettering for Interior Walls"
+    },
+    {
+      "tag": "h2",
+      "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

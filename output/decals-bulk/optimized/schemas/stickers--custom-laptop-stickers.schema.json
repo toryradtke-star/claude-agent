@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:56:57.114Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Laptop Stickers Laptop",
+    "description": "Design stickers for laptops at Decals.com. Decorate your laptop or computer with fun custom stickers. Upload your own artwork, get your design at your door!",
+    "url": "https://www.decals.com/stickers/custom-laptop-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

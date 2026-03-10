@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:31:03.633Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Gift Labels Gift",
+    "description": "Make your next gift exchange memorable with custom gift labels from Decals.com!",
+    "url": "https://www.decals.com/labels/special-occasion-labels/gift-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

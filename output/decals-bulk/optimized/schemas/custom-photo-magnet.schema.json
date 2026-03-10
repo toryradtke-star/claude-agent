@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:45:46.493Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Photo Magnets Photo",
+    "description": "Add your favorite photos to magnets at Decals.com. We will print them any shape you would like. Use our online design tool to add text and colors!",
+    "url": "https://www.decals.com/custom-photo-magnet",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

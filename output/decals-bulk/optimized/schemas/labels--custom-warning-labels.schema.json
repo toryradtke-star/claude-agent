@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:04:15.414Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Warning Labels Warning",
+    "description": "Design and order custom warning labels from Decals.com! Call attention to dangerous equipment, hazardous materials, or place them on products you may sell.",
+    "url": "https://www.decals.com/labels/custom-warning-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

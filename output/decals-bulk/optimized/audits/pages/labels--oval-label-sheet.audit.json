@@ -1,0 +1,501 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:02:32.378Z",
+  "data": {
+    "url": "https://www.decals.com/labels/oval-label-sheet",
+    "pageType": "blog",
+    "productPage": false,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Custom Oval Label Sheets"
+      },
+      {
+        "tag": "h3",
+        "text": "Create One-of-a-Kind Oval Label Sheets!"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Methods"
+      },
+      {
+        "tag": "h3",
+        "text": "Payment"
+      },
+      {
+        "tag": "h3",
+        "text": "Live Order Tracking"
+      },
+      {
+        "tag": "h3",
+        "text": "Oval Label Sheet Artwork Specifications"
+      },
+      {
+        "tag": "h3",
+        "text": "Preferred Files for Printing"
+      },
+      {
+        "tag": "h3",
+        "text": "Additional Files Accepted"
+      },
+      {
+        "tag": "h3",
+        "text": "File Tips"
+      },
+      {
+        "tag": "h3",
+        "text": "Vector Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Raster Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Services"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h3",
+        "text": "1 Business Day Priority:"
+      },
+      {
+        "tag": "h3",
+        "text": "2 Business Days Express:"
+      },
+      {
+        "tag": "h3",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h3",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping Methods:"
+      },
+      {
+        "tag": "h3",
+        "text": "Important Economy Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "National and International Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload Your File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Oval Label Sheets Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Reviews ... Reviews"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Decals.com?"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Service"
+      },
+      {
+        "tag": "h3",
+        "text": "Made in the USA"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast Turnaround"
+      },
+      {
+        "tag": "h3",
+        "text": "Track Your Order"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Product Information"
+      },
+      {
+        "tag": "h4",
+        "text": "How do people commonly use oval label sheets?"
+      },
+      {
+        "tag": "h4",
+        "text": "What is the minimum amount of label sheets I can order?"
+      },
+      {
+        "tag": "h4",
+        "text": "What are the label size limitations?"
+      },
+      {
+        "tag": "h4",
+        "text": "What material are your high quality oval sheet labels made from?"
+      },
+      {
+        "tag": "h4",
+        "text": "Will my design impact the pricing of my oval label sheets?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I get assistance with my design?"
+      },
+      {
+        "tag": "h3",
+        "text": "Common Uses"
+      },
+      {
+        "tag": "h4",
+        "text": "What surfaces can I place my labels on?"
+      }
+    ],
+    "serpInsights": {
+      "query": "oval label sheets",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "oval label sheets",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "oval label sheets installation printing",
+            "oval label sheets installation custom sizes",
+            "oval label sheets installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "oval label sheets durability printing",
+            "oval label sheets durability custom sizes",
+            "oval label sheets durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "oval label sheets pricing printing",
+            "oval label sheets pricing custom sizes",
+            "oval label sheets pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "oval label sheets printing",
+            "oval label sheets custom sizes",
+            "oval label sheets design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "oval label sheets shipping printing",
+            "oval label sheets shipping custom sizes",
+            "oval label sheets shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "custom clear roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-clear-roll-labels"
+        },
+        {
+          "anchor": "die cut decals",
+          "url": "https://www.decals.com/decals/die-cut-decals"
+        },
+        {
+          "anchor": "kiss cut decals",
+          "url": "https://www.decals.com/decals/kiss-cut-decals"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 1500,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "Custom Oval Label Sheets"
+        },
+        {
+          "tag": "h3",
+          "text": "Create One-of-a-Kind Oval Label Sheets!"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Methods"
+        },
+        {
+          "tag": "h3",
+          "text": "Payment"
+        },
+        {
+          "tag": "h3",
+          "text": "Live Order Tracking"
+        },
+        {
+          "tag": "h3",
+          "text": "Oval Label Sheet Artwork Specifications"
+        },
+        {
+          "tag": "h3",
+          "text": "Preferred Files for Printing"
+        },
+        {
+          "tag": "h3",
+          "text": "Additional Files Accepted"
+        },
+        {
+          "tag": "h3",
+          "text": "File Tips"
+        },
+        {
+          "tag": "h3",
+          "text": "Vector Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Raster Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Services"
+        },
+        {
+          "tag": "h3",
+          "text": "Production Time Tables"
+        },
+        {
+          "tag": "h3",
+          "text": "1 Business Day Priority:"
+        },
+        {
+          "tag": "h3",
+          "text": "2 Business Days Express:"
+        },
+        {
+          "tag": "h3",
+          "text": "3 Business Days Standard:"
+        },
+        {
+          "tag": "h3",
+          "text": "5 Business Days Saver:"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping Methods:"
+        },
+        {
+          "tag": "h3",
+          "text": "Important Economy Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "National and International Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload Your File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Oval Label Sheets Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Reviews ... Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Decals.com?"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Service"
+        },
+        {
+          "tag": "h3",
+          "text": "Made in the USA"
+        },
+        {
+          "tag": "h3",
+          "text": "Fast Turnaround"
+        },
+        {
+          "tag": "h3",
+          "text": "Track Your Order"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Product Information"
+        },
+        {
+          "tag": "h4",
+          "text": "How do people commonly use oval label sheets?"
+        },
+        {
+          "tag": "h4",
+          "text": "What is the minimum amount of label sheets I can order?"
+        },
+        {
+          "tag": "h4",
+          "text": "What are the label size limitations?"
+        },
+        {
+          "tag": "h4",
+          "text": "What material are your high quality oval sheet labels made from?"
+        },
+        {
+          "tag": "h4",
+          "text": "Will my design impact the pricing of my oval label sheets?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I get assistance with my design?"
+        },
+        {
+          "tag": "h3",
+          "text": "Common Uses"
+        },
+        {
+          "tag": "h4",
+          "text": "What surfaces can I place my labels on?"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": null,
+    "contentScore": null,
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T16:02:32.365Z"
+    },
+    "seoRecommendations": "<h1>Oval Label Sheets - Custom Oval Labels | Decals.com</h1><p>Strengthen topical depth with structured H2 sections. Add contextual links to related PDPs and categories. Add a clear conversion bridge near conclusion. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>"
+  }
+}

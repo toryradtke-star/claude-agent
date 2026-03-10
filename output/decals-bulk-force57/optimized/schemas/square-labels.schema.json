@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:32:57.253Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Square Labels Square",
+    "description": "Customize your labels by uploading your own artwork or you can use our online designer at Decals.com. With multiple options you are sure to find the right label",
+    "url": "https://www.decals.com/square-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

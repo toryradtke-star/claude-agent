@@ -1,0 +1,586 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:44:40.131Z",
+  "data": {
+    "url": "https://www.decals.com/cast-vinyl",
+    "pageType": "pdp",
+    "productPage": true,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "High-Performance Cast Vinyl"
+      },
+      {
+        "tag": "h3",
+        "text": "Order High-Performance Cast Vinyl!"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Methods"
+      },
+      {
+        "tag": "h3",
+        "text": "Payment"
+      },
+      {
+        "tag": "h3",
+        "text": "Live Order Tracking"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h3",
+        "text": "1 Business Day Priority:"
+      },
+      {
+        "tag": "h3",
+        "text": "2 Business Days Express:"
+      },
+      {
+        "tag": "h3",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h3",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h3",
+        "text": "Die Cut, Kiss Cut, and Transfer Cut Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Die-Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Kiss-Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Transfer-Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Transfer Cut / Pick Charge"
+      },
+      {
+        "tag": "h3",
+        "text": "High Performance Cast Vinyl Artwork Specifications"
+      },
+      {
+        "tag": "h3",
+        "text": "Preferred Files for Printing"
+      },
+      {
+        "tag": "h3",
+        "text": "Additional Files Accepted"
+      },
+      {
+        "tag": "h3",
+        "text": "File Tips"
+      },
+      {
+        "tag": "h3",
+        "text": "Transfer-Cut Guidelines"
+      },
+      {
+        "tag": "h3",
+        "text": "Vector Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Raster Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Services"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping Methods:"
+      },
+      {
+        "tag": "h3",
+        "text": "Important Economy Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "National and International Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "How to Apply Vinyl Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload Your File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About High-Performance Cast Vinyl Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Reviews ... Reviews"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Decals.com?"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Service"
+      },
+      {
+        "tag": "h3",
+        "text": "Made in the USA"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast Turnaround"
+      },
+      {
+        "tag": "h3",
+        "text": "Track Your Order"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Product Information"
+      },
+      {
+        "tag": "h4",
+        "text": "What is High Performance vinyl?"
+      },
+      {
+        "tag": "h4",
+        "text": "How small or large can my High Performance vinyl decal be?"
+      },
+      {
+        "tag": "h4",
+        "text": "What is the lifespan of High Performance vinyl?"
+      },
+      {
+        "tag": "h4",
+        "text": "Does High Performance vinyl have a glossy or matte finish?"
+      },
+      {
+        "tag": "h3",
+        "text": "Common Uses"
+      },
+      {
+        "tag": "h4",
+        "text": "What are some common uses for High Performance vinyl?"
+      },
+      {
+        "tag": "h4",
+        "text": "What surfaces can High Performance vinyl decals be placed on?"
+      },
+      {
+        "tag": "h4",
+        "text": "Will High Performance vinyl ruin the paint on my vehicles?"
+      }
+    ],
+    "serpInsights": {
+      "query": "high-performance cast vinyl",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "high-performance cast vinyl",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "high-performance cast vinyl installation printing",
+            "high-performance cast vinyl installation custom sizes",
+            "high-performance cast vinyl installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "high-performance cast vinyl durability printing",
+            "high-performance cast vinyl durability custom sizes",
+            "high-performance cast vinyl durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "high-performance cast vinyl pricing printing",
+            "high-performance cast vinyl pricing custom sizes",
+            "high-performance cast vinyl pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "high-performance cast vinyl printing",
+            "high-performance cast vinyl custom sizes",
+            "high-performance cast vinyl design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "high-performance cast vinyl shipping printing",
+            "high-performance cast vinyl shipping custom sizes",
+            "high-performance cast vinyl shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "crack and peel stickers",
+          "url": "https://www.decals.com/stickers/crack-and-peel-stickers"
+        },
+        {
+          "anchor": "custom holographic vinyl material",
+          "url": "https://www.decals.com/custom-holographic-vinyl-material"
+        },
+        {
+          "anchor": "custom paper roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-paper-roll-labels"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 1500,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "High-Performance Cast Vinyl"
+        },
+        {
+          "tag": "h3",
+          "text": "Order High-Performance Cast Vinyl!"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Methods"
+        },
+        {
+          "tag": "h3",
+          "text": "Payment"
+        },
+        {
+          "tag": "h3",
+          "text": "Live Order Tracking"
+        },
+        {
+          "tag": "h3",
+          "text": "Production Time Tables"
+        },
+        {
+          "tag": "h3",
+          "text": "1 Business Day Priority:"
+        },
+        {
+          "tag": "h3",
+          "text": "2 Business Days Express:"
+        },
+        {
+          "tag": "h3",
+          "text": "3 Business Days Standard:"
+        },
+        {
+          "tag": "h3",
+          "text": "5 Business Days Saver:"
+        },
+        {
+          "tag": "h3",
+          "text": "Die Cut, Kiss Cut, and Transfer Cut Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Die-Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Kiss-Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Transfer-Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Transfer Cut / Pick Charge"
+        },
+        {
+          "tag": "h3",
+          "text": "High Performance Cast Vinyl Artwork Specifications"
+        },
+        {
+          "tag": "h3",
+          "text": "Preferred Files for Printing"
+        },
+        {
+          "tag": "h3",
+          "text": "Additional Files Accepted"
+        },
+        {
+          "tag": "h3",
+          "text": "File Tips"
+        },
+        {
+          "tag": "h3",
+          "text": "Transfer-Cut Guidelines"
+        },
+        {
+          "tag": "h3",
+          "text": "Vector Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Raster Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Services"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping Methods:"
+        },
+        {
+          "tag": "h3",
+          "text": "Important Economy Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "National and International Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Apply Vinyl Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload Your File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "More About High-Performance Cast Vinyl Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Reviews ... Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Decals.com?"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Service"
+        },
+        {
+          "tag": "h3",
+          "text": "Made in the USA"
+        },
+        {
+          "tag": "h3",
+          "text": "Fast Turnaround"
+        },
+        {
+          "tag": "h3",
+          "text": "Track Your Order"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Product Information"
+        },
+        {
+          "tag": "h4",
+          "text": "What is High Performance vinyl?"
+        },
+        {
+          "tag": "h4",
+          "text": "How small or large can my High Performance vinyl decal be?"
+        },
+        {
+          "tag": "h4",
+          "text": "What is the lifespan of High Performance vinyl?"
+        },
+        {
+          "tag": "h4",
+          "text": "Does High Performance vinyl have a glossy or matte finish?"
+        },
+        {
+          "tag": "h3",
+          "text": "Common Uses"
+        },
+        {
+          "tag": "h4",
+          "text": "What are some common uses for High Performance vinyl?"
+        },
+        {
+          "tag": "h4",
+          "text": "What surfaces can High Performance vinyl decals be placed on?"
+        },
+        {
+          "tag": "h4",
+          "text": "Will High Performance vinyl ruin the paint on my vehicles?"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": {
+      "score": 70,
+      "failedChecks": [
+        {
+          "check": "required_sections",
+          "details": [
+            "MATERIAL OPTIONS TAB",
+            "FINISHING OPTIONS TAB",
+            "SHIPPING GUIDELINES TAB"
+          ]
+        },
+        {
+          "check": "cta_section_rules",
+          "details": [
+            "PRODUCTION TIMES TAB"
+          ]
+        },
+        {
+          "check": "generic_headings",
+          "details": "Contains generic headings"
+        }
+      ],
+      "retry": true,
+      "threshold": 85
+    },
+    "contentScore": {
+      "score": 95,
+      "missingEntities": [],
+      "missingHeadings": [],
+      "improvementSuggestions": []
+    },
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T15:44:40.119Z"
+    },
+    "seoRecommendations": "{\"ts\":\"2026-03-06T15:44:40.108Z\",\"level\":\"info\",\"event\":\"metric\",\"agent\":\"pdpAgent\",\"url\":\"https://www.decals.com/cast-vinyl\",\"model\":\"claude-sonnet-4-20250514\",\"tokensIn\":25123,\"tokensOut\":5000,\"promptVersion\":\"unknown\",\"templateVersion\":\"unknown\",\"durationMs\":103460}\n==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: High-Performance Cast Vinyl\nH3: Order High-Performance Cast Vinyl!\nH3: Design Methods\nH3: Payment\nH3: Live Order Tracking\nH3: Production Time Tables\nH3: 1 Business Day Priority:\nH3: 2 Business Days Express:\nH3: 3 Business Days Standard:\nH3: 5 Business Days Saver:\nH3: Die Cut, Kiss Cut, and Transfer Cut Decals\nH3: Die-Cut\nH3: Kiss-Cut\nH3: Transfer-Cut\nH3: High Performance Cast Vinyl Artwork Specifications\nH3: Preferred Files for Printing\nH3: Additional Files Accepted\nH3: File Tips\nH3: Transfer-Cut Guidelines\nH3: Shipping\nH2: More About High-Performance Cast Vinyl Return to Top\nH2: Why Choose Decals.com?\nH2: Frequently Asked Questions Return to Top\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: High-Performance Cast Vinyl\nH2: Custom High-Performance Cast Vinyl Order Process\nH2: High-Performance Cast Vinyl Production & Turnaround Times\nH2: High-Performance Cast Vinyl Cut Options & Applications\nH2: High-Performance Cast Vinyl Artwork Requirements\nH2: High-Performance Cast Vinyl Shipping & Delivery\nH2: High-Performance Cast Vinyl Installation Guide\nH2: What Are High-Performance Cast Vinyl Decals?\nH2: High-Performance Cast Vinyl FAQs\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h1>High-Performance Cast Vinyl</h1>\n<h2>Premium Vehicle Wraps & Professional Graphics</h2>\n\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nDesign High-Performance Cast Vinyl\nUpload Your Artwork\nChoose Your Size\nSelect Cut Options\n\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>High-Performance Cast Vinyl for Vehicle Wraps & Professional Graphics</h2>\n\n<p>High-performance cast vinyl is the gold standard material for vehicle wraps, professional signage, and long-term outdoor graphics. This premium vinyl conforms perfectly to curved surfaces, making it ideal for cars, trucks, boats, and complex architectural applications. Our high-performance cast vinyl delivers vibrant colors, exceptional durability, and professional installation results for businesses and individuals seeking the highest quality custom graphics. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>\n\n<p>Unlike standard calendered vinyl, cast vinyl is manufactured through a casting process that creates a thinner, more flexible material with superior conformability. This manufacturing process results in better dimensional stability, longer outdoor life, and the ability to wrap around rivets, curves, and compound surfaces without lifting or bubbling. When you need graphics that perform in demanding conditions, high-performance cast vinyl is the material professionals choose.</p>\n\n<p>Our high-performance cast vinyl printing produces stunning full-color graphics with sharp detail and vibrant saturation. Whether you're creating <a href=\"https://www.decals.com/decals/vehicle-decals\">vehicle decals</a>, architectural graphics, or long-term outdoor signage, this premium material ensures your investment delivers lasting results and professional appearance.</p>\n\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nORDER PROCESS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom High-Performance Cast Vinyl Order Process</h2>\n\n<p>Ordering custom high-performance cast vinyl is straightforward with our streamlined design and approval process. You can create your graphics using our online design tool or upload your own print-ready artwork files. Our system guides you through sizing, cut options, and production timeline selection to ensure your high-performance cast vinyl meets your exact specifications.</p>\n\n<h3>Design Process</h3>\n<p>Start by choosing your preferred design method. Use our online designer to create graphics from scratch, upload images from your computer, or select from our extensive clipart library. For professional results, we recommend uploading vector files in EPS or AI format. If you're designing graphics in our online tool, you can add text, adjust colors, and position elements exactly where you want them on your high-performance cast vinyl.</p>\n\n<p>For complex designs or transfer-cut applications, vector artwork ensures the cleanest cuts and most professional results. Our design interface shows you exactly how your finished high-performance cast vinyl will look before you place your order.</p>\n\n<h3>Payment</h3>\n<p>All high-performance cast vinyl orders require full payment before production begins. We accept major credit cards including Visa, Mastercard, American Express, and Discover. Check payments are also accepted and must be received before your order enters production. This payment structure ensures your graphics move quickly through our production process once approved.</p>\n\n<h3>Live Order Tracking</h3>\n<p>After placing your high-performance cast vinyl order, you'll receive a unique Live Order Tracking number via email. This system allows you to monitor your order's progress through every stage of production, from initial processing through final shipping. Our Live Order Tracking provides real-time updates, so you always know exactly where your order stands in our streamlined production process.</p>\n\nOrder Process Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>High-Performance Cast Vinyl Production & Turnaround Times</h2>\n\n<p>Our flexible production schedule offers multiple turnaround options for high-performance cast vinyl, ranging from one to five business days. Production time begins after artwork approval and payment completion. If your order requires a proof or gets flagged in our prepress department, the production timeline starts once you approve the final proof.</p>\n\n<p>All production timeframes are separate from shipping time, so factor in both production and shipping when planning your project timeline. Orders approved after 5:00 PM CST begin production the following business day.</p>\n\n<h3>1 Business Day Priority Production</h3>\n<p>When deadlines are critical, our priority production option delivers your high-performance cast vinyl in just one business day. This expedited service is perfect for urgent projects, last-minute campaigns, or time-sensitive installations. Emergency same-day production may be available in special circumstances - contact our customer service team to discuss your specific timeline requirements.</p>\n\n<h3>2 Business Days Express Production</h3>\n<p>Express production provides fast turnaround while allowing slightly more time for complex high-performance cast vinyl projects. This option works well for detailed graphics, transfer-cut applications, or orders that need careful quality control review. The two-day timeframe ensures thorough production while meeting most urgent deadlines.</p>\n\n<h3>3 Business Days Standard Production</h3>\n<p>Our most popular production option, standard turnaround offers the ideal balance of speed and value. This timeline is sufficient for most high-performance cast vinyl projects while providing cost-effective pricing. Standard production allows full quality control review and careful handling of complex cuts or detailed graphics.</p>\n\n<h3>5 Business Days Saver Production</h3>\n<p>Budget-conscious customers choose our saver production option when timeline flexibility allows. This extended timeframe provides the most economical pricing for high-performance cast vinyl while ensuring the same quality standards as faster options. Saver production is ideal for planned projects where advance ordering is possible.</p>\n\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nCUT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>High-Performance Cast Vinyl Cut Options & Applications</h2>\n\n<p>Understanding cut options helps you choose the right finishing method for your high-performance cast vinyl application. Each cutting method affects how your decals install and perform, so selecting the appropriate option ensures professional results and proper adhesion to your intended surface.</p>\n\n<h3>Die-Cut High-Performance Cast Vinyl</h3>\n<p>Die-cutting cuts completely through both the vinyl material and paper backing, creating individually cut pieces with no excess material around your design. Think of it as a \"cookie cutter\" approach - each piece of high-performance cast vinyl is precisely cut to your graphic's contour. This option works best for simple shapes, logos, and graphics that need clean edges without borders. Die-cut pieces are easy to handle and install, making them popular for vehicle graphics and architectural applications.</p>\n\n<h3>Kiss-Cut High-Performance Cast Vinyl</h3>\n<p>Kiss-cutting cuts only through the vinyl layer while leaving the paper backing intact, creating a border of backing material around your high-performance cast vinyl. This border makes the decals easier to handle and position during installation, which is particularly helpful for detailed graphics or multiple-piece applications. The paper border provides a clean way to peel and position your graphics without touching the adhesive.</p>\n\n<h3>Transfer-Cut High-Performance Cast Vinyl</h3>\n<p>Transfer-cutting is the most precise option, cutting your high-performance cast vinyl to exact specifications and removing all unwanted material through a \"weeding\" process. A transfer tape is then applied over the remaining vinyl pieces, holding everything in perfect alignment for installation. This method is essential for text, detailed logos, and multi-color graphics where precise positioning is critical. Transfer-cut high-performance cast vinyl requires vector artwork and may incur additional charges for complex weeding, but delivers the most professional appearance for demanding applications.</p>\n\nCut Options Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>High-Performance Cast Vinyl Artwork Requirements</h2>\n\n<p>Proper artwork preparation ensures your high-performance cast vinyl prints with sharp detail, accurate colors, and clean cuts. Our file requirements and guidelines help you achieve professional results whether you're uploading existing artwork or creating new designs specifically for vinyl production.</p>\n\n<h3>Preferred File Types</h3>\n<p>For optimal high-performance cast vinyl printing, submit vector files in Adobe Illustrator EPS or PDF format. These file types maintain crisp edges at any size and provide the cleanest results for cutting operations. Vector files are especially important for transfer-cut applications where precise cutting is essential. When submitting EPS or PDF files, convert all fonts to outlines or curves to prevent font substitution issues during production.</p>\n\n<p>Maximum file size accepted is 100 MB, which accommodates even complex, high-resolution artwork for large-format high-performance cast vinyl applications.</p>\n\n<h3>Additional File Formats</h3>\n<p>We also accept high-resolution raster files including JPEG, TIFF, and PNG formats. These work well for photographic content or when vector artwork isn't available. Ensure raster files are high resolution and sized proportionately to your final high-performance cast vinyl dimensions for best print quality. Low-resolution files may appear pixelated or soft when printed at large sizes.</p>\n\n<h3>File Setup Tips</h3>\n<p>Set up your artwork at the exact proportional size of your high-performance cast vinyl order. Convert all text to outlines to prevent font issues. Include bleed only when necessary, and avoid flattening layers in Photoshop files. For all decal products, clearly indicate cut lines to ensure proper finishing. These preparation steps prevent production delays and ensure your high-performance cast vinyl matches your design intent.</p>\n\n<h3>Transfer-Cut Guidelines</h3>\n<p>Transfer-cut high-performance cast vinyl requires special consideration for successful weeding and installation. Use simple, open fonts with all text at least 1/2\" tall. Maintain minimum spacing of 1/8\" between characters and design elements. Keep main strokes, line weights, and design elements to a minimum of 1/8\" width. These guidelines ensure clean weeding and professional transfer tape application for complex <a href=\"https://www.decals.com/decals/vehicle-decals\">vehicle graphics</a> and detailed signage applications.</p>\n\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>High-Performance Cast Vinyl Shipping & Delivery</h2>\n\n<p>Your high-performance cast vinyl ships separately from production time, so plan for both production and shipping duration when scheduling your project. We offer multiple shipping speeds to meet various timeline requirements, from economy ground service to expedited overnight delivery.</p>\n\n<h3>Shipping Methods</h3>\n<p>Ground shipping typically delivers high-performance cast vinyl orders within 3-7 business days depending on your location. This economical option works well for planned projects where advance scheduling allows. Express shipping options include 2-day and overnight delivery for time-sensitive high-performance cast vinyl applications. Choose expedited shipping when installation deadlines are firm or when coordinating with other project elements.</p>\n\n<h3>Shipping Time Expectations</h3>\n<p>Remember that shipping time is completely separate from production time. If you select 1-day production and ground shipping, your high-performance cast vinyl will be produced in one business day, then take additional time for ground delivery. For fastest total delivery, combine priority production with overnight shipping. Our customer service team can help calculate total delivery time for your specific location and timeline requirements.</p>\n\n<h3>Important Shipping Notes</h3>\n<p>High-performance cast vinyl is carefully packaged to prevent damage during transit. Large orders may ship in protective tubes to prevent creasing. Smaller decals ship in flat mailers with protective backing. International shipping is available with extended delivery times and potential customs processing. Contact our team for specific international shipping timelines and requirements for high-performance cast vinyl orders.</p>\n\nShipping Tab\n\n--------------------------------------------------\n\n==================================================\nINSTALLATION TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>High-Performance Cast Vinyl Installation Guide</h2>\n\n<p>Proper installation techniques maximize the performance and longevity of high-performance cast vinyl. This premium material is designed for complex applications and curved surfaces, but following correct procedures ensures professional results and prevents common installation problems like bubbles, lifting, or adhesion failure.</p>\n\n<h3>Preparing the Surface</h3>\n<p>Clean the installation surface thoroughly with isopropyl alcohol or a recommended surface cleaner. Remove all dirt, wax, grease, and contaminants that could interfere with adhesion. Allow the surface to dry completely before beginning high-performance cast vinyl application. For vehicle applications, avoid freshly painted surfaces - allow paint to cure for at least 30 days before applying vinyl graphics.</p>\n\n<p>Test adhesion on an inconspicuous area if you're unsure about surface compatibility. High-performance cast vinyl adheres well to most smooth, non-porous surfaces including painted metal, glass, and sealed wood.</p>\n\n<h3>Applying the High-Performance Cast Vinyl</h3>\n<p>Start application from one edge and work progressively across the surface, using a squeegee or application tool to smooth the vinyl and remove air bubbles. The conformable nature of high-performance cast vinyl allows it to stretch and conform to curves, but work slowly on complex shapes to prevent overstretching. Apply firm, even pressure to ensure complete adhesion, especially along edges and detailed areas.</p>\n\n<p>For large graphics, consider using the wet application method or application fluid to allow repositioning during initial placement. Once properly positioned, squeegee thoroughly to remove application fluid and achieve full adhesion.</p>\n\n<h3>Removing Transfer Tape</h3>\n<p>For transfer-cut high-performance cast vinyl, remove the transfer tape slowly at a sharp angle, pulling back on itself. If vinyl lifts with the transfer tape, press back down and continue removal more slowly. The adhesive bond strengthens over time, so some complex graphics may benefit from brief heating with a hair dryer to aid transfer tape removal. Work systematically across the graphic to ensure all vinyl elements stay in proper position.</p>\n\nInstallation Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>What Are High-Performance Cast Vinyl Decals?</h2>\n\n<p>High-performance cast vinyl decals are premium graphics made from cast vinyl material designed for demanding outdoor applications and complex surface conformability. Unlike calendered vinyl, cast vinyl is manufactured using a casting process that creates a thinner, more flexible material with superior dimensional stability and longer outdoor life. This material excels in vehicle wraps, architectural graphics, and applications requiring conformability to curves, rivets, and compound surfaces.</p>\n\n<h2>Design Your Custom High-Performance Cast Vinyl Today</h2>\n\n<p>Ready to create professional-grade graphics that perform in demanding conditions? Our high-performance cast vinyl delivers the durability, conformability, and visual impact your project demands. Whether you're wrapping vehicles, creating architectural signage, or producing long-term outdoor graphics, this premium material ensures your investment delivers lasting results.</p>\n\n<p>Upload your artwork or use our online design tool to get started. With flexible production timelines, multiple cut options, and expert quality control, we make it easy to produce high-performance cast vinyl graphics that meet professional standards. For complex applications or technical questions about surface compatibility, our experienced team provides the guidance you need for successful results.</p>\n\n<p>Choose high-performance cast vinyl when your graphics need to perform flawlessly in challenging environments. Start your order today and experience why professionals trust this premium material for their most demanding graphic applications.</p>\n\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>High-Performance Cast Vinyl FAQs</h2>\n\n<h3>What makes high-performance cast vinyl different from regular vinyl?</h3>\n<p>High-performance cast vinyl is manufactured through a casting process that creates a thinner, more conformable material with superior dimensional stability compared to calendered vinyl. This manufacturing method results in vinyl that conforms better to curves and complex surfaces, lasts longer outdoors, and maintains its appearance without shrinking or distorting over time. The material's enhanced flexibility and memory characteristics make it ideal for vehicle wraps and demanding applications.</p>\n\n<h3>How long do high-performance cast vinyl decals last outdoors?</h3>\n<p>High-performance cast vinyl typically lasts 7-10 years outdoors when properly applied to suitable surfaces. The exact lifespan depends on environmental conditions, surface preparation, and installation quality. This extended durability makes high-performance cast vinyl cost-effective for long-term applications like vehicle graphics, architectural signage, and outdoor advertising where replacement frequency needs to be minimized.</p>\n\n<h3>What surfaces work best for high-performance cast vinyl application?</h3>\n<p>High-performance cast vinyl adheres excellently to smooth, clean, non-porous surfaces including painted metal, glass, sealed fiberglass, and properly prepared automotive paint. The material's conformability allows successful application to curved surfaces, rivets, and compound shapes that would be difficult with standard vinyl. Avoid application to highly textured, porous, or freshly painted surfaces for optimal adhesion and longevity.</p>\n\n<h3>Can high-performance cast vinyl be removed without damaging paint?</h3>\n<p>When properly applied and removed, high-performance cast vinyl typically removes cleanly from automotive paint and other surfaces without causing damage. The key is using proper removal techniques including gentle heating and removing the vinyl slowly at the correct angle. However, removal ease depends on factors like surface condition, installation age, and environmental exposure, so test removal in an inconspicuous area first.</p>\n\n<h3>What file format works best for high-performance cast vinyl printing?</h3>\n<p>Vector files in Adobe Illustrator EPS or PDF format provide the best results for high-performance cast vinyl printing and cutting. These formats maintain crisp edges at any size and ensure clean cuts for die-cut and transfer-cut applications. Convert all fonts to outlines when submitting vector files to prevent font substitution issues during production.</p>\n\n<h3>Is high-performance cast vinyl suitable for vehicle wraps?</h3>\n<p>High-performance cast vinyl is the preferred material for professional vehicle wraps due to its superior conformability, durability, and dimensional stability. The material stretches and conforms to vehicle curves, door handles, and complex shapes while maintaining its appearance over time. Its 7-10 year outdoor lifespan and clean removal characteristics make it ideal for both permanent and temporary vehicle graphics.</p>\n\n<h3>What's the difference between die-cut and transfer-cut high-performance cast vinyl?</h3>\n<p>Die-cut high-performance cast vinyl is cut completely through both vinyl and backing material, creating individual pieces with clean edges and no excess material. Transfer-cut vinyl involves precision cutting and weeding of unwanted material, with transfer tape applied to maintain positioning during installation. Transfer-cutting is necessary for detailed text, multi-color graphics, and complex designs requiring precise alignment.</p>\n\nFAQ Tab\n\n--------------------------------------------------\n\n==================================================\nSEO ANALYSIS & OPTIMIZATION SUMMARY\n==================================================\n\nThe optimization transformed a product page with weak heading structure and limited commercial focus into a comprehensive, search-optimized resource for high-performance cast vinyl. Key improvements include establishing proper H2 section hierarchy representing the complete purchase journey from ordering through installation, with each section incorporating the primary product entity naturally while avoiding repetitive phrasing.\n\nTechnical SEO enhancements include implementing the required AI visibility definition section \"What Are High-Performance Cast Vinyl Decals?\" with factual product information optimized for featured snippet extraction. The heading structure now follows proper hierarchy with H1 product title, H2 major sections, and H3 subsections, while production timeline options were converted from paragraph text to proper H3 headings for better structure and scannability.\n\nContent quality improvements focus on"
+  }
+}

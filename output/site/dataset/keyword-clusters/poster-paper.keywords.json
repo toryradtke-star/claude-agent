@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "posters poster paper",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "posters poster paper installation printing",
+        "posters poster paper installation custom sizes",
+        "posters poster paper installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "posters poster paper durability printing",
+        "posters poster paper durability custom sizes",
+        "posters poster paper durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "posters poster paper pricing printing",
+        "posters poster paper pricing custom sizes",
+        "posters poster paper pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "posters poster paper printing",
+        "posters poster paper custom sizes",
+        "posters poster paper design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "posters poster paper shipping printing",
+        "posters poster paper shipping custom sizes",
+        "posters poster paper shipping design upload"
+      ]
+    }
+  ]
+}

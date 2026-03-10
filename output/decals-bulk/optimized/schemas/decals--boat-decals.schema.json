@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:51:41.703Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Boat Decals Boat",
+    "description": "Make a splash with custom boat decals. Create custom high-quality, waterproof decals for your fishing vessel, yacht or motor boat. Designed to last on the high seas!",
+    "url": "https://www.decals.com/decals/boat-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:12:08.975Z",
+  "data": {
+    "url": "https://www.decals.com/thin-blue-line/maine",
+    "pageType": "pdp",
+    "productPage": true,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "State of Maine Thin Blue Line Decal"
+      },
+      {
+        "tag": "h3",
+        "text": "How to Apply Vinyl Decals"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 1:"
+      },
+      {
+        "tag": "h4",
+        "text": "Tools Needed"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 2:"
+      },
+      {
+        "tag": "h4",
+        "text": "Clean the Surface"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 3:"
+      },
+      {
+        "tag": "h4",
+        "text": "Tape & Measure"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 4:"
+      },
+      {
+        "tag": "h4",
+        "text": "Remove the Transfer Film from the Backing"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 5:"
+      },
+      {
+        "tag": "h4",
+        "text": "Apply the Decal to the Surface"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 6:"
+      },
+      {
+        "tag": "h4",
+        "text": "Remove the Transfer Film"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 7:"
+      },
+      {
+        "tag": "h4",
+        "text": "Enjoy!"
+      },
+      {
+        "tag": "h2",
+        "text": "Production Time Table"
+      },
+      {
+        "tag": "h4",
+        "text": "3 Business Day Standard:"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      }
+    ],
+    "serpInsights": {
+      "query": "state of maine",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "state of maine",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "state of maine installation printing",
+            "state of maine installation custom sizes",
+            "state of maine installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "state of maine durability printing",
+            "state of maine durability custom sizes",
+            "state of maine durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "state of maine pricing printing",
+            "state of maine pricing custom sizes",
+            "state of maine pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "state of maine printing",
+            "state of maine custom sizes",
+            "state of maine design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "state of maine shipping printing",
+            "state of maine shipping custom sizes",
+            "state of maine shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "custom paper roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-paper-roll-labels"
+        },
+        {
+          "anchor": "custom clear roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-clear-roll-labels"
+        },
+        {
+          "anchor": "custom water bottle labels",
+          "url": "https://www.decals.com/labels/custom-water-bottle-labels"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 970,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "State of Maine Thin Blue Line Decal"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Apply Vinyl Decals"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 1:"
+        },
+        {
+          "tag": "h4",
+          "text": "Tools Needed"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 2:"
+        },
+        {
+          "tag": "h4",
+          "text": "Clean the Surface"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 3:"
+        },
+        {
+          "tag": "h4",
+          "text": "Tape & Measure"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 4:"
+        },
+        {
+          "tag": "h4",
+          "text": "Remove the Transfer Film from the Backing"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 5:"
+        },
+        {
+          "tag": "h4",
+          "text": "Apply the Decal to the Surface"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 6:"
+        },
+        {
+          "tag": "h4",
+          "text": "Remove the Transfer Film"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 7:"
+        },
+        {
+          "tag": "h4",
+          "text": "Enjoy!"
+        },
+        {
+          "tag": "h2",
+          "text": "Production Time Table"
+        },
+        {
+          "tag": "h4",
+          "text": "3 Business Day Standard:"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": {
+      "score": 70,
+      "failedChecks": [
+        {
+          "check": "required_sections",
+          "details": [
+            "MATERIAL OPTIONS TAB",
+            "FINISHING OPTIONS TAB",
+            "SHIPPING GUIDELINES TAB"
+          ]
+        },
+        {
+          "check": "cta_section_rules",
+          "details": [
+            "PRODUCTION TIMES TAB"
+          ]
+        },
+        {
+          "check": "generic_headings",
+          "details": "Contains generic headings"
+        }
+      ],
+      "retry": true,
+      "threshold": 85
+    },
+    "contentScore": {
+      "score": 95,
+      "missingEntities": [],
+      "missingHeadings": [],
+      "improvementSuggestions": []
+    },
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T16:12:08.961Z"
+    },
+    "seoRecommendations": "{\"ts\":\"2026-03-06T16:12:08.950Z\",\"level\":\"info\",\"event\":\"metric\",\"agent\":\"pdpAgent\",\"url\":\"https://www.decals.com/thin-blue-line/maine\",\"model\":\"claude-sonnet-4-20250514\",\"tokensIn\":23178,\"tokensOut\":3684,\"promptVersion\":\"unknown\",\"templateVersion\":\"unknown\",\"durationMs\":72329}\n==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: State of Maine Thin Blue Line Decal\nH2: Production Time Table\nH3: How to Apply Vinyl Decals\nH3: Products you might like\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: State of Maine Thin Blue Line Decal\nH2: State of Maine Decal Order Process\nH2: State of Maine Decal Production & Turnaround Times\nH2: State of Maine Decal Cut Options\nH2: State of Maine Decal Artwork Requirements\nH2: State of Maine Decal Shipping Information\nH2: State of Maine Decal Installation Guide\nH2: What Are State of Maine Decals?\nH2: State of Maine Decal FAQs\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h1>State of Maine Thin Blue Line Decal</h1>\n<h2>Custom Maine Law Enforcement Support Decals</h2>\n\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nShow support for Maine law enforcement with a durable vinyl State of Maine decal. Perfect for vehicles, hard hats, laptops, and any smooth non-porous surface. Available in multiple sizes with matte vinyl finish for lasting outdoor durability.\n\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Maine Law Enforcement Support Decals</h2>\n\n<p>Show your support for Maine law enforcement with our State of Maine thin blue line decals. These durable vinyl decals feature the distinctive shape of Maine with the thin blue line design, making them perfect for displaying your appreciation for Maine's finest. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>\n\n<p>Our State of Maine decals are manufactured from high-quality matte vinyl that's designed for both indoor and outdoor use. The adhesive backing bonds strongly to any smooth, non-porous surface including glass, metal, plastic, and painted surfaces.</p>\n\n<h3>State of Maine Decal Applications</h3>\n\n<p>These versatile State of Maine decals work perfectly on vehicles, hard hats, laptops, toolboxes, lockers, and office windows. The professional matte finish ensures your decal looks great in any setting while maintaining excellent visibility and durability.</p>\n\n<h3>Available Sizes</h3>\n\n<p>State of Maine decals are available in 5-inch height, measured at the tallest point of the state shape. Each decal is precisely cut to maintain the accurate proportions of Maine's distinctive outline.</p>\n\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nORDER PROCESS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>How to Order State of Maine Decals</h2>\n\n<p>Ordering custom State of Maine decals is straightforward through our streamlined process. Select your preferred quantity and size options, then add the decals to your cart. Our system will guide you through checkout where you can review all specifications before finalizing your order.</p>\n\n<h3>Design Process</h3>\n\n<p>State of Maine decals feature our standard thin blue line design in the shape of Maine. No custom artwork upload is required for this product, as it comes with our professionally designed thin blue line pattern that's specifically formatted for Maine's state outline.</p>\n\n<h3>Payment</h3>\n\n<p>We accept all major credit cards, PayPal, and business accounts. Payment is processed securely at checkout, and your order enters production immediately upon payment confirmation and any required approvals.</p>\n\n<h3>Live Order Tracking</h3>\n\n<p>Once your State of Maine decal order is placed, you'll receive email updates at key production milestones. Track your order status anytime through your customer account or using the order tracking link provided in your confirmation email.</p>\n\nOrder Process Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Maine Decal Production & Turnaround Times</h2>\n\n<p>State of Maine decals are produced using our standard vinyl cutting and application process. Production time refers specifically to manufacturing and does not include shipping time to your location.</p>\n\n<h3>3 Business Day Standard Production</h3>\n\n<p>Our most popular turnaround option provides reliable delivery timing for most State of Maine decal orders. This production timeline begins once your order is confirmed and payment is processed. Orders confirmed after 5:00 PM CST will begin production the following business day.</p>\n\n<h3>Rush Production Options</h3>\n\n<p>Emergency and same-day rush production may be available for State of Maine decals depending on current production capacity. Contact our customer service team at 320-391-5250 to discuss expedited production options for your specific timeline requirements.</p>\n\n<p>Production time begins when your order is complete and confirmed. If your State of Maine decal order requires any additional review or approval, production timing starts from the approval confirmation rather than the initial order placement.</p>\n\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nCUT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Maine Decal Cut Options</h2>\n\n<p>State of Maine decals are produced using our precision die-cut process to ensure clean edges and accurate state shape reproduction. The cutting method affects how your decal applies and appears once installed.</p>\n\n<h3>Die Cut State of Maine Decals</h3>\n\n<p>Die-cut State of Maine decals are cut precisely to the outline of Maine's shape with no excess backing material. This creates a clean, professional appearance where only the Maine outline and thin blue line design are visible after application. Die-cut decals integrate seamlessly with your surface without visible borders or rectangular backgrounds.</p>\n\n<h3>Application Method</h3>\n\n<p>Die-cut State of Maine decals include transfer tape over the face of the decal to assist with positioning and application. The transfer tape holds the decal design in place during installation and is removed after the decal is applied to your surface.</p>\n\n<p>The precision cutting ensures that each State of Maine decal maintains the accurate geographical proportions and distinctive shape that makes Maine instantly recognizable.</p>\n\nCut Options Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Maine Decal Artwork Specifications</h2>\n\n<p>State of Maine thin blue line decals come with our professionally designed artwork that combines Maine's state outline with the traditional thin blue line pattern. No custom artwork upload is required for this product.</p>\n\n<h3>Pre-Designed Artwork</h3>\n\n<p>Our State of Maine decal features a carefully crafted design that incorporates the thin blue line symbol within Maine's distinctive state shape. The design maintains proper proportions and includes appropriate contrast for excellent visibility on various surface colors.</p>\n\n<h3>Color and Finish Specifications</h3>\n\n<p>State of Maine decals are produced in matte vinyl finish that reduces glare and provides a professional appearance. The matte finish also helps the decal integrate naturally with most surface types while maintaining the visual impact of the thin blue line design.</p>\n\n<h3>Size Accuracy</h3>\n\n<p>Each State of Maine decal is manufactured to precise measurements with the 5-inch size referring to the height of the state shape at its tallest point. The width is proportionally scaled to maintain Maine's accurate geographical outline.</p>\n\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Maine Decal Shipping Information</h2>\n\n<p>State of Maine decals ship separately from production time and typically arrive within standard shipping timeframes based on your location and selected shipping method. Your total delivery time includes both production time and shipping time.</p>\n\n<h3>Shipping Methods</h3>\n\n<p>We offer multiple shipping options for State of Maine decals including standard ground shipping and expedited options. Shipping carriers include UPS, FedEx, and USPS depending on your location and package requirements. You can select your preferred shipping method during checkout.</p>\n\n<h3>Shipping Time Expectations</h3>\n\n<p>Standard ground shipping typically takes 3-7 business days depending on your distance from our Minnesota facility. Expedited shipping options can reduce delivery time to 1-3 business days. Remember that shipping time is separate from and additional to production time.</p>\n\n<h3>Important Shipping Notes</h3>\n\n<p>State of Maine decals are packaged in protective mailers to prevent damage during transit. <a href=\"https://www.decals.com/stickers/custom-hard-hat-stickers\">Custom hard hat stickers</a> and other safety-related products can be combined with State of Maine decal orders for efficient shipping. You'll receive tracking information via email once your order ships from our facility.</p>\n\nShipping Tab\n\n--------------------------------------------------\n\n==================================================\nINSTALLATION TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Maine Decal Installation Guide</h2>\n\n<p>Proper installation ensures your State of Maine decal creates a strong, lasting bond with your chosen surface. Following these installation steps will help you achieve professional-looking results that maintain their appearance over time.</p>\n\n<h3>Preparing the Surface</h3>\n\n<p>Clean the installation surface thoroughly with rubbing alcohol or warm soapy water to remove dirt, oils, and debris. Allow the surface to dry completely before applying your State of Maine decal. Clean surfaces ensure maximum adhesion strength and longevity.</p>\n\n<h3>Positioning Your State of Maine Decal</h3>\n\n<p>Before removing any backing material, position your State of Maine decal on the surface and secure the top edge with masking tape to create a hinge. This allows you to flip the decal up while you remove the backing and ensures accurate placement.</p>\n\n<h3>Applying the Decal</h3>\n\n<p>Remove the white backing paper while keeping the transfer tape in place over the decal face. Lower the decal onto your surface and use a squeegee or credit card to smooth it down, working from the center outward to eliminate air bubbles. Apply firm, consistent pressure across the entire State of Maine design.</p>\n\n<h3>Removing Transfer Tape</h3>\n\n<p>After the decal is fully applied and smoothed, carefully remove the transfer tape at a 45-degree angle. Pull slowly and steadily to ensure the State of Maine decal remains bonded to your surface rather than lifting with the transfer tape. For additional installation guidance, check out our <a href=\"https://www.decals.com/decals/dry-erase-wall-decals\">dry erase wall decals</a> installation tips that apply to various decal types.</p>\n\nInstallation Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>What Are State of Maine Decals?</h2>\n\n<p>State of Maine decals are vinyl adhesive graphics cut to the precise shape of Maine's geographical outline. Made from durable matte vinyl material, these decals are designed for both indoor and outdoor applications on smooth, non-porous surfaces. State of Maine decals commonly serve as displays of state pride, law enforcement support, or regional identification for businesses, vehicles, and personal items. They apply permanently to glass, metal, plastic, and painted surfaces using strong adhesive backing.</p>\n\n<h2>Order Custom State of Maine Decals Today</h2>\n\n<p>Ready to show your Maine pride with professional-quality State of Maine decals? Our streamlined ordering process makes it easy to get the exact quantity you need with reliable production timing. Each State of Maine decal is precision-cut to maintain accurate proportions and manufactured from durable materials that withstand weather and daily use.</p>\n\n<p>State of Maine decals work perfectly for law enforcement support, regional business branding, personal vehicle customization, and gift applications. The versatile matte finish complements any surface while ensuring your Maine connection is clearly visible.</p>\n\n<p>Select your preferred quantity and add State of Maine decals to your cart to begin the ordering process. Our customer service team is available at 320-391-5250 to answer questions about specifications, production timing, or bulk order options.</p>\n\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Maine Decal FAQs</h2>\n\n<h3>What surfaces work best for State of Maine decals?</h3>\n<p>State of Maine decals adhere best to smooth, non-porous surfaces including glass, metal, plastic, and painted surfaces. Clean, flat surfaces provide the strongest bond and longest-lasting installation. Avoid applying to textured, porous, or heavily curved surfaces.</p>\n\n<h3>How long do State of Maine decals last outdoors?</h3>\n<p>State of Maine decals are made from durable matte vinyl designed for 3-5 years of outdoor use when properly applied to appropriate surfaces. Weather resistance and UV stability help maintain appearance and adhesion through seasonal temperature changes.</p>\n\n<h3>Can I remove State of Maine decals without damage?</h3>\n<p>State of Maine decals use permanent adhesive and are intended for long-term installation. While removal is possible, it may leave adhesive residue or require careful heating and scraping. Consider placement carefully before installation.</p>\n\n<h3>What size options are available for State of Maine decals?</h3>\n<p>State of Maine decals are available in 5-inch height, measured at the tallest point of Maine's outline. The width is proportionally scaled to maintain accurate geographical shape. Custom sizing may be available for larger quantity orders.</p>\n\n<h3>Do State of Maine decals work on vehicle windows?</h3>\n<p>Yes, State of Maine decals work excellently on vehicle windows including rear windows, side windows, and windshields where legally permitted. The matte finish reduces glare while maintaining visibility of the design from outside the vehicle.</p>\n\n<h3>How should I clean surfaces before applying State of Maine decals?</h3>\n<p>Clean the surface with rubbing alcohol, warm soapy water, or standard glass cleaner to remove oils, dirt, and debris. Allow the surface to dry completely before installation. Proper surface preparation is essential for maximum adhesion strength.</p>\n\nFAQ Tab\n\n--------------------------------------------------\n\n==================================================\nSEO ANALYSIS & OPTIMIZATION SUMMARY\n==================================================\n\nTechnical SEO improvements include implementing proper heading hierarchy with H1 for the main product title and structured H2 sections covering each stage of the purchase journey. The optimized structure eliminates weak headings like \"Production Time Table\" in favor of descriptive headings that include the product entity \"State of Maine\" consistently throughout all major sections.\n\nContent quality enhancements focus on expanding thin content areas with comprehensive information about installation procedures, production processes, and product specifications. Each tab section now contains sufficient depth with 2-4 paragraphs covering relevant topics while maintaining focus on transactional purchase intent rather than purely informational content.\n\nInternal linking strategy incorporates contextual links to related products including custom hard hat stickers and dry erase wall decals within relevant sections. These links appear naturally within paragraph content rather than headings, supporting topical authority while providing users with helpful related product options.\n\nKeyword clustering optimization addresses the detected core keyword \"state of maine\" through natural integration of semantic variations including installation, durability, customization, and shipping themes. The content structure now supports these thematic clusters through dedicated sections that cover each topic comprehensively without keyword stuffing or unnatural phrasing."
+  }
+}

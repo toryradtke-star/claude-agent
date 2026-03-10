@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:57:10.604Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Bumper Stickers Bumper",
+    "description": "Design custom bumper stickers for your car or truck at Decals.com. Transform your vehicle into your mobile billboard with catchy, colorful, bumper stickers.",
+    "url": "https://www.decals.com/stickers/custom-bumper-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "backdrop banners backdrop",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "backdrop banners backdrop installation printing",
+        "backdrop banners backdrop installation custom sizes",
+        "backdrop banners backdrop installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "backdrop banners backdrop durability printing",
+        "backdrop banners backdrop durability custom sizes",
+        "backdrop banners backdrop durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "backdrop banners backdrop pricing printing",
+        "backdrop banners backdrop pricing custom sizes",
+        "backdrop banners backdrop pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "backdrop banners backdrop printing",
+        "backdrop banners backdrop custom sizes",
+        "backdrop banners backdrop design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "backdrop banners backdrop shipping printing",
+        "backdrop banners backdrop shipping custom sizes",
+        "backdrop banners backdrop shipping design upload"
+      ]
+    }
+  ]
+}

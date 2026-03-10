@@ -1,0 +1,69 @@
+{
+  "url": "https://www.banners.com/banners-and-flags",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 646,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h4",
+        "text": "Products"
+      },
+      {
+        "tag": "h1",
+        "text": "Custom Banners & Flags - Order Banners & Flags Online!"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h4",
+      "text": "Products"
+    },
+    {
+      "tag": "h1",
+      "text": "Custom Banners & Flags - Order Banners & Flags Online!"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

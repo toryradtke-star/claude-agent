@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:56:44.592Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Hard Hat Stickers",
+    "description": "Create custom hard hat stickers at Decals.com! Add your company logo, design or safety labeling. Use our online design tool to upload your own design!",
+    "url": "https://www.decals.com/stickers/custom-hard-hat-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

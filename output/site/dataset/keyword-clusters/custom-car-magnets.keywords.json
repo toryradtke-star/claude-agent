@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "car magnets car",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "car magnets car installation printing",
+        "car magnets car installation custom sizes",
+        "car magnets car installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "car magnets car durability printing",
+        "car magnets car durability custom sizes",
+        "car magnets car durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "car magnets car pricing printing",
+        "car magnets car pricing custom sizes",
+        "car magnets car pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "car magnets car printing",
+        "car magnets car custom sizes",
+        "car magnets car design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "car magnets car shipping printing",
+        "car magnets car shipping custom sizes",
+        "car magnets car shipping design upload"
+      ]
+    }
+  ]
+}

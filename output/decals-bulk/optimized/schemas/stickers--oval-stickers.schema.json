@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:55:21.704Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Oval Stickers Oval",
+    "description": "Oval stickers are a very popular sticker shape. They're ideal for logos. Upload your design using our online design tool. Customize your own now!",
+    "url": "https://www.decals.com/stickers/oval-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

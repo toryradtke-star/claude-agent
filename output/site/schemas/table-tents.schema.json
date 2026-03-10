@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Table Tents Table",
+  "description": "Table tents are a versatile marketing tool that can be used to promote your business. Learn more about table tent printing and how tent cards can help you promote your brand and attract customers.",
+  "url": "https://www.banners.com/table-tents",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

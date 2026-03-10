@@ -1,0 +1,570 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:45:55.273Z",
+  "data": {
+    "url": "https://www.decals.com/custom-business-card-magnet",
+    "pageType": "pdp",
+    "productPage": true,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Custom Magnetic Business Cards"
+      },
+      {
+        "tag": "h3",
+        "text": "Create One-of-a-Kind Magnetic Business Cards!"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Methods"
+      },
+      {
+        "tag": "h3",
+        "text": "Payment"
+      },
+      {
+        "tag": "h3",
+        "text": "Live Order Tracking"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h3",
+        "text": "1 Business Day Priority:"
+      },
+      {
+        "tag": "h3",
+        "text": "2 Business Days Express:"
+      },
+      {
+        "tag": "h3",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h3",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h3",
+        "text": "Magnet Finishing Options"
+      },
+      {
+        "tag": "h3",
+        "text": "Die Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Square Cut with Rounded Corners"
+      },
+      {
+        "tag": "h3",
+        "text": "Square Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Artwork Specifications"
+      },
+      {
+        "tag": "h3",
+        "text": "Preferred Files for Printing"
+      },
+      {
+        "tag": "h3",
+        "text": "Additional Files Accepted"
+      },
+      {
+        "tag": "h3",
+        "text": "File Tips"
+      },
+      {
+        "tag": "h3",
+        "text": "Vector Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Raster Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Services"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping Methods:"
+      },
+      {
+        "tag": "h3",
+        "text": "Important Economy Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "National and International Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload Your File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Business Card Magnets Return to Top"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Decals.com?"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Service"
+      },
+      {
+        "tag": "h3",
+        "text": "Made in the USA"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast Turnaround"
+      },
+      {
+        "tag": "h3",
+        "text": "Track Your Order"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Product Information"
+      },
+      {
+        "tag": "h4",
+        "text": "What material are your magnets made out of?"
+      },
+      {
+        "tag": "h4",
+        "text": "What kinds of metallic surfaces do magnets cling to?"
+      },
+      {
+        "tag": "h4",
+        "text": "What are the most common magnetic business card sizes?"
+      },
+      {
+        "tag": "h4",
+        "text": "What is the minimum magnet quantity I can order?"
+      },
+      {
+        "tag": "h4",
+        "text": "Are your magnet products waterproof?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I order a contour-cut or die-cut magnetic business card?"
+      },
+      {
+        "tag": "h4",
+        "text": "I recently got a new mobile phone number for my business, can I write it on my magnets?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I have a vertically designed business card?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I add a photo to my magnet?"
+      },
+      {
+        "tag": "h4",
+        "text": "Other than handing them out like marketing candy, how can I use these products?"
+      }
+    ],
+    "serpInsights": {
+      "query": "magnetic business cards",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "magnetic business cards",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "magnetic business cards installation printing",
+            "magnetic business cards installation custom sizes",
+            "magnetic business cards installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "magnetic business cards durability printing",
+            "magnetic business cards durability custom sizes",
+            "magnetic business cards durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "magnetic business cards pricing printing",
+            "magnetic business cards pricing custom sizes",
+            "magnetic business cards pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "magnetic business cards printing",
+            "magnetic business cards custom sizes",
+            "magnetic business cards design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "magnetic business cards shipping printing",
+            "magnetic business cards shipping custom sizes",
+            "magnetic business cards shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "custom clear roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-clear-roll-labels"
+        },
+        {
+          "anchor": "custom car magnet",
+          "url": "https://www.decals.com/custom-car-magnet"
+        },
+        {
+          "anchor": "custom photo magnet",
+          "url": "https://www.decals.com/custom-photo-magnet"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 1500,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "Custom Magnetic Business Cards"
+        },
+        {
+          "tag": "h3",
+          "text": "Create One-of-a-Kind Magnetic Business Cards!"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Methods"
+        },
+        {
+          "tag": "h3",
+          "text": "Payment"
+        },
+        {
+          "tag": "h3",
+          "text": "Live Order Tracking"
+        },
+        {
+          "tag": "h3",
+          "text": "Production Time Tables"
+        },
+        {
+          "tag": "h3",
+          "text": "1 Business Day Priority:"
+        },
+        {
+          "tag": "h3",
+          "text": "2 Business Days Express:"
+        },
+        {
+          "tag": "h3",
+          "text": "3 Business Days Standard:"
+        },
+        {
+          "tag": "h3",
+          "text": "5 Business Days Saver:"
+        },
+        {
+          "tag": "h3",
+          "text": "Magnet Finishing Options"
+        },
+        {
+          "tag": "h3",
+          "text": "Die Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Square Cut with Rounded Corners"
+        },
+        {
+          "tag": "h3",
+          "text": "Square Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Artwork Specifications"
+        },
+        {
+          "tag": "h3",
+          "text": "Preferred Files for Printing"
+        },
+        {
+          "tag": "h3",
+          "text": "Additional Files Accepted"
+        },
+        {
+          "tag": "h3",
+          "text": "File Tips"
+        },
+        {
+          "tag": "h3",
+          "text": "Vector Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Raster Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Services"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping Methods:"
+        },
+        {
+          "tag": "h3",
+          "text": "Important Economy Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "National and International Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload Your File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Business Card Magnets Return to Top"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Decals.com?"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Service"
+        },
+        {
+          "tag": "h3",
+          "text": "Made in the USA"
+        },
+        {
+          "tag": "h3",
+          "text": "Fast Turnaround"
+        },
+        {
+          "tag": "h3",
+          "text": "Track Your Order"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Product Information"
+        },
+        {
+          "tag": "h4",
+          "text": "What material are your magnets made out of?"
+        },
+        {
+          "tag": "h4",
+          "text": "What kinds of metallic surfaces do magnets cling to?"
+        },
+        {
+          "tag": "h4",
+          "text": "What are the most common magnetic business card sizes?"
+        },
+        {
+          "tag": "h4",
+          "text": "What is the minimum magnet quantity I can order?"
+        },
+        {
+          "tag": "h4",
+          "text": "Are your magnet products waterproof?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I order a contour-cut or die-cut magnetic business card?"
+        },
+        {
+          "tag": "h4",
+          "text": "I recently got a new mobile phone number for my business, can I write it on my magnets?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I have a vertically designed business card?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I add a photo to my magnet?"
+        },
+        {
+          "tag": "h4",
+          "text": "Other than handing them out like marketing candy, how can I use these products?"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": {
+      "score": 70,
+      "failedChecks": [
+        {
+          "check": "required_sections",
+          "details": [
+            "MATERIAL OPTIONS TAB",
+            "FINISHING OPTIONS TAB",
+            "SHIPPING GUIDELINES TAB"
+          ]
+        },
+        {
+          "check": "cta_section_rules",
+          "details": [
+            "PRODUCTION TIMES TAB"
+          ]
+        },
+        {
+          "check": "generic_headings",
+          "details": "Contains generic headings"
+        }
+      ],
+      "retry": true,
+      "threshold": 85
+    },
+    "contentScore": {
+      "score": 95,
+      "missingEntities": [],
+      "missingHeadings": [],
+      "improvementSuggestions": []
+    },
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T15:45:55.260Z"
+    },
+    "seoRecommendations": "{\"ts\":\"2026-03-06T15:45:55.249Z\",\"level\":\"info\",\"event\":\"metric\",\"agent\":\"pdpAgent\",\"url\":\"https://www.decals.com/custom-business-card-magnet\",\"model\":\"claude-sonnet-4-20250514\",\"tokensIn\":24931,\"tokensOut\":4083,\"promptVersion\":\"unknown\",\"templateVersion\":\"unknown\",\"durationMs\":92276}\n==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Custom Magnetic Business Cards\nH3: Create One-of-a-Kind Magnetic Business Cards!\nH3: Design Methods\nH3: Payment\nH3: Live Order Tracking\nH3: Production Time Tables\nH3: 1 Business Day Priority:\nH3: 2 Business Days Express:\nH3: 3 Business Days Standard:\nH3: 5 Business Days Saver:\nH3: Magnet Finishing Options\nH3: Die Cut\nH3: Square Cut with Rounded Corners\nH3: Square Cut\nH3: Artwork Specifications\nH3: Preferred Files for Printing\nH3: Additional Files Accepted\nH3: File Tips\nH3: Vector Art\nH3: Raster Art\nH3: Design Services\nH3: Shipping\nH2: More About Business Card Magnets Return to Top\nH2: Why Choose Decals.com?\nH2: Frequently Asked Questions Return to Top\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Magnetic Business Cards\nH2: Order Your Custom Magnetic Business Cards\nH2: Magnetic Business Card Production & Turnaround Times\nH2: Finishing Options for Magnetic Business Cards\nH2: Artwork Requirements for Magnetic Business Cards\nH2: Magnetic Business Card Shipping & Delivery\nH2: Installation & Application of Magnetic Business Cards\nH2: What Are Magnetic Business Cards?\nH2: Magnetic Business Card FAQs\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h1>Custom Magnetic Business Cards</h1>\n<h2>Make Your Business Information Stick with Professional Magnetic Business Cards</h2>\n\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nSize: Choose your magnetic business card dimensions\nQuantity: Select the number of magnetic business cards needed\nProduction Time: Select your turnaround preference\nUpload Design: Add your artwork or use our online designer\n\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Professional Magnetic Business Cards for Your Brand</h2>\n<p>Transform your networking with custom magnetic business cards that ensure your contact information stays visible and accessible. Unlike traditional paper business cards that get lost or thrown away, magnetic business cards stick to refrigerators, filing cabinets, and metal surfaces, keeping your brand in front of customers every day. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>\n\n<p>Perfect for trade shows, networking events, job fairs, and direct mail campaigns, these durable marketing tools feature vibrant full-color printing on flexible magnetic material. Each magnetic business card includes a protective laminate finish that resists moisture and wear, ensuring your professional image remains crisp and clear.</p>\n\n<p>Available in standard business card sizes or custom dimensions, magnetic business cards offer three finishing options: die-cut for unique shapes, square-cut with rounded corners for a professional appearance, or straight square-cut edges for a clean, modern look. Design your magnetic business cards using our intuitive online designer or upload your own print-ready artwork for complete customization.</p>\n\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nORDER PROCESS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>How to Order Custom Magnetic Business Cards</h2>\n<p>Ordering your magnetic business cards is simple and straightforward. Start by selecting your preferred size, quantity, and production timeline using our online configurator. You can either design your magnetic business cards from scratch using our user-friendly online designer or upload your own print-ready artwork file.</p>\n\n<h3>Design Process</h3>\n<p>Our online designer provides access to professional templates, clipart libraries, and text formatting tools specifically optimized for magnetic business card layouts. Simply upload your logo, add your contact information, and customize colors and fonts to match your brand identity. For customers uploading existing artwork, we recommend EPS or PDF files to ensure the highest print quality for your magnetic business cards.</p>\n\n<h3>Payment</h3>\n<p>All magnetic business card orders must be paid in full before production begins. We accept Visa, Mastercard, American Express, and Discover credit cards for immediate processing. Check payments are also accepted, though orders will not enter production until payment is received and processed.</p>\n\n<h3>Live Order Tracking</h3>\n<p>After placing your magnetic business card order, you'll receive a unique Live Order Tracking number via email. This system allows you to monitor your order's progress through every stage of production, from artwork approval to final delivery. Simply click the tracking link in your email for real-time updates on your magnetic business cards.</p>\n\nOrder Process Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Magnetic Business Card Production & Turnaround Times</h2>\n<p>Our flexible production schedule accommodates urgent deadlines and standard timelines, giving you complete control over when your magnetic business cards are completed. Production time begins once artwork approval is confirmed and payment is processed. Note that total delivery time includes both production and shipping duration.</p>\n\n<h3>1 Business Day Priority Production</h3>\n<p>Perfect for tight deadlines and last-minute networking events. Orders approved after 5:00 PM CST will begin production the following business day. Emergency same-day production may be available in special circumstances - contact our customer service team to discuss your magnetic business card requirements.</p>\n\n<h3>2 Business Days Express Production</h3>\n<p>Ideal when you need magnetic business cards quickly but have slightly more flexibility than our priority option. Orders approved after 5:00 PM CST will start production the next business day. This timeline works well for trade shows and scheduled networking events.</p>\n\n<h3>3 Business Days Standard Production</h3>\n<p>Our most popular production option offers excellent speed at no additional cost. This timeline provides sufficient buffer for artwork revisions while ensuring your magnetic business cards arrive when needed. Orders approved after 5:00 PM CST begin production the following business day.</p>\n\n<h3>5 Business Days Saver Production</h3>\n<p>Choose this economical option when your magnetic business cards aren't urgently needed. This extended timeline reduces production costs while maintaining our quality standards. Perfect for bulk orders and advance planning for upcoming marketing campaigns.</p>\n\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nCUT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Finishing Options for Magnetic Business Cards</h2>\n<p>Choose from three professional finishing options to customize the appearance and functionality of your magnetic business cards. All magnetic business cards include a protective laminate finish that resists moisture, scratches, and fading to ensure long-lasting durability.</p>\n\n<h3>Die Cut Magnetic Business Cards</h3>\n<p>Create unique shapes and contours that make your magnetic business cards stand out from standard rectangular formats. Die-cutting allows for custom shapes, rounded corners with specific radii, or cut-outs that highlight important information. This option requires vector artwork with clearly marked cut lines to ensure precise manufacturing.</p>\n\n<h3>Square Cut with Rounded Corners Magnetic Business Cards</h3>\n<p>Our standard finishing option provides a professional appearance with gently rounded corners that resist wear and prevent sharp edges. This classic finish works well for most business applications and provides a polished, professional look that complements any brand image.</p>\n\n<h3>Square Cut Magnetic Business Cards</h3>\n<p>Clean, straight edges create a modern, contemporary appearance perfect for businesses seeking a minimalist aesthetic. Square-cut magnetic business cards maximize the printable area and work especially well with geometric designs and bold graphics that extend to the edges.</p>\n\nCut Options Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Artwork Requirements for Magnetic Business Cards</h2>\n<p>Proper artwork preparation ensures your magnetic business cards print with crisp text, vibrant colors, and precise registration. We accept various file formats, though vector-based files produce the highest quality results for magnetic business card printing.</p>\n\n<h3>Preferred File Types</h3>\n<p>Adobe Illustrator EPS (Encapsulated PostScript) and Adobe PDF files provide optimal print quality for magnetic business cards. When submitting these formats, convert all fonts to outlines or curves to prevent font substitution issues. Maximum file size is 100 MB to ensure efficient processing.</p>\n\n<h3>Additional File Formats</h3>\n<p>High-resolution JPEG, TIFF, and PNG files are acceptable for magnetic business card orders. These raster formats work best when created at full size with sufficient resolution: 300 DPI at actual size, 600 DPI at 50% scale, or 1200 DPI at 25% scale.</p>\n\n<h3>File Setup Guidelines</h3>\n<p>Set up your artwork at the exact dimensions of your magnetic business cards to ensure proper proportions. Convert all text to outlines to prevent font issues, and clearly indicate cut lines for die-cut options. Include bleed areas only when extending graphics to the edges, and never flatten layers in Photoshop files.</p>\n\n<h3>Design Services</h3>\n<p>If your existing artwork requires improvement for magnetic business card printing, our <a href=\"https://www.decals.com/custom-quotes\">vectorizing and recreation services</a> can help. Most logos and images can be recreated starting at $15, with complex designs quoted individually. This service must be paid in advance, and we'll keep your recreated artwork on file for future magnetic business card orders.</p>\n\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Magnetic Business Card Shipping & Delivery</h2>\n<p>Your magnetic business cards will be carefully packaged and shipped via reliable carriers to ensure safe delivery. Shipping time is separate from production time, so factor both durations when planning your delivery requirements.</p>\n\n<h3>Shipping Methods</h3>\n<p>Standard shipping via UPS Ground or USPS typically delivers magnetic business cards within 2-4 business days after production completion. Expedited shipping options are available for faster delivery when your magnetic business cards are needed urgently. All orders include tracking information for delivery monitoring.</p>\n\n<h3>Shipping Time Expectations</h3>\n<p>Delivery timeframes depend on your location and selected shipping method. Most magnetic business card orders ship within the continental United States arrive within 2-4 business days via standard ground service. <a href=\"https://www.decals.com/custom-car-magnet\">Custom car magnets</a> and other magnetic products ship using the same reliable methods.</p>\n\n<h3>Important Shipping Notes</h3>\n<p>Magnetic business cards are packaged with protective backing to prevent accidental adhesion during transit. Orders shipping to metal structures or locations with strong magnetic fields should be handled carefully during unpacking. International shipping is available with extended delivery times and additional customs requirements.</p>\n\nShipping Tab\n\n--------------------------------------------------\n\n==================================================\nINSTALLATION TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Installation & Application of Magnetic Business Cards</h2>\n<p>Magnetic business cards are designed for easy application and repositioning on compatible metal surfaces. Proper placement ensures maximum adhesion and longevity for your magnetic business cards.</p>\n\n<h3>Preparing the Surface</h3>\n<p>Clean the target metal surface with a dry cloth to remove dust, oil, and debris that could interfere with magnetic adhesion. Smooth, flat metal surfaces provide the strongest hold for magnetic business cards. Textured or painted metal surfaces may reduce magnetic strength.</p>\n\n<h3>Applying Magnetic Business Cards</h3>\n<p>Place your magnetic business card against the cleaned metal surface and press firmly to ensure full contact. The flexible magnetic material will conform to slight surface variations. Magnetic business cards can be repositioned multiple times without losing adhesive strength.</p>\n\n<h3>Compatible Surfaces</h3>\n<p>Magnetic business cards adhere best to ferrous metals including steel, iron, and magnetic stainless steel. They will not stick to aluminum, brass, copper, or non-magnetic stainless steel surfaces. Test adhesion on a small area before applying multiple magnetic business cards. Consider pairing with <a href=\"https://www.decals.com/custom-photo-magnet\">custom photo magnets</a> for comprehensive magnetic marketing materials.</p>\n\nInstallation Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>What Are Magnetic Business Cards?</h2>\n<p>Magnetic business cards are flexible promotional materials printed on thin magnetic substrate with a protective laminate coating. Made from rubber magnetic material, these cards function like traditional business cards but stick to metal surfaces such as refrigerators, filing cabinets, and office equipment. They are commonly used for networking, trade shows, direct mail campaigns, and service reminders where long-term visibility is important. Unlike paper business cards, magnetic business cards remain visible for extended periods, providing ongoing brand exposure and contact information access.</p>\n\n<h2>Order Professional Magnetic Business Cards Today</h2>\n<p>Ready to make your business information stick? Design your custom magnetic business cards using our online designer or upload your own artwork to get started. With fast turnaround times, professional finishing options, and durable magnetic material, your magnetic business cards will keep your brand visible long after initial contact.</p>\n\n<p>Choose from multiple sizes, quantities, and production timelines to meet your specific networking and marketing requirements. Our <a href=\"https://www.decals.com/save-the-date-magnets\">save the date magnets</a> use similar magnetic technology for event announcements, while our full range of magnetic products provides comprehensive promotional solutions.</p>\n\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Magnetic Business Card FAQs</h2>\n\n<h3>What material are magnetic business cards made from?</h3>\n<p>Magnetic business cards are manufactured using flexible rubber magnetic material with full-color digital printing and a protective laminate finish. This construction provides durability, weather resistance, and strong magnetic adhesion to compatible metal surfaces.</p>\n\n<h3>What surfaces work best for magnetic business cards?</h3>\n<p>Magnetic business cards adhere strongly to ferrous metals including steel, iron, and some stainless steel surfaces. They work perfectly on refrigerators, filing cabinets, metal doors, and office equipment. They will not stick to aluminum, brass, copper, or non-magnetic materials.</p>\n\n<h3>What are the standard sizes for magnetic business cards?</h3>\n<p>Standard magnetic business card dimensions are 3.5\" x 2\" and 2\" x 3.5\" to match traditional business card proportions. Custom sizes are available to accommodate unique design requirements or specific magnetic business card applications.</p>\n\n<h3>How long do magnetic business cards last outdoors?</h3>\n<p>Magnetic business cards feature weather-resistant laminate coating that protects against moisture, UV rays, and temperature changes. With proper application on suitable metal surfaces, magnetic business cards typically maintain their appearance and magnetic strength for 2-3 years in outdoor conditions.</p>\n\n<h3>Can magnetic business cards be die-cut into custom shapes?</h3>\n<p>Yes, magnetic business cards can be die-cut into virtually any shape or configuration. Custom die-cutting requires vector artwork with clearly marked cut lines and may involve additional setup costs depending on complexity. Standard shapes and rounded corners are included at no extra charge.</p>\n\n<h3>What file format works best for magnetic business card artwork?</h3>\n<p>Adobe Illustrator EPS and PDF files produce the highest quality results for magnetic business card printing. High-resolution JPEG, TIFF, and PNG files are also acceptable. Convert all fonts to outlines and ensure artwork is created at actual size with 300 DPI resolution for optimal print quality.</p>\n\nFAQ Tab\n\n--------------------------------------------------\n\n==================================================\nSEO ANALYSIS & OPTIMIZATION SUMMARY\n==================================================\n\nTechnical SEO improvements include restructuring the heading hierarchy from multiple H3 sections to properly organized H2 sections that represent distinct stages in the purchase journey. The original structure lacked clear H2 organization and mixed production timeline information with general product details. The optimized structure creates dedicated sections for ordering, production, finishing options, artwork requirements, shipping, and installation.\n\nContent Quality enhancements focus on expanding thin sections into comprehensive information blocks that address customer decision-making factors. The original content contained basic information spread across disconnected sections, while the optimized version provides detailed explanations for each aspect of the magnetic business card ordering and production process. Added semantic keyword variations throughout content sections while maintaining natural language flow.\n\nInternal Linking strategy incorporates contextual links to related magnetic products and complementary services. Added links to save the date magnets, custom car magnets, custom photo magnets, and custom quotes page within relevant content sections. Links are placed naturally within paragraph content to support user navigation and search engine crawling.\n\nKeyword Clustering optimization addresses the identified clusters for installation, durability, customization, pricing, and shipping through dedicated content sections. Each cluster receives comprehensive coverage within its corresponding H2 section, with natural integration of related keyword variations. The FAQ section specifically targets common search queries around magnetic business card materials, surfaces, sizes, durability, and customization options."
+  }
+}

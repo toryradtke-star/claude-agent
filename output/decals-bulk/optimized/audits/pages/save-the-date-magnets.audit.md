@@ -1,0 +1,336 @@
+# Page Audit
+
+- URL: https://www.decals.com/save-the-date-magnets
+- Page Type: pdp
+- Product Page: true
+- Score: 70
+
+## Recommendations
+{"ts":"2026-03-06T15:46:09.099Z","level":"info","event":"metric","agent":"pdpAgent","url":"https://www.decals.com/save-the-date-magnets","model":"claude-sonnet-4-20250514","tokensIn":24905,"tokensOut":4473,"promptVersion":"unknown","templateVersion":"unknown","durationMs":90434}
+==================================================
+BEFORE HEADING STRUCTURE
+==================================================
+
+H1: Custom Wedding Save the Date Magnets
+H3: Create One-of-a-Kind Wedding Save the Date Magnets!
+H3: Design Methods
+H3: Payment
+H3: Live Order Tracking
+H3: Magnet Finishing Options
+H3: Die Cut
+H3: Square Cut with Rounded Corners
+H3: Square Cut
+H3: Artwork Specifications
+H3: Preferred Files for Printing
+H3: Additional Files Accepted
+H3: File Tips
+H3: Vector Art
+H3: Raster Art
+H3: Design Services
+H3: Shipping
+H3: Shipping Methods
+H3: Important Economy Shipping Notes
+H3: National and International Shipping Notes
+H3: Production Time Tables
+H3: 1 Business Day Priority
+H3: 2 Business Days Express
+H2: Why Choose Decals.com?
+H2: Frequently Asked Questions Return to Top
+
+==================================================
+AFTER OPTIMIZED STRUCTURE
+==================================================
+
+H1: Custom Wedding Save the Date Magnets
+H2: Wedding Save the Date Magnet Order Process
+H2: Wedding Save the Date Magnet Production & Turnaround Times
+H2: Wedding Save the Date Magnet Cut Options
+H2: Wedding Save the Date Magnet Artwork Requirements
+H2: Wedding Save the Date Magnet Shipping Information
+H2: Wedding Save the Date Magnet Application Guide
+H2: What Are Wedding Save the Date Magnets?
+H2: Wedding Save the Date Magnet FAQs
+
+==================================================
+PRODUCT HEADER
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h1>Custom Wedding Save the Date Magnets</h1>
+<h2>Premium Wedding Save the Date Magnets for Your Special Day</h2>
+
+Product Title / Subtitle Section
+
+--------------------------------------------------
+
+==================================================
+CONFIGURATOR LABELS
+==================================================
+
+COPY EVERYTHING BELOW
+
+Design Your Wedding Save the Date Magnets
+Upload Your Wedding Design
+Select Magnet Finish Options
+Choose Your Quantity
+Add to Cart - Start Your Order
+
+Configurator Labels
+
+--------------------------------------------------
+
+==================================================
+PRODUCT OVERVIEW TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Wedding Save the Date Magnet Overview</h2>
+
+<p>Create memorable wedding save the date magnets that your guests will proudly display on their refrigerators, filing cabinets, and magnetic surfaces. These custom wedding save the date magnets combine practical functionality with elegant wedding announcement capabilities, ensuring your special date stays visible until your big day arrives. See also [dry erase wall decals](https://www.decals.com/decals/dry-erase-wall-decals).</p>
+
+<p>Our wedding save the date magnets feature durable magnetic backing with laminated finish protection, making them perfect for long-term display on refrigerators and metal surfaces. Each magnet is printed with vibrant colors and sharp detail reproduction, allowing you to showcase your wedding theme, photos, and essential date information with professional quality results.</p>
+
+<p>Design flexibility includes multiple cut options from traditional square corners to custom die-cut shapes that match your wedding style. Whether you prefer classic rectangular formats or unique contour shapes, our wedding save the date magnets can accommodate your creative vision while maintaining strong magnetic hold and lasting durability.</p>
+
+Product Overview Tab
+
+--------------------------------------------------
+
+==================================================
+ORDER PROCESS TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>How to Order Wedding Save the Date Magnets</h2>
+
+<p>Ordering your custom wedding save the date magnets begins with selecting your preferred design method and magnet specifications. Our streamlined process ensures your wedding save the date magnets are produced with precision and delivered according to your timeline requirements.</p>
+
+<h3>Design Process Options</h3>
+
+<p>Choose between our user-friendly online designer tool or upload your completed artwork file. The online designer allows you to incorporate wedding photos, select from wedding-themed graphics, and customize text layouts directly in your browser. For professional designs, upload EPS files to ensure optimal print quality for your wedding save the date magnets.</p>
+
+<h3>Proof Approval and Payment</h3>
+
+<p>After adding your wedding save the date magnets to your cart and selecting shipping preferences, you'll receive an email proof for approval. This proof shows exactly how your magnets will appear, including colors, layout, and cut lines. Once you approve the proof and complete payment, your order moves into production immediately.</p>
+
+<h3>Live Order Tracking System</h3>
+
+<p>Our Live Order Tracking system provides real-time updates on your wedding save the date magnet production status. From initial processing through final shipping, you'll receive detailed progress information via your unique tracking number, ensuring you know exactly when your magnets will arrive for distribution to your wedding guests.</p>
+
+Order Process Tab
+
+--------------------------------------------------
+
+==================================================
+PRODUCTION TIMES TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Wedding Save the Date Magnet Production & Turnaround Times</h2>
+
+<p>Production timelines for wedding save the date magnets range from one to five business days, allowing you to select the turnaround speed that matches your wedding announcement timeline. All production time calculations begin from proof approval, not initial order placement.</p>
+
+<h3>1 Business Day Priority Production</h3>
+
+<p>Priority production delivers your wedding save the date magnets within one business day from proof approval. Orders approved after 5:00 PM CST begin processing the following business day. Emergency same-day production may be available in special circumstances through direct customer service consultation.</p>
+
+<h3>2 Business Days Express Production</h3>
+
+<p>Express production provides additional time for complex designs while maintaining fast delivery for your wedding save the date magnets. This option works well for orders requiring detailed review or multiple design elements, with processing beginning the business day following approval for orders approved after 5:00 PM CST.</p>
+
+<h3>3 Business Days Standard Production</h3>
+
+<p>Standard production accommodates most wedding save the date magnet orders with reliable three-day turnaround from proof approval. This timeline allows for thorough quality control and careful attention to color matching and cut precision, ensuring professional results for your wedding announcements.</p>
+
+<h3>5 Business Days Saver Production</h3>
+
+<p>Saver production offers the most economical timeline for wedding save the date magnets when faster delivery isn't essential. This option provides the same high-quality results with additional time for optimal scheduling and production efficiency, perfect for early wedding planning stages.</p>
+
+Production Times Tab
+
+--------------------------------------------------
+
+==================================================
+CUT OPTIONS TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Wedding Save the Date Magnet Cut Options</h2>
+
+<p>Wedding save the date magnet finishing options include three distinct cutting methods, each offering different aesthetic and functional benefits. All magnetic products include protective laminate finishing regardless of cut selection, ensuring durability and professional appearance.</p>
+
+<h3>Die Cut Wedding Save the Date Magnets</h3>
+
+<p>Die cutting creates custom-shaped wedding save the date magnets that follow your design's contours precisely. This option works exceptionally well for wedding designs featuring decorative borders, heart shapes, or other thematic elements that enhance the magnet's visual appeal beyond standard rectangular formats.</p>
+
+<h3>Square Cut with Rounded Corners</h3>
+
+<p>Square cut with rounded corners represents the standard finishing option for wedding save the date magnets, providing clean edges with softened corners for safe handling. This professional finish complements traditional wedding announcement styles while ensuring easy application and removal from magnetic surfaces.</p>
+
+<h3>Square Cut Wedding Save the Date Magnets</h3>
+
+<p>Square cut finishing delivers sharp, precise edges for wedding save the date magnets requiring geometric precision. This cut option suits modern wedding themes and designs where clean lines and crisp edges enhance the overall aesthetic presentation of your wedding announcement magnets.</p>
+
+Cut Options Tab
+
+--------------------------------------------------
+
+==================================================
+ARTWORK TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Wedding Save the Date Magnet Artwork Requirements</h2>
+
+<p>Artwork specifications for wedding save the date magnets ensure optimal print quality and accurate color reproduction. Understanding file requirements and preparation guidelines helps achieve professional results that properly represent your wedding theme and information.</p>
+
+<h3>Preferred File Types for Wedding Save the Date Magnets</h3>
+
+<p>Adobe Illustrator EPS and PDF files provide the highest quality results for wedding save the date magnets, supporting vector graphics that maintain sharpness at any size. When submitting these files, convert all text to outlines or curves to prevent font substitution issues during production. Maximum file size acceptance is 100 MB per upload.</p>
+
+<h3>Additional Accepted File Formats</h3>
+
+<p>High-resolution JPEG, TIFF, and PNG files are acceptable for wedding save the date magnets containing photographic elements or raster-based designs. These formats work well for wedding photos and complex imagery that doesn't require vector precision, provided they meet minimum resolution requirements for your magnet size.</p>
+
+<h3>Resolution and Setup Guidelines</h3>
+
+<p>Set up artwork proportionate to your final wedding save the date magnet size, following specific resolution requirements: 100 DPI for full-size files, 200 DPI minimum for 50% scale, 300 DPI minimum for 25% scale, and 600-1200 DPI for files at 10% scale or smaller. Include appropriate bleed areas only when necessary for die-cut designs.</p>
+
+<h3>Design Recreation Services</h3>
+
+<p>Professional vectorizing and design recreation services are available for wedding save the date magnets requiring file optimization or complete design development. Most logo and image recreation projects start at $15, with complex designs subject to custom quoting. This service requires advance payment and includes file storage for future orders.</p>
+
+Artwork Tab
+
+--------------------------------------------------
+
+==================================================
+SHIPPING TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Wedding Save the Date Magnet Shipping Information</h2>
+
+<p>Wedding save the date magnet shipping typically delivers within 2-4 business days after production completion to 90% of the United States. Standard shipping via UPS Ground provides reliable delivery with tracking information, ensuring your wedding announcements arrive safely for guest distribution.</p>
+
+<h3>Available Shipping Methods</h3>
+
+<p>Multiple shipping speeds accommodate different timeline needs for your wedding save the date magnets: Economy shipping (5-15 days), Standard shipping (3-5 business days), Three Day shipping, Two Day shipping, and Overnight shipping (1 business day). Each option includes full tracking capability and delivery confirmation.</p>
+
+<h3>Shipping Timeline Expectations</h3>
+
+<p>Shipping time calculations are separate from production time for wedding save the date magnets. Your total delivery timeline includes both production days and shipping days, so plan accordingly when determining your order timing. Rush shipping options can accommodate tight wedding announcement deadlines when combined with priority production.</p>
+
+<h3>Important Shipping Considerations</h3>
+
+<p>Economy shipping for wedding save the date magnets may add 5-10 additional days depending on destination, requiring P.O. Box information in the Address Two field during checkout. International shipping requires customer-provided shipping labels and customs documentation, accepted only from USPS and UPS carriers with advance coordination.</p>
+
+Shipping Tab
+
+--------------------------------------------------
+
+==================================================
+INSTALLATION TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Wedding Save the Date Magnet Application Guide</h2>
+
+<p>Applying wedding save the date magnets requires clean magnetic surfaces and proper placement techniques to ensure secure adhesion and professional appearance. These guidelines help maximize magnetic hold strength and prevent damage during application and removal.</p>
+
+<h3>Surface Preparation for Wedding Save the Date Magnets</h3>
+
+<p>Clean the intended magnetic surface thoroughly with mild soap and water, removing any grease, dust, or residue that could interfere with magnetic contact. Refrigerators, filing cabinets, and metal surfaces work best for wedding save the date magnets when completely dry and free from textural interference.</p>
+
+<h3>Proper Magnet Placement Technique</h3>
+
+<p>Position your wedding save the date magnet against the magnetic surface and press firmly from center outward to eliminate air bubbles and ensure complete contact. Avoid sliding the magnet across the surface during placement, which can cause scratching or reduced magnetic grip strength.</p>
+
+<h3>Optimal Display Locations</h3>
+
+<p>Recommend refrigerator placement to your wedding guests for maximum visibility and daily reminder value. Alternative locations include office filing cabinets, magnetic boards, and appliance surfaces where the wedding save the date magnets will be seen regularly leading up to your wedding date.</p>
+
+<h3>Safe Removal Guidelines</h3>
+
+<p>Remove wedding save the date magnets by lifting one corner and peeling slowly to prevent bending or cracking. Strong magnetic hold requires gentle, gradual removal rather than quick pulling motions that could damage the magnet or underlying surface finish.</p>
+
+Installation Tab
+
+--------------------------------------------------
+
+==================================================
+POST-TAB CONTENT
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>What Are Wedding Save the Date Magnets?</h2>
+
+<p>Wedding save the date magnets are magnetic wedding announcements that inform guests of your upcoming wedding date while providing a functional keepsake they can display prominently. These magnets combine traditional save-the-date functionality with magnetic backing material, allowing guests to affix them to refrigerators, filing cabinets, and other metal surfaces for continuous visibility. Wedding save the date magnets typically include essential wedding information such as the couple's names, wedding date, and location details, often incorporating wedding themes, colors, and photographic elements. The magnetic material ensures long-term display capability, keeping your wedding date visible to guests throughout their daily routines until your celebration arrives.</p>
+
+<h2>Design Your Perfect Wedding Save the Date Magnets Today</h2>
+
+<p>Create wedding save the date magnets that reflect your unique wedding style and provide guests with a memorable announcement they'll treasure. Our comprehensive design options, professional printing quality, and flexible production timelines ensure your wedding save the date magnets arrive exactly when you need them for guest distribution.</p>
+
+<p>Whether you choose our intuitive online design tool or upload professional artwork, your wedding save the date magnets will feature vibrant colors, sharp detail reproduction, and durable magnetic backing. Multiple cut options and finishing choices allow complete customization to match your wedding theme and personal preferences.</p>
+
+<p>Start designing your <a href="https://www.decals.com/custom-photo-magnet">custom photo magnet</a> collection or explore our <a href="https://www.decals.com/custom-car-magnet">custom car magnet</a> options for additional wedding-related magnetic products. Our <a href="https://www.decals.com/custom-business-card-magnet">custom business card magnet</a> services also provide professional magnetic solutions for wedding vendors and service providers.</p>
+
+Post-Tab Content (Before FAQ)
+
+--------------------------------------------------
+
+==================================================
+FAQ
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Wedding Save the Date Magnet FAQs</h2>
+
+<h3>How long do wedding save the date magnets stay attached to refrigerators?</h3>
+<p>Wedding save the date magnets maintain strong magnetic hold indefinitely on clean metal surfaces like refrigerators and filing cabinets. The magnetic strength remains consistent over time, ensuring your wedding announcement stays securely displayed from the moment guests receive them until after your wedding celebration.</p>
+
+<h3>What size options are available for wedding save the date magnets?</h3>
+<p>Wedding save the date magnets can be customized to various sizes depending on your design requirements and guest distribution preferences. Popular sizes range from business card dimensions for compact announcements to larger rectangular formats that accommodate photos and detailed wedding information.</p>
+
+<h3>Can I include photos in my wedding save the date magnet design?</h3>
+<p>Yes, wedding save the date magnets can incorporate engagement photos, couple portraits, or other imagery using high-resolution file uploads. Our printing process reproduces photographic details with excellent clarity and color accuracy, making photos a popular element in wedding save the date magnet designs.</p>
+
+<h3>What magnetic surfaces work best for wedding save the date magnets?</h3>
+<p>Wedding save the date magnets adhere strongly to refrigerators, metal filing cabinets, magnetic boards, and most appliance surfaces. Clean, flat metal surfaces provide optimal magnetic contact, while textured or coated surfaces may reduce magnetic strength slightly but still provide adequate hold for display purposes.</p>
+
+<h3>Are wedding save the date magnets waterproof for outdoor use?</h3>
+<p>Wedding save the date magnets feature laminated finishing that provides moisture resistance and protection against normal handling and indoor display conditions. While suitable for refrigerator and indoor magnetic surface display, they are designed primarily for interior use rather than extended outdoor exposure.</p>
+
+<h3>How far in advance should I send wedding save the date magnets?</h3>
+<p>Wedding save the date magnets should typically be sent 6-8 months before your wedding date for destination weddings and 4-6 months for local celebrations. This timeline allows guests adequate planning time while ensuring the magnetic announcement remains prominently displayed throughout the engagement period.</p>
+
+<h3>What artwork format works best for wedding save the date magnets?</h3>
+<p>Adobe Illustrator EPS and PDF vector files produce the highest quality results for wedding save the date magnets, especially for text and graphic elements. High-resolution JPEG or PNG files work well for photographic content, provided they meet minimum resolution requirements for your selected magnet size.</p>
+
+FAQ Tab
+
+--------------------------------------------------
+
+==================================================
+SEO ANALYSIS & OPTIMIZATION SUMMARY
+==================================================
+
+The SEO optimization focused on transforming generic product information into a purchase-focused wedding save the date magnet experience. Key improvements included restructuring all headings to include the primary product entity "Wedding Save the Date Magnets" while maintaining natural language variation. The previous structure lacked clear purchase journey stages and used weak informational headings that didn't support transactional intent.
+
+Technical SEO improvements addressed heading hierarchy issues by converting scattered H3 sections into proper H2 major sections that represent distinct stages of the customer journey. Each H2 section now clearly communicates value propositions like ordering process, production timelines, and application guidance. Production timeline options were restructured from paragraph labels into proper H3 headings under a cohesive production section.
+
+Content quality enhancements eliminated generic terminology like "magnet finishing options" in favor of descriptive headings that include the product entity and practical use context. The addition of the "What Are Wedding Save the Date Magnets?" section improves AI search visibility by providing a clear product definition that search engines can easily extract and quote.
+
+Internal linking integration includes contextual links to related magnet products like custom photo magnets and custom car magnets, supporting site architecture and user navigation. FAQ optimization transformed generic questions into specific wedding save the date magnet queries that address real customer concerns about durability, sizing, photo inclusion, and optimal display surfaces.
+
+Keyword clustering integration naturally incorporated wedding-focused semantic variations throughout content sections while maintaining readability and avoiding keyword stuffing. The optimized structure supports both human users seeking wedding announcement solutions and search engine algorithms evaluating product relevance and purchase intent.

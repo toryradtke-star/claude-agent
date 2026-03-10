@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:08:14.137Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Marina Decals Marina",
+    "description": "Stylize any watercraft you'd like with marina decals! They're waterproof, durable and digitally printed in full color. Upload your artwork using our online design tool.",
+    "url": "https://www.decals.com/marina-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

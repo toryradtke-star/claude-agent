@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:50:30.248Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Decorative Wall Decals",
+    "description": "With decorative wall decals from Decals.com, your home, office, or business is sure to be an eye-catcher.",
+    "url": "https://www.decals.com/decals/decorative-wall-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

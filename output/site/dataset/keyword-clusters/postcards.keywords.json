@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "postcards postcards",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "postcards postcards installation printing",
+        "postcards postcards installation custom sizes",
+        "postcards postcards installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "postcards postcards durability printing",
+        "postcards postcards durability custom sizes",
+        "postcards postcards durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "postcards postcards pricing printing",
+        "postcards postcards pricing custom sizes",
+        "postcards postcards pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "postcards postcards printing",
+        "postcards postcards custom sizes",
+        "postcards postcards design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "postcards postcards shipping printing",
+        "postcards postcards shipping custom sizes",
+        "postcards postcards shipping design upload"
+      ]
+    }
+  ]
+}

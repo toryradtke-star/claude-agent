@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:58:39.700Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Business Stickers Business",
+    "description": "Create custom business stickers to display your brand, logos or hours of operation from Decals.com. Order your full color, custom shaped and sized stickers today.",
+    "url": "https://www.decals.com/stickers/business-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

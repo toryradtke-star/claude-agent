@@ -1,0 +1,85 @@
+{
+  "url": "https://banners.com/decals/3m-control-tac",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "3M™ Controltac™ Vinyl Decals | Banners.com",
+    "metaDescription": "Vinyl Decals | 3M Controltac | Great for Vehicle Wraps",
+    "canonical": "https://www.banners.com/decals/3m-control-tac",
+    "robots": "index, follow",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 595,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h4",
+        "text": "Products"
+      },
+      {
+        "tag": "h1",
+        "text": "3M Controltac Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "High-Quality Vinyl Decals"
+      },
+      {
+        "tag": "h2",
+        "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h4",
+      "text": "Products"
+    },
+    {
+      "tag": "h1",
+      "text": "3M Controltac Decals"
+    },
+    {
+      "tag": "h3",
+      "text": "High-Quality Vinyl Decals"
+    },
+    {
+      "tag": "h2",
+      "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

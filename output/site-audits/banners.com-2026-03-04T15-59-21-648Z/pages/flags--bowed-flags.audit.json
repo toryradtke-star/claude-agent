@@ -1,0 +1,85 @@
+{
+  "url": "https://www.banners.com/flags/bowed-flags",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 995,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h4",
+        "text": "Products"
+      },
+      {
+        "tag": "h1",
+        "text": "Bowed Flags / Flying Banner Displays"
+      },
+      {
+        "tag": "h4",
+        "text": "**To order, please call us at 1-866-419-SIGN or 320-965-9300 or email [\\[email protected\\]](/cdn-cgi/l/email-protection#eb988e999d82888eab898a85858e9998c5888486d4989e89818e889fd6ad879282858cced9dba98a85858e99ced9dbaf82989b878a9298)**"
+      },
+      {
+        "tag": "h4",
+        "text": "**To order, please call us at 1-866-419-SIGN or 320-965-9300 or email [\\[email protected\\]](/cdn-cgi/l/email-protection#85f6e0f7f3ece6e0c5e7e4ebebe0f7f6abe6eae8baf6f0e7efe0e6f1b8c3e9fcecebe2a0b7b5c7e4ebebe0f7a0b7b5c1ecf6f5e9e4fcf6)**"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h4",
+      "text": "Products"
+    },
+    {
+      "tag": "h1",
+      "text": "Bowed Flags / Flying Banner Displays"
+    },
+    {
+      "tag": "h4",
+      "text": "**To order, please call us at 1-866-419-SIGN or 320-965-9300 or email [\\[email protected\\]](/cdn-cgi/l/email-protection#eb988e999d82888eab898a85858e9998c5888486d4989e89818e889fd6ad879282858cced9dba98a85858e99ced9dbaf82989b878a9298)**"
+    },
+    {
+      "tag": "h4",
+      "text": "**To order, please call us at 1-866-419-SIGN or 320-965-9300 or email [\\[email protected\\]](/cdn-cgi/l/email-protection#85f6e0f7f3ece6e0c5e7e4ebebe0f7f6abe6eae8baf6f0e7efe0e6f1b8c3e9fcecebe2a0b7b5c7e4ebebe0f7a0b7b5c1ecf6f5e9e4fcf6)**"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

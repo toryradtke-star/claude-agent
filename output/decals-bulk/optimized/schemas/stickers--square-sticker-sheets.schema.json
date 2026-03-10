@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:58:35.106Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Square Sticker Sheets",
+    "description": "Create custom square stickers on sheets today by using our easy to use online designer or upload your own artwork at Decals.com! Sheet stickers are efficiently peeled and placed.",
+    "url": "https://www.decals.com/stickers/square-sticker-sheets",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

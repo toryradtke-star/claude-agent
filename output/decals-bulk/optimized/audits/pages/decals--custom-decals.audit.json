@@ -1,0 +1,646 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:47:44.585Z",
+  "data": {
+    "url": "https://www.decals.com/decals/custom-decals",
+    "pageType": "pdp",
+    "productPage": true,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Custom Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Create One-of-a-Kind Custom Vinyl Decals!"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Methods"
+      },
+      {
+        "tag": "h3",
+        "text": "Payment"
+      },
+      {
+        "tag": "h3",
+        "text": "Live Order Tracking"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h3",
+        "text": "1 Business Day Priority:"
+      },
+      {
+        "tag": "h3",
+        "text": "2 Business Days Express:"
+      },
+      {
+        "tag": "h3",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h3",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h3",
+        "text": "Die Cut, Kiss Cut, and Transfer Cut Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Die-Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Kiss-Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Transfer-Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Transfer Cut / Pick Charge"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Vinyl Decals Artwork Specifications"
+      },
+      {
+        "tag": "h3",
+        "text": "Preferred Files for Printing"
+      },
+      {
+        "tag": "h3",
+        "text": "Additional Files Accepted"
+      },
+      {
+        "tag": "h3",
+        "text": "File Tips"
+      },
+      {
+        "tag": "h3",
+        "text": "Transfer-Cut Guidelines"
+      },
+      {
+        "tag": "h3",
+        "text": "Vector Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Raster Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Services"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping Methods:"
+      },
+      {
+        "tag": "h3",
+        "text": "Important Economy Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "National and International Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "How to Apply Vinyl Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload Your File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Custom Decals Work EverywhereReturn to Top"
+      },
+      {
+        "tag": "h2",
+        "text": "Tips to Make Your Decal Stand Out"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Reviews ... Reviews"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Decals.com?"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Service"
+      },
+      {
+        "tag": "h3",
+        "text": "Made in the USA"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast Turnaround"
+      },
+      {
+        "tag": "h3",
+        "text": "Track Your Order"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Product Information"
+      },
+      {
+        "tag": "h4",
+        "text": "What material is used for your custom vinyl decals?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I use multiple colors, fonts and images in my design?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I upload my own design?"
+      },
+      {
+        "tag": "h4",
+        "text": "What’s the difference between die cut, kiss cut, and transfer cut?"
+      },
+      {
+        "tag": "h4",
+        "text": "Are these decals waterproof?"
+      },
+      {
+        "tag": "h4",
+        "text": "Do the decals have a gloss or matte finish?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I reposition my decal?"
+      },
+      {
+        "tag": "h4",
+        "text": "How large can my vinyl decal be?"
+      },
+      {
+        "tag": "h4",
+        "text": "How do you remove air bubbles from vinyl decals?"
+      },
+      {
+        "tag": "h3",
+        "text": "Common Uses"
+      },
+      {
+        "tag": "h4",
+        "text": "What are some common uses for custom vinyl decals?"
+      },
+      {
+        "tag": "h4",
+        "text": "On what surfaces can your custom vinyl decals be placed?"
+      },
+      {
+        "tag": "h4",
+        "text": "Will the decal leave any sticky residue behind?"
+      },
+      {
+        "tag": "h4",
+        "text": "Where can I use these decals?"
+      }
+    ],
+    "serpInsights": {
+      "query": "decals vinyl decals",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "decals vinyl decals",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "decals vinyl decals installation printing",
+            "decals vinyl decals installation custom sizes",
+            "decals vinyl decals installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "decals vinyl decals durability printing",
+            "decals vinyl decals durability custom sizes",
+            "decals vinyl decals durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "decals vinyl decals pricing printing",
+            "decals vinyl decals pricing custom sizes",
+            "decals vinyl decals pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "decals vinyl decals printing",
+            "decals vinyl decals custom sizes",
+            "decals vinyl decals design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "decals vinyl decals shipping printing",
+            "decals vinyl decals shipping custom sizes",
+            "decals vinyl decals shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "crack and peel stickers",
+          "url": "https://www.decals.com/stickers/crack-and-peel-stickers"
+        },
+        {
+          "anchor": "custom holographic vinyl material",
+          "url": "https://www.decals.com/custom-holographic-vinyl-material"
+        },
+        {
+          "anchor": "custom paper roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-paper-roll-labels"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 1500,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "Custom Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Create One-of-a-Kind Custom Vinyl Decals!"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Methods"
+        },
+        {
+          "tag": "h3",
+          "text": "Payment"
+        },
+        {
+          "tag": "h3",
+          "text": "Live Order Tracking"
+        },
+        {
+          "tag": "h3",
+          "text": "Production Time Tables"
+        },
+        {
+          "tag": "h3",
+          "text": "1 Business Day Priority:"
+        },
+        {
+          "tag": "h3",
+          "text": "2 Business Days Express:"
+        },
+        {
+          "tag": "h3",
+          "text": "3 Business Days Standard:"
+        },
+        {
+          "tag": "h3",
+          "text": "5 Business Days Saver:"
+        },
+        {
+          "tag": "h3",
+          "text": "Die Cut, Kiss Cut, and Transfer Cut Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Die-Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Kiss-Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Transfer-Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Transfer Cut / Pick Charge"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Vinyl Decals Artwork Specifications"
+        },
+        {
+          "tag": "h3",
+          "text": "Preferred Files for Printing"
+        },
+        {
+          "tag": "h3",
+          "text": "Additional Files Accepted"
+        },
+        {
+          "tag": "h3",
+          "text": "File Tips"
+        },
+        {
+          "tag": "h3",
+          "text": "Transfer-Cut Guidelines"
+        },
+        {
+          "tag": "h3",
+          "text": "Vector Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Raster Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Services"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping Methods:"
+        },
+        {
+          "tag": "h3",
+          "text": "Important Economy Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "National and International Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Apply Vinyl Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload Your File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Custom Decals Work EverywhereReturn to Top"
+        },
+        {
+          "tag": "h2",
+          "text": "Tips to Make Your Decal Stand Out"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Reviews ... Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Decals.com?"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Service"
+        },
+        {
+          "tag": "h3",
+          "text": "Made in the USA"
+        },
+        {
+          "tag": "h3",
+          "text": "Fast Turnaround"
+        },
+        {
+          "tag": "h3",
+          "text": "Track Your Order"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Product Information"
+        },
+        {
+          "tag": "h4",
+          "text": "What material is used for your custom vinyl decals?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I use multiple colors, fonts and images in my design?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I upload my own design?"
+        },
+        {
+          "tag": "h4",
+          "text": "What’s the difference between die cut, kiss cut, and transfer cut?"
+        },
+        {
+          "tag": "h4",
+          "text": "Are these decals waterproof?"
+        },
+        {
+          "tag": "h4",
+          "text": "Do the decals have a gloss or matte finish?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I reposition my decal?"
+        },
+        {
+          "tag": "h4",
+          "text": "How large can my vinyl decal be?"
+        },
+        {
+          "tag": "h4",
+          "text": "How do you remove air bubbles from vinyl decals?"
+        },
+        {
+          "tag": "h3",
+          "text": "Common Uses"
+        },
+        {
+          "tag": "h4",
+          "text": "What are some common uses for custom vinyl decals?"
+        },
+        {
+          "tag": "h4",
+          "text": "On what surfaces can your custom vinyl decals be placed?"
+        },
+        {
+          "tag": "h4",
+          "text": "Will the decal leave any sticky residue behind?"
+        },
+        {
+          "tag": "h4",
+          "text": "Where can I use these decals?"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": {
+      "score": 58,
+      "failedChecks": [
+        {
+          "check": "required_sections",
+          "details": [
+            "MATERIAL OPTIONS TAB",
+            "FINISHING OPTIONS TAB",
+            "SHIPPING GUIDELINES TAB"
+          ]
+        },
+        {
+          "check": "product_entity",
+          "details": "Entity not found: decals vinyl decals"
+        },
+        {
+          "check": "cta_section_rules",
+          "details": [
+            "PRODUCTION TIMES TAB"
+          ]
+        },
+        {
+          "check": "generic_headings",
+          "details": "Contains generic headings"
+        }
+      ],
+      "retry": true,
+      "threshold": 85
+    },
+    "contentScore": {
+      "score": 95,
+      "missingEntities": [],
+      "missingHeadings": [],
+      "improvementSuggestions": []
+    },
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T15:47:44.571Z"
+    },
+    "seoRecommendations": "{\"ts\":\"2026-03-06T15:47:44.560Z\",\"level\":\"info\",\"event\":\"metric\",\"agent\":\"pdpAgent\",\"url\":\"https://www.decals.com/decals/custom-decals\",\"model\":\"claude-sonnet-4-20250514\",\"tokensIn\":25634,\"tokensOut\":4405,\"promptVersion\":\"unknown\",\"templateVersion\":\"unknown\",\"durationMs\":92598}\n==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Custom Decals\nH2: Why Custom Decals Work Everywhere\nH2: Tips to Make Your Decal Stand Out\nH2: Why Choose Decals.com?\nH2: Frequently Asked Questions\n\nCurrent structure lacks proper H2 tab organization and has weak informational headings. Missing product definition section and entity consistency issues.\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Decals\nH2: Custom Decal Order Process & Design Options\nH2: Vinyl Decal Production & Turnaround Times\nH2: Die-Cut, Kiss-Cut & Transfer-Cut Decal Options\nH2: Custom Decal Artwork & File Requirements\nH2: Vinyl Decal Shipping & Delivery\nH2: How to Install Custom Decals\nH2: What Are Custom Vinyl Decals?\nH2: Custom Decal FAQs\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h1>Custom Decals</h1>\n<h2>Personalize Your Space with Premium Custom Vinyl Decals</h2>\n\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nDesign Your Custom Decals\nUpload Your Design File\nChoose Size & Quantity\nSelect Cut Type\nProduction Timeline\n\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Design Premium Custom Decals for Any Application</h2>\n\n<p>Transform your creative vision into high-quality custom vinyl decals with our comprehensive design and production solutions. Whether you're creating promotional materials for your business, personalizing your vehicle, or adding decorative elements to your space, our custom decals deliver professional results with durable vinyl materials and precise cutting options. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>\n\n<p>Our advanced online design platform allows you to create custom decals from scratch using our extensive clipart library, or upload your own artwork for professional printing. Choose from multiple <a href=\"https://www.decals.com/stickers/crack-and-peel-stickers\">cutting methods</a> including die-cut, kiss-cut, and transfer-cut options to match your specific application needs.</p>\n\n<p>Each custom decal is manufactured using premium vinyl materials designed for both indoor and outdoor applications. Our production facility offers flexible turnaround times from 1-5 business days, ensuring your custom decals arrive when you need them. With our Live Order Tracking system, you can monitor your order progress from design approval through final delivery.</p>\n\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nORDER PROCESS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Decal Order Process & Design Options</h2>\n\n<p>Our streamlined ordering process makes creating professional custom decals simple and efficient. Start by selecting your preferred design method and follow our guided workflow to ensure perfect results for your vinyl decal project.</p>\n\n<h3>Design Process</h3>\n<p>Choose between two design approaches for your custom decals. Our online design tool provides access to thousands of clipart images, fonts, and design elements for creating original designs. Simply upload images from your computer, add text, and arrange elements to create your personalized decal. Alternatively, upload your own print-ready artwork files for professional reproduction on vinyl material.</p>\n\n<p>For uploaded artwork, we recommend EPS format files to ensure the highest quality printing. Our design team reviews all uploaded files and will contact you if any adjustments are needed for optimal vinyl decal production.</p>\n\n<h3>Payment</h3>\n<p>All custom decal orders require full payment before production begins. We accept major credit cards including Visa, Mastercard, American Express, and Discover. Check payments are also accepted and must be received prior to production scheduling.</p>\n\n<h3>Live Order Tracking</h3>\n<p>After placing your custom decal order, you'll receive a unique tracking number via email that provides real-time updates throughout our production process. Our Live Order Tracking system allows you to monitor your decals from order placement through final delivery, giving you complete visibility into production status and shipping progress.</p>\n\nOrder Process Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Vinyl Decal Production & Turnaround Times</h2>\n\n<p>Our flexible production schedule accommodates urgent deadlines and standard delivery needs with turnaround options ranging from 1 to 5 business days. Production time begins after file upload completion and proof approval, ensuring accurate manufacturing of your custom vinyl decals.</p>\n\n<h3>1 Business Day Priority Production</h3>\n<p>Emergency decal production for tight deadlines. Orders approved after 5:00 PM CST are processed the following business day. Same-day rush options may be available in special circumstances - contact customer service for availability. Production time does not include shipping duration.</p>\n\n<h3>2 Business Days Express Production</h3>\n<p>Accelerated manufacturing for time-sensitive custom decal projects. Orders approved after 5:00 PM CST begin production the next business day. Express turnaround provides an ideal balance between speed and cost for most urgent vinyl decal needs.</p>\n\n<h3>3 Business Days Standard Production</h3>\n<p>Our most popular production timeline offering fast turnaround at no additional cost. Standard production provides sufficient time for quality control while maintaining quick delivery for most custom decal applications. Orders approved after 5:00 PM CST start production the following business day.</p>\n\n<h3>5 Business Days Saver Production</h3>\n<p>Cost-effective production option for non-urgent custom decal orders. Saver timeline reduces overall project costs while ensuring the same quality manufacturing standards. Perfect for large quantity orders or projects with flexible deadlines.</p>\n\n<p>Important: If orders are flagged during prepress review or require proof approval, production time begins from the approval confirmation, not the initial file submission.</p>\n\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nCUT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Die-Cut, Kiss-Cut & Transfer-Cut Decal Options</h2>\n\n<p>Choose the cutting method that best matches your application needs and installation preferences. Each cutting option affects the backing material and installation process of your custom vinyl decals.</p>\n\n<h3>Die-Cut Vinyl Decals</h3>\n<p>Die-cut processing cuts completely through both the vinyl material and paper backing, creating individually separated decals with no excess material. This \"cookie cutter\" approach produces clean, contoured shapes that match your design exactly. Die-cut decals offer the cleanest appearance when applied and work well for detailed designs and lettering.</p>\n\n<p>Back Slit (Crack and Peel) backing is available for Standard and Permanent material options, making installation easier for larger die-cut decals.</p>\n\n<h3>Kiss-Cut Vinyl Decals</h3>\n<p>Kiss-cut processing cuts only through the vinyl layer while leaving the paper backing intact. This creates a border of backing material around each decal, making them easier to handle and position during installation. Kiss-cut decals remain on a backing sheet until application, ideal for multiple small decals or precise positioning applications.</p>\n\n<h3>Transfer-Cut Vinyl Decals</h3>\n<p>Transfer-cut decals involve cutting the vinyl to specific shapes and removing unwanted material (\"weeding\"), then applying transfer tape over the remaining design elements. This method works best for text and simple graphics, allowing installation of multiple design elements as a single unit. Vector files (EPS or AI format) are required for transfer-cut production.</p>\n\n<p>Transfer-cut pricing includes 8 standard picks with a maximum of 40 picks per square foot. Additional picks range from $0.02 to $0.04 depending on complexity. Intricate designs may require custom pricing based on picking difficulty and time requirements.</p>\n\nCut Options Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Decal Artwork & File Requirements</h2>\n\n<p>Proper file preparation ensures optimal printing quality and accurate reproduction of your custom vinyl decal designs. Follow our artwork specifications to achieve professional results.</p>\n\n<h3>Preferred File Types</h3>\n<p>Vector-based files provide the best quality for vinyl decal printing and cutting. Submit Adobe Illustrator EPS (Encapsulated Post Script) or PDF files for optimal results. Maximum file size is 100 MB. Convert all fonts to outlines or curves before submission to prevent font substitution issues during production.</p>\n\n<h3>Additional File Formats</h3>\n<p>High-resolution raster files are acceptable for photographic content and complex designs. Submit JPG, TIFF, or PNG files at the highest resolution available. Ensure files are sized proportionate to your final decal dimensions for best printing clarity.</p>\n\n<h3>File Setup Tips</h3>\n<p>Set up artwork at exact proportional size to your ordered vinyl decal dimensions. Convert all text elements to outlines to preserve font appearance. Include bleed only when necessary for your design. Never flatten or merge layers in PSD files - maintain layer separation for production flexibility. Clearly indicate cut lines for all decal products to ensure accurate cutting.</p>\n\n<h3>Transfer Cut Guidelines</h3>\n<p>Transfer-cut vinyl decals require specific design considerations for successful weeding and application. Use simple, open fonts with all text at least 1/2\" tall. Maintain minimum 1/8\" spacing between characters and design elements. All line weights and design elements should be at least 1/8\" wide. Minimum pick size is 1/8\". Request a proof for complex transfer-cut designs to verify production feasibility.</p>\n\n<p>Visit our comprehensive <a href=\"https://www.decals.com/custom-holographic-vinyl-material\">vinyl material guide</a> for additional design specifications and material-specific requirements.</p>\n\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Vinyl Decal Shipping & Delivery</h2>\n\n<p>Reliable shipping options ensure your custom vinyl decals arrive safely and on schedule. Shipping time is calculated separately from production time, so factor both timeframes into your project planning.</p>\n\n<h3>Shipping Methods</h3>\n<p>Standard ground shipping provides cost-effective delivery for most vinyl decal orders. Express shipping options are available for time-sensitive projects requiring faster delivery. International shipping is available to most global destinations with appropriate customs documentation.</p>\n\n<h3>Shipping Time Expectations</h3>\n<p>Ground shipping typically requires 3-7 business days depending on destination. Express options can reduce shipping time to 1-3 business days for urgent delivery needs. Production time and shipping time are calculated separately - total project timeline includes both manufacturing and delivery duration.</p>\n\n<h3>Important Shipping Notes</h3>\n<p>Economy shipping options may have extended delivery windows and limited tracking capabilities. National and international orders may require additional processing time for customs clearance. Large format custom decals may require special packaging and handling, potentially affecting shipping costs and delivery methods.</p>\n\n<p>All orders include tracking information for monitoring delivery progress. Contact customer service for specific shipping questions or special delivery requirements for your <a href=\"https://www.decals.com/decals/dry-erase-wall-decals\">vinyl decal project</a>.</p>\n\nShipping Tab\n\n--------------------------------------------------\n\n==================================================\nINSTALLATION TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>How to Install Custom Decals</h2>\n\n<p>Proper installation technique ensures professional appearance and maximum adhesion life for your custom vinyl decals. Follow these steps for optimal application results on any surface.</p>\n\n<h3>Preparing the Surface</h3>\n<p>Clean the application surface thoroughly with soap and water, removing all dirt, oils, and residue. Allow the surface to dry completely before decal application. For textured or porous surfaces, consider using a primer or sealant to improve adhesion. Test adhesion on a small area first when working with sensitive or painted surfaces.</p>\n\n<h3>Applying the Decal</h3>\n<p>Position your custom vinyl decal carefully before removing the backing material. For larger decals, use the hinge method - secure one edge and gradually remove backing while smoothing the vinyl onto the surface. Work from the center outward to eliminate air bubbles, using a squeegee or application tool for smooth, even pressure.</p>\n\n<h3>Removing Transfer Tape</h3>\n<p>For transfer-cut decals, remove the transfer tape slowly at a 45-degree angle after application. If vinyl lifts with the transfer tape, press down firmly and try removing the tape more slowly. Allow decals to cure for 24-48 hours before exposure to harsh conditions or cleaning.</p>\n\n<p>For detailed installation guidance and troubleshooting tips, explore our comprehensive installation resources and video tutorials. Professional installation services may be available for large-format or complex <a href=\"https://www.decals.com/stickers/custom-hard-hat-stickers\">commercial decal applications</a>.</p>\n\nInstallation Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>What Are Custom Vinyl Decals?</h2>\n\n<p>Custom vinyl decals are adhesive graphics made from durable vinyl material that can be printed with any design, text, or image. These versatile products consist of a vinyl face material, permanent or removable adhesive, and protective backing paper. Custom decals are manufactured using digital printing and precision cutting equipment to create professional-quality graphics for indoor and outdoor applications.</p>\n\n<p>Vinyl decals are applied by removing the backing paper and pressing the adhesive side onto clean, smooth surfaces. They work effectively on glass, metal, plastic, painted surfaces, and many other materials. The vinyl material provides weather resistance and fade protection, making custom decals suitable for both temporary and long-term applications.</p>\n\n<h2>Design Your Custom Vinyl Decals Today</h2>\n\n<p>Ready to create professional custom vinyl decals for your next project? Our comprehensive design and production platform makes it easy to transform your ideas into high-quality adhesive graphics. Whether you need business signage, promotional materials, or personalized decorations, our custom decals deliver the durability and visual impact your project demands.</p>\n\n<p>Start designing now with our online configurator, or upload your existing artwork for professional printing and cutting. With flexible production schedules and reliable shipping, your custom vinyl decals will be ready when you need them.</p>\n\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Decal FAQs</h2>\n\n<h3>What material is used for custom vinyl decals?</h3>\n<p>Custom vinyl decals are manufactured using premium vinyl films designed for both indoor and outdoor applications. The vinyl material features a durable face film with permanent or removable adhesive backing, providing excellent weather resistance and color retention for long-term use.</p>\n\n<h3>What's the difference between die-cut, kiss-cut, and transfer-cut decals?</h3>\n<p>Die-cut decals are cut completely through vinyl and backing for individual pieces, kiss-cut decals are cut only through vinyl leaving backing intact, and transfer-cut decals have excess vinyl removed with transfer tape applied for multi-piece installation. Each method offers different handling and application benefits.</p>\n\n<h3>Can I upload my own design for custom decals?</h3>\n<p>Yes, you can upload your own artwork files for professional printing on vinyl material. We accept EPS, PDF, JPG, TIFF, and PNG formats with a maximum file size of 100 MB. Vector files provide the best quality for cutting and printing applications.</p>\n\n<h3>How large can custom vinyl decals be made?</h3>\n<p>Custom vinyl decals can be produced in virtually any size from small detailed graphics to large format applications. Our production equipment accommodates both precision small decals and oversized graphics for vehicle wraps, wall graphics, and commercial signage applications.</p>\n\n<h3>Are custom vinyl decals waterproof?</h3>\n<p>Yes, custom vinyl decals are waterproof and designed for outdoor durability. The vinyl material and adhesive system resist moisture, UV exposure, and temperature variations, making them suitable for vehicles, outdoor signage, and weather-exposed applications.</p>\n\n<h3>What surfaces work best for vinyl decal application?</h3>\n<p>Custom vinyl decals adhere best to clean, smooth, non-porous surfaces like glass, metal, plastic, and painted surfaces. Textured or porous surfaces may require special adhesive options or surface preparation for optimal adhesion and longevity.</p>\n\n<h3>How do I remove air bubbles from vinyl decals during installation?</h3>\n<p>Remove air bubbles by working from the center outward with firm, smooth pressure using a squeegee or application tool. For stubborn bubbles, use a needle to create a small hole and press out the trapped air, then smooth the vinyl over the puncture.</p>\n\nFAQ Tab\n\n--------------------------------------------------\n\n==================================================\nSEO ANALYSIS & OPTIMIZATION SUMMARY\n==================================================\n\nTechnical SEO improvements include implementing proper H1-H2 hierarchy with the detected product entity \"Custom Decals\" consistently integrated across all major headings. Restructured tab headings to include commercial intent keywords like \"order process,\" \"production times,\" and \"installation\" while maintaining the product entity throughout. Added required AI search visibility section \"What Are Custom Vinyl Decals?\" with factual definition content for enhanced search result extraction.\n\nContent Quality enhancements focus on expanding thin sections into comprehensive guides covering the complete purchase journey from design through installation. Enhanced production timeline sections with proper H3 heading structure replacing bold labels. Improved cut options explanations with specific use cases and technical details for die-cut, kiss-cut, and transfer-cut methods. Strengthened artwork requirements section with detailed file preparation guidelines.\n\nInternal Linking strategy incorporates contextual links to related products including dry erase wall decals, custom hard hat stickers, crack and peel stickers, and custom holographic vinyl material. Links are placed naturally within paragraph content to support topic clustering and user navigation without disrupting heading structure.\n\nKeyword Clustering addresses installation, durability, pricing, customization, and shipping themes through dedicated sections and natural keyword integration. FAQ section targets specific search queries about materials, cutting methods, file uploads, sizing capabilities, waterproof properties, surface compatibility, and installation techniques. Content maintains transactional focus while providing comprehensive information to support purchase decisions."
+  }
+}

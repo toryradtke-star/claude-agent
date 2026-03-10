@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:59:58.220Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Fast Stickers Fast",
+    "description": "Pressed for time? Don't worry we have you covered with our 1-Day Turnaround Time and fast shipping options. Design your custom vinyl stickers in minutes or simply upload your artwork to get started on your next order.",
+    "url": "https://www.decals.com/stickers/fast-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

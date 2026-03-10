@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/double-sided-banners",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 5595,
+    "output_tokens": 3367
+  },
+  "durationMs": 75405
+}

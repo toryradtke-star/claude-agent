@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:13:29.342Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "State of Nebraska",
+    "description": "Show support for Nebraska Law Enforcement with a state shaped thin blue line decal from Decals.com! | 320-391-5250 |",
+    "url": "https://www.decals.com/thin-blue-line/nebraska",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

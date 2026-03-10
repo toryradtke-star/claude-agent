@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where claude:*)",
+      "Bash(echo:*)",
+      "Bash(setx PATH:*)",
+      "Bash(export:*)",
+      "Bash(wc:*)",
+      "Bash(npm install:*)",
+      "Bash(node:*)",
+      "WebFetch(domain:www.banners.com)",
+      "Bash(powershell:*)",
+      "WebFetch(domain:www.decals.com)"
+    ]
+  }
+}

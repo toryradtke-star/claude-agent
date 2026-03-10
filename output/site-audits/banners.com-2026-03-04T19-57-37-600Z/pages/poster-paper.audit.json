@@ -1,0 +1,349 @@
+{
+  "url": "https://www.banners.com/poster-paper",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "Poster Paper - Custom Poster Printing | Banners.com",
+    "metaDescription": "Discover the versatility of custom poster paper! Perfect for events, promotions, presentations, and more. Order yours now for vibrant, durable prints!",
+    "canonical": "https://www.banners.com/poster-paper",
+    "robots": "index, follow",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 1256,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Custom Posters"
+      },
+      {
+        "tag": "h3",
+        "text": "Create Custom Printed Posters"
+      },
+      {
+        "tag": "h3",
+        "text": "Common Poster Paper Uses"
+      },
+      {
+        "tag": "h4",
+        "text": "Artwork"
+      },
+      {
+        "tag": "h4",
+        "text": "Artwork Guidelines"
+      },
+      {
+        "tag": "h4",
+        "text": "Artwork/Order Proofs"
+      },
+      {
+        "tag": "h4",
+        "text": "Color Match Proof System"
+      },
+      {
+        "tag": "h4",
+        "text": "Production Times"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h4",
+        "text": "1 Business Day Priority:"
+      },
+      {
+        "tag": "h4",
+        "text": "2 Business Days Express:"
+      },
+      {
+        "tag": "h4",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h4",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h4",
+        "text": "Payment"
+      },
+      {
+        "tag": "h4",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h4",
+        "text": "General Shipping Guidelines"
+      },
+      {
+        "tag": "h4",
+        "text": "Shipping Maps"
+      },
+      {
+        "tag": "h4",
+        "text": "Shipping Methods"
+      },
+      {
+        "tag": "h4",
+        "text": "Material"
+      },
+      {
+        "tag": "h3",
+        "text": "Poster Paper Material"
+      },
+      {
+        "tag": "h4",
+        "text": "Lamination"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Custom Posters Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Three Easy Ways to Order Custom Posters"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "What type of poster paper material do you use?"
+      },
+      {
+        "tag": "h3",
+        "text": "How are your custom posters printed?"
+      },
+      {
+        "tag": "h3",
+        "text": "What are the most common poster sizes?"
+      },
+      {
+        "tag": "h3",
+        "text": "Do you offer custom poster sizes, and what size range can I order?"
+      },
+      {
+        "tag": "h3",
+        "text": "What are custom posters commonly used for?"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Custom Posters"
+    },
+    {
+      "tag": "h3",
+      "text": "Create Custom Printed Posters"
+    },
+    {
+      "tag": "h3",
+      "text": "Common Poster Paper Uses"
+    },
+    {
+      "tag": "h4",
+      "text": "Artwork"
+    },
+    {
+      "tag": "h4",
+      "text": "Artwork Guidelines"
+    },
+    {
+      "tag": "h4",
+      "text": "Artwork/Order Proofs"
+    },
+    {
+      "tag": "h4",
+      "text": "Color Match Proof System"
+    },
+    {
+      "tag": "h4",
+      "text": "Production Times"
+    },
+    {
+      "tag": "h3",
+      "text": "Production Time Tables"
+    },
+    {
+      "tag": "h4",
+      "text": "1 Business Day Priority:"
+    },
+    {
+      "tag": "h4",
+      "text": "2 Business Days Express:"
+    },
+    {
+      "tag": "h4",
+      "text": "3 Business Days Standard:"
+    },
+    {
+      "tag": "h4",
+      "text": "5 Business Days Saver:"
+    },
+    {
+      "tag": "h4",
+      "text": "Payment"
+    },
+    {
+      "tag": "h4",
+      "text": "Shipping"
+    },
+    {
+      "tag": "h4",
+      "text": "General Shipping Guidelines"
+    },
+    {
+      "tag": "h4",
+      "text": "Shipping Maps"
+    },
+    {
+      "tag": "h4",
+      "text": "Shipping Methods"
+    },
+    {
+      "tag": "h4",
+      "text": "Material"
+    },
+    {
+      "tag": "h3",
+      "text": "Poster Paper Material"
+    },
+    {
+      "tag": "h4",
+      "text": "Lamination"
+    },
+    {
+      "tag": "h3",
+      "text": "Products you might like"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Custom Posters Return to Top"
+    },
+    {
+      "tag": "h3",
+      "text": "Three Easy Ways to Order Custom Posters"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "h3",
+      "text": "What type of poster paper material do you use?"
+    },
+    {
+      "tag": "h3",
+      "text": "How are your custom posters printed?"
+    },
+    {
+      "tag": "h3",
+      "text": "What are the most common poster sizes?"
+    },
+    {
+      "tag": "h3",
+      "text": "Do you offer custom poster sizes, and what size range can I order?"
+    },
+    {
+      "tag": "h3",
+      "text": "What are custom posters commonly used for?"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

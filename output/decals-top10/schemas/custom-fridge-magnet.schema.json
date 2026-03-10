@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "1",
+  "promptVersion": "unknown",
+  "model": "claude-3-5-haiku-latest",
+  "createdAt": "2026-03-05T22:05:36.708Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Refrigerator Magnets Fridge",
+    "description": "Create and order custom fridge magnets for your business. Great for advertising your business' phone number or your restaurants take out menu.",
+    "url": "https://www.decals.com/custom-fridge-magnet",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

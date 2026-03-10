@@ -1,0 +1,45 @@
+{
+  "url": "http://example.com/",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "Example Domain",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 1,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 17,
+    "thinContent": true,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Example Domain"
+      }
+    ],
+    "paragraphCount": 2
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Example Domain"
+    }
+  ],
+  "seoRecommendations": ""
+}

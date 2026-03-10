@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:48:36.807Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Kiss-Cut Decals Kiss-Cut",
+    "description": "Custom kiss-cut decals are made from durable vinyl, and designed for easy peeling. Kiss-cut decals are perfect for logos, branding, promotions, and more.",
+    "url": "https://www.decals.com/decals/kiss-cut-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

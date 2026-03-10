@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/banner-stands/retractors",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4262,
+    "output_tokens": 2929
+  },
+  "durationMs": 62551
+}

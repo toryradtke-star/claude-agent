@@ -1,0 +1,77 @@
+{
+  "url": "https://banners.com/custom-vinyl-decals",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "Custom Vinyl Decals | Banners.com",
+    "metaDescription": "Order custom vinyl decals online! Vinyl decals can be square cut or shape cut to fit your individual needs. Contact us for a custom quote today!",
+    "canonical": "https://www.banners.com/custom-vinyl-decals",
+    "robots": "index, follow",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 595,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h4",
+        "text": "Products"
+      },
+      {
+        "tag": "h1",
+        "text": "Custom Vinyl Decals: Square Cut or Shape Cut Vinyl Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Banner.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h4",
+      "text": "Products"
+    },
+    {
+      "tag": "h1",
+      "text": "Custom Vinyl Decals: Square Cut or Shape Cut Vinyl Decals"
+    },
+    {
+      "tag": "h3",
+      "text": "Banner.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

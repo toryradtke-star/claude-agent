@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "circle labels circle",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "circle labels circle installation printing",
+        "circle labels circle installation custom sizes",
+        "circle labels circle installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "circle labels circle durability printing",
+        "circle labels circle durability custom sizes",
+        "circle labels circle durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "circle labels circle pricing printing",
+        "circle labels circle pricing custom sizes",
+        "circle labels circle pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "circle labels circle printing",
+        "circle labels circle custom sizes",
+        "circle labels circle design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "circle labels circle shipping printing",
+        "circle labels circle shipping custom sizes",
+        "circle labels circle shipping design upload"
+      ]
+    }
+  ]
+}

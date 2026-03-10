@@ -1,0 +1,11 @@
+{
+  "url": "https://www.decals.com/custom-car-magnet",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 23728,
+    "output_tokens": 3428
+  },
+  "durationMs": 72586
+}

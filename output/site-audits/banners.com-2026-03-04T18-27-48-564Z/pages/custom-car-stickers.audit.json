@@ -1,0 +1,85 @@
+{
+  "url": "https://banners.com/custom-car-stickers",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "Custom Car Stickers | Banners.com",
+    "metaDescription": "Create custom bumper stickers online at Stickers.com! Use our free online design tool to upload artwork, start a sticker design from scratch or work with a professional designer!",
+    "canonical": "https://www.banners.com/custom-car-stickers",
+    "robots": "index, follow",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 629,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h4",
+        "text": "Products"
+      },
+      {
+        "tag": "h1",
+        "text": "Custom Car Stickers"
+      },
+      {
+        "tag": "h3",
+        "text": "Decorative stickers for your vehicle!"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h4",
+      "text": "Products"
+    },
+    {
+      "tag": "h1",
+      "text": "Custom Car Stickers"
+    },
+    {
+      "tag": "h3",
+      "text": "Decorative stickers for your vehicle!"
+    },
+    {
+      "tag": "h3",
+      "text": ""
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

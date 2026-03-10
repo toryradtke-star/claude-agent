@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:55:32.631Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Holographic Stickers Holographic",
+    "description": "Transform any space with custom holographic stickers! Printed on Rainbow Film, these full-color, weather-resistant beauties shine bright indoors and out.",
+    "url": "https://www.decals.com/stickers/holographic-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,7043 @@
+{
+  "baseUrl": "https://banners.com",
+  "domain": "banners.com",
+  "generatedAt": "2026-03-04T18:28:54.291Z",
+  "discoveryMethod": "crawl",
+  "totalUrlsDiscovered": 101,
+  "pagesAudited": 39,
+  "pagesSkipped": 50,
+  "productPagesDetected": 12,
+  "productPagesOptimized": 0,
+  "errors": [
+    {
+      "url": "https://banners.com/step-and-repeat-banners",
+      "error": "pdpAgent.js returned empty output."
+    },
+    {
+      "url": "https://banners.com/table-banners",
+      "error": "pdpAgent.js returned empty output."
+    },
+    {
+      "url": "https://banners.com/vertical-banners",
+      "error": "pdpAgent.js returned empty output."
+    },
+    {
+      "url": "https://banners.com/custom-flags/tear-drop-flags",
+      "error": "pdpAgent.js returned empty output."
+    },
+    {
+      "url": "https://banners.com/banner-stands",
+      "error": "pdpAgent.js returned empty output."
+    },
+    {
+      "url": "https://banners.com/yard-letter-and-number-signs",
+      "error": "pdpAgent.js returned empty output."
+    },
+    {
+      "url": "https://banners.com/banner-stands/retractors",
+      "error": "pdpAgent.js returned empty output."
+    },
+    {
+      "url": "https://banners.com/business-signs",
+      "error": "pdpAgent.js returned empty output."
+    },
+    {
+      "url": "https://banners.com/church-signs",
+      "error": "pdpAgent.js returned empty output."
+    },
+    {
+      "url": "https://banners.com/construction-signs",
+      "error": "pdpAgent.js returned empty output."
+    },
+    {
+      "url": "https://banners.com/election-signs",
+      "error": "pdpAgent.js returned empty output."
+    },
+    {
+      "url": "https://banners.com/now-hiring-signs",
+      "error": "pdpAgent.js returned empty output."
+    }
+  ],
+  "pageAudits": [
+    {
+      "url": "https://banners.com/",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": true,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom Printed Banners, Signs, Flags & More | Banners.com",
+        "metaDescription": "Banners.com, the best custom vinyl banner printing service. Create state of the art custom designs for all your signage needs online or with free professional design assistance.",
+        "canonical": "https://www.banners.com/",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1238,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Custom Banner Printing Online Vinyl, Mesh, Fabric & Business Banners Printed Fast Nationwide"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom Vinyl Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom Mesh Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom Fabric Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Popular Products"
+          },
+          {
+            "tag": "h4",
+            "text": "Why is Banners.com Your Best Custom Banner, Flag, and Sign Making Partner?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Businesses Across America Choose Banners.com"
+          },
+          {
+            "tag": "h2",
+            "text": "Trusted By Thousands of Businesses, Schools and Event Organizers Nationwide ... Reviews★★★★★"
+          },
+          {
+            "tag": "h2",
+            "text": "About Banners.com — America's Trusted Custom Banner Printer"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom Banners and Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Quality and Materials"
+          },
+          {
+            "tag": "h3",
+            "text": "Prices and Shipping"
+          },
+          {
+            "tag": "h3",
+            "text": "Shipping"
+          },
+          {
+            "tag": "h3",
+            "text": "Payment"
+          },
+          {
+            "tag": "h4",
+            "text": "Credit Cards"
+          },
+          {
+            "tag": "h4",
+            "text": "Government Purchase Orders"
+          },
+          {
+            "tag": "h3",
+            "text": "Things People Ask Us"
+          },
+          {
+            "tag": "h2",
+            "text": "Check Out Our Blog"
+          },
+          {
+            "tag": "h3",
+            "text": "How to Design Graduation Yard Signs and Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Do Political Yard Signs Work? A Guide for Effective Campaigning"
+          },
+          {
+            "tag": "h3",
+            "text": "The Power of Sidewalk Signs: A Usage Guide"
+          },
+          {
+            "tag": "h3",
+            "text": "Receive Marketing Ideas and Special Offers from Banners.com!"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Custom Banner Printing Online Vinyl, Mesh, Fabric & Business Banners Printed Fast Nationwide"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Vinyl Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Mesh Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Fabric Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Popular Products"
+        },
+        {
+          "tag": "h4",
+          "text": "Why is Banners.com Your Best Custom Banner, Flag, and Sign Making Partner?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Businesses Across America Choose Banners.com"
+        },
+        {
+          "tag": "h2",
+          "text": "Trusted By Thousands of Businesses, Schools and Event Organizers Nationwide ... Reviews★★★★★"
+        },
+        {
+          "tag": "h2",
+          "text": "About Banners.com — America's Trusted Custom Banner Printer"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Banners and Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Quality and Materials"
+        },
+        {
+          "tag": "h3",
+          "text": "Prices and Shipping"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping"
+        },
+        {
+          "tag": "h3",
+          "text": "Payment"
+        },
+        {
+          "tag": "h4",
+          "text": "Credit Cards"
+        },
+        {
+          "tag": "h4",
+          "text": "Government Purchase Orders"
+        },
+        {
+          "tag": "h3",
+          "text": "Things People Ask Us"
+        },
+        {
+          "tag": "h2",
+          "text": "Check Out Our Blog"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Design Graduation Yard Signs and Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Do Political Yard Signs Work? A Guide for Effective Campaigning"
+        },
+        {
+          "tag": "h3",
+          "text": "The Power of Sidewalk Signs: A Usage Guide"
+        },
+        {
+          "tag": "h3",
+          "text": "Receive Marketing Ideas and Special Offers from Banners.com!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/custom-flags",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom Flags - Design and Print Your Own Custom Flag",
+        "metaDescription": "Banners.com makes custom flag printing easy. Upload artwork, use templates, or get design help—create unique personalized flags in minutes.",
+        "canonical": "https://www.banners.com/custom-flags",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1295,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Custom Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom Flag Printing for any Occasion"
+          },
+          {
+            "tag": "h4",
+            "text": "Flag Material"
+          },
+          {
+            "tag": "h4",
+            "text": "Finishing Options"
+          },
+          {
+            "tag": "h4",
+            "text": "Artwork Guidelines"
+          },
+          {
+            "tag": "h4",
+            "text": "Artwork/Order Proofs"
+          },
+          {
+            "tag": "h4",
+            "text": "Color Match Proof System"
+          },
+          {
+            "tag": "h3",
+            "text": "Production Time Tables"
+          },
+          {
+            "tag": "h4",
+            "text": "2 Business Days Express:"
+          },
+          {
+            "tag": "h4",
+            "text": "3 Business Days Standard:"
+          },
+          {
+            "tag": "h4",
+            "text": "5 Business Days Saver:"
+          },
+          {
+            "tag": "h4",
+            "text": "Payment"
+          },
+          {
+            "tag": "h4",
+            "text": "General Shipping Guidelines"
+          },
+          {
+            "tag": "h4",
+            "text": "Shipping Maps"
+          },
+          {
+            "tag": "h4",
+            "text": "Shipping Methods"
+          },
+          {
+            "tag": "h3",
+            "text": "Products you might like"
+          },
+          {
+            "tag": "h4",
+            "text": "Upload a Print Ready File"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 1 - Choose Choose a product and the size you want"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 2 - Upload Upload the image from your computer"
+          },
+          {
+            "tag": "h4",
+            "text": "Let us design your product"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 1 - Choose Choose a product and the size you want"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 2 - Upload Upload the image from your computer"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+          },
+          {
+            "tag": "h2",
+            "text": "More About Custom Flags"
+          },
+          {
+            "tag": "h3",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Personalized Flags in Different Shapes and Sizes Return to Top"
+          },
+          {
+            "tag": "h2",
+            "text": "Feather Flags"
+          },
+          {
+            "tag": "h2",
+            "text": "Rectangle Flags"
+          },
+          {
+            "tag": "h2",
+            "text": "Standard Flags"
+          },
+          {
+            "tag": "h2",
+            "text": "Tear Drop Flags"
+          },
+          {
+            "tag": "h3",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Unmatched Customer Service"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "What material are your custom flags printed on, and can they be used outdoors?"
+          },
+          {
+            "tag": "h3",
+            "text": "How long will my custom flag last outdoors?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do your personalized flag products come with a warranty?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are your custom flags single-sided or double-sided?"
+          },
+          {
+            "tag": "h3",
+            "text": "What’s the difference between a standard 3' × 5' flag and a feather flag?"
+          },
+          {
+            "tag": "h3",
+            "text": "What is the production time for custom flags?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I wash my personalized flag?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do custom flags come with hardware or bases?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Custom Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Flag Printing for any Occasion"
+        },
+        {
+          "tag": "h4",
+          "text": "Flag Material"
+        },
+        {
+          "tag": "h4",
+          "text": "Finishing Options"
+        },
+        {
+          "tag": "h4",
+          "text": "Artwork Guidelines"
+        },
+        {
+          "tag": "h4",
+          "text": "Artwork/Order Proofs"
+        },
+        {
+          "tag": "h4",
+          "text": "Color Match Proof System"
+        },
+        {
+          "tag": "h3",
+          "text": "Production Time Tables"
+        },
+        {
+          "tag": "h4",
+          "text": "2 Business Days Express:"
+        },
+        {
+          "tag": "h4",
+          "text": "3 Business Days Standard:"
+        },
+        {
+          "tag": "h4",
+          "text": "5 Business Days Saver:"
+        },
+        {
+          "tag": "h4",
+          "text": "Payment"
+        },
+        {
+          "tag": "h4",
+          "text": "General Shipping Guidelines"
+        },
+        {
+          "tag": "h4",
+          "text": "Shipping Maps"
+        },
+        {
+          "tag": "h4",
+          "text": "Shipping Methods"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Let us design your product"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Custom Flags"
+        },
+        {
+          "tag": "h3",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Personalized Flags in Different Shapes and Sizes Return to Top"
+        },
+        {
+          "tag": "h2",
+          "text": "Feather Flags"
+        },
+        {
+          "tag": "h2",
+          "text": "Rectangle Flags"
+        },
+        {
+          "tag": "h2",
+          "text": "Standard Flags"
+        },
+        {
+          "tag": "h2",
+          "text": "Tear Drop Flags"
+        },
+        {
+          "tag": "h3",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Unmatched Customer Service"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "What material are your custom flags printed on, and can they be used outdoors?"
+        },
+        {
+          "tag": "h3",
+          "text": "How long will my custom flag last outdoors?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do your personalized flag products come with a warranty?"
+        },
+        {
+          "tag": "h3",
+          "text": "Are your custom flags single-sided or double-sided?"
+        },
+        {
+          "tag": "h3",
+          "text": "What’s the difference between a standard 3' × 5' flag and a feather flag?"
+        },
+        {
+          "tag": "h3",
+          "text": "What is the production time for custom flags?"
+        },
+        {
+          "tag": "h3",
+          "text": "Can I wash my personalized flag?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do custom flags come with hardware or bases?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/custom-flags/feather-flags",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom Feather Flags & Feather Banners | Banners.com",
+        "metaDescription": "Stand out in a crowd and gain extra exposure with a high quality custom feather flag. We offer several different sizes to choose from and unlimited customization options.",
+        "canonical": "https://www.banners.com/custom-flags/feather-flags",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1185,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Feather Flags - Order Custom Feather Flags Online!"
+          },
+          {
+            "tag": "h2",
+            "text": "Order High Quality Feather Flags Today"
+          },
+          {
+            "tag": "h3",
+            "text": "Choose an option below to get started on your order:"
+          },
+          {
+            "tag": "h2",
+            "text": "More About Custom Feather Flags Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "Download Feather Flag Templates to Create Your Design"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "What are feather flags (razor flags)?"
+          },
+          {
+            "tag": "h3",
+            "text": "What sizes do feather flags come in?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are feather flags single-sided or double-sided?"
+          },
+          {
+            "tag": "h3",
+            "text": "What materials are feather flags made of (and what are the poles made of)?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do feather flags have a matte or glossy finish?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do feather flags come with hardware or bases?"
+          },
+          {
+            "tag": "h3",
+            "text": "What is the production time for feather flags, and when does turnaround start?"
+          },
+          {
+            "tag": "h3",
+            "text": "How long do feather flags last outdoors?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do you offer a warranty on feather flags?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I wash my feather flag, and will the sun fade it?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Feather Flags - Order Custom Feather Flags Online!"
+        },
+        {
+          "tag": "h2",
+          "text": "Order High Quality Feather Flags Today"
+        },
+        {
+          "tag": "h3",
+          "text": "Choose an option below to get started on your order:"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Custom Feather Flags Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Download Feather Flag Templates to Create Your Design"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "What are feather flags (razor flags)?"
+        },
+        {
+          "tag": "h3",
+          "text": "What sizes do feather flags come in?"
+        },
+        {
+          "tag": "h3",
+          "text": "Are feather flags single-sided or double-sided?"
+        },
+        {
+          "tag": "h3",
+          "text": "What materials are feather flags made of (and what are the poles made of)?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do feather flags have a matte or glossy finish?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do feather flags come with hardware or bases?"
+        },
+        {
+          "tag": "h3",
+          "text": "What is the production time for feather flags, and when does turnaround start?"
+        },
+        {
+          "tag": "h3",
+          "text": "How long do feather flags last outdoors?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do you offer a warranty on feather flags?"
+        },
+        {
+          "tag": "h3",
+          "text": "Can I wash my feather flag, and will the sun fade it?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/custom-flags/rectangle-flags",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Rectangle Flags - Order Custom Rectangle Flags | Banners.com",
+        "metaDescription": "We have three different Rectangle Flag Sizes | 14.5 foot Large Rectangle Flags, 10 foot Medium Rectangle Flags, 7 foot Small Rectangle Flags | Three Base Options",
+        "canonical": "https://www.banners.com/custom-flags/rectangle-flags",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1158,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Rectangle Flags - Order Custom Rectangle Flags Online!"
+          },
+          {
+            "tag": "h2",
+            "text": "Order Custom Indoor and Outdoor Rectangle Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Click on a rectangle flag size below for pricing and to get started on your order:"
+          },
+          {
+            "tag": "h2",
+            "text": "More About Rectangle Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Download Rectangle Flag Templates to Create Your Design"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "What are rectangle flags (rectangle flag banners)?"
+          },
+          {
+            "tag": "h3",
+            "text": "Why choose a rectangle flag instead of a feather or teardrop flag?"
+          },
+          {
+            "tag": "h3",
+            "text": "What sizes do rectangle flags come in, and what are the printed dimensions?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do the listed sizes include the base?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are rectangle flags single-sided or double-sided?"
+          },
+          {
+            "tag": "h3",
+            "text": "How are rectangle flags printed?"
+          },
+          {
+            "tag": "h3",
+            "text": "Will I receive a proof before production?"
+          },
+          {
+            "tag": "h3",
+            "text": "What production times do you offer, and when does turnaround start?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Rectangle Flags - Order Custom Rectangle Flags Online!"
+        },
+        {
+          "tag": "h2",
+          "text": "Order Custom Indoor and Outdoor Rectangle Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Click on a rectangle flag size below for pricing and to get started on your order:"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Rectangle Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Download Rectangle Flag Templates to Create Your Design"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "What are rectangle flags (rectangle flag banners)?"
+        },
+        {
+          "tag": "h3",
+          "text": "Why choose a rectangle flag instead of a feather or teardrop flag?"
+        },
+        {
+          "tag": "h3",
+          "text": "What sizes do rectangle flags come in, and what are the printed dimensions?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do the listed sizes include the base?"
+        },
+        {
+          "tag": "h3",
+          "text": "Are rectangle flags single-sided or double-sided?"
+        },
+        {
+          "tag": "h3",
+          "text": "How are rectangle flags printed?"
+        },
+        {
+          "tag": "h3",
+          "text": "Will I receive a proof before production?"
+        },
+        {
+          "tag": "h3",
+          "text": "What production times do you offer, and when does turnaround start?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/custom-signs",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom Signs – Order Custom Signs Online | Banners.com",
+        "metaDescription": "Design and order custom made signs online at Banners.com. We offer a wide variety of signage options for both indoor and outdoor use. Order today!",
+        "canonical": "https://www.banners.com/custom-signs",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1234,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Custom Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom Indoor and Outdoor Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Custom Signs That Fit Your Needs"
+          },
+          {
+            "tag": "h3",
+            "text": "What We Have to Offer"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "Do yard signs work for advertising?"
+          },
+          {
+            "tag": "h3",
+            "text": "What are yard signs made of?"
+          },
+          {
+            "tag": "h3",
+            "text": "What sizes are available for yard signs?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can yard signs be printed double-sided?"
+          },
+          {
+            "tag": "h3",
+            "text": "What production times do you offer, and when does turnaround start?"
+          },
+          {
+            "tag": "h3",
+            "text": "What is a proof?"
+          },
+          {
+            "tag": "h3",
+            "text": "How do I design my yard sign?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do yard signs come with stakes, and how do I assemble them?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I track my shipment?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Custom Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Indoor and Outdoor Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Custom Signs That Fit Your Needs"
+        },
+        {
+          "tag": "h3",
+          "text": "What We Have to Offer"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Do yard signs work for advertising?"
+        },
+        {
+          "tag": "h3",
+          "text": "What are yard signs made of?"
+        },
+        {
+          "tag": "h3",
+          "text": "What sizes are available for yard signs?"
+        },
+        {
+          "tag": "h3",
+          "text": "Can yard signs be printed double-sided?"
+        },
+        {
+          "tag": "h3",
+          "text": "What production times do you offer, and when does turnaround start?"
+        },
+        {
+          "tag": "h3",
+          "text": "What is a proof?"
+        },
+        {
+          "tag": "h3",
+          "text": "How do I design my yard sign?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do yard signs come with stakes, and how do I assemble them?"
+        },
+        {
+          "tag": "h3",
+          "text": "Can I track my shipment?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/custom-flags/base-replacements",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Flag Base Replacements - Flag Bases | Banners.com",
+        "metaDescription": "Having a flag and hardware is half the battle! But if you need a flag base replacement, then check out this page at Banners.com to order the type of base that you need.",
+        "canonical": "https://www.banners.com/custom-flags/base-replacements",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 569,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Fabric Flags Base Replacements"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Fabric Flags Base Replacements"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/banner-stands/a-frames",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom A-Frame Signs - Custom Sidewalk Signs | Banners.com",
+        "metaDescription": "Order your sidewalk signs from Banners.com! The displays come with hardware and full color signs. Use one of our templates or upload your own artwork!",
+        "canonical": "https://www.banners.com/banner-stands/a-frames",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 861,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Custom A-Frame Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Maintenance free custom sidewalk signs"
+          },
+          {
+            "tag": "h3",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions"
+          },
+          {
+            "tag": "h3",
+            "text": "What do people call an A-frame sign?"
+          },
+          {
+            "tag": "h3",
+            "text": "What are A-frame signs made of?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are A-frame signs waterproof and weather-resistant?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are A-frame signs double-sided?"
+          },
+          {
+            "tag": "h3",
+            "text": "What is the largest A-frame sign size available?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I order replacement signs for my A-frame frame?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I design my A-frame sign online?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I request a proof and what are your production times?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Custom A-Frame Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Maintenance free custom sidewalk signs"
+        },
+        {
+          "tag": "h3",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions"
+        },
+        {
+          "tag": "h3",
+          "text": "What do people call an A-frame sign?"
+        },
+        {
+          "tag": "h3",
+          "text": "What are A-frame signs made of?"
+        },
+        {
+          "tag": "h3",
+          "text": "Are A-frame signs waterproof and weather-resistant?"
+        },
+        {
+          "tag": "h3",
+          "text": "Are A-frame signs double-sided?"
+        },
+        {
+          "tag": "h3",
+          "text": "What is the largest A-frame sign size available?"
+        },
+        {
+          "tag": "h3",
+          "text": "Can I order replacement signs for my A-frame frame?"
+        },
+        {
+          "tag": "h3",
+          "text": "Can I design my A-frame sign online?"
+        },
+        {
+          "tag": "h3",
+          "text": "Can I request a proof and what are your production times?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/yard-signs/custom-shapes",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom Shaped Yard Signs | Banners.com",
+        "metaDescription": "Order custom shaped yard signs from Banners.com. From fun shapes to practical ones, we've got you covered. Promote a Birthday party, baby shower or construction business.",
+        "canonical": "https://www.banners.com/yard-signs/custom-shapes",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1293,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Your Yard Sign in Custom Shapes"
+          },
+          {
+            "tag": "h3",
+            "text": "Create and Order Almost any Shaped Lawn Sign You’d Like"
+          },
+          {
+            "tag": "h4",
+            "text": "Share Your Message With A Custom Shaped Yard Sign"
+          },
+          {
+            "tag": "h4",
+            "text": "Material"
+          },
+          {
+            "tag": "h4",
+            "text": "Full Color Custom Yard Signs"
+          },
+          {
+            "tag": "h4",
+            "text": "Artwork"
+          },
+          {
+            "tag": "h4",
+            "text": "Artwork Guidelines"
+          },
+          {
+            "tag": "h4",
+            "text": "Artwork/Order Proofs"
+          },
+          {
+            "tag": "h4",
+            "text": "Color Match Proof System"
+          },
+          {
+            "tag": "h4",
+            "text": "Production Times"
+          },
+          {
+            "tag": "h3",
+            "text": "Production Time Tables"
+          },
+          {
+            "tag": "h4",
+            "text": "1 Business Day Priority:"
+          },
+          {
+            "tag": "h4",
+            "text": "2 Business Days Express:"
+          },
+          {
+            "tag": "h4",
+            "text": "3 Business Days Standard:"
+          },
+          {
+            "tag": "h4",
+            "text": "5 Business Days Saver:"
+          },
+          {
+            "tag": "h4",
+            "text": "Payment"
+          },
+          {
+            "tag": "h4",
+            "text": "Shipping"
+          },
+          {
+            "tag": "h4",
+            "text": "General Shipping Guidelines"
+          },
+          {
+            "tag": "h4",
+            "text": "Shipping Methods"
+          },
+          {
+            "tag": "h3",
+            "text": "Products you might like"
+          },
+          {
+            "tag": "h4",
+            "text": "Upload a Print Ready File"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 1 - Choose Choose a product and the size you want"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 2 - Upload Upload the image from your computer"
+          },
+          {
+            "tag": "h4",
+            "text": "Let us design your product"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 1 - Choose Choose a product and the size you want"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 2 - Upload Upload the image from your computer"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+          },
+          {
+            "tag": "h2",
+            "text": "More About Die-Cut Yard Signs Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "Three Easy Ways to Order Custom Shape Yard Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "What material are die-cut yard signs made from?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are die-cut yard signs waterproof and weather-resistant?"
+          },
+          {
+            "tag": "h3",
+            "text": "What ground stake options are available?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can you help with my die-cut yard sign design?"
+          },
+          {
+            "tag": "h3",
+            "text": "What are shaped (die-cut) yard signs commonly used for?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do you offer custom sizes for die-cut yard signs?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I request a proof before printing?"
+          },
+          {
+            "tag": "h3",
+            "text": "What production times do you offer, and when does turnaround start?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Your Yard Sign in Custom Shapes"
+        },
+        {
+          "tag": "h3",
+          "text": "Create and Order Almost any Shaped Lawn Sign You’d Like"
+        },
+        {
+          "tag": "h4",
+          "text": "Share Your Message With A Custom Shaped Yard Sign"
+        },
+        {
+          "tag": "h4",
+          "text": "Material"
+        },
+        {
+          "tag": "h4",
+          "text": "Full Color Custom Yard Signs"
+        },
+        {
+          "tag": "h4",
+          "text": "Artwork"
+        },
+        {
+          "tag": "h4",
+          "text": "Artwork Guidelines"
+        },
+        {
+          "tag": "h4",
+          "text": "Artwork/Order Proofs"
+        },
+        {
+          "tag": "h4",
+          "text": "Color Match Proof System"
+        },
+        {
+          "tag": "h4",
+          "text": "Production Times"
+        },
+        {
+          "tag": "h3",
+          "text": "Production Time Tables"
+        },
+        {
+          "tag": "h4",
+          "text": "1 Business Day Priority:"
+        },
+        {
+          "tag": "h4",
+          "text": "2 Business Days Express:"
+        },
+        {
+          "tag": "h4",
+          "text": "3 Business Days Standard:"
+        },
+        {
+          "tag": "h4",
+          "text": "5 Business Days Saver:"
+        },
+        {
+          "tag": "h4",
+          "text": "Payment"
+        },
+        {
+          "tag": "h4",
+          "text": "Shipping"
+        },
+        {
+          "tag": "h4",
+          "text": "General Shipping Guidelines"
+        },
+        {
+          "tag": "h4",
+          "text": "Shipping Methods"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Let us design your product"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Die-Cut Yard Signs Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Three Easy Ways to Order Custom Shape Yard Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "What material are die-cut yard signs made from?"
+        },
+        {
+          "tag": "h3",
+          "text": "Are die-cut yard signs waterproof and weather-resistant?"
+        },
+        {
+          "tag": "h3",
+          "text": "What ground stake options are available?"
+        },
+        {
+          "tag": "h3",
+          "text": "Can you help with my die-cut yard sign design?"
+        },
+        {
+          "tag": "h3",
+          "text": "What are shaped (die-cut) yard signs commonly used for?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do you offer custom sizes for die-cut yard signs?"
+        },
+        {
+          "tag": "h3",
+          "text": "Can I request a proof before printing?"
+        },
+        {
+          "tag": "h3",
+          "text": "What production times do you offer, and when does turnaround start?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/decals/3m-control-tac",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "3M™ Controltac™ Vinyl Decals | Banners.com",
+        "metaDescription": "Vinyl Decals | 3M Controltac | Great for Vehicle Wraps",
+        "canonical": "https://www.banners.com/decals/3m-control-tac",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 595,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "3M Controltac Decals"
+          },
+          {
+            "tag": "h3",
+            "text": "High-Quality Vinyl Decals"
+          },
+          {
+            "tag": "h2",
+            "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "3M Controltac Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "High-Quality Vinyl Decals"
+        },
+        {
+          "tag": "h2",
+          "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/magnets",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom Magnets for Home, Business, & More | Banners.com",
+        "metaDescription": "Custom magnets are perfect for vehicle branding, fridge reminders, or business cards. Get free proofs, fast turnaround & easy design tools at Banners.com",
+        "canonical": "https://www.banners.com/magnets",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1002,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Custom Magnets for Home, Business & More"
+          },
+          {
+            "tag": "h2",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "More About Our Magnet Products"
+          },
+          {
+            "tag": "h4",
+            "text": "Custom Truck Magnets"
+          },
+          {
+            "tag": "h4",
+            "text": "Custom Car Magnets"
+          },
+          {
+            "tag": "h4",
+            "text": "Custom Fridge Magnets"
+          },
+          {
+            "tag": "h4",
+            "text": "Custom Photo Magnets"
+          },
+          {
+            "tag": "h4",
+            "text": "Custom Dry Erase Magnets"
+          },
+          {
+            "tag": "h4",
+            "text": "Custom Business Magnets"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "Will a magnet stick to my car?"
+          },
+          {
+            "tag": "h3",
+            "text": "What are your custom magnets made of?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are custom car magnets waterproof / weatherproof?"
+          },
+          {
+            "tag": "h3",
+            "text": "How long do custom magnets last?"
+          },
+          {
+            "tag": "h3",
+            "text": "Is there a minimum order quantity (MOQ)?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do you offer bulk discounts on custom magnets?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do you print magnets in full color?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I write on my magnets (Sharpie or dry-erase)? How do I clean them?"
+          },
+          {
+            "tag": "h3",
+            "text": "What are common uses for custom magnets?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Custom Magnets for Home, Business & More"
+        },
+        {
+          "tag": "h2",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "More About Our Magnet Products"
+        },
+        {
+          "tag": "h4",
+          "text": "Custom Truck Magnets"
+        },
+        {
+          "tag": "h4",
+          "text": "Custom Car Magnets"
+        },
+        {
+          "tag": "h4",
+          "text": "Custom Fridge Magnets"
+        },
+        {
+          "tag": "h4",
+          "text": "Custom Photo Magnets"
+        },
+        {
+          "tag": "h4",
+          "text": "Custom Dry Erase Magnets"
+        },
+        {
+          "tag": "h4",
+          "text": "Custom Business Magnets"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Will a magnet stick to my car?"
+        },
+        {
+          "tag": "h3",
+          "text": "What are your custom magnets made of?"
+        },
+        {
+          "tag": "h3",
+          "text": "Are custom car magnets waterproof / weatherproof?"
+        },
+        {
+          "tag": "h3",
+          "text": "How long do custom magnets last?"
+        },
+        {
+          "tag": "h3",
+          "text": "Is there a minimum order quantity (MOQ)?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do you offer bulk discounts on custom magnets?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do you print magnets in full color?"
+        },
+        {
+          "tag": "h3",
+          "text": "Can I write on my magnets (Sharpie or dry-erase)? How do I clean them?"
+        },
+        {
+          "tag": "h3",
+          "text": "What are common uses for custom magnets?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/decals/calendered-vinyl",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Calendered Vinyl with Lamination - High Quality Vinyl Decals",
+        "metaDescription": "Get durable calendered vinyl decals for indoor and outdoor use. Weather-resistant, vibrant, and long-lasting—perfect for any surface.",
+        "canonical": "https://www.banners.com/decals/calendered-vinyl",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 596,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Calendered Vinyl Decals"
+          },
+          {
+            "tag": "h3",
+            "text": "Vinyl Decals with Protective Over Laminate"
+          },
+          {
+            "tag": "h3",
+            "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Calendered Vinyl Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Vinyl Decals with Protective Over Laminate"
+        },
+        {
+          "tag": "h3",
+          "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/truck-magnetic-signs",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Magnetic Signs For Trucks - Truck Magnets | Banners.com",
+        "metaDescription": "Easily advertise on the go with magnetic truck signs from Banners.com! These signs are easy to install, reposition and remove. Begin your order online today!",
+        "canonical": "https://www.banners.com/truck-magnetic-signs",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1278,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Custom Truck Magnets"
+          },
+          {
+            "tag": "h3",
+            "text": "Magnets for Your Truck"
+          },
+          {
+            "tag": "h4",
+            "text": "Material"
+          },
+          {
+            "tag": "h3",
+            "text": "Magnetic Sign Material"
+          },
+          {
+            "tag": "h4",
+            "text": "Magnet Cut Options"
+          },
+          {
+            "tag": "h3",
+            "text": "Magnetic Sign Cut Options"
+          },
+          {
+            "tag": "h4",
+            "text": "Artwork"
+          },
+          {
+            "tag": "h4",
+            "text": "Artwork Guidelines"
+          },
+          {
+            "tag": "h4",
+            "text": "Artwork/Order Proofs"
+          },
+          {
+            "tag": "h4",
+            "text": "Color Match Proof System"
+          },
+          {
+            "tag": "h4",
+            "text": "Production Times"
+          },
+          {
+            "tag": "h3",
+            "text": "Production Time Tables"
+          },
+          {
+            "tag": "h4",
+            "text": "1 Business Day Priority:"
+          },
+          {
+            "tag": "h4",
+            "text": "2 Business Days Express:"
+          },
+          {
+            "tag": "h4",
+            "text": "3 Business Days Standard:"
+          },
+          {
+            "tag": "h4",
+            "text": "5 Business Days Saver:"
+          },
+          {
+            "tag": "h4",
+            "text": "Payment"
+          },
+          {
+            "tag": "h4",
+            "text": "Shipping"
+          },
+          {
+            "tag": "h4",
+            "text": "General Shipping Guidelines"
+          },
+          {
+            "tag": "h4",
+            "text": "Shipping Maps"
+          },
+          {
+            "tag": "h4",
+            "text": "Shipping Methods"
+          },
+          {
+            "tag": "h3",
+            "text": "Products you might like"
+          },
+          {
+            "tag": "h4",
+            "text": "Upload a Print Ready File"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 1 - Choose Choose a product and the size you want"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 2 - Upload Upload the image from your computer"
+          },
+          {
+            "tag": "h4",
+            "text": "Let us design your product"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 1 - Choose Choose a product and the size you want"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 2 - Upload Upload the image from your computer"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+          },
+          {
+            "tag": "h2",
+            "text": "Magnetic Signs for Trucks: Custom Designs that Drive Results"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom Magnetic Truck Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Custom Magnetic Signs for Trucks?"
+          },
+          {
+            "tag": "h2",
+            "text": "What Makes Our Truck Magnets Stand Out?"
+          },
+          {
+            "tag": "h2",
+            "text": "How Magnetic Truck Signs Can Boost Your Brand"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "Will a magnetic truck sign damage my paint?"
+          },
+          {
+            "tag": "h3",
+            "text": "What metals do magnetic signs stick to?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can I use magnetic truck signs on other vehicles?"
+          },
+          {
+            "tag": "h3",
+            "text": "What size truck magnet should I order?"
+          },
+          {
+            "tag": "h3",
+            "text": "How durable are magnetic truck signs?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are magnets better than stickers/decals for truck advertising?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Custom Truck Magnets"
+        },
+        {
+          "tag": "h3",
+          "text": "Magnets for Your Truck"
+        },
+        {
+          "tag": "h4",
+          "text": "Material"
+        },
+        {
+          "tag": "h3",
+          "text": "Magnetic Sign Material"
+        },
+        {
+          "tag": "h4",
+          "text": "Magnet Cut Options"
+        },
+        {
+          "tag": "h3",
+          "text": "Magnetic Sign Cut Options"
+        },
+        {
+          "tag": "h4",
+          "text": "Artwork"
+        },
+        {
+          "tag": "h4",
+          "text": "Artwork Guidelines"
+        },
+        {
+          "tag": "h4",
+          "text": "Artwork/Order Proofs"
+        },
+        {
+          "tag": "h4",
+          "text": "Color Match Proof System"
+        },
+        {
+          "tag": "h4",
+          "text": "Production Times"
+        },
+        {
+          "tag": "h3",
+          "text": "Production Time Tables"
+        },
+        {
+          "tag": "h4",
+          "text": "1 Business Day Priority:"
+        },
+        {
+          "tag": "h4",
+          "text": "2 Business Days Express:"
+        },
+        {
+          "tag": "h4",
+          "text": "3 Business Days Standard:"
+        },
+        {
+          "tag": "h4",
+          "text": "5 Business Days Saver:"
+        },
+        {
+          "tag": "h4",
+          "text": "Payment"
+        },
+        {
+          "tag": "h4",
+          "text": "Shipping"
+        },
+        {
+          "tag": "h4",
+          "text": "General Shipping Guidelines"
+        },
+        {
+          "tag": "h4",
+          "text": "Shipping Maps"
+        },
+        {
+          "tag": "h4",
+          "text": "Shipping Methods"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Let us design your product"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "Magnetic Signs for Trucks: Custom Designs that Drive Results"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Magnetic Truck Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Custom Magnetic Signs for Trucks?"
+        },
+        {
+          "tag": "h2",
+          "text": "What Makes Our Truck Magnets Stand Out?"
+        },
+        {
+          "tag": "h2",
+          "text": "How Magnetic Truck Signs Can Boost Your Brand"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Will a magnetic truck sign damage my paint?"
+        },
+        {
+          "tag": "h3",
+          "text": "What metals do magnetic signs stick to?"
+        },
+        {
+          "tag": "h3",
+          "text": "Can I use magnetic truck signs on other vehicles?"
+        },
+        {
+          "tag": "h3",
+          "text": "What size truck magnet should I order?"
+        },
+        {
+          "tag": "h3",
+          "text": "How durable are magnetic truck signs?"
+        },
+        {
+          "tag": "h3",
+          "text": "Are magnets better than stickers/decals for truck advertising?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/decals/reflective-decals",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Reflective Decals & Custom Reflective Stickers | Banners.com",
+        "metaDescription": "Increase visibility with full color reflective decals. Here at Banners.com, we print custom reflective stickers on high-quality 5 mil engineer grade vinyl to ensure your decals stand the test of time. Click now.",
+        "canonical": "https://www.banners.com/decals/reflective-decals",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 593,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Reflective Decals"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom Printed Reflective Vinyl Decal"
+          },
+          {
+            "tag": "h3",
+            "text": ""
+          },
+          {
+            "tag": "h3",
+            "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Reflective Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Printed Reflective Vinyl Decal"
+        },
+        {
+          "tag": "h3",
+          "text": ""
+        },
+        {
+          "tag": "h3",
+          "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/bumper-stickers",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom Bumper Stickers from Banners.com",
+        "metaDescription": "Custom Bumper Stickers from Banners.com | Design your bumper stickers in our online designer, upload a print-ready file, or work with a graphic designer!",
+        "canonical": "https://www.banners.com/bumper-stickers",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 572,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Bumper Stickers"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom Bumper Stickers – Multiple Sizes"
+          },
+          {
+            "tag": "h3",
+            "text": "Banners.com is Now Partnering With Stickers.com!"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Bumper Stickers"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Bumper Stickers – Multiple Sizes"
+        },
+        {
+          "tag": "h3",
+          "text": "Banners.com is Now Partnering With Stickers.com!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/decals/high-performance-cast-vinyl-with-lamination",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "High Performance Cast Vinyl with Lamination - Vinyl Decals",
+        "metaDescription": "High Quality Vinyl Decals | High Performance Cast Vinyl Decals with Lamination | 8 year outdoor life expectancy | prints up to 52 inches wide | 866.419.SIGN",
+        "canonical": "https://www.banners.com/decals/high-performance-cast-vinyl-with-lamination",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 597,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "High-Performance Decals"
+          },
+          {
+            "tag": "h3",
+            "text": "Cast Vinyl with Protective Overlaminate Decals"
+          },
+          {
+            "tag": "h3",
+            "text": "Banners.com is Now Partnering With Decals.com - Save% on Your Next Order!"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "High-Performance Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Cast Vinyl with Protective Overlaminate Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Banners.com is Now Partnering With Decals.com - Save% on Your Next Order!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/floor-graphics",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Floor Graphics - Custom Printed Floor Decals | Banners.com",
+        "metaDescription": "Floor Graphics - Includes lamination | Removable adhesive | Short Term Floor Graphics or Long Term Floor Graphics options | Customer Service: 1.866.419.SIGN",
+        "canonical": "https://www.banners.com/floor-graphics",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 534,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Floor Decals"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom Printed Floor Graphics"
+          },
+          {
+            "tag": "h2",
+            "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Floor Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Printed Floor Graphics"
+        },
+        {
+          "tag": "h2",
+          "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/wall-graphics",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Wall Graphics - Custom Removable Wall Graphics | Banners.com",
+        "metaDescription": "Create a unique piece with custom wall graphics from Banners.com! We offer complete customization options with high quality materials and affordable prices. Get started today.",
+        "canonical": "https://www.banners.com/wall-graphics",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 539,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Custom Wall Decals"
+          },
+          {
+            "tag": "h3",
+            "text": "Adhesive Graphics & Vinyl Lettering for Interior Walls"
+          },
+          {
+            "tag": "h2",
+            "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Custom Wall Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Adhesive Graphics & Vinyl Lettering for Interior Walls"
+        },
+        {
+          "tag": "h2",
+          "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/window-perf",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Window Perf - One Way Perforated Window Vinyl | Banners.com",
+        "metaDescription": "Turn your windows and glass into premium advertising space! | Spray laminated to protect against UV Fading and Light Scratches | service@banners.com 1-866-419-SIGN",
+        "canonical": "https://www.banners.com/window-perf",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 534,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Window Perf"
+          },
+          {
+            "tag": "h3",
+            "text": "Perforated Window Film"
+          },
+          {
+            "tag": "h3",
+            "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Window Perf"
+        },
+        {
+          "tag": "h3",
+          "text": "Perforated Window Film"
+        },
+        {
+          "tag": "h3",
+          "text": "Banners.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/die-cut-stickers",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Die-Cut Stickers | Banners.com",
+        "metaDescription": "Easily generate custom die-cut stickers in your own unique shapes at Stickers.com! Design and order full color stickers printed on premium material.",
+        "canonical": "https://www.banners.com/die-cut-stickers",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 637,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Die-Cut Stickers"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom stickers for work and play!"
+          },
+          {
+            "tag": "h3",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Die-Cut Stickers"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom stickers for work and play!"
+        },
+        {
+          "tag": "h3",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/custom-car-stickers",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom Car Stickers | Banners.com",
+        "metaDescription": "Create custom bumper stickers online at Stickers.com! Use our free online design tool to upload artwork, start a sticker design from scratch or work with a professional designer!",
+        "canonical": "https://www.banners.com/custom-car-stickers",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 629,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Custom Car Stickers"
+          },
+          {
+            "tag": "h3",
+            "text": "Decorative stickers for your vehicle!"
+          },
+          {
+            "tag": "h3",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Custom Car Stickers"
+        },
+        {
+          "tag": "h3",
+          "text": "Decorative stickers for your vehicle!"
+        },
+        {
+          "tag": "h3",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/custom-sticker-sheets",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom Sticker Sheets | Banners.com",
+        "metaDescription": "Order custom sticker sheets from Banners.com! What better way to get your sticker projects done than by using convenient, stackable sticker sheets!",
+        "canonical": "https://www.banners.com/custom-sticker-sheets",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 593,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Custom Sticker Sheets"
+          },
+          {
+            "tag": "h3",
+            "text": "Personalized stickers on sheets—with endless uses!"
+          },
+          {
+            "tag": "h3",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Custom Sticker Sheets"
+        },
+        {
+          "tag": "h3",
+          "text": "Personalized stickers on sheets—with endless uses!"
+        },
+        {
+          "tag": "h3",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/custom-warning-labels",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom Warning Labels | Banners.com",
+        "metaDescription": "Order your custom warning labels from Banners.com! Easily label dangerous machinery, breaker boxes, OEM parts and more. Use the online designer tool to create your labels.",
+        "canonical": "https://www.banners.com/custom-warning-labels",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 635,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Custom Warning Labels"
+          },
+          {
+            "tag": "h3",
+            "text": "Design labels for ANSI Z535.4, OSHA, ISO, FDA, and Proposition 65 warnings"
+          },
+          {
+            "tag": "h3",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Custom Warning Labels"
+        },
+        {
+          "tag": "h3",
+          "text": "Design labels for ANSI Z535.4, OSHA, ISO, FDA, and Proposition 65 warnings"
+        },
+        {
+          "tag": "h3",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/translucent-adhesive-vinyl",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Translucent Vinyl with Adhesive Backing | Banners.com",
+        "metaDescription": "Order translucent adhesive backed vinyl from Banners.com! Use it for night and day street marketing. Digitally printed in full color, this product produces stunning displays.",
+        "canonical": "https://www.banners.com/translucent-adhesive-vinyl",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 604,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Translucent Vinyl"
+          },
+          {
+            "tag": "h3",
+            "text": "Neat adhesive media for stunning displays!"
+          },
+          {
+            "tag": "h3",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Translucent Vinyl"
+        },
+        {
+          "tag": "h3",
+          "text": "Neat adhesive media for stunning displays!"
+        },
+        {
+          "tag": "h3",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/translucent-non-adhesive-film",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Translucent Non-Adhesive Backlit Film | Banners.com",
+        "metaDescription": "Order non-adhesive translucent vinyl from Banners.com Use it for stunning retail and restaurant advertising. It creates crisp marketing day or night! Order today!",
+        "canonical": "https://www.banners.com/translucent-non-adhesive-film",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 608,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Translucent Backlit Film"
+          },
+          {
+            "tag": "h3",
+            "text": "Non-adhesive backlit film for pristine displays!"
+          },
+          {
+            "tag": "h3",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Translucent Backlit Film"
+        },
+        {
+          "tag": "h3",
+          "text": "Non-adhesive backlit film for pristine displays!"
+        },
+        {
+          "tag": "h3",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/table-covers",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": true,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Table Covers - Custom Fabric Table Coverings |Banners.com",
+        "metaDescription": "Table Covers - Full Color Table Runners, Full Color Table Throws & Fitted Table Covers | Direct Dye Sublimation Printing. Order your table cover online today!",
+        "canonical": "https://www.banners.com/table-covers",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1106,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Fabric Table Covers - Custom Fabric Table Covers | ★★★★★ Leave a Review"
+          },
+          {
+            "tag": "h2",
+            "text": "Full Color Table Throws, Fitted Table Covers & Full Color Table Runners"
+          },
+          {
+            "tag": "h3",
+            "text": "Select a table cover product below to view pricing and to get started:"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com for Custom Table Covers"
+          },
+          {
+            "tag": "h2",
+            "text": "Unmatched Customer Service"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "What are custom table covers?"
+          },
+          {
+            "tag": "h3",
+            "text": "What material are your table covers made from?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are table covers machine washable?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are table covers printed in full color?"
+          },
+          {
+            "tag": "h3",
+            "text": "What are table covers commonly used for?"
+          },
+          {
+            "tag": "h3",
+            "text": "What is the minimum order quantity for table covers?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do you offer bulk pricing for table covers?"
+          },
+          {
+            "tag": "h4",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Fabric Table Covers - Custom Fabric Table Covers | ★★★★★ Leave a Review"
+        },
+        {
+          "tag": "h2",
+          "text": "Full Color Table Throws, Fitted Table Covers & Full Color Table Runners"
+        },
+        {
+          "tag": "h3",
+          "text": "Select a table cover product below to view pricing and to get started:"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com for Custom Table Covers"
+        },
+        {
+          "tag": "h2",
+          "text": "Unmatched Customer Service"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "What are custom table covers?"
+        },
+        {
+          "tag": "h3",
+          "text": "What material are your table covers made from?"
+        },
+        {
+          "tag": "h3",
+          "text": "Are table covers machine washable?"
+        },
+        {
+          "tag": "h3",
+          "text": "Are table covers printed in full color?"
+        },
+        {
+          "tag": "h3",
+          "text": "What are table covers commonly used for?"
+        },
+        {
+          "tag": "h3",
+          "text": "What is the minimum order quantity for table covers?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do you offer bulk pricing for table covers?"
+        },
+        {
+          "tag": "h4",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/translucent-materials",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": true,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Translucent Materials | Banners.com",
+        "metaDescription": "We offer an adhesive backed translucent vinyl media, and a non-adhesive translucent backlit media. You can add a lamination to both.",
+        "canonical": "https://www.banners.com/translucent-materials",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 774,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Translucent Materials - Order Custom Translucent Prints"
+          },
+          {
+            "tag": "h3",
+            "text": "Brighten up your Display with Translucent Materials! Order Adhesive or Non-Adhesive Translucent Products"
+          },
+          {
+            "tag": "h2",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "What material choices are available for translucent (backlit) prints?"
+          },
+          {
+            "tag": "h3",
+            "text": "What are the size limits for translucent backlit film and translucent vinyl?"
+          },
+          {
+            "tag": "h3",
+            "text": "What colors/ink system do you use to print translucent materials?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do you offer bulk pricing for translucent material products?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Translucent Materials - Order Custom Translucent Prints"
+        },
+        {
+          "tag": "h3",
+          "text": "Brighten up your Display with Translucent Materials! Order Adhesive or Non-Adhesive Translucent Products"
+        },
+        {
+          "tag": "h2",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "What material choices are available for translucent (backlit) prints?"
+        },
+        {
+          "tag": "h3",
+          "text": "What are the size limits for translucent backlit film and translucent vinyl?"
+        },
+        {
+          "tag": "h3",
+          "text": "What colors/ink system do you use to print translucent materials?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do you offer bulk pricing for translucent material products?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/custom-t-shirts",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom T-Shirts | Personalized Apparel | Banners.com",
+        "metaDescription": "Order custom apparel at Banners.com. Custom T-shirts, polos, fleece, sweatshirts and more. High quality materials tailored for you.",
+        "canonical": "https://www.banners.com/custom-t-shirts",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 577,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Custom T-shirts - Shirtspot.com"
+          },
+          {
+            "tag": "h3",
+            "text": "High-Quality Clothing"
+          },
+          {
+            "tag": "h2",
+            "text": "Banners.com is Now Partnering With Shirtspot.com - Save 15% on Your Next Order!"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Custom T-shirts - Shirtspot.com"
+        },
+        {
+          "tag": "h3",
+          "text": "High-Quality Clothing"
+        },
+        {
+          "tag": "h2",
+          "text": "Banners.com is Now Partnering With Shirtspot.com - Save 15% on Your Next Order!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/accessories",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Banner Accessories and Yard Sign Accessories",
+        "metaDescription": "Vinyl Banner Accessories - Mesh Banner Accessories - Yard Sign Accessories - Ball Bungees - Hanging Clips - H Stakes - Beefy Stakes | 866.419.SIGN",
+        "canonical": "https://www.banners.com/accessories",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 633,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Banner Accessories & Yard Sign Accessories"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Banner Accessories & Yard Sign Accessories"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/coming-soon-signs",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Coming Soon Signs | Custom Business Signage | Banners.com",
+        "metaDescription": "Your new business took a lot of work. Promote it well with coming soon signs from Banners.com. Drive foot traffic and sales with a little help from some signage.",
+        "canonical": "https://www.banners.com/coming-soon-signs",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1260,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Coming Soon Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Shop Coming Soon Sign Products"
+          },
+          {
+            "tag": "h3",
+            "text": "Yard Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Vinyl Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Feather Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Car Magnets"
+          },
+          {
+            "tag": "h3",
+            "text": "Sintra Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Business Cards"
+          },
+          {
+            "tag": "h3",
+            "text": "Deluxe Outdoor Banner Retractors"
+          },
+          {
+            "tag": "h3",
+            "text": "Fence Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "A-Frame Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Pole Banners"
+          },
+          {
+            "tag": "h2",
+            "text": "Customer Reviews"
+          },
+          {
+            "tag": "h2",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Resources Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "10 Creative Ways to Display Custom Yard Signs"
+          },
+          {
+            "tag": "h4",
+            "text": "How to Design and Display a Step and Repeat Banner"
+          },
+          {
+            "tag": "h4",
+            "text": "The Most Common Banner Stand Assemblies"
+          },
+          {
+            "tag": "h4",
+            "text": "Working With Our Graphic Designers"
+          },
+          {
+            "tag": "h4",
+            "text": "Types of Banner Materials"
+          },
+          {
+            "tag": "h2",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Highlights & Benefits for Coming Soon Signs Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "Budget Friendly"
+          },
+          {
+            "tag": "h4",
+            "text": "Indoor and Outdoor Uses"
+          },
+          {
+            "tag": "h4",
+            "text": "Wonderful & Waterproof"
+          },
+          {
+            "tag": "h4",
+            "text": "Create Visual Interest"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "What are the most popular coming soon products people use?"
+          },
+          {
+            "tag": "h4",
+            "text": "What are the best sign options for indoor use?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I get assistance with my design?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I order a blank lawn sign?"
+          },
+          {
+            "tag": "h4",
+            "text": "What yard sign ground stakes can I order?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Coming Soon Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Shop Coming Soon Sign Products"
+        },
+        {
+          "tag": "h3",
+          "text": "Yard Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Vinyl Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Feather Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Car Magnets"
+        },
+        {
+          "tag": "h3",
+          "text": "Sintra Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Business Cards"
+        },
+        {
+          "tag": "h3",
+          "text": "Deluxe Outdoor Banner Retractors"
+        },
+        {
+          "tag": "h3",
+          "text": "Fence Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "A-Frame Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Pole Banners"
+        },
+        {
+          "tag": "h2",
+          "text": "Customer Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Resources Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "10 Creative Ways to Display Custom Yard Signs"
+        },
+        {
+          "tag": "h4",
+          "text": "How to Design and Display a Step and Repeat Banner"
+        },
+        {
+          "tag": "h4",
+          "text": "The Most Common Banner Stand Assemblies"
+        },
+        {
+          "tag": "h4",
+          "text": "Working With Our Graphic Designers"
+        },
+        {
+          "tag": "h4",
+          "text": "Types of Banner Materials"
+        },
+        {
+          "tag": "h2",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Highlights & Benefits for Coming Soon Signs Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "Budget Friendly"
+        },
+        {
+          "tag": "h4",
+          "text": "Indoor and Outdoor Uses"
+        },
+        {
+          "tag": "h4",
+          "text": "Wonderful & Waterproof"
+        },
+        {
+          "tag": "h4",
+          "text": "Create Visual Interest"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "What are the most popular coming soon products people use?"
+        },
+        {
+          "tag": "h4",
+          "text": "What are the best sign options for indoor use?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I get assistance with my design?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I order a blank lawn sign?"
+        },
+        {
+          "tag": "h4",
+          "text": "What yard sign ground stakes can I order?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/farmers-market-signs",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom Farmer's Market Signage | Banners.com",
+        "metaDescription": "Design vibrant farmer's market signage that attracts customers. Customize banners, posters & more for your local market. Order now!",
+        "canonical": "https://www.banners.com/farmers-market-signs",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1256,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Custom Farmer's Market Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Shop Farmer's Market Sign Products"
+          },
+          {
+            "tag": "h3",
+            "text": "Vinyl Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Yard Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Pole Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Fabric Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "A-Frame Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Retractor Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Feather Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Rectangle Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Teardrop Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Business Cards"
+          },
+          {
+            "tag": "h3",
+            "text": "Table Covers"
+          },
+          {
+            "tag": "h3",
+            "text": "Posters"
+          },
+          {
+            "tag": "h3",
+            "text": "Table Tents"
+          },
+          {
+            "tag": "h2",
+            "text": "Customer Reviews"
+          },
+          {
+            "tag": "h2",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Resources Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "10 Creative Ways to Display Custom Yard Signs"
+          },
+          {
+            "tag": "h4",
+            "text": "Behold the Power of Pole Banners"
+          },
+          {
+            "tag": "h4",
+            "text": "How to Make a Custom Feather Flag"
+          },
+          {
+            "tag": "h4",
+            "text": "Top 10 Pole Banner Design Tips and Tricks"
+          },
+          {
+            "tag": "h4",
+            "text": "Top 5 Yard Sign Display Tips and Tricks"
+          },
+          {
+            "tag": "h4",
+            "text": "The Power of Sidewalk Signs: A Usage Guide"
+          },
+          {
+            "tag": "h2",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Highlights & Benefits for Farmer's Market Signs Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "Affordable Quality"
+          },
+          {
+            "tag": "h4",
+            "text": "High Visibility Signage Solutions"
+          },
+          {
+            "tag": "h4",
+            "text": "Tailored to Your Offerings"
+          },
+          {
+            "tag": "h4",
+            "text": "Built to Last"
+          },
+          {
+            "tag": "h4",
+            "text": "Quick and Effortless Setup"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "What products are most commonly used for farmer's markets?"
+          },
+          {
+            "tag": "h4",
+            "text": "How long will it take to get my farmer's market signs products?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I use all of these products outdoors?"
+          },
+          {
+            "tag": "h4",
+            "text": "How do I create a farmer's market sign?"
+          },
+          {
+            "tag": "h4",
+            "text": "What other types of outdoor signage do you offer?"
+          },
+          {
+            "tag": "h4",
+            "text": "How should I protect my signs?"
+          },
+          {
+            "tag": "h4",
+            "text": "What online design tool can I use to make a banner?"
+          },
+          {
+            "tag": "h4",
+            "text": "Do you offer bulk discounts for farmer's market signage?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Custom Farmer's Market Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Shop Farmer's Market Sign Products"
+        },
+        {
+          "tag": "h3",
+          "text": "Vinyl Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Yard Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Pole Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Fabric Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "A-Frame Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Retractor Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Feather Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Rectangle Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Teardrop Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Business Cards"
+        },
+        {
+          "tag": "h3",
+          "text": "Table Covers"
+        },
+        {
+          "tag": "h3",
+          "text": "Posters"
+        },
+        {
+          "tag": "h3",
+          "text": "Table Tents"
+        },
+        {
+          "tag": "h2",
+          "text": "Customer Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Resources Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "10 Creative Ways to Display Custom Yard Signs"
+        },
+        {
+          "tag": "h4",
+          "text": "Behold the Power of Pole Banners"
+        },
+        {
+          "tag": "h4",
+          "text": "How to Make a Custom Feather Flag"
+        },
+        {
+          "tag": "h4",
+          "text": "Top 10 Pole Banner Design Tips and Tricks"
+        },
+        {
+          "tag": "h4",
+          "text": "Top 5 Yard Sign Display Tips and Tricks"
+        },
+        {
+          "tag": "h4",
+          "text": "The Power of Sidewalk Signs: A Usage Guide"
+        },
+        {
+          "tag": "h2",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Highlights & Benefits for Farmer's Market Signs Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "Affordable Quality"
+        },
+        {
+          "tag": "h4",
+          "text": "High Visibility Signage Solutions"
+        },
+        {
+          "tag": "h4",
+          "text": "Tailored to Your Offerings"
+        },
+        {
+          "tag": "h4",
+          "text": "Built to Last"
+        },
+        {
+          "tag": "h4",
+          "text": "Quick and Effortless Setup"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "What products are most commonly used for farmer's markets?"
+        },
+        {
+          "tag": "h4",
+          "text": "How long will it take to get my farmer's market signs products?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I use all of these products outdoors?"
+        },
+        {
+          "tag": "h4",
+          "text": "How do I create a farmer's market sign?"
+        },
+        {
+          "tag": "h4",
+          "text": "What other types of outdoor signage do you offer?"
+        },
+        {
+          "tag": "h4",
+          "text": "How should I protect my signs?"
+        },
+        {
+          "tag": "h4",
+          "text": "What online design tool can I use to make a banner?"
+        },
+        {
+          "tag": "h4",
+          "text": "Do you offer bulk discounts for farmer's market signage?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/government-signs",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Government Signs - Local City Signage | Banners.com",
+        "metaDescription": "Discover government signs for local city signage. Explore options and regulations for effective public communication at Banners.com.",
+        "canonical": "https://www.banners.com/government-signs",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1211,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Government Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Shop Government Sign Products"
+          },
+          {
+            "tag": "h3",
+            "text": "Polymetal Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Styrene Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Vinyl Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Pole Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Fabric Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Sintra Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "A-Frame Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Magnetic Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Canvas Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Yard Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Customer Reviews"
+          },
+          {
+            "tag": "h2",
+            "text": "Resources Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "Yard Letter Signs: A Design Guide​"
+          },
+          {
+            "tag": "h4",
+            "text": "Types of Banner Materials"
+          },
+          {
+            "tag": "h4",
+            "text": "What are Reinforced Hems?"
+          },
+          {
+            "tag": "h4",
+            "text": "Top 10 Pole Banner Design Tips and Tricks​"
+          },
+          {
+            "tag": "h4",
+            "text": "How to Make a Custom Decal?"
+          },
+          {
+            "tag": "h2",
+            "text": "Highlights & Benefits of Government Signs Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "High Visibility"
+          },
+          {
+            "tag": "h4",
+            "text": "Indoor and Outdoor Functions"
+          },
+          {
+            "tag": "h4",
+            "text": "Cost-effective"
+          },
+          {
+            "tag": "h4",
+            "text": "Waterproof"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "What are the best options for outdoor use?"
+          },
+          {
+            "tag": "h4",
+            "text": "Where should I put my signs for best results?"
+          },
+          {
+            "tag": "h4",
+            "text": "What colors are these signs printed in?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I add photographs and images to my signs?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I order double-sided banners?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Government Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Shop Government Sign Products"
+        },
+        {
+          "tag": "h3",
+          "text": "Polymetal Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Styrene Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Vinyl Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Pole Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Fabric Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Sintra Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "A-Frame Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Magnetic Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Canvas Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Yard Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Customer Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Resources Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "Yard Letter Signs: A Design Guide​"
+        },
+        {
+          "tag": "h4",
+          "text": "Types of Banner Materials"
+        },
+        {
+          "tag": "h4",
+          "text": "What are Reinforced Hems?"
+        },
+        {
+          "tag": "h4",
+          "text": "Top 10 Pole Banner Design Tips and Tricks​"
+        },
+        {
+          "tag": "h4",
+          "text": "How to Make a Custom Decal?"
+        },
+        {
+          "tag": "h2",
+          "text": "Highlights & Benefits of Government Signs Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "High Visibility"
+        },
+        {
+          "tag": "h4",
+          "text": "Indoor and Outdoor Functions"
+        },
+        {
+          "tag": "h4",
+          "text": "Cost-effective"
+        },
+        {
+          "tag": "h4",
+          "text": "Waterproof"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "What are the best options for outdoor use?"
+        },
+        {
+          "tag": "h4",
+          "text": "Where should I put my signs for best results?"
+        },
+        {
+          "tag": "h4",
+          "text": "What colors are these signs printed in?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I add photographs and images to my signs?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I order double-sided banners?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/graduation-signs",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Graduation Signs - Custom Graduation Signage | Banners.com",
+        "metaDescription": "Create lasting memories with custom graduation signage. Personalize your celebration with banners, yard signs, and more. Order now!",
+        "canonical": "https://www.banners.com/graduation-signs",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1180,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Custom Graduation Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Shop Graduation Sign Products"
+          },
+          {
+            "tag": "h3",
+            "text": "Vinyl Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Yard Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Pole Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Fabric Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "A-Frame Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Banner Stands"
+          },
+          {
+            "tag": "h3",
+            "text": "Feather Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Posters"
+          },
+          {
+            "tag": "h3",
+            "text": "Postcards"
+          },
+          {
+            "tag": "h3",
+            "text": "Stickers, Decals & Labels"
+          },
+          {
+            "tag": "h3",
+            "text": "Fence Banners"
+          },
+          {
+            "tag": "h2",
+            "text": "Customer Reviews"
+          },
+          {
+            "tag": "h2",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Resources Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "A Guide to Custom Graduation Banners: Making Your Celebration Stand Out"
+          },
+          {
+            "tag": "h4",
+            "text": "10 Creative Ways to Display Custom Yard Signs"
+          },
+          {
+            "tag": "h4",
+            "text": "How to Design Graduation Yard Signs and Banners"
+          },
+          {
+            "tag": "h4",
+            "text": "How to Make a Custom Decal?"
+          },
+          {
+            "tag": "h4",
+            "text": "Top 10 Pole Banner Design Tips and Tricks"
+          },
+          {
+            "tag": "h4",
+            "text": "Top 5 Yard Sign Display Tips and Tricks"
+          },
+          {
+            "tag": "h4",
+            "text": "The Most Common Banner Stand Assemblies"
+          },
+          {
+            "tag": "h2",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Highlights & Benefits for Graduation Signs Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "Affordable Quality"
+          },
+          {
+            "tag": "h4",
+            "text": "High Visibility, Big Impact"
+          },
+          {
+            "tag": "h4",
+            "text": "Tailored to You"
+          },
+          {
+            "tag": "h4",
+            "text": "Built to Last"
+          },
+          {
+            "tag": "h4",
+            "text": "Quick and Effortless Setup"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "What products are most commonly used for graduations?"
+          },
+          {
+            "tag": "h4",
+            "text": "How long will it take to get my graduation signs products?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I use all of these products outdoors?"
+          },
+          {
+            "tag": "h4",
+            "text": "How do I create a Graduation sign?"
+          },
+          {
+            "tag": "h4",
+            "text": "What other types of outdoor signage do you offer?"
+          },
+          {
+            "tag": "h4",
+            "text": "How should I protect my signs?"
+          },
+          {
+            "tag": "h4",
+            "text": "What online design tool can I use to make a custom banner?"
+          },
+          {
+            "tag": "h4",
+            "text": "Do you offer bulk discounts for graduation signage?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Custom Graduation Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Shop Graduation Sign Products"
+        },
+        {
+          "tag": "h3",
+          "text": "Vinyl Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Yard Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Pole Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Fabric Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "A-Frame Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Banner Stands"
+        },
+        {
+          "tag": "h3",
+          "text": "Feather Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Posters"
+        },
+        {
+          "tag": "h3",
+          "text": "Postcards"
+        },
+        {
+          "tag": "h3",
+          "text": "Stickers, Decals & Labels"
+        },
+        {
+          "tag": "h3",
+          "text": "Fence Banners"
+        },
+        {
+          "tag": "h2",
+          "text": "Customer Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Resources Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "A Guide to Custom Graduation Banners: Making Your Celebration Stand Out"
+        },
+        {
+          "tag": "h4",
+          "text": "10 Creative Ways to Display Custom Yard Signs"
+        },
+        {
+          "tag": "h4",
+          "text": "How to Design Graduation Yard Signs and Banners"
+        },
+        {
+          "tag": "h4",
+          "text": "How to Make a Custom Decal?"
+        },
+        {
+          "tag": "h4",
+          "text": "Top 10 Pole Banner Design Tips and Tricks"
+        },
+        {
+          "tag": "h4",
+          "text": "Top 5 Yard Sign Display Tips and Tricks"
+        },
+        {
+          "tag": "h4",
+          "text": "The Most Common Banner Stand Assemblies"
+        },
+        {
+          "tag": "h2",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Highlights & Benefits for Graduation Signs Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "Affordable Quality"
+        },
+        {
+          "tag": "h4",
+          "text": "High Visibility, Big Impact"
+        },
+        {
+          "tag": "h4",
+          "text": "Tailored to You"
+        },
+        {
+          "tag": "h4",
+          "text": "Built to Last"
+        },
+        {
+          "tag": "h4",
+          "text": "Quick and Effortless Setup"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "What products are most commonly used for graduations?"
+        },
+        {
+          "tag": "h4",
+          "text": "How long will it take to get my graduation signs products?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I use all of these products outdoors?"
+        },
+        {
+          "tag": "h4",
+          "text": "How do I create a Graduation sign?"
+        },
+        {
+          "tag": "h4",
+          "text": "What other types of outdoor signage do you offer?"
+        },
+        {
+          "tag": "h4",
+          "text": "How should I protect my signs?"
+        },
+        {
+          "tag": "h4",
+          "text": "What online design tool can I use to make a custom banner?"
+        },
+        {
+          "tag": "h4",
+          "text": "Do you offer bulk discounts for graduation signage?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/outdoor-signs",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Outdoor Signs - Custom Outdoor Signs | Banners.com",
+        "metaDescription": "Check out our selection of custom outdoor signs. From custom oversized banners to A-Frame signs, we have your outdoor signage needs covered.",
+        "canonical": "https://www.banners.com/outdoor-signs",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1235,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Outdoor Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Shop Outdoor Sign Products"
+          },
+          {
+            "tag": "h3",
+            "text": "Vinyl Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Yard Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Banner Frames"
+          },
+          {
+            "tag": "h3",
+            "text": "Fence Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Magnetic Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Oversized Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Rectangle Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "A-Frame Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Pole Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Mesh Banners"
+          },
+          {
+            "tag": "h2",
+            "text": "Customer Reviews"
+          },
+          {
+            "tag": "h2",
+            "text": "Resources Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "Maximizing Your Visibility: The Power of Outdoor Signs"
+          },
+          {
+            "tag": "h4",
+            "text": "Top 5 Yard Sign Display Tips and Tricks"
+          },
+          {
+            "tag": "h4",
+            "text": "How To Design Your Own Sidewalk Sign"
+          },
+          {
+            "tag": "h4",
+            "text": "Common Vinyl Banner Sizes"
+          },
+          {
+            "tag": "h4",
+            "text": "The Most Common Banner Stand Assemblies"
+          },
+          {
+            "tag": "h4",
+            "text": "How to Make a Custom Decal?"
+          },
+          {
+            "tag": "h2",
+            "text": "Outdoor Signs Benefits & Highlights Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "Direct Traffic to Hard to Find Businesses"
+          },
+          {
+            "tag": "h4",
+            "text": "Create Awareness of Your Latest Products"
+          },
+          {
+            "tag": "h4",
+            "text": "Inexpensively Jump Start a New Business with Outdoor Business Signs"
+          },
+          {
+            "tag": "h4",
+            "text": "Efficiently Advertise for Upcoming Sales"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "What outdoor sign is the best overall for outdoor use?"
+          },
+          {
+            "tag": "h4",
+            "text": "How long do these signs last?"
+          },
+          {
+            "tag": "h4",
+            "text": "What colors are your outdoor signage printed in?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I add photographs to my signs and banners?"
+          },
+          {
+            "tag": "h4",
+            "text": "What is the minimum quantity of products that I can order?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Outdoor Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Shop Outdoor Sign Products"
+        },
+        {
+          "tag": "h3",
+          "text": "Vinyl Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Yard Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Banner Frames"
+        },
+        {
+          "tag": "h3",
+          "text": "Fence Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Magnetic Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Oversized Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Rectangle Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "A-Frame Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Pole Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Mesh Banners"
+        },
+        {
+          "tag": "h2",
+          "text": "Customer Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Resources Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "Maximizing Your Visibility: The Power of Outdoor Signs"
+        },
+        {
+          "tag": "h4",
+          "text": "Top 5 Yard Sign Display Tips and Tricks"
+        },
+        {
+          "tag": "h4",
+          "text": "How To Design Your Own Sidewalk Sign"
+        },
+        {
+          "tag": "h4",
+          "text": "Common Vinyl Banner Sizes"
+        },
+        {
+          "tag": "h4",
+          "text": "The Most Common Banner Stand Assemblies"
+        },
+        {
+          "tag": "h4",
+          "text": "How to Make a Custom Decal?"
+        },
+        {
+          "tag": "h2",
+          "text": "Outdoor Signs Benefits & Highlights Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "Direct Traffic to Hard to Find Businesses"
+        },
+        {
+          "tag": "h4",
+          "text": "Create Awareness of Your Latest Products"
+        },
+        {
+          "tag": "h4",
+          "text": "Inexpensively Jump Start a New Business with Outdoor Business Signs"
+        },
+        {
+          "tag": "h4",
+          "text": "Efficiently Advertise for Upcoming Sales"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "What outdoor sign is the best overall for outdoor use?"
+        },
+        {
+          "tag": "h4",
+          "text": "How long do these signs last?"
+        },
+        {
+          "tag": "h4",
+          "text": "What colors are your outdoor signage printed in?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I add photographs to my signs and banners?"
+        },
+        {
+          "tag": "h4",
+          "text": "What is the minimum quantity of products that I can order?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/real-estate-signs",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Real Estate Signs - Custom Realtor Signage | Banners.com",
+        "metaDescription": "Check out our wide selection of real estate signage. We offer customizable, full-color products varying from business cards to large format banners.",
+        "canonical": "https://www.banners.com/real-estate-signs",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1244,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Real Estate Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Shop Real Estate Sign Products"
+          },
+          {
+            "tag": "h3",
+            "text": "Yard Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Magnetic Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Vinyl Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Oversized Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Polymetal Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "A-Frame Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Sintra Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Deluxe Outdoor Banner Retractors"
+          },
+          {
+            "tag": "h3",
+            "text": "Tripod X-Banner Display"
+          },
+          {
+            "tag": "h3",
+            "text": "Business Cards"
+          },
+          {
+            "tag": "h2",
+            "text": "Customer Reviews"
+          },
+          {
+            "tag": "h2",
+            "text": "Resources Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "Real Estate Signs: Essential Insights for Real Estate Professionals"
+          },
+          {
+            "tag": "h4",
+            "text": "Common Vinyl Banner Sizes"
+          },
+          {
+            "tag": "h4",
+            "text": "How To Design Your Own Sidewalk Sign"
+          },
+          {
+            "tag": "h4",
+            "text": "How To Order Banners Online: Upload a File"
+          },
+          {
+            "tag": "h4",
+            "text": "Working With Our Graphic Designers"
+          },
+          {
+            "tag": "h4",
+            "text": "Types of Banner Materials"
+          },
+          {
+            "tag": "h2",
+            "text": "Highlights & Benefits for Real Estate Signs Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "Great For Visibility"
+          },
+          {
+            "tag": "h4",
+            "text": "Indoor and Outdoor Uses"
+          },
+          {
+            "tag": "h4",
+            "text": "Cost-Effective"
+          },
+          {
+            "tag": "h4",
+            "text": "Weather-Resistance"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "What are the best options for outdoor use?"
+          },
+          {
+            "tag": "h4",
+            "text": "What are the best sign options for indoor use?"
+          },
+          {
+            "tag": "h4",
+            "text": "What are my shipping options?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I get assistance with my design?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I order a lawn sign without the hardware?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Real Estate Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Shop Real Estate Sign Products"
+        },
+        {
+          "tag": "h3",
+          "text": "Yard Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Magnetic Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Vinyl Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Oversized Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Polymetal Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "A-Frame Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Sintra Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Deluxe Outdoor Banner Retractors"
+        },
+        {
+          "tag": "h3",
+          "text": "Tripod X-Banner Display"
+        },
+        {
+          "tag": "h3",
+          "text": "Business Cards"
+        },
+        {
+          "tag": "h2",
+          "text": "Customer Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Resources Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "Real Estate Signs: Essential Insights for Real Estate Professionals"
+        },
+        {
+          "tag": "h4",
+          "text": "Common Vinyl Banner Sizes"
+        },
+        {
+          "tag": "h4",
+          "text": "How To Design Your Own Sidewalk Sign"
+        },
+        {
+          "tag": "h4",
+          "text": "How To Order Banners Online: Upload a File"
+        },
+        {
+          "tag": "h4",
+          "text": "Working With Our Graphic Designers"
+        },
+        {
+          "tag": "h4",
+          "text": "Types of Banner Materials"
+        },
+        {
+          "tag": "h2",
+          "text": "Highlights & Benefits for Real Estate Signs Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "Great For Visibility"
+        },
+        {
+          "tag": "h4",
+          "text": "Indoor and Outdoor Uses"
+        },
+        {
+          "tag": "h4",
+          "text": "Cost-Effective"
+        },
+        {
+          "tag": "h4",
+          "text": "Weather-Resistance"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "What are the best options for outdoor use?"
+        },
+        {
+          "tag": "h4",
+          "text": "What are the best sign options for indoor use?"
+        },
+        {
+          "tag": "h4",
+          "text": "What are my shipping options?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I get assistance with my design?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I order a lawn sign without the hardware?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/restaurant-signs",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Restaurant Signs | Custom Restaurant Signage | Banners.com",
+        "metaDescription": "Have you updated your logo or perhaps cooked up a new menu? These custom restaurant signs can help you easily market your new cuisine or famous grilled cheese.",
+        "canonical": "https://www.banners.com/restaurant-signs",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1258,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Custom Restaurant Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Shop Restaurant Sign Products"
+          },
+          {
+            "tag": "h3",
+            "text": "A-Frame Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Rectangle Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Fence Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Vinyl Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Magnetic Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Sintra Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Banner Retractor Displays"
+          },
+          {
+            "tag": "h3",
+            "text": "Business Cards"
+          },
+          {
+            "tag": "h3",
+            "text": "Styrene Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Banner Frames"
+          },
+          {
+            "tag": "h2",
+            "text": "Customer Reviews"
+          },
+          {
+            "tag": "h2",
+            "text": "Resources Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "10 Creative Ways to Display Custom Yard Signs"
+          },
+          {
+            "tag": "h4",
+            "text": "How to Design and Display a Step and Repeat Banner"
+          },
+          {
+            "tag": "h4",
+            "text": "The Most Common Banner Stand Assemblies"
+          },
+          {
+            "tag": "h4",
+            "text": "Working With Our Graphic Designers"
+          },
+          {
+            "tag": "h4",
+            "text": "Types of Banner Materials"
+          },
+          {
+            "tag": "h2",
+            "text": "Highlights & Benefits for Restaurant Signs Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "Generate Interest for New Business"
+          },
+          {
+            "tag": "h4",
+            "text": "Indoor and Outdoor Uses"
+          },
+          {
+            "tag": "h4",
+            "text": "Great for Directional Signs"
+          },
+          {
+            "tag": "h4",
+            "text": "Budget Versatility"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "What are the ways restaurants use signage outdoors?"
+          },
+          {
+            "tag": "h4",
+            "text": "What colors are these products printed in?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I add photographs to my signage?"
+          },
+          {
+            "tag": "h4",
+            "text": "Does the vinyl material come in a matte finish?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I get double-sided banners?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Custom Restaurant Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Shop Restaurant Sign Products"
+        },
+        {
+          "tag": "h3",
+          "text": "A-Frame Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Rectangle Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Fence Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Vinyl Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Magnetic Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Sintra Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Banner Retractor Displays"
+        },
+        {
+          "tag": "h3",
+          "text": "Business Cards"
+        },
+        {
+          "tag": "h3",
+          "text": "Styrene Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Banner Frames"
+        },
+        {
+          "tag": "h2",
+          "text": "Customer Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Resources Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "10 Creative Ways to Display Custom Yard Signs"
+        },
+        {
+          "tag": "h4",
+          "text": "How to Design and Display a Step and Repeat Banner"
+        },
+        {
+          "tag": "h4",
+          "text": "The Most Common Banner Stand Assemblies"
+        },
+        {
+          "tag": "h4",
+          "text": "Working With Our Graphic Designers"
+        },
+        {
+          "tag": "h4",
+          "text": "Types of Banner Materials"
+        },
+        {
+          "tag": "h2",
+          "text": "Highlights & Benefits for Restaurant Signs Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "Generate Interest for New Business"
+        },
+        {
+          "tag": "h4",
+          "text": "Indoor and Outdoor Uses"
+        },
+        {
+          "tag": "h4",
+          "text": "Great for Directional Signs"
+        },
+        {
+          "tag": "h4",
+          "text": "Budget Versatility"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "What are the ways restaurants use signage outdoors?"
+        },
+        {
+          "tag": "h4",
+          "text": "What colors are these products printed in?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I add photographs to my signage?"
+        },
+        {
+          "tag": "h4",
+          "text": "Does the vinyl material come in a matte finish?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I get double-sided banners?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/trade-show",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": true,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Trade Show Banners, Signs & Display Materials | Banners.com",
+        "metaDescription": "Order trade show displays from Banners.com! Use full color banners, signs, table covers and more to create a stunning  trade show booth design. Upload artwork files or work with a designer.",
+        "canonical": "https://www.banners.com/trade-show",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1243,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Trade Show Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Shop Trade Show Products"
+          },
+          {
+            "tag": "h3",
+            "text": "Banner Stands"
+          },
+          {
+            "tag": "h3",
+            "text": "Trade Show Table Covers"
+          },
+          {
+            "tag": "h3",
+            "text": "Vinyl Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Fabric Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Vinyl Decals and Stickers"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom Posters"
+          },
+          {
+            "tag": "h3",
+            "text": "Sintra Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Step and Repeat Banners & Backdrops"
+          },
+          {
+            "tag": "h3",
+            "text": "Feather Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Professional Business Cards"
+          },
+          {
+            "tag": "h3",
+            "text": "Trade Show Backdrop Banner Stand"
+          },
+          {
+            "tag": "h3",
+            "text": "Aluminum Canopy Tent"
+          },
+          {
+            "tag": "h2",
+            "text": "Customer Reviews"
+          },
+          {
+            "tag": "h2",
+            "text": "Resources Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "The Recipe for a Great Trade Show Booth"
+          },
+          {
+            "tag": "h4",
+            "text": "Crafting Compelling Trade Show Displays"
+          },
+          {
+            "tag": "h4",
+            "text": "Common Vinyl Banner Sizes"
+          },
+          {
+            "tag": "h4",
+            "text": "Common Banner Stand Assemblies"
+          },
+          {
+            "tag": "h4",
+            "text": "The Most Common Banner Stand Assemblies"
+          },
+          {
+            "tag": "h4",
+            "text": "How to Make a Custom Decal?"
+          },
+          {
+            "tag": "h2",
+            "text": "Trade Booth Banners and Signage That Capture Attention"
+          },
+          {
+            "tag": "h2",
+            "text": "Explore Our Trade Show Display Essentials"
+          },
+          {
+            "tag": "h2",
+            "text": "Benefits of Our Trade Show Signage Back to Top"
+          },
+          {
+            "tag": "h2",
+            "text": ""
+          },
+          {
+            "tag": "h2",
+            "text": "Make Every Booth Visit Count"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Back to Top"
+          },
+          {
+            "tag": "h4",
+            "text": "What are the best options for outdoor use?"
+          },
+          {
+            "tag": "h4",
+            "text": "What types of trade show displays are best for indoor use?"
+          },
+          {
+            "tag": "h4",
+            "text": "What are my shipping options?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I get assistance with my design?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I order a lawn sign without the hardware?"
+          },
+          {
+            "tag": "h4",
+            "text": "How do I choose the right trade show displays for my business?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I customize my trade show displays with my business logo or branding?"
+          },
+          {
+            "tag": "h4",
+            "text": "How much space do I need for my trade show booth?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I reuse my trade show displays?"
+          },
+          {
+            "tag": "h4",
+            "text": "What printing options are offered for trade show displays?"
+          },
+          {
+            "tag": "h4",
+            "text": "Can I use your signage with trade show rentals?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Trade Show Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Shop Trade Show Products"
+        },
+        {
+          "tag": "h3",
+          "text": "Banner Stands"
+        },
+        {
+          "tag": "h3",
+          "text": "Trade Show Table Covers"
+        },
+        {
+          "tag": "h3",
+          "text": "Vinyl Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Fabric Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Vinyl Decals and Stickers"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Posters"
+        },
+        {
+          "tag": "h3",
+          "text": "Sintra Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Step and Repeat Banners & Backdrops"
+        },
+        {
+          "tag": "h3",
+          "text": "Feather Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Professional Business Cards"
+        },
+        {
+          "tag": "h3",
+          "text": "Trade Show Backdrop Banner Stand"
+        },
+        {
+          "tag": "h3",
+          "text": "Aluminum Canopy Tent"
+        },
+        {
+          "tag": "h2",
+          "text": "Customer Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Resources Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "The Recipe for a Great Trade Show Booth"
+        },
+        {
+          "tag": "h4",
+          "text": "Crafting Compelling Trade Show Displays"
+        },
+        {
+          "tag": "h4",
+          "text": "Common Vinyl Banner Sizes"
+        },
+        {
+          "tag": "h4",
+          "text": "Common Banner Stand Assemblies"
+        },
+        {
+          "tag": "h4",
+          "text": "The Most Common Banner Stand Assemblies"
+        },
+        {
+          "tag": "h4",
+          "text": "How to Make a Custom Decal?"
+        },
+        {
+          "tag": "h2",
+          "text": "Trade Booth Banners and Signage That Capture Attention"
+        },
+        {
+          "tag": "h2",
+          "text": "Explore Our Trade Show Display Essentials"
+        },
+        {
+          "tag": "h2",
+          "text": "Benefits of Our Trade Show Signage Back to Top"
+        },
+        {
+          "tag": "h2",
+          "text": ""
+        },
+        {
+          "tag": "h2",
+          "text": "Make Every Booth Visit Count"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Back to Top"
+        },
+        {
+          "tag": "h4",
+          "text": "What are the best options for outdoor use?"
+        },
+        {
+          "tag": "h4",
+          "text": "What types of trade show displays are best for indoor use?"
+        },
+        {
+          "tag": "h4",
+          "text": "What are my shipping options?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I get assistance with my design?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I order a lawn sign without the hardware?"
+        },
+        {
+          "tag": "h4",
+          "text": "How do I choose the right trade show displays for my business?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I customize my trade show displays with my business logo or branding?"
+        },
+        {
+          "tag": "h4",
+          "text": "How much space do I need for my trade show booth?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I reuse my trade show displays?"
+        },
+        {
+          "tag": "h4",
+          "text": "What printing options are offered for trade show displays?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I use your signage with trade show rentals?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/custom-vinyl-decals",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": true,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Custom Vinyl Decals | Banners.com",
+        "metaDescription": "Order custom vinyl decals online! Vinyl decals can be square cut or shape cut to fit your individual needs. Contact us for a custom quote today!",
+        "canonical": "https://www.banners.com/custom-vinyl-decals",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 595,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "Custom Vinyl Decals: Square Cut or Shape Cut Vinyl Decals"
+          },
+          {
+            "tag": "h3",
+            "text": "Banner.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "Custom Vinyl Decals: Square Cut or Shape Cut Vinyl Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Banner.com is Now Partnering With Decals.com - Save 15% on Your Next Order!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/all-products-test",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Shop Our Full Catalog of Custom Banners, Signs, Flags & More!",
+        "metaDescription": "Explore our full range of custom signage—banners, flags, decals, signs and more. High-quality printing, fast turnaround, nationwide shipping.",
+        "canonical": "https://www.banners.com/all-products-test",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1156,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h2",
+            "text": "Browse By Product"
+          },
+          {
+            "tag": "h3",
+            "text": "Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Magnets"
+          },
+          {
+            "tag": "h3",
+            "text": "Decals"
+          },
+          {
+            "tag": "h3",
+            "text": "Table Covers"
+          },
+          {
+            "tag": "h3",
+            "text": "Banner Stands"
+          },
+          {
+            "tag": "h3",
+            "text": "Accessories & Hardware"
+          },
+          {
+            "tag": "h3",
+            "text": "More/Misc. Products"
+          },
+          {
+            "tag": "h2",
+            "text": "Browse By Use"
+          },
+          {
+            "tag": "h3",
+            "text": "Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Flags"
+          },
+          {
+            "tag": "h3",
+            "text": "Signs"
+          },
+          {
+            "tag": "h2",
+            "text": "Browse By Industry"
+          },
+          {
+            "tag": "h3",
+            "text": "Church Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Coming Soon"
+          },
+          {
+            "tag": "h3",
+            "text": "Construction"
+          },
+          {
+            "tag": "h3",
+            "text": "Contractors"
+          },
+          {
+            "tag": "h3",
+            "text": "Political"
+          },
+          {
+            "tag": "h3",
+            "text": "Farmer's Market"
+          },
+          {
+            "tag": "h3",
+            "text": "Government/Municipalities"
+          },
+          {
+            "tag": "h3",
+            "text": "Graduation Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Happy Birthday Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Holiday Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Now Hiring Signs"
+          },
+          {
+            "tag": "h3",
+            "text": "Resturants"
+          },
+          {
+            "tag": "h3",
+            "text": "Schools"
+          },
+          {
+            "tag": "h4",
+            "text": "Explore additional products with confidence from our family of brands."
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Browse By Product"
+        },
+        {
+          "tag": "h3",
+          "text": "Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Magnets"
+        },
+        {
+          "tag": "h3",
+          "text": "Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Table Covers"
+        },
+        {
+          "tag": "h3",
+          "text": "Banner Stands"
+        },
+        {
+          "tag": "h3",
+          "text": "Accessories & Hardware"
+        },
+        {
+          "tag": "h3",
+          "text": "More/Misc. Products"
+        },
+        {
+          "tag": "h2",
+          "text": "Browse By Use"
+        },
+        {
+          "tag": "h3",
+          "text": "Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Flags"
+        },
+        {
+          "tag": "h3",
+          "text": "Signs"
+        },
+        {
+          "tag": "h2",
+          "text": "Browse By Industry"
+        },
+        {
+          "tag": "h3",
+          "text": "Church Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Coming Soon"
+        },
+        {
+          "tag": "h3",
+          "text": "Construction"
+        },
+        {
+          "tag": "h3",
+          "text": "Contractors"
+        },
+        {
+          "tag": "h3",
+          "text": "Political"
+        },
+        {
+          "tag": "h3",
+          "text": "Farmer's Market"
+        },
+        {
+          "tag": "h3",
+          "text": "Government/Municipalities"
+        },
+        {
+          "tag": "h3",
+          "text": "Graduation Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Happy Birthday Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Holiday Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Now Hiring Signs"
+        },
+        {
+          "tag": "h3",
+          "text": "Resturants"
+        },
+        {
+          "tag": "h3",
+          "text": "Schools"
+        },
+        {
+          "tag": "h4",
+          "text": "Explore additional products with confidence from our family of brands."
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    },
+    {
+      "url": "https://banners.com/all-categories",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "All Banner Categories | Banners.com",
+        "metaDescription": "Take a look at all of our banner category options online. Then choose what works best for your event and customize you banner today! | Banners.com",
+        "canonical": "https://www.banners.com/all-categories",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 0,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1119,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h4",
+            "text": "Products"
+          },
+          {
+            "tag": "h1",
+            "text": "All Category Options - From A to Z"
+          },
+          {
+            "tag": "h3",
+            "text": "Take a look at all of Our Category Options - From A to Z | Banners.com!"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Products"
+        },
+        {
+          "tag": "h1",
+          "text": "All Category Options - From A to Z"
+        },
+        {
+          "tag": "h3",
+          "text": "Take a look at all of Our Category Options - From A to Z | Banners.com!"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "seoRecommendations": ""
+    }
+  ],
+  "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site-audits\\banners.com-2026-03-04T18-27-48-564Z\\full-site-audit.json",
+  "markdownPath": "C:\\Users\\Tory\\claude-agent\\output\\site-audits\\banners.com-2026-03-04T18-27-48-564Z\\seo-overview.md",
+  "runDir": "C:\\Users\\Tory\\claude-agent\\output\\site-audits\\banners.com-2026-03-04T18-27-48-564Z",
+  "docsFolderPath": "Site Audits/banners.com/2026-03-04T18-27-48-564Z",
+  "summaryDoc": {
+    "docId": "10zwqXx6qDS0Uc_vjtl7jVb72IvDyjbCygGIbr6WSzR8",
+    "url": "https://docs.google.com/document/d/10zwqXx6qDS0Uc_vjtl7jVb72IvDyjbCygGIbr6WSzR8",
+    "folderId": "1Q1uDvLpZU0fgV7o8Al-cgxKvQoZuejeF"
+  }
+}

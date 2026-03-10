@@ -1,0 +1,541 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:44:30.025Z",
+  "data": {
+    "url": "https://www.decals.com/heat-transfers",
+    "pageType": "blog",
+    "productPage": false,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Custom Heat Transfers"
+      },
+      {
+        "tag": "h3",
+        "text": "Create Premium Heat Transfers"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Methods"
+      },
+      {
+        "tag": "h3",
+        "text": "Payment"
+      },
+      {
+        "tag": "h3",
+        "text": "Live Order Tracking"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h3",
+        "text": "3 Business Day Express:"
+      },
+      {
+        "tag": "h3",
+        "text": "5 Business Days Standard:"
+      },
+      {
+        "tag": "h3",
+        "text": "7 Business Days Saver:"
+      },
+      {
+        "tag": "h3",
+        "text": "Direct to Film (DTF) Transfers Artwork Specifications"
+      },
+      {
+        "tag": "h3",
+        "text": "Preferred Files for Printing"
+      },
+      {
+        "tag": "h3",
+        "text": "Additional Files Accepted"
+      },
+      {
+        "tag": "h3",
+        "text": "File Tips"
+      },
+      {
+        "tag": "h3",
+        "text": "Vector Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Raster Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Services"
+      },
+      {
+        "tag": "h2",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping Methods:"
+      },
+      {
+        "tag": "h3",
+        "text": "Important Economy Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "National and International Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "How to Apply Your DTF Heat Transfer"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload Your File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Custom Heat Transfers Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "How to Apply Your Custom Heat Transfers"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "Washing Instructions for Heat Transfers"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Reviews ... Reviews"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Decals.com?"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Service"
+      },
+      {
+        "tag": "h3",
+        "text": "Made in the USA"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast Turnaround"
+      },
+      {
+        "tag": "h3",
+        "text": "Track Your Order"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Product Information"
+      },
+      {
+        "tag": "h4",
+        "text": "What is a heat transfer decal?"
+      },
+      {
+        "tag": "h4",
+        "text": "What is DTF Printing?"
+      },
+      {
+        "tag": "h4",
+        "text": "What material are your heat transfers made from?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I use multiple colors, fonts, and images in my design?"
+      },
+      {
+        "tag": "h4",
+        "text": "What are the size limitations for these transfers?"
+      },
+      {
+        "tag": "h4",
+        "text": "Are heat transfers machine washable?"
+      },
+      {
+        "tag": "h4",
+        "text": "How long do these custom transfers last?"
+      },
+      {
+        "tag": "h3",
+        "text": "Common Uses"
+      },
+      {
+        "tag": "h4",
+        "text": "What are some common uses for custom heat transfers?"
+      },
+      {
+        "tag": "h4",
+        "text": "What surfaces can direct to film transfers be placed on?"
+      },
+      {
+        "tag": "h4",
+        "text": "Are heat transfers removable?"
+      }
+    ],
+    "serpInsights": {
+      "query": "heat transfers heat",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "heat transfers heat",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "heat transfers heat installation printing",
+            "heat transfers heat installation custom sizes",
+            "heat transfers heat installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "heat transfers heat durability printing",
+            "heat transfers heat durability custom sizes",
+            "heat transfers heat durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "heat transfers heat pricing printing",
+            "heat transfers heat pricing custom sizes",
+            "heat transfers heat pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "heat transfers heat printing",
+            "heat transfers heat custom sizes",
+            "heat transfers heat design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "heat transfers heat shipping printing",
+            "heat transfers heat shipping custom sizes",
+            "heat transfers heat shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "custom clear roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-clear-roll-labels"
+        },
+        {
+          "anchor": "die cut decals",
+          "url": "https://www.decals.com/decals/die-cut-decals"
+        },
+        {
+          "anchor": "kiss cut decals",
+          "url": "https://www.decals.com/decals/kiss-cut-decals"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 1500,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "Custom Heat Transfers"
+        },
+        {
+          "tag": "h3",
+          "text": "Create Premium Heat Transfers"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Methods"
+        },
+        {
+          "tag": "h3",
+          "text": "Payment"
+        },
+        {
+          "tag": "h3",
+          "text": "Live Order Tracking"
+        },
+        {
+          "tag": "h3",
+          "text": "Production Time Tables"
+        },
+        {
+          "tag": "h3",
+          "text": "3 Business Day Express:"
+        },
+        {
+          "tag": "h3",
+          "text": "5 Business Days Standard:"
+        },
+        {
+          "tag": "h3",
+          "text": "7 Business Days Saver:"
+        },
+        {
+          "tag": "h3",
+          "text": "Direct to Film (DTF) Transfers Artwork Specifications"
+        },
+        {
+          "tag": "h3",
+          "text": "Preferred Files for Printing"
+        },
+        {
+          "tag": "h3",
+          "text": "Additional Files Accepted"
+        },
+        {
+          "tag": "h3",
+          "text": "File Tips"
+        },
+        {
+          "tag": "h3",
+          "text": "Vector Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Raster Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Services"
+        },
+        {
+          "tag": "h2",
+          "text": "Shipping"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping Methods:"
+        },
+        {
+          "tag": "h3",
+          "text": "Important Economy Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "National and International Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Apply Your DTF Heat Transfer"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload Your File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Custom Heat Transfers Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Apply Your Custom Heat Transfers"
+        },
+        {
+          "tag": "h3",
+          "text": ""
+        },
+        {
+          "tag": "h3",
+          "text": "Washing Instructions for Heat Transfers"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Reviews ... Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Decals.com?"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Service"
+        },
+        {
+          "tag": "h3",
+          "text": "Made in the USA"
+        },
+        {
+          "tag": "h3",
+          "text": "Fast Turnaround"
+        },
+        {
+          "tag": "h3",
+          "text": "Track Your Order"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Product Information"
+        },
+        {
+          "tag": "h4",
+          "text": "What is a heat transfer decal?"
+        },
+        {
+          "tag": "h4",
+          "text": "What is DTF Printing?"
+        },
+        {
+          "tag": "h4",
+          "text": "What material are your heat transfers made from?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I use multiple colors, fonts, and images in my design?"
+        },
+        {
+          "tag": "h4",
+          "text": "What are the size limitations for these transfers?"
+        },
+        {
+          "tag": "h4",
+          "text": "Are heat transfers machine washable?"
+        },
+        {
+          "tag": "h4",
+          "text": "How long do these custom transfers last?"
+        },
+        {
+          "tag": "h3",
+          "text": "Common Uses"
+        },
+        {
+          "tag": "h4",
+          "text": "What are some common uses for custom heat transfers?"
+        },
+        {
+          "tag": "h4",
+          "text": "What surfaces can direct to film transfers be placed on?"
+        },
+        {
+          "tag": "h4",
+          "text": "Are heat transfers removable?"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": null,
+    "contentScore": null,
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T15:44:30.021Z"
+    },
+    "seoRecommendations": "<h1>Heat Transfer Decals - Custom Heat Transfer Decals | Decals.com</h1><p>Strengthen topical depth with structured H2 sections. Add contextual links to related PDPs and categories. Add a clear conversion bridge near conclusion. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>"
+  }
+}

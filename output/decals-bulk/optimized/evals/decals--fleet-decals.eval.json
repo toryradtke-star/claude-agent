@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "evaluatePdpOutput",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:52:19.880Z",
+  "data": {
+    "score": 62,
+    "failedChecks": [
+      {
+        "check": "required_sections",
+        "details": [
+          "MATERIAL OPTIONS TAB",
+          "FINISHING OPTIONS TAB",
+          "SHIPPING GUIDELINES TAB"
+        ]
+      },
+      {
+        "check": "product_entity",
+        "details": "Entity not found: fleet decals fleet"
+      },
+      {
+        "check": "generic_headings",
+        "details": "Contains generic headings"
+      },
+      {
+        "check": "overview_length",
+        "details": "Overview section out of range"
+      }
+    ],
+    "retry": true,
+    "threshold": 85
+  }
+}

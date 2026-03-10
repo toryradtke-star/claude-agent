@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "1",
+  "promptVersion": "unknown",
+  "model": "claude-3-5-haiku-latest",
+  "createdAt": "2026-03-05T22:02:37.533Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Adhesive Wallpaper Create",
+    "description": "Bring your walls to life with our custom wallpaper stickers. Perfect for every room, these stickers are digitally printed on high-quality vinyl.",
+    "url": "https://www.decals.com/adhesive-wallpaper",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

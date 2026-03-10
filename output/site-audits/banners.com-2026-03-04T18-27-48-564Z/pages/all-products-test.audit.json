@@ -1,0 +1,285 @@
+{
+  "url": "https://banners.com/all-products-test",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "Shop Our Full Catalog of Custom Banners, Signs, Flags & More!",
+    "metaDescription": "Explore our full range of custom signage—banners, flags, decals, signs and more. High-quality printing, fast turnaround, nationwide shipping.",
+    "canonical": "https://www.banners.com/all-products-test",
+    "robots": "index, follow",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 1156,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h2",
+        "text": "Browse By Product"
+      },
+      {
+        "tag": "h3",
+        "text": "Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Flags"
+      },
+      {
+        "tag": "h3",
+        "text": "Signs"
+      },
+      {
+        "tag": "h3",
+        "text": "Magnets"
+      },
+      {
+        "tag": "h3",
+        "text": "Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Table Covers"
+      },
+      {
+        "tag": "h3",
+        "text": "Banner Stands"
+      },
+      {
+        "tag": "h3",
+        "text": "Accessories & Hardware"
+      },
+      {
+        "tag": "h3",
+        "text": "More/Misc. Products"
+      },
+      {
+        "tag": "h2",
+        "text": "Browse By Use"
+      },
+      {
+        "tag": "h3",
+        "text": "Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Flags"
+      },
+      {
+        "tag": "h3",
+        "text": "Signs"
+      },
+      {
+        "tag": "h2",
+        "text": "Browse By Industry"
+      },
+      {
+        "tag": "h3",
+        "text": "Church Signs"
+      },
+      {
+        "tag": "h3",
+        "text": "Coming Soon"
+      },
+      {
+        "tag": "h3",
+        "text": "Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Contractors"
+      },
+      {
+        "tag": "h3",
+        "text": "Political"
+      },
+      {
+        "tag": "h3",
+        "text": "Farmer's Market"
+      },
+      {
+        "tag": "h3",
+        "text": "Government/Municipalities"
+      },
+      {
+        "tag": "h3",
+        "text": "Graduation Signs"
+      },
+      {
+        "tag": "h3",
+        "text": "Happy Birthday Signs"
+      },
+      {
+        "tag": "h3",
+        "text": "Holiday Signs"
+      },
+      {
+        "tag": "h3",
+        "text": "Now Hiring Signs"
+      },
+      {
+        "tag": "h3",
+        "text": "Resturants"
+      },
+      {
+        "tag": "h3",
+        "text": "Schools"
+      },
+      {
+        "tag": "h4",
+        "text": "Explore additional products with confidence from our family of brands."
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "Browse By Product"
+    },
+    {
+      "tag": "h3",
+      "text": "Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Flags"
+    },
+    {
+      "tag": "h3",
+      "text": "Signs"
+    },
+    {
+      "tag": "h3",
+      "text": "Magnets"
+    },
+    {
+      "tag": "h3",
+      "text": "Decals"
+    },
+    {
+      "tag": "h3",
+      "text": "Table Covers"
+    },
+    {
+      "tag": "h3",
+      "text": "Banner Stands"
+    },
+    {
+      "tag": "h3",
+      "text": "Accessories & Hardware"
+    },
+    {
+      "tag": "h3",
+      "text": "More/Misc. Products"
+    },
+    {
+      "tag": "h2",
+      "text": "Browse By Use"
+    },
+    {
+      "tag": "h3",
+      "text": "Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Flags"
+    },
+    {
+      "tag": "h3",
+      "text": "Signs"
+    },
+    {
+      "tag": "h2",
+      "text": "Browse By Industry"
+    },
+    {
+      "tag": "h3",
+      "text": "Church Signs"
+    },
+    {
+      "tag": "h3",
+      "text": "Coming Soon"
+    },
+    {
+      "tag": "h3",
+      "text": "Construction"
+    },
+    {
+      "tag": "h3",
+      "text": "Contractors"
+    },
+    {
+      "tag": "h3",
+      "text": "Political"
+    },
+    {
+      "tag": "h3",
+      "text": "Farmer's Market"
+    },
+    {
+      "tag": "h3",
+      "text": "Government/Municipalities"
+    },
+    {
+      "tag": "h3",
+      "text": "Graduation Signs"
+    },
+    {
+      "tag": "h3",
+      "text": "Happy Birthday Signs"
+    },
+    {
+      "tag": "h3",
+      "text": "Holiday Signs"
+    },
+    {
+      "tag": "h3",
+      "text": "Now Hiring Signs"
+    },
+    {
+      "tag": "h3",
+      "text": "Resturants"
+    },
+    {
+      "tag": "h3",
+      "text": "Schools"
+    },
+    {
+      "tag": "h4",
+      "text": "Explore additional products with confidence from our family of brands."
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

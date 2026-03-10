@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Double-Sided Banners Double",
+  "description": "Stand out with double sided banners from Banners.com. Our custom printed double-sided banners ensure visibility from every angle at events or storefronts.",
+  "url": "https://www.banners.com/double-sided-banners",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

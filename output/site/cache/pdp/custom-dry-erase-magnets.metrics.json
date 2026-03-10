@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/custom-dry-erase-magnets",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4779,
+    "output_tokens": 3850
+  },
+  "durationMs": 71858
+}

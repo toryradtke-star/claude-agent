@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Wallpaper Wallpaper- Printed",
+  "description": "Save yourself the trouble of messy paste by using self-adhesive wallpaper from Banners.com. Printed in full color, use your very own artwork to spruce up rooms in your home or office.",
+  "url": "https://www.banners.com/custom-wallpaper",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

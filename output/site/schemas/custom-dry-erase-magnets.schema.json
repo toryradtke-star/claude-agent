@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Dry Erase Magnets",
+  "description": "Design custom dry erase magnets for schedules, checklists, and planning tools that stick where you need them. Reusable, durable, and easy to personalize.",
+  "url": "https://www.banners.com/custom-dry-erase-magnets",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

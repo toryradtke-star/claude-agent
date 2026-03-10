@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/standard-business-cards",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4363,
+    "output_tokens": 3260
+  },
+  "durationMs": 57516
+}

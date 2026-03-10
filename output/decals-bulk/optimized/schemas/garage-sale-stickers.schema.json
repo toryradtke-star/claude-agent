@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:08:43.572Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Garage Sale Stickers",
+    "description": "Boost your garage sale efforts using yard sale stickers! Use them to sort items for your categorizing sanity, as well as for swift pricing. Upload your design using our online design tool.",
+    "url": "https://www.decals.com/garage-sale-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

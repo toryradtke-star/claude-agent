@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "translucent materials -",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "translucent materials - installation printing",
+        "translucent materials - installation custom sizes",
+        "translucent materials - installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "translucent materials - durability printing",
+        "translucent materials - durability custom sizes",
+        "translucent materials - durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "translucent materials - pricing printing",
+        "translucent materials - pricing custom sizes",
+        "translucent materials - pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "translucent materials - printing",
+        "translucent materials - custom sizes",
+        "translucent materials - design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "translucent materials - shipping printing",
+        "translucent materials - shipping custom sizes",
+        "translucent materials - shipping design upload"
+      ]
+    }
+  ]
+}

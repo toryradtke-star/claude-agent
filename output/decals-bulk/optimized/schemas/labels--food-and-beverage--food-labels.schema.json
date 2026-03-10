@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:04:18.166Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "url": "https://www.decals.com/labels/food-and-beverage/food-labels",
+    "name": "Food Labels - Personalized Food Labels | Decals.com"
+  }
+}

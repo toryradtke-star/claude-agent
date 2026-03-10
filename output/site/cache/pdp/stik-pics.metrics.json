@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/stik-pics",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4220,
+    "output_tokens": 3236
+  },
+  "durationMs": 62197
+}

@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "your yard sign",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "your yard sign installation printing",
+        "your yard sign installation custom sizes",
+        "your yard sign installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "your yard sign durability printing",
+        "your yard sign durability custom sizes",
+        "your yard sign durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "your yard sign pricing printing",
+        "your yard sign pricing custom sizes",
+        "your yard sign pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "your yard sign printing",
+        "your yard sign custom sizes",
+        "your yard sign design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "your yard sign shipping printing",
+        "your yard sign shipping custom sizes",
+        "your yard sign shipping design upload"
+      ]
+    }
+  ]
+}

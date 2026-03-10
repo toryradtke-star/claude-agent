@@ -1,0 +1,277 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:59:30.625Z",
+  "data": {
+    "url": "https://www.decals.com/labels/roll-labels",
+    "pageType": "blog",
+    "productPage": false,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Custom Roll Labels"
+      },
+      {
+        "tag": "h3",
+        "text": "The Perfect Solution for Branding and Packaging"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Custom Roll Labels"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Reviews ... Reviews"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Decals.com?"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Service"
+      },
+      {
+        "tag": "h3",
+        "text": "Made in the USA"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast Turnaround"
+      },
+      {
+        "tag": "h3",
+        "text": "Track Your Order"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Product Information"
+      },
+      {
+        "tag": "h4",
+        "text": "What are the benefits of Waterproof Roll Labels?"
+      },
+      {
+        "tag": "h4",
+        "text": "Why choose Paper Roll Labels?"
+      },
+      {
+        "tag": "h4",
+        "text": "What surfaces can roll labels adhere to?"
+      },
+      {
+        "tag": "h4",
+        "text": "Are roll labels waterproof?"
+      },
+      {
+        "tag": "h4",
+        "text": "What shapes and sizes do you offer?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I customize my label design?"
+      },
+      {
+        "tag": "h4",
+        "text": "What finishes are available?"
+      }
+    ],
+    "serpInsights": {
+      "query": "roll labels roll",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "roll labels roll",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "roll labels roll installation printing",
+            "roll labels roll installation custom sizes",
+            "roll labels roll installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "roll labels roll durability printing",
+            "roll labels roll durability custom sizes",
+            "roll labels roll durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "roll labels roll pricing printing",
+            "roll labels roll pricing custom sizes",
+            "roll labels roll pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "roll labels roll printing",
+            "roll labels roll custom sizes",
+            "roll labels roll design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "roll labels roll shipping printing",
+            "roll labels roll shipping custom sizes",
+            "roll labels roll shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "custom holographic vinyl material",
+          "url": "https://www.decals.com/custom-holographic-vinyl-material"
+        },
+        {
+          "anchor": "custom paper roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-paper-roll-labels"
+        },
+        {
+          "anchor": "custom waterproof roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-waterproof-roll-labels"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 887,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "Custom Roll Labels"
+        },
+        {
+          "tag": "h3",
+          "text": "The Perfect Solution for Branding and Packaging"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Custom Roll Labels"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Reviews ... Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Decals.com?"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Service"
+        },
+        {
+          "tag": "h3",
+          "text": "Made in the USA"
+        },
+        {
+          "tag": "h3",
+          "text": "Fast Turnaround"
+        },
+        {
+          "tag": "h3",
+          "text": "Track Your Order"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Product Information"
+        },
+        {
+          "tag": "h4",
+          "text": "What are the benefits of Waterproof Roll Labels?"
+        },
+        {
+          "tag": "h4",
+          "text": "Why choose Paper Roll Labels?"
+        },
+        {
+          "tag": "h4",
+          "text": "What surfaces can roll labels adhere to?"
+        },
+        {
+          "tag": "h4",
+          "text": "Are roll labels waterproof?"
+        },
+        {
+          "tag": "h4",
+          "text": "What shapes and sizes do you offer?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I customize my label design?"
+        },
+        {
+          "tag": "h4",
+          "text": "What finishes are available?"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": null,
+    "contentScore": null,
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T15:59:30.622Z"
+    },
+    "seoRecommendations": "<h1>Custom Roll Labels | Decals.com</h1><p>Strengthen topical depth with structured H2 sections. Add contextual links to related PDPs and categories. Add a clear conversion bridge near conclusion. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>"
+  }
+}

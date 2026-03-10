@@ -1,0 +1,269 @@
+# Page Audit
+
+- URL: https://www.decals.com/custom-t-shirts
+- Page Type: pdp
+- Product Page: true
+- Score: 64
+
+## Recommendations
+{"ts":"2026-03-06T15:47:02.971Z","level":"info","event":"metric","agent":"pdpAgent","url":"https://www.decals.com/custom-t-shirts","model":"claude-sonnet-4-20250514","tokensIn":20043,"tokensOut":3477,"promptVersion":"unknown","templateVersion":"unknown","durationMs":70786}
+==================================================
+BEFORE HEADING STRUCTURE
+==================================================
+
+H1: Custom T-Shirts - Shirtspot.com
+H2: High-Quality Clothing
+H2: Decals.com is Now Partnering With Shirtspot.com - Save 15% on Your Next Order!
+
+==================================================
+AFTER OPTIMIZED STRUCTURE
+==================================================
+
+H1: Custom T-Shirts - Shirtspot.com
+H2: Custom T-Shirt Design & Ordering Process
+H2: T-Shirt Production & Turnaround Times
+H2: Custom T-Shirt Size & Style Options
+H2: T-Shirt Design Artwork Requirements
+H2: Custom T-Shirt Shipping & Delivery
+H2: T-Shirt Care & Maintenance Instructions
+H2: What Are Custom T-Shirts?
+H2: Custom T-Shirt FAQs
+
+==================================================
+PRODUCT HEADER
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h1>Custom T-Shirts - Shirtspot.com</h1>
+<h2>Professional Custom Apparel for Business, Teams & Personal Use</h2>
+
+Product Title / Subtitle Section
+
+--------------------------------------------------
+
+==================================================
+CONFIGURATOR LABELS
+==================================================
+
+COPY EVERYTHING BELOW
+
+T-Shirt Style Selection
+Size Options
+Color Choice
+Quantity
+Design Upload
+Custom Text Options
+Print Location
+
+Configurator Labels
+
+--------------------------------------------------
+
+==================================================
+PRODUCT OVERVIEW TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Professional Custom T-Shirts for Every Occasion</h2>
+<p>Create high-quality custom t-shirts through our partnership with Shirtspot.com. Whether you need branded apparel for your business, team uniforms, or personalized shirts for events, our custom t-shirt printing delivers professional results on premium materials. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>
+<p>Our custom t-shirts are perfect for businesses looking to create branded employee uniforms, sports teams needing matching apparel, or individuals wanting unique personalized clothing. With a wide selection of styles, colors, and sizes available, you can create the perfect custom t-shirt for any application.</p>
+<p>All custom t-shirts are printed using professional-grade equipment and high-quality inks that ensure vibrant colors and long-lasting durability. From simple text designs to complex multi-color graphics, our printing capabilities can handle any design requirement.</p>
+
+Product Overview Tab
+
+--------------------------------------------------
+
+==================================================
+ORDER PROCESS TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Custom T-Shirt Design & Ordering Process</h2>
+<p>Ordering custom t-shirts is simple with our streamlined design and ordering system. Start by selecting your preferred t-shirt style, size, and color from our extensive catalog. Our online design tool makes it easy to create professional-looking custom apparel.</p>
+
+<h3>T-Shirt Design Process</h3>
+<p>Upload your artwork files or use our design tools to create text-based designs directly on our website. Our system supports various file formats and provides real-time previews of your custom t-shirt design. You can adjust placement, sizing, and colors before finalizing your order.</p>
+
+<h3>Order Approval & Payment</h3>
+<p>After completing your design, review all order details including t-shirt specifications, quantities, and pricing. Submit your order and proceed with secure payment processing. You'll receive order confirmation and production timeline information immediately after payment.</p>
+
+<h3>Live Order Tracking</h3>
+<p>Track your custom t-shirt order status in real-time through your account dashboard. Receive notifications when your order enters production, printing, and shipping phases to stay informed throughout the entire process.</p>
+
+Order Process Tab
+
+--------------------------------------------------
+
+==================================================
+PRODUCTION TIMES TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>T-Shirt Production & Turnaround Times</h2>
+<p>Custom t-shirt production begins after final design approval and payment confirmation. Production times vary based on order complexity, quantity, and current production schedules. Standard production ensures quality results within reasonable timeframes.</p>
+
+<h3>Standard T-Shirt Production</h3>
+<p>Most custom t-shirt orders complete production within 7-10 business days from approval. This timeline includes design preparation, printing setup, actual printing process, quality control inspection, and packaging for shipment.</p>
+
+<h3>Rush T-Shirt Production</h3>
+<p>Expedited production options may be available for urgent custom t-shirt orders. Rush production typically reduces standard timelines but may include additional fees. Contact customer service to discuss rush production availability for your specific order requirements.</p>
+
+<p>Production times are separate from shipping times. Your custom t-shirts ship immediately after production completion, with shipping times depending on your selected delivery method and destination.</p>
+
+Production Times Tab
+
+--------------------------------------------------
+
+==================================================
+CUT OPTIONS TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Custom T-Shirt Size & Style Options</h2>
+<p>Choose from a comprehensive selection of t-shirt styles and sizes to meet your specific needs. Our custom t-shirt options include various fits, materials, and color choices suitable for different applications and preferences.</p>
+
+<h3>T-Shirt Style Variations</h3>
+<p>Standard crew neck t-shirts offer classic comfort and versatility for most applications. V-neck styles provide a more fitted appearance suitable for business casual environments. Long-sleeve options extend coverage and work well for cooler climates or extended wear.</p>
+
+<h3>Size Range Options</h3>
+<p>Custom t-shirts are available in sizes ranging from small to 3XL to accommodate diverse sizing needs. Athletic cuts provide more fitted styling, while standard cuts offer comfortable regular fit. Consult size charts to ensure proper fit for all recipients.</p>
+
+<h3>Material & Color Choices</h3>
+<p>Select from cotton, cotton blends, and performance fabrics based on intended use and comfort preferences. Color options include standard colors, heather tones, and specialty colors. Material choice affects both comfort and print quality results.</p>
+
+Cut Options Tab
+
+--------------------------------------------------
+
+==================================================
+ARTWORK TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>T-Shirt Design Artwork Requirements</h2>
+<p>Proper artwork preparation ensures optimal printing results for your custom t-shirts. Our printing process works best with high-resolution files that meet specific technical requirements for color accuracy and print clarity.</p>
+
+<h3>Preferred T-Shirt Design File Types</h3>
+<p>Vector files including AI, EPS, and PDF formats provide the best results for custom t-shirt printing. These file types maintain crisp edges and clean lines at any size, ensuring professional appearance on finished garments.</p>
+
+<h3>Additional File Format Support</h3>
+<p>High-resolution PNG, JPG, and TIFF files are acceptable when vector files are unavailable. Ensure files are at least 300 DPI resolution at actual print size for optimal clarity. Low-resolution files may result in pixelated or blurry prints.</p>
+
+<h3>Color & Design Guidelines</h3>
+<p>RGB color mode works best for t-shirt printing processes. Avoid extremely fine details or thin lines that may not reproduce clearly on fabric surfaces. Consider t-shirt color when designing to ensure adequate contrast and visibility.</p>
+
+<h3>Text Design Considerations</h3>
+<p>Choose fonts that are easily readable and appropriate for the intended viewing distance. Outline or convert text to curves in vector files to prevent font substitution issues during production. Maintain adequate text size for clear readability on finished t-shirts.</p>
+
+Artwork Tab
+
+--------------------------------------------------
+
+==================================================
+SHIPPING TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Custom T-Shirt Shipping & Delivery</h2>
+<p>Custom t-shirts ship immediately after production completion using reliable carrier services. Shipping times and costs vary based on destination, package size, and selected delivery speed options.</p>
+
+<h3>Standard Shipping Methods</h3>
+<p>Ground shipping provides cost-effective delivery for most custom t-shirt orders within 3-7 business days domestically. This option works well for orders with flexible delivery timelines and helps minimize overall project costs.</p>
+
+<h3>Expedited Delivery Options</h3>
+<p>Express shipping reduces delivery times to 1-3 business days for urgent custom t-shirt needs. Overnight shipping is available for same-day production completions when next-day delivery is essential.</p>
+
+<h3>Shipping Time Expectations</h3>
+<p>Shipping times begin counting after custom t-shirts leave our production facility. Combined production and shipping times determine total order fulfillment duration from approval to delivery.</p>
+
+<h3>Package Tracking Information</h3>
+<p>All custom t-shirt shipments include tracking numbers for delivery monitoring. Track packages through carrier websites or your order dashboard for real-time delivery updates and estimated arrival times.</p>
+
+Shipping Tab
+
+--------------------------------------------------
+
+==================================================
+INSTALLATION TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>T-Shirt Care & Maintenance Instructions</h2>
+<p>Proper care extends the life and appearance of your custom t-shirts. Following recommended washing and storage practices helps maintain print quality and fabric condition through repeated wear and cleaning cycles.</p>
+
+<h3>Washing Your Custom T-Shirts</h3>
+<p>Wash custom t-shirts in cold water using mild detergent to preserve print quality and prevent fading. Turn shirts inside out before washing to protect printed designs from direct agitation and reduce wear on printed surfaces.</p>
+
+<h3>Drying Instructions</h3>
+<p>Air drying provides the gentlest treatment for custom t-shirts and helps prevent shrinkage. If using machine drying, select low heat settings and remove shirts while slightly damp to prevent over-drying and potential print cracking.</p>
+
+<h3>Long-Term Storage Tips</h3>
+<p>Store custom t-shirts in cool, dry locations away from direct sunlight. Fold shirts carefully to avoid creasing printed areas, or hang on appropriate hangers for wrinkle prevention. Avoid storing in plastic bags for extended periods to prevent moisture buildup.</p>
+
+Installation Tab
+
+--------------------------------------------------
+
+==================================================
+POST-TAB CONTENT
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>What Are Custom T-Shirts?</h2>
+<p>Custom t-shirts are personalized garments printed with specific designs, logos, text, or graphics according to customer specifications. Made from cotton or cotton-blend materials, these shirts serve various purposes including business branding, team identification, promotional marketing, and personal expression. Custom t-shirts are commonly used for employee uniforms, sports teams, promotional events, fundraising campaigns, and personal gifts.</p>
+
+<h2>Design Your Custom T-Shirts Today</h2>
+<p>Ready to create professional custom t-shirts for your business, team, or personal needs? Our partnership with Shirtspot.com provides access to high-quality printing services and premium apparel options. Start designing your custom t-shirts today and take advantage of our current 15% discount using promo code DCL15.</p>
+<p>Whether you need a single custom t-shirt or bulk orders for large groups, our streamlined ordering process makes it easy to get exactly what you want. Upload your designs, select your specifications, and let us handle the professional printing and delivery of your custom apparel.</p>
+
+Post-Tab Content (Before FAQ)
+
+--------------------------------------------------
+
+==================================================
+FAQ
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Custom T-Shirt FAQs</h2>
+
+<h3>What materials are used for custom t-shirts?</h3>
+<p>Custom t-shirts are primarily made from 100% cotton or cotton-blend materials that provide comfort and durability. Cotton blends often include polyester for enhanced shape retention and moisture-wicking properties, making them suitable for active wear and frequent washing.</p>
+
+<h3>How long do custom t-shirt prints last?</h3>
+<p>High-quality custom t-shirt prints typically maintain their appearance for 50+ wash cycles when cared for properly. Print longevity depends on washing temperature, drying methods, and print technique used during production.</p>
+
+<h3>What file format should I use for custom t-shirt designs?</h3>
+<p>Vector files in AI, EPS, or PDF format provide the best results for custom t-shirt printing. High-resolution PNG or JPG files at 300 DPI are acceptable alternatives when vector files are unavailable.</p>
+
+<h3>Can I order different sizes in the same custom t-shirt design?</h3>
+<p>Yes, custom t-shirt orders can include multiple sizes using the same design. Mixed size orders are common for teams, businesses, and groups with diverse sizing requirements.</p>
+
+<h3>What is the minimum order quantity for custom t-shirts?</h3>
+<p>Custom t-shirt orders can typically start with as few as 1-12 pieces, though bulk pricing becomes more economical for larger quantities. Contact customer service for specific minimum requirements and volume pricing information.</p>
+
+<h3>How do I ensure proper color matching for custom t-shirts?</h3>
+<p>Provide Pantone color codes or RGB values for accurate color matching on custom t-shirts. Keep in mind that colors may appear slightly different on fabric compared to screen displays due to material absorption properties.</p>
+
+<h3>Can custom t-shirts be printed on both front and back?</h3>
+<p>Yes, custom t-shirts can accommodate printing on both front and back sides, as well as sleeve printing options. Additional print locations may affect pricing and production times.</p>
+
+FAQ Tab
+
+--------------------------------------------------
+
+==================================================
+SEO ANALYSIS & OPTIMIZATION SUMMARY
+==================================================
+
+The custom t-shirt page optimization focused on transforming a basic partnership announcement into a comprehensive ecommerce product detail page. Key improvements included restructuring the heading hierarchy to follow a logical purchase journey, from design process through care instructions. The content now incorporates relevant semantic keywords including custom t-shirt printing, design upload, and professional apparel while maintaining natural readability. Technical SEO enhancements include proper H1-H3 hierarchy implementation, FAQ schema-friendly question formatting, and strategic internal linking opportunities to related decal and sticker products. Content quality improvements expanded thin original content into detailed sections covering ordering process, production timelines, size options, artwork requirements, shipping methods, and care instructions. The addition of a definition section improves AI search visibility by clearly explaining what custom t-shirts are and their common applications. Keyword clustering integration naturally incorporates related terms around customization, durability, pricing, and shipping throughout the content while avoiding over-optimization. The optimized structure now supports both user experience and search engine crawlability with clear section purposes and comprehensive coverage of customer decision-making factors.

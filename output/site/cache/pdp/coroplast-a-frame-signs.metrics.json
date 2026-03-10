@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/coroplast-a-frame-signs",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4871,
+    "output_tokens": 3672
+  },
+  "durationMs": 65011
+}

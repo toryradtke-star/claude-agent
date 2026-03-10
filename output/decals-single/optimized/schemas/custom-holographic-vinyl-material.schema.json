@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:33:06.788Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Holographic Vinyl Decal",
+    "description": "Leap into the future with durable and trendy Custom Holographic Vinyl. Perfect for all ages, it adds a dynamic, space-age flair to devices, objects, and rooms.",
+    "url": "https://www.decals.com/custom-holographic-vinyl-material",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

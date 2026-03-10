@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:52:39.309Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Oval Decals Oval",
+    "description": "Create and order your oval decals from Decals.com. Ovals are a nice elongated shape, perfect for sealing invitations or adding a special touch to a lunch sack.",
+    "url": "https://www.decals.com/decals/oval-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

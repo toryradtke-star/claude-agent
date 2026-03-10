@@ -1,0 +1,314 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:12:57.677Z",
+  "data": {
+    "url": "https://www.decals.com/thin-blue-line/michigan",
+    "pageType": "pdp",
+    "productPage": true,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "State of Michigan Thin Blue Line Decal"
+      },
+      {
+        "tag": "h3",
+        "text": "How to Apply Vinyl Decals"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 1:"
+      },
+      {
+        "tag": "h4",
+        "text": "Tools Needed"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 2:"
+      },
+      {
+        "tag": "h4",
+        "text": "Clean the Surface"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 3:"
+      },
+      {
+        "tag": "h4",
+        "text": "Tape & Measure"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 4:"
+      },
+      {
+        "tag": "h4",
+        "text": "Remove the Transfer Film from the Backing"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 5:"
+      },
+      {
+        "tag": "h4",
+        "text": "Apply the Decal to the Surface"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 6:"
+      },
+      {
+        "tag": "h4",
+        "text": "Remove the Transfer Film"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 7:"
+      },
+      {
+        "tag": "h4",
+        "text": "Enjoy!"
+      },
+      {
+        "tag": "h2",
+        "text": "Production Time Table"
+      },
+      {
+        "tag": "h4",
+        "text": "3 Business Day Standard:"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      }
+    ],
+    "serpInsights": {
+      "query": "state of michigan",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "state of michigan",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "state of michigan installation printing",
+            "state of michigan installation custom sizes",
+            "state of michigan installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "state of michigan durability printing",
+            "state of michigan durability custom sizes",
+            "state of michigan durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "state of michigan pricing printing",
+            "state of michigan pricing custom sizes",
+            "state of michigan pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "state of michigan printing",
+            "state of michigan custom sizes",
+            "state of michigan design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "state of michigan shipping printing",
+            "state of michigan shipping custom sizes",
+            "state of michigan shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "custom paper roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-paper-roll-labels"
+        },
+        {
+          "anchor": "custom clear roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-clear-roll-labels"
+        },
+        {
+          "anchor": "custom water bottle labels",
+          "url": "https://www.decals.com/labels/custom-water-bottle-labels"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 988,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "State of Michigan Thin Blue Line Decal"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Apply Vinyl Decals"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 1:"
+        },
+        {
+          "tag": "h4",
+          "text": "Tools Needed"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 2:"
+        },
+        {
+          "tag": "h4",
+          "text": "Clean the Surface"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 3:"
+        },
+        {
+          "tag": "h4",
+          "text": "Tape & Measure"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 4:"
+        },
+        {
+          "tag": "h4",
+          "text": "Remove the Transfer Film from the Backing"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 5:"
+        },
+        {
+          "tag": "h4",
+          "text": "Apply the Decal to the Surface"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 6:"
+        },
+        {
+          "tag": "h4",
+          "text": "Remove the Transfer Film"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 7:"
+        },
+        {
+          "tag": "h4",
+          "text": "Enjoy!"
+        },
+        {
+          "tag": "h2",
+          "text": "Production Time Table"
+        },
+        {
+          "tag": "h4",
+          "text": "3 Business Day Standard:"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": {
+      "score": 70,
+      "failedChecks": [
+        {
+          "check": "required_sections",
+          "details": [
+            "MATERIAL OPTIONS TAB",
+            "FINISHING OPTIONS TAB",
+            "SHIPPING GUIDELINES TAB"
+          ]
+        },
+        {
+          "check": "cta_section_rules",
+          "details": [
+            "PRODUCTION TIMES TAB"
+          ]
+        },
+        {
+          "check": "generic_headings",
+          "details": "Contains generic headings"
+        }
+      ],
+      "retry": true,
+      "threshold": 85
+    },
+    "contentScore": {
+      "score": 95,
+      "missingEntities": [],
+      "missingHeadings": [],
+      "improvementSuggestions": []
+    },
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T16:12:57.665Z"
+    },
+    "seoRecommendations": "{\"ts\":\"2026-03-06T16:12:57.652Z\",\"level\":\"info\",\"event\":\"metric\",\"agent\":\"pdpAgent\",\"url\":\"https://www.decals.com/thin-blue-line/michigan\",\"model\":\"claude-sonnet-4-20250514\",\"tokensIn\":23178,\"tokensOut\":4101,\"promptVersion\":\"unknown\",\"templateVersion\":\"unknown\",\"durationMs\":80196}\n==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: State of Michigan Thin Blue Line Decal\nH2: Production Time Table\nH3: How to Apply Vinyl Decals\nH3: Products you might like\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: State of Michigan Thin Blue Line Decal\nH2: State of Michigan Thin Blue Line Decal Order Process\nH2: State of Michigan Decal Production & Turnaround Times\nH2: State of Michigan Decal Cut Options\nH2: State of Michigan Thin Blue Line Decal Artwork Requirements\nH2: State of Michigan Decal Shipping Information\nH2: State of Michigan Decal Installation Guide\nH2: What Are State of Michigan Thin Blue Line Decals?\nH2: State of Michigan Thin Blue Line Decal FAQs\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h1>State of Michigan Thin Blue Line Decal</h1>\n<h2>Custom State Decals Supporting Law Enforcement</h2>\n\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nState of Michigan Thin Blue Line Decal Options\n\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Michigan Thin Blue Line Decal Overview</h2>\n\n<p>Show your pride for the great state of Michigan and support for its law enforcement officers with our durable State of Michigan thin blue line decals. Michigan is home to more than 3,000 miles of freshwater coastline and over 17,000 dedicated law enforcement professionals who serve and protect our communities every day. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>\n\n<p>These high-quality vinyl decals feature the distinctive shape of Michigan with the symbolic thin blue line design that honors police officers and their service. Available in matte vinyl finish, these decals are built to withstand outdoor conditions while maintaining their vibrant appearance and strong adhesion.</p>\n\n<p>Perfect for vehicles, windows, laptops, or any smooth surface, these State of Michigan decals make a meaningful statement of support. Each decal is precision die-cut to the exact proportions of the state, ensuring authentic representation and professional appearance.</p>\n\n<p>Whether you're a Michigan resident, law enforcement supporter, or want to honor the brave men and women in blue, these State of Michigan thin blue line decals provide a lasting way to display your values and show solidarity with those who protect and serve.</p>\n\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nORDER PROCESS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Michigan Decal Order Process</h2>\n\n<p>Ordering your State of Michigan thin blue line decals is straightforward and designed to get you exactly what you need. Our streamlined process ensures your decals are produced to the highest standards with accurate state proportions and durable materials.</p>\n\n<h3>Design Process</h3>\n<p>State of Michigan decals feature our pre-designed thin blue line artwork applied to the precise shape of Michigan. Simply select your preferred size and quantity through our product configurator. The iconic thin blue line design is integrated into the state shape, creating a powerful symbol of support for law enforcement.</p>\n\n<h3>Payment</h3>\n<p>We accept all major credit cards, PayPal, and business purchase orders for qualified accounts. Payment is processed securely at checkout, and you'll receive immediate confirmation of your State of Michigan decal order. For bulk orders or custom requirements, contact our customer service team for personalized assistance.</p>\n\n<h3>Live Order Tracking</h3>\n<p>Once your State of Michigan decal order enters production, you'll receive tracking updates via email. Our system provides real-time status updates from production through shipping, so you know exactly when to expect your decals. Track your order anytime through your customer account or with your order confirmation number.</p>\n\nOrder Process Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Michigan Decal Production & Turnaround Times</h2>\n\n<p>Our State of Michigan thin blue line decals are produced using high-quality vinyl materials and precision cutting equipment. Production times begin once your order is confirmed and payment is processed. Understanding our production schedule helps you plan for when your decals will be ready to ship.</p>\n\n<h3>3 Business Day Standard Production</h3>\n<p>This is our most popular production option for State of Michigan decals and includes free standard turnaround. Your decals will be cut, quality-checked, and prepared for shipping within three business days. Orders confirmed after 5:00 PM CST will begin production the following business day. This timeline provides excellent balance between speed and cost-effectiveness for most orders.</p>\n\n<p>Please note that production time is separate from shipping time. Once your State of Michigan decals complete production, shipping time depends on your selected delivery method. Rush options may be available for urgent orders - contact our customer service team to discuss expedited production possibilities.</p>\n\n<p>If your order requires a proof review or is flagged during our quality check process, production time begins from the moment you approve the final proof. This ensures your State of Michigan decals meet our quality standards and your expectations.</p>\n\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nCUT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Michigan Decal Cut Options</h2>\n\n<p>State of Michigan thin blue line decals are available with different cutting methods to suit your application needs. Each cutting style affects how the decal applies to surfaces and how it appears once installed.</p>\n\n<h3>Die Cut State of Michigan Decals</h3>\n<p>Die cut is the standard option for State of Michigan decals, where the vinyl is cut precisely to the shape of the state with no excess material around the edges. The backing paper extends slightly beyond the decal edges for easy handling during installation. This creates a clean, professional appearance where only the state shape with the thin blue line design is visible on your surface.</p>\n\n<h3>Kiss Cut State of Michigan Decals</h3>\n<p>Kiss cut State of Michigan decals are cut through the vinyl layer but not through the backing paper, creating a decal that can be peeled away from a larger backing sheet. This method is ideal when you need the decals to remain on a carrier sheet for distribution or when applying multiple decals from a single sheet. The backing provides extra stability during storage and handling.</p>\n\n<p>Both cutting methods produce high-quality State of Michigan decals with clean edges and precise state proportions. Your choice depends on your intended application and personal preference for handling during installation.</p>\n\nCut Options Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Michigan Thin Blue Line Decal Artwork Requirements</h2>\n\n<p>State of Michigan thin blue line decals feature our pre-designed artwork that combines the accurate state outline with the symbolic thin blue line. No custom artwork upload is required, as these decals use our professionally designed template that ensures proper state proportions and meaningful law enforcement symbolism.</p>\n\n<h3>Pre-Designed Artwork</h3>\n<p>Our State of Michigan thin blue line design incorporates the precise geographic outline of Michigan with the traditional thin blue line symbol. This design has been carefully crafted to maintain the authentic state shape while clearly displaying the blue line that honors law enforcement officers. The contrast ensures visibility and impact when displayed.</p>\n\n<h3>Size Specifications</h3>\n<p>State of Michigan decals are measured at their widest point and maintain accurate proportional relationships. Available sizes ensure the state shape remains recognizable while providing options for different display surfaces. All measurements reflect the finished decal size, and the thin blue line element is proportionally sized within the state outline.</p>\n\n<h3>Color and Finish Options</h3>\n<p>These State of Michigan decals are produced in matte vinyl finish, which provides excellent durability and reduces glare. The thin blue line design uses contrasting colors that stand out against the state shape, ensuring the law enforcement support message is clearly visible from a distance.</p>\n\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Michigan Decal Shipping Information</h2>\n\n<p>Your State of Michigan thin blue line decals will be carefully packaged and shipped once production is complete. We use reliable shipping carriers to ensure your decals arrive safely and in perfect condition, ready for installation.</p>\n\n<h3>Shipping Methods</h3>\n<p>State of Michigan decals ship via USPS, UPS, or FedEx depending on your location and selected shipping speed. Standard shipping provides cost-effective delivery for most orders, while expedited options are available when you need your decals quickly. All shipments include tracking information so you can monitor your package progress.</p>\n\n<h3>Shipping Time Expectations</h3>\n<p>Shipping time is separate from production time and begins once your State of Michigan decals leave our facility. Standard shipping typically takes 3-7 business days depending on your location. Expedited shipping options can reduce delivery time to 1-3 business days. Your total time from order to delivery includes both production time and shipping time.</p>\n\n<h3>Important Shipping Notes</h3>\n<p>State of Michigan decals are shipped flat to prevent curling or damage during transit. Packages are marked as fragile to ensure careful handling. If you need your decals by a specific date, consider both production and shipping time when placing your order. For time-sensitive orders, contact our customer service team to discuss the best production and shipping combination for your needs.</p>\n\nShipping Tab\n\n--------------------------------------------------\n\n==================================================\nINSTALLATION TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Michigan Decal Installation Guide</h2>\n\n<p>Proper installation ensures your State of Michigan thin blue line decal creates a strong, lasting bond with your chosen surface. Following these steps will help you achieve professional results and maximize the life of your decal.</p>\n\n<h3>Preparing the Surface</h3>\n<p>Clean the installation surface thoroughly with warm soapy water, rubbing alcohol, or a similar cleaning solution. Remove all dirt, debris, wax, and moisture that could interfere with adhesion. The surface should be smooth and non-porous - ideal surfaces include glass, metal, painted surfaces, and high-quality plastics. Allow the surface to dry completely before proceeding with your State of Michigan decal installation.</p>\n\n<h3>Applying the State of Michigan Decal</h3>\n<p>Position your decal on the surface and use masking tape to hold it in place while you check alignment. For die-cut State of Michigan decals, carefully peel away the backing paper while applying the decal from one edge to the other. Use a squeegee, credit card, or similar smooth tool to press the decal firmly against the surface, working from the center outward to eliminate air bubbles.</p>\n\n<h3>Final Installation Steps</h3>\n<p>Once the State of Michigan decal is firmly applied, remove any transfer tape by pulling it away slowly at a sharp angle. If any part of the decal lifts with the transfer tape, press it back down and continue removing the tape. Check for air bubbles and smooth them out toward the edges. Your State of Michigan thin blue line decal is now installed and ready to display your support for law enforcement.</p>\n\nInstallation Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>What Are State of Michigan Thin Blue Line Decals?</h2>\n\n<p>State of Michigan thin blue line decals are vinyl graphics that combine the geographic outline of Michigan with the symbolic thin blue line design. These decals are made from durable outdoor-grade vinyl material and feature adhesive backing for application to smooth surfaces. The thin blue line represents support for law enforcement officers and is displayed within or alongside the recognizable shape of the state of Michigan. These decals are commonly applied to vehicle windows, bumpers, laptops, and other surfaces where people want to show their support for police officers while representing their connection to Michigan.</p>\n\n<h2>Order Your State of Michigan Law Enforcement Support Decals</h2>\n\n<p>Ready to show your support for Michigan law enforcement? Our State of Michigan thin blue line decals combine quality materials, precise cutting, and meaningful design to create lasting displays of solidarity. Whether you're honoring local officers, showing state pride, or supporting the law enforcement community, these decals provide a powerful way to make your values visible.</p>\n\n<p>Choose your preferred size and quantity to get started. Our <a href=\"https://www.decals.com/stickers/custom-hard-hat-stickers\">custom hard hat stickers</a> and <a href=\"https://www.decals.com/decals/dry-erase-wall-decals\">dry erase wall decals</a> offer additional ways to display support in workplace settings. For other memorial and support products, explore our <a href=\"https://www.decals.com/save-the-date-magnets\">save the date magnets</a> which can be customized for law enforcement appreciation events.</p>\n\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Michigan Thin Blue Line Decal FAQs</h2>\n\n<h3>How long do State of Michigan thin blue line decals last outdoors?</h3>\n<p>State of Michigan thin blue line decals typically last 3-5 years outdoors when applied to clean, smooth surfaces like glass or metal. The high-quality matte vinyl material is designed to withstand sun exposure, weather conditions, and temperature changes without fading or peeling. Indoor applications can last significantly longer as they're protected from UV exposure and weather elements.</p>\n\n<h3>What surfaces work best for State of Michigan decals?</h3>\n<p>State of Michigan decals adhere best to smooth, non-porous surfaces such as glass, metal, painted surfaces, and high-quality plastics. Vehicle windows, bumpers, laptops, toolboxes, and smooth walls provide excellent adhesion. Avoid textured, rough, or porous surfaces like untreated wood or fabric, as these can prevent proper bonding and reduce decal life.</p>\n\n<h3>Are State of Michigan decals measured at the widest point?</h3>\n<p>Yes, State of Michigan decals are measured at the widest point of the state outline to ensure consistent sizing standards. Due to Michigan's unique shape with the Upper and Lower Peninsula, the actual dimensions maintain the state's authentic proportions. This measurement method ensures your decal will be the size you expect while preserving the recognizable Michigan silhouette.</p>\n\n<h3>Can State of Michigan thin blue line decals be removed without damage?</h3>\n<p>State of Michigan decals can be removed from most surfaces without causing damage when proper removal techniques are used. Gently warming the decal with a hair dryer softens the adhesive, making removal easier. Peel slowly at a sharp angle and use adhesive remover if needed to clean any residue. Glass and metal surfaces typically allow for clean removal, while painted surfaces may require more care.</p>\n\n<h3>Do State of Michigan decals work on vehicle windows?</h3>\n<p>Yes, State of Michigan thin blue line decals are excellent for vehicle window applications. They adhere well to automotive glass and are designed to withstand highway speeds, weather, and car washes. Apply to the outside of rear windows or side windows where legal in your area. The matte finish reduces glare and provides clear visibility of the design from a distance.</p>\n\n<h3>What is the difference between die-cut and kiss-cut State of Michigan decals?</h3>\n<p>Die-cut State of Michigan decals are cut completely through both the vinyl and backing, creating individual decals with backing paper that extends slightly beyond the edges for easy handling. Kiss-cut decals are cut through only the vinyl layer, leaving the decals on a larger backing sheet. Die-cut offers easier individual handling, while kiss-cut is better for multiple decals or organized distribution.</p>\n\nFAQ Tab\n\n--------------------------------------------------\n\n==================================================\nSEO ANALYSIS & OPTIMIZATION SUMMARY\n==================================================\n\nThis SEO optimization focused on transforming a basic product page into a comprehensive transactional resource for State of Michigan thin blue line decals. The primary improvements included restructuring the heading hierarchy from a simple installation-focused layout to a complete purchase journey framework covering ordering, production, options, artwork, shipping, and installation.\n\nTechnical SEO enhancements included implementing proper H1-H2-H3 hierarchy with consistent product entity integration, creating an AI-friendly definition section for search visibility, and establishing FAQ structure with natural question formatting for featured snippet potential. The content architecture now follows ecommerce best practices with distinct sections for each stage of the customer decision process.\n\nContent quality improvements involved expanding thin product descriptions into detailed explanations of materials, durability, application methods, and customization options. Each section now provides sufficient depth to support purchase confidence while maintaining focus on the State of Michigan product entity throughout all headings and content sections.\n\nInternal linking strategy incorporated contextual links to related products including custom hard hat stickers, dry erase wall decals, and save the date magnets, creating semantic connections that support broader site authority while providing relevant user pathways. The optimized structure balances informational content with transactional intent, supporting both organic search performance and conversion goals."
+  }
+}

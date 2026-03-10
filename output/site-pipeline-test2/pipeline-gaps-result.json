@@ -1,0 +1,13 @@
+{
+  "mode": "gaps",
+  "baseUrl": "https://banners.com",
+  "generatedAt": "2026-03-05T17:42:28.517Z",
+  "discoveryMethod": "explicit-list",
+  "totalUrlsDiscovered": 1,
+  "pagesAnalyzed": 1,
+  "pagesSkipped": 0,
+  "reusedPreScraped": 1,
+  "errors": [],
+  "outputDir": "C:\\Users\\Tory\\claude-agent\\output\\site-pipeline-test2\\content-gaps",
+  "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site-pipeline-test2\\content-gaps\\gap-report.json"
+}

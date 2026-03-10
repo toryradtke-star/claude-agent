@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:54:51.659Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Square Stickers Square",
+    "description": "Create custom square stickers at decals.com! Square stickers are ideal for logos, QR codes and more. Design yours today with our online designer tool.",
+    "url": "https://www.decals.com/stickers/square-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

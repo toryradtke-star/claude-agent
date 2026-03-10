@@ -1,0 +1,477 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:44:28.846Z",
+  "data": {
+    "url": "https://www.decals.com/domed-decals",
+    "pageType": "blog",
+    "productPage": false,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Custom Domed Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Create One-of-a-Kind Domed Decals!"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Methods"
+      },
+      {
+        "tag": "h3",
+        "text": "Payment"
+      },
+      {
+        "tag": "h3",
+        "text": "Live Order Tracking"
+      },
+      {
+        "tag": "h3",
+        "text": "Domed Decal Materials"
+      },
+      {
+        "tag": "h3",
+        "text": "Advantages of Domed Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Domed Decal Artwork Requirements"
+      },
+      {
+        "tag": "h3",
+        "text": "Domed Decal Production Time"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping Methods:"
+      },
+      {
+        "tag": "h3",
+        "text": "Important Economy Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "National and International Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "Domed Decal Examples"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload Your File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Custom Domed Decals Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Reviews ... Reviews"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Decals.com?"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Service"
+      },
+      {
+        "tag": "h3",
+        "text": "Made in the USA"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast Turnaround"
+      },
+      {
+        "tag": "h3",
+        "text": "Track Your Order"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Product Information"
+      },
+      {
+        "tag": "h4",
+        "text": "What are domed decals?"
+      },
+      {
+        "tag": "h4",
+        "text": "What materials are used for domed decals?"
+      },
+      {
+        "tag": "h4",
+        "text": "What is the typical production time for domed decals?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I customize the shape and size of domed decals?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can domed decals be used for outdoor applications?"
+      },
+      {
+        "tag": "h4",
+        "text": "What is the recommended care for dome decals?"
+      },
+      {
+        "tag": "h4",
+        "text": "Will applying a domed decal harm vehicle paint?"
+      },
+      {
+        "tag": "h4",
+        "text": "What if I have specific design requirements or need assistance with artwork?"
+      },
+      {
+        "tag": "h4",
+        "text": "How do you remove air bubbles from vinyl domed decals?"
+      },
+      {
+        "tag": "h4",
+        "text": "How do you remove air bubbles from custom vinyl domed decals?"
+      },
+      {
+        "tag": "h3",
+        "text": "Common Uses"
+      },
+      {
+        "tag": "h4",
+        "text": "What are domed decals commonly used for?"
+      }
+    ],
+    "serpInsights": {
+      "query": "domed decals create",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "domed decals create",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "domed decals create installation printing",
+            "domed decals create installation custom sizes",
+            "domed decals create installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "domed decals create durability printing",
+            "domed decals create durability custom sizes",
+            "domed decals create durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "domed decals create pricing printing",
+            "domed decals create pricing custom sizes",
+            "domed decals create pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "domed decals create printing",
+            "domed decals create custom sizes",
+            "domed decals create design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "domed decals create shipping printing",
+            "domed decals create shipping custom sizes",
+            "domed decals create shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "custom waterproof roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-waterproof-roll-labels"
+        },
+        {
+          "anchor": "custom clear roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-clear-roll-labels"
+        },
+        {
+          "anchor": "die cut decals",
+          "url": "https://www.decals.com/decals/die-cut-decals"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 1500,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "Custom Domed Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Create One-of-a-Kind Domed Decals!"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Methods"
+        },
+        {
+          "tag": "h3",
+          "text": "Payment"
+        },
+        {
+          "tag": "h3",
+          "text": "Live Order Tracking"
+        },
+        {
+          "tag": "h3",
+          "text": "Domed Decal Materials"
+        },
+        {
+          "tag": "h3",
+          "text": "Advantages of Domed Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Domed Decal Artwork Requirements"
+        },
+        {
+          "tag": "h3",
+          "text": "Domed Decal Production Time"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping Methods:"
+        },
+        {
+          "tag": "h3",
+          "text": "Important Economy Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "National and International Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "Domed Decal Examples"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload Your File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Custom Domed Decals Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Reviews ... Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Decals.com?"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Service"
+        },
+        {
+          "tag": "h3",
+          "text": "Made in the USA"
+        },
+        {
+          "tag": "h3",
+          "text": "Fast Turnaround"
+        },
+        {
+          "tag": "h3",
+          "text": "Track Your Order"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Product Information"
+        },
+        {
+          "tag": "h4",
+          "text": "What are domed decals?"
+        },
+        {
+          "tag": "h4",
+          "text": "What materials are used for domed decals?"
+        },
+        {
+          "tag": "h4",
+          "text": "What is the typical production time for domed decals?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I customize the shape and size of domed decals?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can domed decals be used for outdoor applications?"
+        },
+        {
+          "tag": "h4",
+          "text": "What is the recommended care for dome decals?"
+        },
+        {
+          "tag": "h4",
+          "text": "Will applying a domed decal harm vehicle paint?"
+        },
+        {
+          "tag": "h4",
+          "text": "What if I have specific design requirements or need assistance with artwork?"
+        },
+        {
+          "tag": "h4",
+          "text": "How do you remove air bubbles from vinyl domed decals?"
+        },
+        {
+          "tag": "h4",
+          "text": "How do you remove air bubbles from custom vinyl domed decals?"
+        },
+        {
+          "tag": "h3",
+          "text": "Common Uses"
+        },
+        {
+          "tag": "h4",
+          "text": "What are domed decals commonly used for?"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": null,
+    "contentScore": null,
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T15:44:28.841Z"
+    },
+    "seoRecommendations": "<h1>Create Custom Domed Decals | Decals | Decals.com</h1><p>Strengthen topical depth with structured H2 sections. Add contextual links to related PDPs and categories. Add a clear conversion bridge near conclusion. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>"
+  }
+}

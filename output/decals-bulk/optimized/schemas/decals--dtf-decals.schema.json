@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:49:16.193Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "UV DTF Transfers",
+    "description": "Elevate your brand with our high-quality UV DTF decals—perfect for vibrant, long-lasting impressions on a variety of surfaces.",
+    "url": "https://www.decals.com/decals/dtf-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

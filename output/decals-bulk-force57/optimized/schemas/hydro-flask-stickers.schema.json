@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:27:56.350Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Hydro Flask Stickers",
+    "description": "Custom Hydro Flask stickers. Stick them to your Hydro Flask water bottle today! 100% customizable! 100% water and weather resistant including UV, rain, and snow.",
+    "url": "https://www.decals.com/hydro-flask-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

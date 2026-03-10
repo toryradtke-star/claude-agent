@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "double-sided banners double",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "double-sided banners double installation printing",
+        "double-sided banners double installation custom sizes",
+        "double-sided banners double installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "double-sided banners double durability printing",
+        "double-sided banners double durability custom sizes",
+        "double-sided banners double durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "double-sided banners double pricing printing",
+        "double-sided banners double pricing custom sizes",
+        "double-sided banners double pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "double-sided banners double printing",
+        "double-sided banners double custom sizes",
+        "double-sided banners double design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "double-sided banners double shipping printing",
+        "double-sided banners double shipping custom sizes",
+        "double-sided banners double shipping design upload"
+      ]
+    }
+  ]
+}

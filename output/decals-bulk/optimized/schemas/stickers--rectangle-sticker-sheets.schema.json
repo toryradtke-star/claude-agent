@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:58:15.414Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Rectangle Sticker Sheets",
+    "description": "Create custom rectangle stickers on sheets at Decals.com. Sticker sheets make peeling and sticking a breeze and are ideal for large projects. Get started today with our online design tool!",
+    "url": "https://www.decals.com/stickers/rectangle-sticker-sheets",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

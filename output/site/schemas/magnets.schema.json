@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Magnets for Home,",
+  "description": "Custom magnets are perfect for vehicle branding, fridge reminders, or business cards. Get free proofs, fast turnaround & easy design tools at Banners.com",
+  "url": "https://www.banners.com/magnets",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

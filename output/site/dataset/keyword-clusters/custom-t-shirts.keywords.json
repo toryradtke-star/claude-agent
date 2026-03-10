@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "t-shirts - shirtspot com",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "t-shirts - shirtspot com installation printing",
+        "t-shirts - shirtspot com installation custom sizes",
+        "t-shirts - shirtspot com installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "t-shirts - shirtspot com durability printing",
+        "t-shirts - shirtspot com durability custom sizes",
+        "t-shirts - shirtspot com durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "t-shirts - shirtspot com pricing printing",
+        "t-shirts - shirtspot com pricing custom sizes",
+        "t-shirts - shirtspot com pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "t-shirts - shirtspot com printing",
+        "t-shirts - shirtspot com custom sizes",
+        "t-shirts - shirtspot com design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "t-shirts - shirtspot com shipping printing",
+        "t-shirts - shirtspot com shipping custom sizes",
+        "t-shirts - shirtspot com shipping design upload"
+      ]
+    }
+  ]
+}

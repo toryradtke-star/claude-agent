@@ -1,0 +1,12 @@
+{
+  "mode": "optimize",
+  "baseUrl": "https://banners.com",
+  "generatedAt": "2026-03-05T18:03:28.644Z",
+  "discoveryMethod": "shared-list",
+  "totalUrlsDiscovered": 1,
+  "pagesOptimized": 1,
+  "pagesSkipped": 0,
+  "reusedPreScraped": 0,
+  "reusedMemoryCache": 1,
+  "errors": []
+}

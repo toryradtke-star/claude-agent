@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:46:09.321Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "url": "https://www.decals.com/spice-jar-labels",
+    "name": "Spice Jar Labels - Custom Labels for Spice Jars | Decals.com"
+  }
+}

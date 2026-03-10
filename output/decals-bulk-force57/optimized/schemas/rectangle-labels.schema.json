@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:32:30.623Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Rectangle Labels Rectangle",
+    "description": "Create custom rectangle shape labels today with our easy to use online designer. Add your own graphics and colors to make your custom labels pop.",
+    "url": "https://www.decals.com/rectangle-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

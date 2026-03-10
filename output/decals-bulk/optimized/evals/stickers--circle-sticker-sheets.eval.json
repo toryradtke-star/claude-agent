@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "evaluatePdpOutput",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:57:49.882Z",
+  "data": {
+    "score": 70,
+    "failedChecks": [
+      {
+        "check": "required_sections",
+        "details": [
+          "MATERIAL OPTIONS TAB",
+          "FINISHING OPTIONS TAB",
+          "SHIPPING GUIDELINES TAB"
+        ]
+      },
+      {
+        "check": "cta_section_rules",
+        "details": [
+          "PRODUCTION TIMES TAB"
+        ]
+      },
+      {
+        "check": "generic_headings",
+        "details": "Contains generic headings"
+      }
+    ],
+    "retry": true,
+    "threshold": 85
+  }
+}

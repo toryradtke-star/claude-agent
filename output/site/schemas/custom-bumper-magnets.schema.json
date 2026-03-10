@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Bumper Magnets Bumper",
+  "description": "Custom bumper magnets make it easy to promote on the go! Bumper magnets are durable, weatherproof, and adjustable, making them ideal for most vehicles.",
+  "url": "https://www.banners.com/custom-bumper-magnets",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

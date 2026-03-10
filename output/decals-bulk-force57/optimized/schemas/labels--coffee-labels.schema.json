@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:28:08.052Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Coffee Labels Coffee",
+    "description": "Create custom coffee labels for your beans at Decals.com. Design custom labels for your coffee packages! Add images or text using our online designer tool.",
+    "url": "https://www.decals.com/labels/coffee-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

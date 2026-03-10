@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:32:13.552Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "QR Code Stickers",
+    "description": "Order your custom QR code stickers from Decals.com. QR code stickers can easily be added to custom sticker designs and can also help market your business.",
+    "url": "https://www.decals.com/qr-code-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

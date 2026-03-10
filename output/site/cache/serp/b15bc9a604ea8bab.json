@@ -1,0 +1,12 @@
+{
+  "query": "beer labels beer",
+  "productEntity": "Beer Labels Beer",
+  "pageType": "blog",
+  "averageWordCount": 0,
+  "headingPatterns": [],
+  "entityCoverage": [],
+  "semanticPhrases": [],
+  "faqPatterns": [],
+  "schemaTypes": [],
+  "topUrls": []
+}

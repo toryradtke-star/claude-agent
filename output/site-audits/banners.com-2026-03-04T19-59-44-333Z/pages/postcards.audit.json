@@ -1,0 +1,333 @@
+{
+  "url": "https://www.banners.com/postcards",
+  "productPage": true,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": false,
+    "pricing": true,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "Postcards – Custom Postcard Printing | Banners.com",
+    "metaDescription": "Design and print custom postcards for business or personal use in minutes. Our postcards a printed in full color on premium cardstock. Available in glossy or matte finish.",
+    "canonical": "https://www.banners.com/postcards",
+    "robots": "index, follow",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 1272,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Custom Postcards"
+      },
+      {
+        "tag": "h3",
+        "text": "Full-Color Postcards"
+      },
+      {
+        "tag": "h4",
+        "text": "Product Specs"
+      },
+      {
+        "tag": "h4",
+        "text": "Artwork"
+      },
+      {
+        "tag": "h4",
+        "text": "Artwork Guidelines"
+      },
+      {
+        "tag": "h4",
+        "text": "Color Match Proof System"
+      },
+      {
+        "tag": "h4",
+        "text": "Production Times"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h4",
+        "text": "1 Business Day Priority:"
+      },
+      {
+        "tag": "h4",
+        "text": "2 Business Days Express:"
+      },
+      {
+        "tag": "h4",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h4",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h4",
+        "text": "Payment"
+      },
+      {
+        "tag": "h4",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h4",
+        "text": "General Shipping Guidelines"
+      },
+      {
+        "tag": "h4",
+        "text": "Shipping Maps"
+      },
+      {
+        "tag": "h4",
+        "text": "Shipping Methods"
+      },
+      {
+        "tag": "h3",
+        "text": "Business Uses:"
+      },
+      {
+        "tag": "h3",
+        "text": "Personal Uses:"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Custom Postcards Return to Top"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com for Custom Postcards"
+      },
+      {
+        "tag": "h2",
+        "text": "Unmatched Customer Service"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "What size are your personalized postcards?"
+      },
+      {
+        "tag": "h3",
+        "text": "What’s the difference between matte and gloss postcards?"
+      },
+      {
+        "tag": "h3",
+        "text": "How thick are your postcards?"
+      },
+      {
+        "tag": "h3",
+        "text": "How do I design a postcard?"
+      },
+      {
+        "tag": "h3",
+        "text": "What information should I include on a postcard?"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Custom Postcards"
+    },
+    {
+      "tag": "h3",
+      "text": "Full-Color Postcards"
+    },
+    {
+      "tag": "h4",
+      "text": "Product Specs"
+    },
+    {
+      "tag": "h4",
+      "text": "Artwork"
+    },
+    {
+      "tag": "h4",
+      "text": "Artwork Guidelines"
+    },
+    {
+      "tag": "h4",
+      "text": "Color Match Proof System"
+    },
+    {
+      "tag": "h4",
+      "text": "Production Times"
+    },
+    {
+      "tag": "h3",
+      "text": "Production Time Tables"
+    },
+    {
+      "tag": "h4",
+      "text": "1 Business Day Priority:"
+    },
+    {
+      "tag": "h4",
+      "text": "2 Business Days Express:"
+    },
+    {
+      "tag": "h4",
+      "text": "3 Business Days Standard:"
+    },
+    {
+      "tag": "h4",
+      "text": "5 Business Days Saver:"
+    },
+    {
+      "tag": "h4",
+      "text": "Payment"
+    },
+    {
+      "tag": "h4",
+      "text": "Shipping"
+    },
+    {
+      "tag": "h4",
+      "text": "General Shipping Guidelines"
+    },
+    {
+      "tag": "h4",
+      "text": "Shipping Maps"
+    },
+    {
+      "tag": "h4",
+      "text": "Shipping Methods"
+    },
+    {
+      "tag": "h3",
+      "text": "Business Uses:"
+    },
+    {
+      "tag": "h3",
+      "text": "Personal Uses:"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Custom Postcards Return to Top"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com for Custom Postcards"
+    },
+    {
+      "tag": "h2",
+      "text": "Unmatched Customer Service"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "h3",
+      "text": "What size are your personalized postcards?"
+    },
+    {
+      "tag": "h3",
+      "text": "What’s the difference between matte and gloss postcards?"
+    },
+    {
+      "tag": "h3",
+      "text": "How thick are your postcards?"
+    },
+    {
+      "tag": "h3",
+      "text": "How do I design a postcard?"
+    },
+    {
+      "tag": "h3",
+      "text": "What information should I include on a postcard?"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": "==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Custom Postcards\nH3: Full-Color Postcards (skipped H2 level)\nH4: Product Specs\nH4: Artwork  \nH4: Artwork Guidelines\nH4: Color Match Proof System\nH4: Production Times\nH3: Production Time Tables\nH4: 1 Business Day Priority:\nH4: 2 Business Days Express:\nH4: 3 Business Days Standard:\nH4: 5 Business Days Saver:\nH4: Payment\nH4: Shipping\nH4: General Shipping Guidelines\nH4: Shipping Maps\nH4: Shipping Methods\nH3: Business Uses:\nH3: Personal Uses:\nH4: Upload a Print Ready File\nH3: Step 1 - Choose Choose a product and the size you want\nH3: Step 2 - Upload Upload the image from your computer\nH4: Let us design your product\nH3: Step 1 - Choose Choose a product and the size you want\nH3: Step 2 - Upload Upload the image from your computer\nH3: Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!\nH2: More About Custom Postcards Return to Top\nH2: Why Choose Banners.com for Custom Postcards\nH2: Unmatched Customer Service\nH2: Frequently Asked Questions\nH3: What size are your personalized postcards?\nH3: What's the difference between matte and gloss postcards?\nH3: How thick are your postcards?\nH3: How do I design a postcard?\nH3: What information should I include on a postcard?\nH2: Why Choose Banners.com?\nH4: Search\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Postcards for Business Marketing & Personal Communications\nH2: High-Quality Cardstock Postcards with Full-Color Custom Printing & Quick Turnaround\nH2: Custom Postcard Printing for Direct Mail Marketing & Personal Communications\nH2: Premium Cardstock Material for Professional Custom Postcards\nH2: Gloss & Matte Finishing Options for Custom Postcard Printing\nH2: Fast Production Times for Custom Postcard Orders\nH2: Secure Payment Options for Custom Postcard Printing\nH2: Postcard Shipping & Delivery Guidelines\nH2: Business Marketing & Personal Uses for Custom Postcards\nH2: Custom Postcard Artwork Requirements & File Guidelines\nH2: Order Custom Postcards for Marketing & Personal Use Today\nH2: Frequently Asked Questions About Custom Postcards\nH3: What size are your custom printed postcards?\nH3: What's the difference between matte and gloss postcard finishes?\nH3: How thick are your custom postcards?\nH3: How do I design a custom postcard?\nH3: What information should I include on a custom postcard?\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h1>Custom Postcards for Business Marketing & Personal Communications</h1>\n<h2>High-Quality Cardstock Postcards with Full-Color Custom Printing & Quick Turnaround</h2>\n\nPASTE INTO:\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nSize: 4\" x 5.625\" Standard Postcard Size\nQuantity: Choose Your Postcard Quantity\nPaper: Premium 12.4pt Cardstock\nFinish: Gloss or Matte Coating\nProduction Time: 1-5 Business Days Available\nUpload Artwork: Professional Design Services Available\n\nPASTE INTO:\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Postcard Printing for Direct Mail Marketing & Personal Communications</h2>\n\n<p>Create professional custom postcards perfect for direct mail marketing campaigns, personal communications, and promotional outreach. Our full-color postcards are digitally printed on premium 12.4 pt, 120 lb. coverstock paper with your choice of gloss or matte finish.</p>\n\n<p>Each custom postcard measures 4.00\" x 5.625\" - the standard size for direct mail marketing and personal use. This size qualifies for USPS postcard rates, making your marketing campaigns more cost-effective.</p>\n\n<p>Professional design services are available for $60 per hour to help create eye-catching postcards that drive results for your business or personal communications.</p>\n\n<h3>Custom Postcard Specifications</h3>\n<ul>\n<li>Material: Premium 12.4 pt, 120 lb. coverstock paper</li>\n<li>Size: 4.00\" x 5.625\" (standard postcard dimensions)</li>\n<li>Printing: Full-color digital printing</li>\n<li>Finish Options: Gloss or matte coating</li>\n<li>Production: 1-5 business day turnaround available</li>\n<li>Design Services: Professional design assistance available</li>\n</ul>\n\nPASTE INTO:\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nMATERIAL OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Premium Cardstock Material for Professional Custom Postcards</h2>\n\n<p>Our custom postcards are printed on premium 12.4 pt, 120 lb. coverstock paper that provides the perfect balance of durability and professional appearance for marketing and personal communications.</p>\n\n<h3>Cardstock Material Benefits</h3>\n<ul>\n<li><strong>Professional Thickness:</strong> 12.4 pt thickness feels substantial in recipients' hands</li>\n<li><strong>Durable Weight:</strong> 120 lb. coverstock resists bending during mailing</li>\n<li><strong>High-Quality Printing:</strong> Smooth surface accepts vibrant digital printing</li>\n<li><strong>USPS Compatible:</strong> Meets postal requirements for standard postcard rates</li>\n<li><strong>Archival Quality:</strong> Premium paper stock maintains color vibrancy over time</li>\n</ul>\n\n<p>This cardstock weight is specifically chosen for postcards because it provides excellent print quality while meeting postal service thickness requirements for automated processing and standard postcard rates.</p>\n\nPASTE INTO:\nMaterial Options Tab\n\n--------------------------------------------------\n\n==================================================\nFINISHING OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Gloss & Matte Finishing Options for Custom Postcard Printing</h2>\n\n<p>Choose between gloss or matte coating to achieve the perfect look and feel for your custom postcards. Both finishes provide protection while offering distinct visual and tactile experiences.</p>\n\n<h3>Gloss Finish Postcards</h3>\n<ul>\n<li>Vibrant color reproduction with enhanced saturation</li>\n<li>Smooth, shiny surface that reflects light</li>\n<li>Professional appearance ideal for marketing materials</li>\n<li>Excellent for photo-heavy designs and bright graphics</li>\n<li>Protective coating resists fingerprints and moisture</li>\n</ul>\n\n<h3>Matte Finish Postcards</h3>\n<ul>\n<li>Sophisticated, non-reflective surface</li>\n<li>Easy to write on with pen or pencil</li>\n<li>Reduces glare for better readability</li>\n<li>Premium feel with subtle texture</li>\n<li>Ideal for text-heavy designs and elegant presentations</li>\n</ul>\n\n<p>Both finishes are applied as a protective coating during the printing process, ensuring your custom postcards maintain their professional appearance through mailing and handling.</p>\n\nPASTE INTO:\nFinishing Options Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Fast Production Times for Custom Postcard Orders</h2>\n\n<p>We offer flexible production schedules from 1 to 5 business days to meet your timeline and budget needs. Production time begins after artwork approval and file upload completion.</p>\n\n<h3>1 Business Day Priority Production</h3>\n<ul>\n<li>Ultra-fast turnaround for urgent campaigns</li>\n<li>Same-day emergency rushes available in some cases</li>\n<li>Orders approved after 5:00 PM CST process next business day</li>\n<li>Contact customer service for emergency options</li>\n</ul>\n\n<h3>2 Business Days Express Production</h3>\n<ul>\n<li>Quick turnaround with slightly more flexibility</li>\n<li>Popular choice for time-sensitive marketing</li>\n<li>Orders approved after 5:00 PM CST process next business day</li>\n<li>Emergency options available upon request</li>\n</ul>\n\n<h3>3 Business Days Standard Production</h3>\n<ul>\n<li>Most popular production option</li>\n<li>Free with most orders</li>\n<li>Ideal balance of speed and value</li>\n<li>Sufficient time for quality control processes</li>\n</ul>\n\n<h3>5 Business Days Saver Production</h3>\n<ul>\n<li>Budget-friendly option for advance planning</li>\n<li>Lower cost when timing is flexible</li>\n<li>Perfect for large quantity orders</li>\n<li>Allows extra time for complex designs</li>\n</ul>\n\n<p><strong>Important:</strong> Production time excludes shipping time. If your order requires proofing or has prepress issues, production begins after approval. Turnaround times are calculated from file upload completion.</p>\n\nPASTE INTO:\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nPAYMENT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Secure Payment Options for Custom Postcard Printing</h2>\n\n<p>All custom postcards must be paid for prior to production to ensure timely processing of your order. We offer multiple secure payment methods for your convenience.</p>\n\n<h3>Accepted Credit Cards</h3>\n<ul>\n<li>Visa</li>\n<li>MasterCard</li>\n<li>American Express</li>\n<li>Discover</li>\n</ul>\n\n<h3>Check Payment Option</h3>\n<ul>\n<li>Business and personal checks accepted</li>\n<li>Check must be received before production begins</li>\n<li>May extend overall delivery time</li>\n<li>Contact customer service for check payment procedures</li>\n</ul>\n\n<h3>Payment Processing Timeline</h3>\n<p>Your credit card will not be charged until you approve your custom postcard order. This ensures you have the opportunity to review all details, including artwork, quantity, and specifications before payment is processed.</p>\n\n<p>For large quantity orders or extended payment terms, contact our customer service team to discuss available options for your business needs.</p>\n\nPASTE INTO:\nPayment Options Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING GUIDELINES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Postcard Shipping & Delivery Guidelines</h2>\n\n<p>Custom postcards are produced at our Minnesota facility and shipped nationwide. We offer multiple shipping options to meet your delivery timeline and budget requirements.</p>\n\n<h3>Available Shipping Methods</h3>\n<ul>\n<li><strong>Standard Shipping:</strong> 3-5 business days</li>\n<li><strong>Three Day:</strong> 3 business days</li>\n<li><strong>Two Day:</strong> 2 business days</li>\n<li><strong>Overnight:</strong> 1 business day</li>\n<li><strong>UPS Overnight AM:</strong> Morning delivery</li>\n<li><strong>Economy Shipping:</strong> Budget option with longer delivery</li>\n</ul>\n\n<h3>Shipping Coverage & Tracking</h3>\n<ul>\n<li>1-3 day ground shipment to 90% of the United States</li>\n<li>Tracking number provided once shipped</li>\n<li>Shipping costs based on weight and destination</li>\n<li>Additional charges apply to large quantity orders</li>\n</ul>\n\n<h3>International Shipping</h3>\n<p>International shipments require customer-provided shipping labels and customs documentation. We accept international labels from USPS and UPS only. Contact customer service for international shipping assistance.</p>\n\n<h3>Shipping Protection Policy</h3>\n<p>After shipment, all carrier terms apply for delays or loss. Damaged items must be returned for replacement. Lost packages are replaced after carrier confirms loss (typically 7-10 business days after scheduled delivery).</p>\n\nPASTE INTO:\nShipping Guidelines Tab\n\n--------------------------------------------------\n\n==================================================\nCOMMON USES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Business Marketing & Personal Uses for Custom Postcards</h2>\n\n<p>Custom postcards are versatile marketing tools and personal communication pieces that deliver your message directly to recipients' hands. Explore popular applications for business and personal use.</p>\n\n<h3>Business Marketing Uses</h3>\n<ul>\n<li>Direct mail marketing campaigns</li>\n<li>New customer acquisition mailings</li>\n<li>Product or service announcements</li>\n<li>Grand opening and event promotions</li>\n<li>Real estate marketing and listings</li>\n<li>Restaurant menu highlights and specials</li>\n<li>Seasonal sales and holiday promotions</li>\n<li>Trade show follow-up communications</li>\n<li>Customer loyalty and retention programs</li>\n<li>Professional service reminders</li>\n</ul>\n\n<h3>Personal Communication Uses</h3>\n<ul>\n<li>Wedding announcements and invitations</li>\n<li>Birth announcements and baby photos</li>\n<li>Graduation announcements</li>\n<li>Holiday greetings and family updates</li>\n<li>Moving announcements with new addresses</li>\n<li>Party invitations and event notifications</li>\n<li>Thank you cards for special occasions</li>\n<li>Travel postcards and vacation memories</li>\n<li>Personal branding for photographers and artists</li>\n<li>Save the date cards for special events</li>\n</ul>\n\n<p>The standard 4\" x 5.625\" size qualifies for USPS postcard rates, making direct mail campaigns more cost-effective than standard letter mail.</p>\n\nPASTE INTO:\nCommon Uses Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Postcard Artwork Requirements & File Guidelines</h2>\n\n<p>Submit print-ready artwork or work with our professional designers to create custom postcards that make a lasting impression. Follow these guidelines for best printing results.</p>\n\n<h3>Preferred File Types</h3>\n<ul>\n<li><strong>Vector Files:</strong> .eps or .ai (Adobe Illustrator) with fonts converted to outlines</li>\n<li><strong>High-Resolution PDFs:</strong> Print-ready with embedded fonts</li>\n<li><strong>High-Resolution JPGs:</strong> 300 DPI minimum resolution</li>\n<li><strong>Professional Formats:</strong> Native design files from Adobe Creative Suite</li>\n</ul>\n\n<h3>Artwork Specifications</h3>\n<ul>\n<li>Final size: 4.00\" x 5.625\" with bleed area</li>\n<li>Resolution: 300 DPI for all images and graphics</li>\n<li>Color mode: CMYK for accurate color reproduction</li>\n<li>Bleed: 0.125\" bleed area around all edges</li>\n<li>Safe area: Keep important text 0.25\" from edges</li>\n</ul>\n\n<h3>Professional Design Services</h3>\n<p>Our graphic design team can create custom postcards from your concepts, photos, and text. Design services are charged at $60 per hour and include:</p>\n<ul>\n<li>Custom layout and design creation</li>\n<li>Photo editing and enhancement</li>\n<li>Logo integration and branding</li>\n<li>Text formatting and typography</li>\n<li>Color correction and optimization</li>\n</ul>\n\n<h3>Color Matching Services</h3>\n<p>For color-critical projects, our Color Match Proof System ensures accurate color reproduction. This service is recommended for brand-specific colors and professional marketing materials.</p>\n\nPASTE INTO:\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Order Custom Postcards for Marketing & Personal Use Today</h2>\n\n<p>Ready to create professional custom postcards that get results? Our streamlined ordering process makes it easy to design, print, and deliver high-quality postcards for any purpose.</p>\n\n<h3>Simple 3-Step Ordering Process</h3>\n\n<h4>Step 1: Choose Your Specifications</h4>\n<p>Select your quantity, finish (gloss or matte), and production timeline. Our standard 4\" x 5.625\" size is perfect for direct mail campaigns and personal communications while qualifying for postcard postage rates.</p>\n\n<h4>Step 2: Upload Your Artwork</h4>\n<p>Upload your print-ready files or request professional design services. Our team will review your artwork and contact you if any adjustments are needed for optimal printing results.</p>\n\n<h4>Step 3: Approve and Production Begins</h4>\n<p>Review your order details, approve your artwork, and we'll begin production immediately. You'll receive tracking information once your custom postcards ship.</p>\n\n<h3>Why Choose Our Custom Postcard Printing</h3>\n<ul>\n<li>Premium 12.4 pt cardstock for professional results</li>\n<li>Full-color digital printing with vibrant reproduction</li>\n<li>Choice of gloss or matte protective finishes</li>\n<li>Fast 1-5 business day production options</li>\n<li>Professional design services available</li>\n<li>Secure online ordering with multiple payment options</li>\n<li>Nationwide shipping with tracking</li>\n<li>Expert customer service support</li>\n</ul>\n\n<p>Start your custom postcard project today and discover why businesses and individuals nationwide trust us for their printing needs. Contact our customer service team at (320) 391-5300 for assistance with large orders or custom requirements.</p>\n\nPASTE INTO:\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Frequently Asked Questions About Custom Postcards</h2>\n\n<h3>What size are your custom printed postcards?</h3>\n<p>Our custom postcards measure 4.00\" x 5.625\", which is the standard postcard size. This size qualifies for USPS postcard rates, making it cost-effective for direct mail marketing campaigns and personal communications.</p>\n\n<h3>What's the difference between matte and gloss postcard finishes?</h3>\n<p>Gloss finish provides vibrant colors with a shiny, reflective surface that's ideal for photo-heavy designs and marketing materials. Matte finish offers a non-reflective, sophisticated appearance that's easy to write on and reduces glare, making it perfect for text-heavy designs and elegant presentations.</p>\n\n<h3>How thick are your custom postcards?</h3>\n<p>Our postcards are printed on premium 12.4 pt, 120 lb. coverstock paper. This thickness provides a professional feel, durability during mailing, and meets USPS requirements for automated processing while maintaining standard postcard postage rates.</p>\n\n<h3>How do I design a custom postcard?</h3>\n<p>You can upload your own print-ready artwork in .eps, .ai, .pdf, or high-resolution .jpg formats, or utilize our professional design services for $60 per hour. Our designers can create custom layouts from your photos, text, and concepts to produce eye-catching postcards.</p>\n\n<h3>What information should I include on a custom postcard?</h3>\n<p>For business postcards, include your logo, contact information, call-to-action, and key message or offer. For personal postcards, include recipient address space, return address, and your message or announcement. Remember to follow USPS guidelines for address placement and postage area.</p>\n\n<h3>What production times are available for custom postcards?</h3>\n<p>We offer production times from 1 to 5 business days. Options include 1-day priority, 2-day express, 3-day standard (most popular), and 5-day saver. Production begins after artwork approval and payment processing.</p>\n\n<h3>Do you offer color matching for brand-specific colors?</h3>\n<p>Yes, we offer a Color Match Proof System for color-critical projects. This service ensures accurate reproduction of brand-specific colors and is recommended for professional marketing materials where color accuracy is essential.</p>\n\n<h3>What file types do you accept for custom postcard printing?</h3>\n<p>We prefer vector-based files (.eps, .ai) with fonts converted to outlines for best results. We also accept high-resolution .pdf and .jpg files at 300 DPI minimum. All files should be in CMYK color mode with appropriate bleed areas.</p>\n\nPASTE INTO:\nFAQ Tab\n\n--------------------------------------------------"
+}

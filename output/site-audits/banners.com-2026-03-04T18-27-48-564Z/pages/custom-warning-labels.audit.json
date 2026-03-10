@@ -1,0 +1,85 @@
+{
+  "url": "https://banners.com/custom-warning-labels",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "Custom Warning Labels | Banners.com",
+    "metaDescription": "Order your custom warning labels from Banners.com! Easily label dangerous machinery, breaker boxes, OEM parts and more. Use the online designer tool to create your labels.",
+    "canonical": "https://www.banners.com/custom-warning-labels",
+    "robots": "index, follow",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 635,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h4",
+        "text": "Products"
+      },
+      {
+        "tag": "h1",
+        "text": "Custom Warning Labels"
+      },
+      {
+        "tag": "h3",
+        "text": "Design labels for ANSI Z535.4, OSHA, ISO, FDA, and Proposition 65 warnings"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h4",
+      "text": "Products"
+    },
+    {
+      "tag": "h1",
+      "text": "Custom Warning Labels"
+    },
+    {
+      "tag": "h3",
+      "text": "Design labels for ANSI Z535.4, OSHA, ISO, FDA, and Proposition 65 warnings"
+    },
+    {
+      "tag": "h3",
+      "text": ""
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

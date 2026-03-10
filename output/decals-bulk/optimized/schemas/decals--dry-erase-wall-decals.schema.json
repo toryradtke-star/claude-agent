@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:50:22.539Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Dry Erase Wall",
+    "description": "Design a whiteboard for anywhere in your home or office at decals.com! Dry erase wall decals are the perfect magnet alternative for stainless steel appliances!",
+    "url": "https://www.decals.com/decals/dry-erase-wall-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

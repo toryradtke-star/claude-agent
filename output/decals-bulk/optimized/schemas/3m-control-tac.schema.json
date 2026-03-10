@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:44:19.769Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "3M Controltac Vinyl",
+    "description": "Create custom decals & stickers on our premium 3M™ Controltac™ material at Decals.com!",
+    "url": "https://www.decals.com/3m-control-tac",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:52:05.183Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Circle Decals Circle",
+    "description": "Create circle decals at Decals.com! Promote businesses, sales and new products. Spice up dull product packaging or decorate bridal shower gift bags and more!",
+    "url": "https://www.decals.com/decals/circle-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

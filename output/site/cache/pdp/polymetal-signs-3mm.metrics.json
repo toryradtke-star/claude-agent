@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/polymetal-signs-3mm",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4722,
+    "output_tokens": 3628
+  },
+  "durationMs": 70908
+}

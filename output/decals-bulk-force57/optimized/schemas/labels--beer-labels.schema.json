@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:28:13.327Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Beer Labels Beer",
+    "description": "Add some flare to your brewed products with custom beer labels at Decals.com! Design your own labels for beer bottles in our online designer, or using a file!",
+    "url": "https://www.decals.com/labels/beer-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

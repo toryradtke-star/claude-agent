@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "bumper magnets bumper",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "bumper magnets bumper installation printing",
+        "bumper magnets bumper installation custom sizes",
+        "bumper magnets bumper installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "bumper magnets bumper durability printing",
+        "bumper magnets bumper durability custom sizes",
+        "bumper magnets bumper durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "bumper magnets bumper pricing printing",
+        "bumper magnets bumper pricing custom sizes",
+        "bumper magnets bumper pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "bumper magnets bumper printing",
+        "bumper magnets bumper custom sizes",
+        "bumper magnets bumper design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "bumper magnets bumper shipping printing",
+        "bumper magnets bumper shipping custom sizes",
+        "bumper magnets bumper shipping design upload"
+      ]
+    }
+  ]
+}

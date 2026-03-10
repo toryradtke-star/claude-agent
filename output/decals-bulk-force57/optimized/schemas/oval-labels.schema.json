@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:31:19.443Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Oval Labels Oval",
+    "description": "Customize high quality, oval labels that are great for both showcasing your brand and for your personal use. Get started with your design today at Decals.com!",
+    "url": "https://www.decals.com/oval-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

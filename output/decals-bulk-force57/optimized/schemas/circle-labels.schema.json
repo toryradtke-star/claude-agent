@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:26:25.954Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Circle Labels Circle",
+    "description": "Create custom circle labels with our easy to use online designer today. You pick colors and graphics! They are perfect for branding, organizing, and more.",
+    "url": "https://www.decals.com/circle-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

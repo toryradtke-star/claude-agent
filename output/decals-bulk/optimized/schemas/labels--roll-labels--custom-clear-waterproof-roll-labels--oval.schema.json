@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:02:57.946Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Clear Oval Waterproof",
+    "description": "Showcase your product with clear oval waterproof roll labels. Durable, oil resistant, and perfect for sleek see-through packaging on bottles and jars.",
+    "url": "https://www.decals.com/labels/roll-labels/custom-clear-waterproof-roll-labels/oval",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:59:28.028Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Rounded Corner Stickers",
+    "description": "Create custom rounded corner stickers by using your own image, logo, or design at Decals.com. These are high-quality and durable stickers with a soft edge!",
+    "url": "https://www.decals.com/stickers/rounded-corner-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

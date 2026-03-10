@@ -1,0 +1,93 @@
+{
+  "url": "https://www.banners.com/vinyl-banner-finishing-options",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": false,
+    "pricing": true,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 1139,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Vinyl Banners: Finishing Options for Custom Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Heat Welded Hems & Grommets:"
+      },
+      {
+        "tag": "h3",
+        "text": "Pole Pockets:"
+      },
+      {
+        "tag": "h3",
+        "text": "Reinforced Corners:"
+      },
+      {
+        "tag": "h3",
+        "text": "Reinforced Hems:"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Vinyl Banners: Finishing Options for Custom Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Heat Welded Hems & Grommets:"
+    },
+    {
+      "tag": "h3",
+      "text": "Pole Pockets:"
+    },
+    {
+      "tag": "h3",
+      "text": "Reinforced Corners:"
+    },
+    {
+      "tag": "h3",
+      "text": "Reinforced Hems:"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

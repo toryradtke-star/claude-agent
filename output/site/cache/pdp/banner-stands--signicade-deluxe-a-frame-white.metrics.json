@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-white",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 3381,
+    "output_tokens": 3489
+  },
+  "durationMs": 67330
+}

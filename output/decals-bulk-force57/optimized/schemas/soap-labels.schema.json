@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:32:57.109Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Soap Labels Soap",
+    "description": "Our custom labels are the perfect marketing tool to help give your products a distinct and vibrant look.",
+    "url": "https://www.decals.com/soap-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

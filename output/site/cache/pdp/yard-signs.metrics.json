@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/yard-signs",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4648,
+    "output_tokens": 3462
+  },
+  "durationMs": 69268
+}

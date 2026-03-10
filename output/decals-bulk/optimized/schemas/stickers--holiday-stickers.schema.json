@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:59:49.270Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Holiday Stickers Holiday",
+    "description": "Elevate your holidays with Decals.com's festive stickers! Add a touch of joy to your celebrations with our vibrant and custom designs. Explore the magic of the season—shop holiday stickers now!",
+    "url": "https://www.decals.com/stickers/holiday-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

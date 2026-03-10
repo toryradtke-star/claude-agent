@@ -1,0 +1,165 @@
+{
+  "url": "https://www.banners.com/sports-banners/martial-arts",
+  "productPage": true,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": true,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 832,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Custom Martial Arts Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Sports Banners - Order Today!"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Martial Arts Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Order your Martial Arts Full Color Banners at Banners.com!"
+      },
+      {
+        "tag": "h3",
+        "text": "Martial Arts Banner Samples - **[Click here if you would like a sample packet mailed to you](https://lag.infusionsoft.com/app/page/sample-packet)**"
+      },
+      {
+        "tag": "h3",
+        "text": "Banners.com Banner Design Options"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Custom Martial Arts Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Sports Banners - Order Today!"
+    },
+    {
+      "tag": "h3",
+      "text": "Products you might like"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Martial Arts Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Order your Martial Arts Full Color Banners at Banners.com!"
+    },
+    {
+      "tag": "h3",
+      "text": "Martial Arts Banner Samples - **[Click here if you would like a sample packet mailed to you](https://lag.infusionsoft.com/app/page/sample-packet)**"
+    },
+    {
+      "tag": "h3",
+      "text": "Banners.com Banner Design Options"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": "==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Custom Martial Arts Banners\nH3: Sports Banners - Order Today! (Should be H2)\nH3: Products you might like (Navigational UI - ignore)\nH4: Upload a Print Ready File (Configurator element)\nH3: Step 1 - Choose Choose a product... (Configurator element)\nH3: Step 2 - Upload Upload the image... (Configurator element)\nH4: Let us design your product (Configurator element)\nH3: Step 1 - Choose Choose a product... (Configurator element)\nH3: Step 2 - Upload Upload the image... (Configurator element)\nH3: Step 3 - Provide Instructions... (Configurator element)\nH2: More About Martial Arts Banners\nH3: Order your Martial Arts Full Color Banners...\nH3: Martial Arts Banner Samples...\nH3: Banners.com Banner Design Options\nH2: Why Choose Banners.com?\nH4: Search\n\n**Issues:**\n- Missing H2 subtitle in header\n- Skipped heading levels (H1 to H3)\n- Generic tab headings missing product entity\n- Missing material, durability, and installation context\n- Weak transactional language\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Martial Arts Banners for Gym & Tournament Displays\nH2: Professional Vinyl Material for Indoor & Outdoor Martial Arts Events\n[Tab H2s]:\nH2: Custom Martial Arts Banner Options for Competition & Training Displays\nH2: Vinyl Material Options for Martial Arts Banner Durability  \nH2: Martial Arts Banner Finishing for Professional Installation\nH2: Martial Arts Banner Artwork Requirements for Tournament Printing\nH2: Custom Martial Arts Banner Production & Delivery Times\nH2: Martial Arts Banner Payment & Ordering Methods\nH2: Shipping Guidelines for Custom Martial Arts Banner Delivery\nH2: Tournament & Training Uses for Custom Martial Arts Banners\nH2: Order Professional Martial Arts Banners for Your Next Event\nH2: Martial Arts Banner Questions & Answers\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n# Custom Martial Arts Banners for Gym & Tournament Displays\n\n## Professional Vinyl Material for Indoor & Outdoor Martial Arts Events with Custom Design & Fast Production\n\nPASTE INTO:\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nUpload a Print Ready File\nStep 1 - Choose your martial arts banner size and material\nStep 2 - Upload your tournament artwork or gym logo\nLet us design your martial arts banner\nStep 1 - Choose your banner size and material options  \nStep 2 - Upload reference images or existing designs\nStep 3 - Provide design instructions for your martial arts banner project\n\nPASTE INTO:\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Martial Arts Banner Options for Competition & Training Displays</h2>\n\n<p>Make the most of your next martial arts event with an eye-catching vinyl banner. From tournament competitions and gym displays to belt ceremonies and training academies, we can help you improve your visibility and make an unforgettable first impression with our professionally designed custom martial arts banners.</p>\n\n<p>Here at Banners.com, our goal is to deliver a banner that you're proud to display at your martial arts facility. That's why we take great care in our craft and work closely with you to bring your vision to reality. One of the ways we do this is through strict quality checks.</p>\n\n<p>Our team includes seasoned graphic designers and production experts who have been with us for many years. They're deeply familiar with the nuances of the vinyl banner industry and are dedicated to collaborating to ensure you receive a tailor-made martial arts banner. If something doesn't meet our standards, our staff of in-house graphic designers will contact you to fix it immediately.</p>\n\n<p>We offer a wide selection of custom martial arts banners and signage options, including sizes ranging from 1'x1' to 8'x50', unlimited design options in our online designer, and you can even choose production time to ensure your banner is delivered when you need it for your tournament or event.</p>\n\n<p><strong>Six Customizable Banner Materials</strong></p>\n<p>Your martial arts banner is made with the finest materials available and printed using state-of-the-art, large-format printers for vibrant colors that showcase your dojo's brand. All banners are manufactured and printed in the USA.</p>\n\n<p>Exact sizes of banners cannot be guaranteed. Vinyl is a temperature-sensitive material, and some fluctuation can occur due to heat application in printing, finishing, and outside climate. Please note our acceptable size variance is up to 1/2 inch per linear foot (ex., a 5' banner could finish with a 2.5\" variance).</p>\n\nPASTE INTO:\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nMATERIAL OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Vinyl Material Options for Martial Arts Banner Durability</h2>\n\n<p>Choose from our selection of professional-grade vinyl materials designed to withstand the demands of martial arts environments:</p>\n\n<p><strong>13oz Vinyl Banner Material</strong> - Our standard material perfect for indoor tournament displays and gym signage. Provides excellent print quality and durability for most martial arts applications.</p>\n\n<p><strong>18oz Heavy-Duty Vinyl</strong> - Premium material recommended for outdoor martial arts events, competitions, and permanent academy signage. Offers superior wind resistance and longevity.</p>\n\n<p><strong>Mesh Vinyl Material</strong> - Ideal for outdoor martial arts festivals and events where wind flow is important. Reduces wind load while maintaining visibility.</p>\n\n<p>All materials are UV-resistant and designed to maintain color vibrancy in various lighting conditions common in martial arts facilities.</p>\n\nPASTE INTO:\nMaterial Options Tab\n\n--------------------------------------------------\n\n==================================================\nFINISHING OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Martial Arts Banner Finishing for Professional Installation</h2>\n\n<p><strong>Hemming Options</strong> - Choose from sewn hems or heat-sealed edges for clean, professional appearance suitable for tournament environments.</p>\n\n<p><strong>Grommets</strong> - Standard nickel grommets placed every 2-3 feet for secure mounting at gyms, dojos, and competition venues.</p>\n\n<p><strong>Pole Pockets</strong> - Top and bottom pole pockets available for easy hanging systems in martial arts facilities.</p>\n\n<p><strong>Reinforced Corners</strong> - Additional reinforcement available for banners that will be frequently installed and removed at different events.</p>\n\n<p><strong>Wind Slits</strong> - Custom wind relief options for outdoor martial arts demonstrations and festivals.</p>\n\n<p>All finishing options are designed to ensure your martial arts banner maintains its professional appearance throughout multiple events and installations.</p>\n\nPASTE INTO:\nFinishing Options Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Martial Arts Banner Production & Delivery Times</h2>\n\n<p><strong>Rush Production Available</strong> - Need your martial arts banner for an upcoming tournament? We offer expedited production options:</p>\n\n<p><strong>Standard Production:</strong> 3-5 business days after artwork approval</p>\n<p><strong>Rush Production:</strong> 1-2 business days after artwork approval</p>\n<p><strong>Same Day Production:</strong> Available for select sizes and quantities (contact for availability)</p>\n\n<p><strong>Artwork Review Process</strong> - Our design team reviews all martial arts banner artwork within 24 hours and will contact you if any adjustments are needed for optimal printing results.</p>\n\n<p><strong>Production Schedule</strong> - Production times begin after final artwork approval and payment processing. Weekend and holiday schedules may affect delivery timing for tournament deadlines.</p>\n\n<p>Contact our customer service team to discuss specific timing requirements for your martial arts event or competition schedule.</p>\n\nPASTE INTO:\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nPAYMENT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Martial Arts Banner Payment & Ordering Methods</h2>\n\n<p><strong>Accepted Payment Methods</strong></p>\n<p>• Major credit cards (Visa, MasterCard, American Express, Discover)</p>\n<p>• PayPal and PayPal Credit options</p>\n<p>• Business checks for established martial arts academies</p>\n<p>• Purchase orders for schools and organizations</p>\n\n<p><strong>Bulk Order Discounts</strong> - Special pricing available for martial arts tournaments, multiple academy locations, and large competition events.</p>\n\n<p><strong>Payment Processing</strong> - Secure payment processing with immediate order confirmation. Production begins after payment verification and artwork approval.</p>\n\n<p><strong>Custom Quote Requests</strong> - Special pricing available for unique martial arts banner projects, oversized tournament displays, and recurring academy orders.</p>\n\nPASTE INTO:\nPayment Options Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING GUIDELINES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Shipping Guidelines for Custom Martial Arts Banner Delivery</h2>\n\n<p><strong>Shipping Methods Available:</strong></p>\n<p>• Standard Ground Shipping (5-7 business days)</p>\n<p>• Expedited Shipping (2-3 business days)</p>\n<p>• Next Day Air for tournament deadlines</p>\n<p>• Freight shipping for oversized martial arts displays</p>\n\n<p><strong>Important Shipping Notice:</strong> Due to latest shipping regulations, all vinyl banners that exceed 8 feet in both directions will be folded for shipping. If you do not want your martial arts banner folded, please contact us for a custom freight quote.</p>\n\n<p><strong>Packaging</strong> - Martial arts banners are carefully packaged in protective tubes or folded in reinforced packaging to prevent damage during transit.</p>\n\n<p><strong>Delivery Tracking</strong> - All orders include tracking information so you can monitor delivery progress for your martial arts event or installation timeline.</p>\n\n<p><strong>Special Delivery Requirements</strong> - Delivery to martial arts facilities, competition venues, or specific event locations can be arranged with advance notice.</p>\n\nPASTE INTO:\nShipping Guidelines Tab\n\n--------------------------------------------------\n\n==================================================\nCOMMON USES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Tournament & Training Uses for Custom Martial Arts Banners</h2>\n\n<p><strong>Competition & Tournament Applications:</strong></p>\n<p>• Championship tournament backdrop displays</p>\n<p>• Competitor recognition and ranking banners</p>\n<p>• Sponsor acknowledgment at martial arts events</p>\n<p>• Competition ring and mat area identification</p>\n\n<p><strong>Training Academy & Gym Applications:</strong></p>\n<p>• Dojo and academy branding displays</p>\n<p>• Motivational and inspirational training banners</p>\n<p>• Belt rank and achievement recognition</p>\n<p>• Class schedule and program advertising</p>\n\n<p><strong>Special Event Applications:</strong></p>\n<p>• Martial arts demonstrations and exhibitions</p>\n<p>• Belt ceremony and graduation events</p>\n<p>• Fundraising and community outreach events</p>\n<p>• Martial arts festival and cultural celebrations</p>\n\n<p><strong>Promotional Applications:</strong></p>\n<p>• New student recruitment campaigns</p>\n<p>• Academy grand opening announcements</p>\n<p>• Seminar and workshop advertising</p>\n<p>• Martial arts equipment and gear promotion</p>\n\nPASTE INTO:\nCommon Uses Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Martial Arts Banner Artwork Requirements for Tournament Printing</h2>\n\n<p><strong>File Requirements:</strong></p>\n<p>• High-resolution files (300 DPI minimum at actual size)</p>\n<p>• Accepted formats: PDF, AI, EPS, PSD, JPG, PNG</p>\n<p>• Vector graphics preferred for logos and text elements</p>\n<p>• CMYK color mode for accurate martial arts academy colors</p>\n\n<p><strong>Design Guidelines:</strong></p>\n<p>• Include 1-2 inch bleed area around all edges</p>\n<p>• Keep important text and logos at least 3 inches from edges</p>\n<p>• Consider viewing distance for text size in tournament environments</p>\n<p>• Ensure sufficient contrast for visibility in various lighting conditions</p>\n\n<p><strong>Artwork Review Process:</strong></p>\n<p>Our design team reviews all martial arts banner artwork within 24 hours. We'll contact you if adjustments are needed for optimal printing results or if we notice any issues that could affect the professional appearance of your banner.</p>\n\n<p><strong>Design Services Available:</strong></p>\n<p>Professional design services available for martial arts academies needing custom banner creation. Our designers can work with your existing logos, colors, and branding to create tournament-ready displays.</p>\n\n<p><strong>Proof Approval:</strong></p>\n<p>Digital proofs provided for approval before production begins. This ensures your martial arts banner will meet your exact specifications and tournament requirements.</p>\n\nPASTE INTO:\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Order Professional Martial Arts Banners for Your Next Event</h2>\n\n<p>Ready to create an impressive display for your martial arts tournament, academy, or competition? Our custom martial arts banners are designed to showcase your dojo's professionalism and make a lasting impression on students, competitors, and spectators.</p>\n\n<p><strong>Why Choose Banners.com for Your Martial Arts Banners?</strong></p>\n<p>• Professional-grade vinyl materials built for tournament durability</p>\n<p>• Fast production times to meet competition deadlines</p>\n<p>• Expert design team familiar with martial arts branding</p>\n<p>• Bulk pricing for multiple academy locations</p>\n<p>• Rush production available for last-minute events</p>\n\n<p><strong>Get Started Today</strong></p>\n<p>Upload your artwork using our easy online system, or work with our design team to create the perfect martial arts banner for your needs. If you have questions about sizing, materials, or special requirements for your tournament or academy, our customer service team is ready to help.</p>\n\n<p><strong>Custom Solutions Available</strong></p>\n<p>Need something unique for your martial arts event? We specialize in custom solutions for tournaments, special competitions, and academy branding projects. Contact us for a personalized quote tailored to your specific requirements.</p>\n\n<p><strong>Did we answer all your questions?</strong> If not, please give us a call at <a href=\"tel:13203915300\">(320) 391-5300</a>, and one of our customer service representatives will be more than happy to help you. Looking for something more specific? <a href=\"https://www.banners.com/quotes\">Contact us for a custom quote</a> ideal for special projects, unique sizes, and larger quantity orders.</p>\n\nPASTE INTO:\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Martial Arts Banner Questions & Answers</h2>\n\n<h3>What material is best for outdoor martial arts events?</h3>\n<p>For outdoor competitions and demonstrations, we recommend our 18oz heavy-duty vinyl or mesh vinyl material. Both options provide excellent durability against wind and weather while maintaining vibrant colors for your tournament displays.</p>\n\n<h3>How long does production take for martial arts banners?</h3>\n<p>Standard production is 3-5 business days after artwork approval. Rush production (1-2 business days) and same-day options are available for urgent tournament deadlines. Contact us to discuss your specific event timing.</p>\n\n<h3>What size martial arts banner should I order?</h3>\n<p>Banner size depends on your intended use. For dojo displays, 3'x6' or 4'x8' work well. For tournament backdrops, consider 6'x12' or larger. Our team can help you determine the ideal size for your martial arts facility or event space.</p>\n\n<h3>Can you match my martial arts academy's specific colors?</h3>\n<p>Yes, we can match specific colors for your dojo or academy branding. Provide us with Pantone color codes, existing materials to match, or detailed color specifications, and our design team will ensure accurate color reproduction.</p>\n\n<h3>Do you offer discounts for multiple martial arts banners?</h3>\n<p>Yes, we offer bulk pricing for martial arts academies ordering multiple banners, tournament organizers, and organizations with recurring banner needs. Contact us for custom pricing on your specific quantity requirements.</p>\n\n<h3>What artwork format works best for martial arts banners?</h3>\n<p>High-resolution PDF or vector files (AI, EPS) work best for crisp, professional results. If you only have JPG or PNG files, ensure they're at least 300 DPI at the actual banner size. Our design team can help optimize your artwork if needed.</p>\n\nPASTE INTO:\nFAQ Tab\n\n--------------------------------------------------"
+}

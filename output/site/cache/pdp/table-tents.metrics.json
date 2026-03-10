@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/table-tents",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4438,
+    "output_tokens": 3197
+  },
+  "durationMs": 57478
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:24:57.115Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Camping Stickers Camping",
+    "description": "Let's go camping — with stickers! Our waterproof, durable camping stickers can ass style to your gear camper and campsite. Order today!",
+    "url": "https://www.decals.com/camping-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

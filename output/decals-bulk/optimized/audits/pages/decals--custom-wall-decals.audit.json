@@ -1,0 +1,622 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:48:59.533Z",
+  "data": {
+    "url": "https://www.decals.com/decals/custom-wall-decals",
+    "pageType": "pdp",
+    "productPage": true,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Custom Wall Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Create One-of-a-Kind Custom Wall Decals!"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Methods"
+      },
+      {
+        "tag": "h3",
+        "text": "Payment"
+      },
+      {
+        "tag": "h3",
+        "text": "Live Order Tracking"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h3",
+        "text": "1 Business Day Priority:"
+      },
+      {
+        "tag": "h3",
+        "text": "2 Business Days Express:"
+      },
+      {
+        "tag": "h3",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h3",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h3",
+        "text": "Die Cut, Kiss Cut, and Transfer Cut Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Die-Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Kiss-Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Transfer-Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Transfer Cut / Pick Charge"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Wall Decals Artwork Specifications"
+      },
+      {
+        "tag": "h3",
+        "text": "Preferred Files for Printing"
+      },
+      {
+        "tag": "h3",
+        "text": "Additional Files Accepted"
+      },
+      {
+        "tag": "h3",
+        "text": "File Tips"
+      },
+      {
+        "tag": "h3",
+        "text": "Transfer-Cut Guidelines"
+      },
+      {
+        "tag": "h3",
+        "text": "Vector Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Raster Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Services"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping Methods:"
+      },
+      {
+        "tag": "h3",
+        "text": "Important Economy Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "National and International Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "How to Apply Vinyl Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload Your File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Custom Wall Decals Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Reviews ... Reviews"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Decals.com?"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Service"
+      },
+      {
+        "tag": "h3",
+        "text": "Made in the USA"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast Turnaround"
+      },
+      {
+        "tag": "h3",
+        "text": "Track Your Order"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Product Information"
+      },
+      {
+        "tag": "h4",
+        "text": "What is a wall decal?"
+      },
+      {
+        "tag": "h4",
+        "text": "Will these decals ruin my walls or paint?"
+      },
+      {
+        "tag": "h4",
+        "text": "How do you remove a wall decal?"
+      },
+      {
+        "tag": "h4",
+        "text": "Do your wall decals have a gloss or matte finish?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I reposition my wall decal?"
+      },
+      {
+        "tag": "h4",
+        "text": "How large can a vinyl wall decal be?"
+      },
+      {
+        "tag": "h4",
+        "text": "Will my design impact the pricing of my custom decal?"
+      },
+      {
+        "tag": "h4",
+        "text": "How do you remove air bubbles from vinyl wall decals?"
+      },
+      {
+        "tag": "h3",
+        "text": "Common Uses"
+      },
+      {
+        "tag": "h4",
+        "text": "What do people commonly use custom wall decals for?"
+      },
+      {
+        "tag": "h4",
+        "text": "What surfaces can custom vinyl wall decals be placed on?"
+      },
+      {
+        "tag": "h4",
+        "text": "Why won’t my wall decals stick?"
+      }
+    ],
+    "serpInsights": {
+      "query": "wall decals wall",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "wall decals wall",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "wall decals wall installation printing",
+            "wall decals wall installation custom sizes",
+            "wall decals wall installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "wall decals wall durability printing",
+            "wall decals wall durability custom sizes",
+            "wall decals wall durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "wall decals wall pricing printing",
+            "wall decals wall pricing custom sizes",
+            "wall decals wall pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "wall decals wall printing",
+            "wall decals wall custom sizes",
+            "wall decals wall design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "wall decals wall shipping printing",
+            "wall decals wall shipping custom sizes",
+            "wall decals wall shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "crack and peel stickers",
+          "url": "https://www.decals.com/stickers/crack-and-peel-stickers"
+        },
+        {
+          "anchor": "custom holographic vinyl material",
+          "url": "https://www.decals.com/custom-holographic-vinyl-material"
+        },
+        {
+          "anchor": "custom paper roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-paper-roll-labels"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 1500,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "Custom Wall Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Create One-of-a-Kind Custom Wall Decals!"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Methods"
+        },
+        {
+          "tag": "h3",
+          "text": "Payment"
+        },
+        {
+          "tag": "h3",
+          "text": "Live Order Tracking"
+        },
+        {
+          "tag": "h3",
+          "text": "Production Time Tables"
+        },
+        {
+          "tag": "h3",
+          "text": "1 Business Day Priority:"
+        },
+        {
+          "tag": "h3",
+          "text": "2 Business Days Express:"
+        },
+        {
+          "tag": "h3",
+          "text": "3 Business Days Standard:"
+        },
+        {
+          "tag": "h3",
+          "text": "5 Business Days Saver:"
+        },
+        {
+          "tag": "h3",
+          "text": "Die Cut, Kiss Cut, and Transfer Cut Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Die-Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Kiss-Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Transfer-Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Transfer Cut / Pick Charge"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Wall Decals Artwork Specifications"
+        },
+        {
+          "tag": "h3",
+          "text": "Preferred Files for Printing"
+        },
+        {
+          "tag": "h3",
+          "text": "Additional Files Accepted"
+        },
+        {
+          "tag": "h3",
+          "text": "File Tips"
+        },
+        {
+          "tag": "h3",
+          "text": "Transfer-Cut Guidelines"
+        },
+        {
+          "tag": "h3",
+          "text": "Vector Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Raster Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Services"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping Methods:"
+        },
+        {
+          "tag": "h3",
+          "text": "Important Economy Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "National and International Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Apply Vinyl Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload Your File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Custom Wall Decals Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Reviews ... Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Decals.com?"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Service"
+        },
+        {
+          "tag": "h3",
+          "text": "Made in the USA"
+        },
+        {
+          "tag": "h3",
+          "text": "Fast Turnaround"
+        },
+        {
+          "tag": "h3",
+          "text": "Track Your Order"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Product Information"
+        },
+        {
+          "tag": "h4",
+          "text": "What is a wall decal?"
+        },
+        {
+          "tag": "h4",
+          "text": "Will these decals ruin my walls or paint?"
+        },
+        {
+          "tag": "h4",
+          "text": "How do you remove a wall decal?"
+        },
+        {
+          "tag": "h4",
+          "text": "Do your wall decals have a gloss or matte finish?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I reposition my wall decal?"
+        },
+        {
+          "tag": "h4",
+          "text": "How large can a vinyl wall decal be?"
+        },
+        {
+          "tag": "h4",
+          "text": "Will my design impact the pricing of my custom decal?"
+        },
+        {
+          "tag": "h4",
+          "text": "How do you remove air bubbles from vinyl wall decals?"
+        },
+        {
+          "tag": "h3",
+          "text": "Common Uses"
+        },
+        {
+          "tag": "h4",
+          "text": "What do people commonly use custom wall decals for?"
+        },
+        {
+          "tag": "h4",
+          "text": "What surfaces can custom vinyl wall decals be placed on?"
+        },
+        {
+          "tag": "h4",
+          "text": "Why won’t my wall decals stick?"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": {
+      "score": 58,
+      "failedChecks": [
+        {
+          "check": "required_sections",
+          "details": [
+            "MATERIAL OPTIONS TAB",
+            "FINISHING OPTIONS TAB",
+            "SHIPPING GUIDELINES TAB"
+          ]
+        },
+        {
+          "check": "product_entity",
+          "details": "Entity not found: wall decals wall"
+        },
+        {
+          "check": "cta_section_rules",
+          "details": [
+            "PRODUCTION TIMES TAB"
+          ]
+        },
+        {
+          "check": "generic_headings",
+          "details": "Contains generic headings"
+        }
+      ],
+      "retry": true,
+      "threshold": 85
+    },
+    "contentScore": {
+      "score": 95,
+      "missingEntities": [],
+      "missingHeadings": [],
+      "improvementSuggestions": []
+    },
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T15:48:59.518Z"
+    },
+    "seoRecommendations": "{\"ts\":\"2026-03-06T15:48:59.506Z\",\"level\":\"info\",\"event\":\"metric\",\"agent\":\"pdpAgent\",\"url\":\"https://www.decals.com/decals/custom-wall-decals\",\"model\":\"claude-sonnet-4-20250514\",\"tokensIn\":25276,\"tokensOut\":4445,\"promptVersion\":\"unknown\",\"templateVersion\":\"unknown\",\"durationMs\":92183}\n==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Custom Wall Decals\nH3: Create One-of-a-Kind Custom Wall Decals!\nH3: Design Methods\nH3: Payment\nH3: Live Order Tracking\nH3: Production Time Tables\nH3: 1 Business Day Priority:\nH3: 2 Business Days Express:\nH3: 3 Business Days Standard:\nH3: 5 Business Days Saver:\nH3: Die Cut, Kiss Cut, and Transfer Cut Decals\nH3: Die-Cut\nH3: Kiss-Cut\nH3: Transfer-Cut\nH3: Transfer Cut / Pick Charge\nH3: Custom Wall Decals Artwork Specifications\nH3: Preferred Files for Printing\nH3: Additional Files Accepted\nH3: File Tips\nH3: Transfer-Cut Guidelines\nH2: More About Custom Wall Decals Return to Top\nH2: Why Choose Decals.com?\nH2: Frequently Asked Questions Return to Top\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Wall Decals\nH2: Wall Decals for Business Branding & Interior Design\nH2: Custom Wall Decal Order Process & Design Options\nH2: Wall Decal Production Times & Turnaround\nH2: Cut Options for Wall Decals\nH2: Wall Decal Artwork & File Requirements\nH2: Wall Decal Shipping & Delivery\nH2: Wall Decal Installation & Application\nH2: What Are Wall Decals?\nH2: Wall Decal FAQs\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h1>Custom Wall Decals</h1>\n<h2>Vinyl Wall Graphics for Business, Home & Interior Spaces</h2>\n\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nSize: Select Your Wall Decal Dimensions\nMaterial: Choose Your Vinyl Type\nCut Type: Select Die-Cut, Kiss-Cut or Transfer-Cut\nProduction Time: Choose Your Turnaround Speed\nUpload Design: Add Your Artwork or Logo\n\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Wall Decals for Business Branding & Interior Design</h2>\n\n<p>Transform any wall into an impactful branded space with custom wall decals designed for businesses, retail stores, offices, and interior applications. Our vinyl wall graphics combine professional-grade materials with full-color printing to create stunning visual displays that enhance your brand presence and interior aesthetics. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>\n\n<p>Perfect for retail environments, corporate offices, restaurants, medical facilities, and residential spaces, these wall decals offer unlimited customization possibilities. Upload your logo, artwork, or design to create wall graphics that reflect your brand identity and complement your interior design vision.</p>\n\n<p>Available in multiple vinyl materials and cut options, our wall decals provide flexibility for any installation surface and design requirement. From simple text and logos to complex multi-color graphics, each wall decal is precision-cut and printed using commercial-grade equipment for professional results.</p>\n\n<p>Whether you need large-format wall murals for maximum impact or smaller accent pieces for subtle branding, our wall decals deliver the quality and durability needed for long-term interior applications. Create <a href=\"https://www.decals.com/decals/dry-erase-wall-decals\">dry erase wall decals</a> for functional spaces or explore our full range of custom vinyl solutions.</p>\n\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nORDER PROCESS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Wall Decal Order Process & Design Options</h2>\n\n<p>Our streamlined ordering system makes creating custom wall decals simple and efficient. Choose from two design methods to bring your wall graphics vision to life, with professional support throughout the entire process.</p>\n\n<h3>Design Process</h3>\n\n<p>Design from scratch using our online designer tool to quickly create your wall decal. Upload images or logos from your computer, or select from our extensive clipart library to build personalized wall graphics. For professional results, upload an EPS file to ensure maximum print quality for your custom wall decal project.</p>\n\n<p>Once you add your wall decal to your cart and select shipping, you'll receive an email proof for approval. This ensures your design meets expectations before production begins.</p>\n\n<h3>Payment</h3>\n\n<p>All custom wall decals require full payment before production. We accept Visa, Mastercard, American Express, and Discover credit cards. Check payments are also accepted and must be received before your wall decals enter production.</p>\n\n<h3>Live Order Tracking</h3>\n\n<p>After placing your wall decal order, you'll receive a unique Live Order Tracking number via email. This system allows you to monitor your custom wall decals through every production stage, from order placement to delivery. Access real-time updates by clicking the tracking link in your email confirmation.</p>\n\nOrder Process Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Wall Decal Production Times & Turnaround</h2>\n\n<p>Our flexible production schedule offers multiple turnaround options to meet your wall decal project timeline. Production time is separate from shipping time and begins once file upload is complete and approved.</p>\n\n<p>Orders approved after 5:00 PM CST will be processed the following business day. If your order requires prepress review or proof approval, turnaround begins from approval confirmation.</p>\n\n<h3>1 Business Day Priority Production</h3>\n\n<p>For urgent wall decal projects with tight deadlines. Emergency same-day rushes may be available in special cases - contact customer service for availability and pricing information.</p>\n\n<h3>2 Business Days Express Production</h3>\n\n<p>Ideal when you need wall decals quickly but have an extra day for production. This express option balances speed with cost-effectiveness for time-sensitive projects.</p>\n\n<h3>3 Business Days Standard Production</h3>\n\n<p>Our most popular production option, offering fast turnaround at no additional cost. This standard timeline works well for most custom wall decal orders and provides excellent value.</p>\n\n<h3>5 Business Days Saver Production</h3>\n\n<p>Save money on your wall decal order when timing is flexible. This economical option reduces production costs while maintaining the same high-quality printing and cutting standards.</p>\n\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nCUT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Cut Options for Wall Decals</h2>\n\n<p>Choose the right cutting method for your wall decal application. Each cut type affects how the decal handles during installation and removal, with different backing paper behaviors to suit various installation preferences.</p>\n\n<h3>Die-Cut Wall Decals</h3>\n\n<p>Die-cutting removes both the vinyl material and paper backing, creating individually cut wall decals with no excess material around your design. Think of this as \"cookie cutter\" style cutting that follows your design's exact contour. Back slit (crack and peel) backing is available on Standard and Permanent vinyl materials for easier installation of larger wall decals.</p>\n\n<h3>Kiss-Cut Wall Decals</h3>\n\n<p>Kiss-cutting cuts through only the vinyl layer while leaving the paper backing intact. This creates a paper border around your wall decal, making it easier to handle and position during installation. The extra backing material provides a convenient grip area for precise placement.</p>\n\n<h3>Transfer-Cut Wall Decals</h3>\n\n<p>Transfer-cutting removes unwanted vinyl areas from your design, leaving only the essential elements. Transfer tape is applied over the remaining vinyl pieces to hold complex designs together during installation. This method works best for text, logos, and intricate designs requiring precise placement of multiple elements. Vector files (EPS or AI format) are required for transfer-cut wall decals.</p>\n\n<p>Transfer-cut pricing includes 8 standard picks with a maximum of 40 picks per square foot. Additional picks range from $0.02 to $0.04 each based on complexity. Highly intricate designs receive custom quotes based on picking difficulty and time requirements.</p>\n\nCut Options Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Wall Decal Artwork & File Requirements</h2>\n\n<p>Proper file preparation ensures your wall decals print with optimal quality and color accuracy. Our prepress team reviews all artwork to verify it meets production standards before printing begins.</p>\n\n<h3>Preferred File Types</h3>\n\n<p>For best results, submit Adobe Illustrator EPS (Encapsulated PostScript) or PDF files with all fonts converted to outlines or curves. This prevents font substitution and ensures text elements print exactly as designed. Maximum file size accepted is 100 MB.</p>\n\n<h3>Additional File Formats</h3>\n\n<p>We also accept high-resolution JPG, TIFF, and PNG files for wall decal printing. These raster formats work well for photographic images and complex artwork that doesn't require vector precision.</p>\n\n<h3>File Setup Tips</h3>\n\n<p>Set up your artwork proportionate to your wall decal's exact ordered dimensions. Convert all text to outlines to prevent font issues. Include bleed only when necessary for your specific design. For PSD files, never flatten or merge layers - this preserves editing flexibility during prepress review.</p>\n\n<p>Clearly indicate cut lines for all wall decal products, especially transfer-cut designs. This ensures accurate cutting and proper material removal.</p>\n\n<h3>Transfer Cut Guidelines</h3>\n\n<p>Transfer-cut wall decals require special design considerations. Use simple, open fonts with all text at least 1/2\" tall. Maintain 1/8\" spacing between characters and design elements. All strokes, line weights, and art elements should be minimum 1/8\" thick. Minimum pick size is 1/8\". We recommend requesting a proof for transfer-cut wall decals to verify design compatibility.</p>\n\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Wall Decal Shipping & Delivery</h2>\n\n<p>Your wall decals ship separately from production time, with multiple delivery speed options available. Shipping time combines with production time to determine your total delivery timeline.</p>\n\n<h3>Shipping Methods</h3>\n\n<p>Standard shipping provides reliable delivery through major carriers with tracking information included. Expedited shipping options are available for wall decal orders requiring faster delivery. All shipments include tracking numbers sent via email once your order ships.</p>\n\n<h3>Shipping Time Expectations</h3>\n\n<p>Economy shipping typically takes 5-7 business days for delivery. Standard shipping delivers in 3-5 business days. Expedited options can deliver in 1-2 business days depending on destination. Shipping times are separate from production times and begin once your wall decals complete manufacturing.</p>\n\n<h3>Important Shipping Notes</h3>\n\n<p>Large wall decals may require special packaging and handling, which can affect shipping options and timing. International shipments may require additional processing time for customs clearance. Remote locations may experience extended delivery times beyond standard estimates.</p>\n\n<p>Track your wall decal shipment using the provided tracking number. Contact customer service if you need delivery to a specific date or have special shipping requirements for your project.</p>\n\nShipping Tab\n\n--------------------------------------------------\n\n==================================================\nINSTALLATION TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Wall Decal Installation & Application</h2>\n\n<p>Proper installation technique ensures your wall decals adhere smoothly and last for their intended lifespan. Follow these professional application steps for best results on any wall surface.</p>\n\n<h3>Preparing the Surface</h3>\n\n<p>Clean the wall surface thoroughly with mild soap and water, removing all dust, dirt, and residue. Allow the surface to dry completely before installation. Ensure the wall temperature is between 50-90°F for optimal adhesive performance. Smooth walls provide the best adhesion for wall decals.</p>\n\n<h3>Applying the Wall Decal</h3>\n\n<p>For die-cut and kiss-cut wall decals, peel away a small portion of the backing paper and position the decal carefully. Gradually remove more backing while smoothing the vinyl with a squeegee or application tool. Work from center outward to eliminate air bubbles.</p>\n\n<p>For transfer-cut wall decals, remove the backing paper first, then position the entire design using the transfer tape. Apply pressure across the entire surface, then slowly remove the transfer tape at a 45-degree angle, leaving the vinyl on the wall.</p>\n\n<h3>Removing Transfer Tape</h3>\n\n<p>After applying transfer-cut wall decals, wait a few minutes for the adhesive to set, then slowly peel away the transfer tape. If vinyl elements lift with the tape, press them back down and wait longer before continuing removal. Take your time with intricate designs to ensure all pieces remain properly positioned.</p>\n\n<p>For detailed installation guidance, refer to our <a href=\"https://www.decals.com/stickers/crack-and-peel-stickers\">crack and peel stickers</a> installation techniques or contact our customer service team for additional support.</p>\n\nInstallation Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>What Are Wall Decals?</h2>\n\n<p>Wall decals are vinyl graphics designed for application to interior wall surfaces. Made from adhesive-backed vinyl material, these decorative and functional graphics can display text, logos, images, or complex designs in full color. Wall decals are commonly used for business branding, interior decoration, wayfinding, and creating visual impact in retail, office, and residential environments. The vinyl material allows for clean removal without damaging paint or wall surfaces when professionally applied and removed.</p>\n\n<h2>Design Your Custom Wall Decals Today</h2>\n\n<p>Create impactful wall graphics that transform your space with professional-quality custom wall decals. Our advanced printing technology and precision cutting ensure your designs achieve maximum visual impact while maintaining long-term durability on interior wall surfaces.</p>\n\n<p>Upload your artwork, choose your specifications, and let our production team bring your wall decal vision to life. With fast turnaround options and multiple cut types available, you can customize wall decals that perfectly match your project requirements and installation preferences.</p>\n\n<p>Ready to enhance your interior space? Start designing your custom wall decals now, or explore our related products like <a href=\"https://www.decals.com/custom-holographic-vinyl-material\">custom holographic vinyl material</a> for specialty applications.</p>\n\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Wall Decal FAQs</h2>\n\n<h3>How long do wall decals last on interior surfaces?</h3>\n<p>Most wall decals last 3-5 years on interior wall surfaces when applied to clean, smooth walls. The vinyl material maintains color and adhesion throughout its lifespan, making it ideal for long-term branding and decorative applications in business and residential environments.</p>\n\n<h3>What wall surfaces work best for wall decals?</h3>\n<p>Wall decals adhere best to smooth, clean surfaces like painted drywall, glass, and sealed wood. Textured walls, brick surfaces, and freshly painted walls (less than 30 days old) may not provide optimal adhesion and could affect decal longevity.</p>\n\n<h3>Can wall decals be removed without damaging paint?</h3>\n<p>Yes, wall decals can be cleanly removed from most painted surfaces without damage when removed properly. Gently warm the vinyl with a hair dryer and peel slowly at a 45-degree angle. Any adhesive residue can be removed with mild adhesive remover.</p>\n\n<h3>What file format works best for wall decal artwork?</h3>\n<p>Adobe Illustrator EPS files with fonts converted to outlines provide the best print quality for wall decals. High-resolution PDF files also work well. For photographic images, submit high-resolution JPG or TIFF files at 300 DPI minimum.</p>\n\n<h3>How large can custom wall decals be made?</h3>\n<p>Wall decals can be produced up to 54 inches wide in a single piece. Larger designs can be created using multiple panels designed to align seamlessly when installed, allowing for wall graphics of virtually any size.</p>\n\n<h3>What's the difference between die-cut and transfer-cut wall decals?</h3>\n<p>Die-cut wall decals are individually cut pieces with backing removed, while transfer-cut decals have unwanted vinyl removed and use transfer tape for installation. Transfer-cut works best for text and logos, while die-cut is ideal for solid shapes and photographic images.</p>\n\n<h3>Do wall decals work on textured walls?</h3>\n<p>Wall decals work best on smooth surfaces, but can adhere to lightly textured walls depending on the texture depth. Heavy textures like orange peel or knockdown may prevent proper adhesion and cause premature failure of the wall decal.</p>\n\nFAQ Tab\n\n--------------------------------------------------\n\n==================================================\nSEO ANALYSIS & OPTIMIZATION SUMMARY\n==================================================\n\nTechnical SEO improvements implemented include proper heading hierarchy with H1 for primary product entity and logical H2 structure representing key purchase journey stages. Heading structure now flows from product overview through ordering, production, specifications, shipping, installation, definition, and FAQ sections. Each H2 incorporates the primary product entity \"wall decals\" with natural variation in placement to avoid repetitive phrasing.\n\nContent Quality enhancements focus on transactional intent with detailed sections covering ordering process, production timelines, cut options, artwork requirements, shipping logistics, and installation guidance. The AI search visibility section provides a clear definition of wall decals for featured snippet optimization. FAQ section addresses common purchase-decision queries with direct answer formatting optimized for voice search and AI extraction.\n\nInternal Linking strategy incorporates contextual links to related products including dry erase wall decals, crack and peel stickers, and custom holographic vinyl material. Links are positioned within paragraph content to provide natural user flow while supporting site architecture and PageRank distribution across related product pages.\n\nKeyword Clustering optimization includes natural integration of semantic variations around installation, durability, customization, pricing, and shipping themes throughout relevant content sections. Primary entity consistency maintained across all heading levels while incorporating related terms like vinyl graphics, wall graphics, and interior applications in supporting paragraph content."
+  }
+}

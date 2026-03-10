@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "simpo sign -",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "simpo sign - installation printing",
+        "simpo sign - installation custom sizes",
+        "simpo sign - installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "simpo sign - durability printing",
+        "simpo sign - durability custom sizes",
+        "simpo sign - durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "simpo sign - pricing printing",
+        "simpo sign - pricing custom sizes",
+        "simpo sign - pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "simpo sign - printing",
+        "simpo sign - custom sizes",
+        "simpo sign - design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "simpo sign - shipping printing",
+        "simpo sign - shipping custom sizes",
+        "simpo sign - shipping design upload"
+      ]
+    }
+  ]
+}

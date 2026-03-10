@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:47:21.339Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Translucent Vinyl Media",
+    "description": "Order translucent adhesive backed vinyl for your street advertising and business needs. Unique backlit material is great for indoor and outdoor marketing.",
+    "url": "https://www.decals.com/translucent-adhesive-vinyl",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

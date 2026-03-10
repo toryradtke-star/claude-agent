@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:07:13.511Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Laptop Decals Laptop",
+    "description": "Make your own custom laptop decals at Decals.com that resists scratching, heat, sunlight and stand up to constant use.",
+    "url": "https://www.decals.com/laptop-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

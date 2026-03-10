@@ -1,0 +1,77 @@
+{
+  "url": "https://www.banners.com/custom-window-decals",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 816,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Window Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Printed Window Decals for Cars and Businesses"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Window Decals"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Window Decals"
+    },
+    {
+      "tag": "h3",
+      "text": "Custom Printed Window Decals for Cars and Businesses"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Window Decals"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

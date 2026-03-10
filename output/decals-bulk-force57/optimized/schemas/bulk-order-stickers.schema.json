@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:25:06.174Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Bulk Stickers Bulk",
+    "description": "Bulk order sticker printing is ideal for product packaging and branding. Bulk stickers are a low-cost and effective branding solution. The more you order, the more you save. Available in a variety of sizes, shapes, and materials.",
+    "url": "https://www.decals.com/bulk-order-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

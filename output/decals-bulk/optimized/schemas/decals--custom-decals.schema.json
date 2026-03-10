@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:47:44.572Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Decals Vinyl Decals",
+    "description": "Turn your favorite images into custom decals from Decals.com! Personalize your vinyl decals with text, images and clipart.",
+    "url": "https://www.decals.com/decals/custom-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

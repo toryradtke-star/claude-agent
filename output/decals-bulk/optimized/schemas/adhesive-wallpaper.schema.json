@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:44:26.114Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Adhesive Wallpaper Create",
+    "description": "Bring your walls to life with our custom wallpaper stickers. Perfect for every room, these stickers are digitally printed on high-quality vinyl.",
+    "url": "https://www.decals.com/adhesive-wallpaper",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

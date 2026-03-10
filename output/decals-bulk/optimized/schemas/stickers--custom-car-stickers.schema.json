@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:55:59.871Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Car Stickers Car",
+    "description": "Design custom stickers for cars at Decals.com! Start with one of our blank templates using our online design tool or upload your own artwork.",
+    "url": "https://www.decals.com/stickers/custom-car-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

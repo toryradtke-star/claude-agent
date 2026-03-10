@@ -1,0 +1,22 @@
+{
+  "score": 76,
+  "failedChecks": [
+    {
+      "check": "cta_section_rules",
+      "details": [
+        "PRODUCTION TIMES TAB",
+        "SHIPPING GUIDELINES TAB"
+      ]
+    },
+    {
+      "check": "generic_headings",
+      "details": "Contains generic headings"
+    },
+    {
+      "check": "overview_length",
+      "details": "Overview section out of range"
+    }
+  ],
+  "retry": true,
+  "threshold": 85
+}

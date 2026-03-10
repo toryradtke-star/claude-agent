@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://banners.com",
+  "runDir": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\audits\\banners.com-2026-03-05T17-58-44-812Z",
+  "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\audits\\banners.com-2026-03-05T17-58-44-812Z\\full-site-audit.json",
+  "strategyPath": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\audits\\banners.com-2026-03-05T17-58-44-812Z\\site-strategy.json",
+  "costReportPath": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\audits\\banners.com-2026-03-05T17-58-44-812Z\\cost-report.json",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "model": "claude-3-5-haiku-latest",
+  "runId": 1,
+  "generatedAt": "2026-03-05T18:01:51.767Z"
+}

@@ -1,0 +1,57 @@
+{
+  "startedAt": "2026-03-03T22:20:39.821Z",
+  "testUrl": "http://example.com",
+  "checks": [
+    {
+      "name": "Dependencies in package.json",
+      "ok": true,
+      "details": "All required dependencies declared: @anthropic-ai/sdk, axios, cheerio, googleapis",
+      "fix": null
+    },
+    {
+      "name": "Environment: ANTHROPIC_API_KEY",
+      "ok": true,
+      "details": "ANTHROPIC_API_KEY is set in environment.",
+      "fix": null
+    },
+    {
+      "name": "TEST 1 — Claude Code membership (claude whoami)",
+      "ok": true,
+      "details": "whoami failed in non-interactive mode; auth status confirms logged in.",
+      "fix": null
+    },
+    {
+      "name": "TEST 2 — Claude API via SDK",
+      "ok": true,
+      "details": "Model=claude-sonnet-4-20250514; Response=OK.",
+      "fix": null
+    },
+    {
+      "name": "TEST 3 — Scraper",
+      "ok": true,
+      "details": "Scraper returned valid JSON; wrote scraped-body.html and scraped-headings.json.",
+      "fix": null
+    },
+    {
+      "name": "TEST 4 — PDP Agent",
+      "ok": true,
+      "details": "PDP agent returned optimized content.",
+      "fix": null
+    },
+    {
+      "name": "TEST 5 — Docs Agent",
+      "ok": true,
+      "details": "Docs agent authenticated and created a Google Doc; wrote /output health artifact.",
+      "fix": null
+    },
+    {
+      "name": "TEST 6 — Master Agent",
+      "ok": true,
+      "details": "Full pipeline executed. Artifacts: C:\\Users\\Tory\\claude-agent\\output\\example-com-root-2026-03-03T22-22-29-233Z-scraped.json, C:\\Users\\Tory\\claude-agent\\output\\example-com-root-2026-03-03T22-22-29-233Z-optimized.md, C:\\Users\\Tory\\claude-agent\\output\\example-com-root-2026-03-03T22-22-29-233Z-run.json",
+      "fix": null
+    }
+  ],
+  "notes": [],
+  "ok": true,
+  "finishedAt": "2026-03-03T22:23:10.196Z"
+}

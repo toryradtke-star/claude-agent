@@ -1,0 +1,26 @@
+{
+  "score": 64,
+  "failedChecks": [
+    {
+      "check": "product_entity",
+      "details": "Entity not found: yard signs yard"
+    },
+    {
+      "check": "cta_section_rules",
+      "details": [
+        "FINISHING OPTIONS TAB",
+        "PRODUCTION TIMES TAB"
+      ]
+    },
+    {
+      "check": "generic_headings",
+      "details": "Contains generic headings"
+    },
+    {
+      "check": "overview_length",
+      "details": "Overview section out of range"
+    }
+  ],
+  "retry": true,
+  "threshold": 85
+}

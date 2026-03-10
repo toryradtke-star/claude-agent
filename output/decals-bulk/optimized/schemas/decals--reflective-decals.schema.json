@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:49:27.090Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Reflective Decals Reflective",
+    "description": "Enhance the visibility and impact of your decals with Custom Reflective Decals. Ideal for safety, branding, and standout designs. Durable and Easy to Apply.",
+    "url": "https://www.decals.com/decals/reflective-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

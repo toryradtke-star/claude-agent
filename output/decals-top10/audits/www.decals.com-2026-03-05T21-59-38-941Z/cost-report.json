@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-03-05T22:05:58.236Z",
+  "baseUrl": "https://www.decals.com",
+  "domain": "www.decals.com",
+  "pagesWithClaudeCalls": 10,
+  "totals": {
+    "tokensIn": 243466,
+    "tokensOut": 41897,
+    "estimatedCostUsd": 1.358853
+  },
+  "pages": [
+    {
+      "url": "https://www.decals.com/custom-car-magnet",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 23728,
+      "tokensOut": 3428,
+      "estimatedCostUsd": 0.122604,
+      "cached": false
+    },
+    {
+      "url": "https://www.decals.com/adhesive-wallpaper",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 24704,
+      "tokensOut": 4257,
+      "estimatedCostUsd": 0.137967,
+      "cached": false
+    },
+    {
+      "url": "https://www.decals.com/cast-vinyl",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 24937,
+      "tokensOut": 3848,
+      "estimatedCostUsd": 0.132531,
+      "cached": false
+    },
+    {
+      "url": "https://www.decals.com/clear-labels",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 23844,
+      "tokensOut": 4000,
+      "estimatedCostUsd": 0.131532,
+      "cached": false
+    },
+    {
+      "url": "https://www.decals.com/clear-stickers",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 23979,
+      "tokensOut": 4219,
+      "estimatedCostUsd": 0.135222,
+      "cached": false
+    },
+    {
+      "url": "https://www.decals.com/3m-control-tac",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 24591,
+      "tokensOut": 4720,
+      "estimatedCostUsd": 0.144573,
+      "cached": false
+    },
+    {
+      "url": "https://www.decals.com/calendered-vinyl",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 24053,
+      "tokensOut": 4302,
+      "estimatedCostUsd": 0.136689,
+      "cached": false
+    },
+    {
+      "url": "https://www.decals.com/circle-labels",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 23730,
+      "tokensOut": 4547,
+      "estimatedCostUsd": 0.139395,
+      "cached": false
+    },
+    {
+      "url": "https://www.decals.com/custom-fridge-magnet",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 25029,
+      "tokensOut": 3998,
+      "estimatedCostUsd": 0.135057,
+      "cached": false
+    },
+    {
+      "url": "https://www.decals.com/custom-holographic-vinyl-material",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 24871,
+      "tokensOut": 4578,
+      "estimatedCostUsd": 0.143283,
+      "cached": false
+    }
+  ]
+}

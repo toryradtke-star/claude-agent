@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Polymetal Signs Polymetal",
+  "description": "Order Custom 3mm Polymetal Signs Online in minutes! These custom outdoor metal signs are great for exterior building signage to display your business name and logo!",
+  "url": "https://www.banners.com/polymetal-signs-3mm",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

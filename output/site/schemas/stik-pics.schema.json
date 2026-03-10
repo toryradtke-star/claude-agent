@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "StikPics Photo Tiles",
+  "description": "Make memories stick with custom photo tiles by StikPics. Just upload your photos and create custom photos to place on your wall. No nails, no damage.",
+  "url": "https://www.banners.com/stik-pics",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

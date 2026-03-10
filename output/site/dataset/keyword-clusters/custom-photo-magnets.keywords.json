@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "photo magnets photo",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "photo magnets photo installation printing",
+        "photo magnets photo installation custom sizes",
+        "photo magnets photo installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "photo magnets photo durability printing",
+        "photo magnets photo durability custom sizes",
+        "photo magnets photo durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "photo magnets photo pricing printing",
+        "photo magnets photo pricing custom sizes",
+        "photo magnets photo pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "photo magnets photo printing",
+        "photo magnets photo custom sizes",
+        "photo magnets photo design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "photo magnets photo shipping printing",
+        "photo magnets photo shipping custom sizes",
+        "photo magnets photo shipping design upload"
+      ]
+    }
+  ]
+}

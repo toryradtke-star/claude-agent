@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "high quality yard",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "high quality yard installation printing",
+        "high quality yard installation custom sizes",
+        "high quality yard installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "high quality yard durability printing",
+        "high quality yard durability custom sizes",
+        "high quality yard durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "high quality yard pricing printing",
+        "high quality yard pricing custom sizes",
+        "high quality yard pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "high quality yard printing",
+        "high quality yard custom sizes",
+        "high quality yard design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "high quality yard shipping printing",
+        "high quality yard shipping custom sizes",
+        "high quality yard shipping design upload"
+      ]
+    }
+  ]
+}

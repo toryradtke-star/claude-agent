@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:47:04.287Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Vinyl Banners -",
+    "description": "Order custom vinyl banners for every occasion! Quality material, reliable service. Save 10% on your order today!",
+    "url": "https://www.decals.com/custom-vinyl-banners",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

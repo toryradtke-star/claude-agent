@@ -1,0 +1,570 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:50:22.554Z",
+  "data": {
+    "url": "https://www.decals.com/decals/dry-erase-wall-decals",
+    "pageType": "pdp",
+    "productPage": true,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Custom Dry Erase Wall Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Create Custom Dry Erase Wall Decals!"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Methods"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "Payment"
+      },
+      {
+        "tag": "h3",
+        "text": "Live Order Tracking"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h3",
+        "text": "1 Business Day Priority:"
+      },
+      {
+        "tag": "h3",
+        "text": "2 Business Days Express:"
+      },
+      {
+        "tag": "h3",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h3",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h3",
+        "text": "Die Cut Option"
+      },
+      {
+        "tag": "h3",
+        "text": "Die-Cut"
+      },
+      {
+        "tag": "h3",
+        "text": "Dry Erase Wall Decal Artwork Specifications"
+      },
+      {
+        "tag": "h3",
+        "text": "Preferred Files for Printing"
+      },
+      {
+        "tag": "h3",
+        "text": "Additional Files Accepted"
+      },
+      {
+        "tag": "h3",
+        "text": "File Tips"
+      },
+      {
+        "tag": "h3",
+        "text": "Vector Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Raster Art"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Services"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping Methods:"
+      },
+      {
+        "tag": "h3",
+        "text": "Important Economy Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "National and International Shipping Notes:"
+      },
+      {
+        "tag": "h3",
+        "text": "How to Apply Vinyl Decals"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload Your File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Dry Erase Wall Decals Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Reviews ... Reviews"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Decals.com?"
+      },
+      {
+        "tag": "h3",
+        "text": "Customer Service"
+      },
+      {
+        "tag": "h3",
+        "text": "Made in the USA"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast Turnaround"
+      },
+      {
+        "tag": "h3",
+        "text": "Track Your Order"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions Return to Top"
+      },
+      {
+        "tag": "h3",
+        "text": "Product Information"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I reposition my dry erase decal?"
+      },
+      {
+        "tag": "h4",
+        "text": "What are dry erase wall decals constructed from?"
+      },
+      {
+        "tag": "h4",
+        "text": "What purposes do people usually use their dry erase wall decals for?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I use multiple colors, fonts and images in my design?"
+      },
+      {
+        "tag": "h4",
+        "text": "How large can I make my decal?"
+      },
+      {
+        "tag": "h4",
+        "text": "How do you remove air bubbles from dry erase wall decals?"
+      },
+      {
+        "tag": "h3",
+        "text": "Common Uses"
+      },
+      {
+        "tag": "h4",
+        "text": "What kind of surfaces can this decal be applied to?"
+      },
+      {
+        "tag": "h4",
+        "text": "Will the decal ruin my walls or paint?"
+      }
+    ],
+    "serpInsights": {
+      "query": "dry erase wall",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "dry erase wall",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "dry erase wall installation printing",
+            "dry erase wall installation custom sizes",
+            "dry erase wall installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "dry erase wall durability printing",
+            "dry erase wall durability custom sizes",
+            "dry erase wall durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "dry erase wall pricing printing",
+            "dry erase wall pricing custom sizes",
+            "dry erase wall pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "dry erase wall printing",
+            "dry erase wall custom sizes",
+            "dry erase wall design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "dry erase wall shipping printing",
+            "dry erase wall shipping custom sizes",
+            "dry erase wall shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "crack and peel stickers",
+          "url": "https://www.decals.com/stickers/crack-and-peel-stickers"
+        },
+        {
+          "anchor": "custom holographic vinyl material",
+          "url": "https://www.decals.com/custom-holographic-vinyl-material"
+        },
+        {
+          "anchor": "custom paper roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-paper-roll-labels"
+        },
+        {
+          "anchor": "custom clear roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-clear-roll-labels"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 1500,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "Custom Dry Erase Wall Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Create Custom Dry Erase Wall Decals!"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Methods"
+        },
+        {
+          "tag": "h3",
+          "text": ""
+        },
+        {
+          "tag": "h3",
+          "text": "Payment"
+        },
+        {
+          "tag": "h3",
+          "text": "Live Order Tracking"
+        },
+        {
+          "tag": "h3",
+          "text": "Production Time Tables"
+        },
+        {
+          "tag": "h3",
+          "text": "1 Business Day Priority:"
+        },
+        {
+          "tag": "h3",
+          "text": "2 Business Days Express:"
+        },
+        {
+          "tag": "h3",
+          "text": "3 Business Days Standard:"
+        },
+        {
+          "tag": "h3",
+          "text": "5 Business Days Saver:"
+        },
+        {
+          "tag": "h3",
+          "text": "Die Cut Option"
+        },
+        {
+          "tag": "h3",
+          "text": "Die-Cut"
+        },
+        {
+          "tag": "h3",
+          "text": "Dry Erase Wall Decal Artwork Specifications"
+        },
+        {
+          "tag": "h3",
+          "text": "Preferred Files for Printing"
+        },
+        {
+          "tag": "h3",
+          "text": "Additional Files Accepted"
+        },
+        {
+          "tag": "h3",
+          "text": "File Tips"
+        },
+        {
+          "tag": "h3",
+          "text": "Vector Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Raster Art"
+        },
+        {
+          "tag": "h3",
+          "text": "Design Services"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping"
+        },
+        {
+          "tag": "h3",
+          "text": "Shipping Methods:"
+        },
+        {
+          "tag": "h3",
+          "text": "Important Economy Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "National and International Shipping Notes:"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Apply Vinyl Decals"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload Your File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Dry Erase Wall Decals Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Reviews ... Reviews"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Decals.com?"
+        },
+        {
+          "tag": "h3",
+          "text": "Customer Service"
+        },
+        {
+          "tag": "h3",
+          "text": "Made in the USA"
+        },
+        {
+          "tag": "h3",
+          "text": "Fast Turnaround"
+        },
+        {
+          "tag": "h3",
+          "text": "Track Your Order"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "Product Information"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I reposition my dry erase decal?"
+        },
+        {
+          "tag": "h4",
+          "text": "What are dry erase wall decals constructed from?"
+        },
+        {
+          "tag": "h4",
+          "text": "What purposes do people usually use their dry erase wall decals for?"
+        },
+        {
+          "tag": "h4",
+          "text": "Can I use multiple colors, fonts and images in my design?"
+        },
+        {
+          "tag": "h4",
+          "text": "How large can I make my decal?"
+        },
+        {
+          "tag": "h4",
+          "text": "How do you remove air bubbles from dry erase wall decals?"
+        },
+        {
+          "tag": "h3",
+          "text": "Common Uses"
+        },
+        {
+          "tag": "h4",
+          "text": "What kind of surfaces can this decal be applied to?"
+        },
+        {
+          "tag": "h4",
+          "text": "Will the decal ruin my walls or paint?"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": {
+      "score": 70,
+      "failedChecks": [
+        {
+          "check": "required_sections",
+          "details": [
+            "MATERIAL OPTIONS TAB",
+            "FINISHING OPTIONS TAB",
+            "SHIPPING GUIDELINES TAB"
+          ]
+        },
+        {
+          "check": "cta_section_rules",
+          "details": [
+            "PRODUCTION TIMES TAB"
+          ]
+        },
+        {
+          "check": "generic_headings",
+          "details": "Contains generic headings"
+        }
+      ],
+      "retry": true,
+      "threshold": 85
+    },
+    "contentScore": {
+      "score": 95,
+      "missingEntities": [],
+      "missingHeadings": [],
+      "improvementSuggestions": []
+    },
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T15:50:22.538Z"
+    },
+    "seoRecommendations": "{\"ts\":\"2026-03-06T15:50:22.528Z\",\"level\":\"info\",\"event\":\"metric\",\"agent\":\"pdpAgent\",\"url\":\"https://www.decals.com/decals/dry-erase-wall-decals\",\"model\":\"claude-sonnet-4-20250514\",\"tokensIn\":25039,\"tokensOut\":4075,\"promptVersion\":\"unknown\",\"templateVersion\":\"unknown\",\"durationMs\":79243}\n==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Custom Dry Erase Wall Decals\nH3: Create Custom Dry Erase Wall Decals!\nH3: Design Methods\nH3: Payment\nH3: Live Order Tracking\nH3: Production Time Tables\nH3: 1 Business Day Priority:\nH3: 2 Business Days Express:\nH3: 3 Business Days Standard:\nH3: 5 Business Days Saver:\nH3: Die Cut Option\nH3: Die-Cut\nH3: Dry Erase Wall Decal Artwork Specifications\nH3: Preferred Files for Printing\nH3: Additional Files Accepted\nH3: File Tips\nH3: Vector Art\nH3: Raster Art\nH3: Design Services\nH3: Shipping\nH3: Shipping Methods:\nH3: Important Economy Shipping Notes:\nH3: National and International Shipping Notes:\nH3: How to Apply Vinyl Decals\nH2: More About Dry Erase Wall Decals Return to Top\nH2: Why Choose Decals.com?\nH2: Frequently Asked Questions Return to Top\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Dry Erase Wall Decals\nH2: Custom Dry Erase Wall Decal Order Process\nH2: Dry Erase Wall Decal Production & Turnaround Times\nH2: Die-Cut Dry Erase Wall Decal Options\nH2: Artwork Requirements for Dry Erase Wall Decals\nH2: Dry Erase Wall Decal Shipping & Delivery\nH2: Dry Erase Wall Decal Installation Guide\nH2: What Are Dry Erase Wall Decals?\nH2: Dry Erase Wall Decal FAQs\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h1>Custom Dry Erase Wall Decals</h1>\n<h2>Create Personalized Whiteboards for Any Space</h2>\n\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nDesign from Scratch: Create your custom dry erase wall decal using our online designer with clipart and text options\nUpload a File: Submit your own design file for professional dry erase wall decal printing\n\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Dry Erase Wall Decals for Home & Office</h2>\n\n<p>Transform any wall into a functional whiteboard with our custom dry erase wall decals. Perfect for kitchens, offices, classrooms, and children's rooms, these removable vinyl decals provide an affordable alternative to traditional whiteboards while offering complete design flexibility. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>\n\n<p>Our dry erase wall decals feature a smooth, writable surface that works with standard dry erase markers and erases cleanly without ghosting or staining. Available in unlimited custom sizes and shapes, these decals can be designed to match your space perfectly while providing practical functionality.</p>\n\n<p>Whether you need a small calendar for your refrigerator, a large planning board for your office, or creative shapes for a child's bedroom, our dry erase wall decals offer professional-quality durability with easy removal when needed. The strong adhesive backing ensures secure wall mounting while remaining repositionable during initial installation.</p>\n\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nORDER PROCESS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Dry Erase Wall Decal Order Process</h2>\n\n<p>Our streamlined ordering system makes creating custom dry erase wall decals simple and efficient. Choose between our online design tool or upload your own artwork file to get started with your personalized whiteboard solution.</p>\n\n<h3>Design Process</h3>\n<p>Use our intuitive online designer to create your dry erase wall decal from scratch, selecting from our extensive clipart library and text options. Alternatively, upload your own design file in EPS format to ensure the highest print quality. Once you've finalized your design and added the product to your cart, a digital proof will be emailed for your approval.</p>\n\n<h3>Payment</h3>\n<p>All dry erase wall decal orders require full payment before production begins. We accept VISA, Mastercard, American Express, and Discover credit cards, as well as checks that must be received prior to production start.</p>\n\n<h3>Live Order Tracking</h3>\n<p>After placing your dry erase wall decal order, you'll receive a unique Live Order Tracking number via email. This system allows you to monitor your order through every stage of our production process, from order placement through delivery, providing real-time updates on your custom decals.</p>\n\nOrder Process Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Dry Erase Wall Decal Production & Turnaround Times</h2>\n\n<p>Our flexible production schedule accommodates urgent deadlines and budget-conscious timelines. Production time begins once file upload is complete and approved, with options ranging from same-day rushes to economical five-day production.</p>\n\n<p>All turnaround times are separate from shipping time. Orders approved after 5:00 PM CST begin production the following business day. Emergency same-day production may be available - contact customer service for availability.</p>\n\n<h3>1 Business Day Priority Production</h3>\n<p>Perfect for tight deadlines requiring immediate dry erase wall decal production. Orders approved before 5:00 PM CST ship the next business day, with emergency same-day options available in select cases.</p>\n\n<h3>2 Business Days Express Production</h3>\n<p>Ideal balance of speed and value for urgent dry erase wall decal projects. Express production provides quick turnaround while allowing additional design review time.</p>\n\n<h3>3 Business Days Standard Production</h3>\n<p>Our most popular production option offering free, fast turnaround for most custom dry erase wall decal orders. Standard production provides excellent quality control while maintaining competitive speed.</p>\n\n<h3>5 Business Days Saver Production</h3>\n<p>Cost-effective option for non-urgent dry erase wall decal projects. Saver production offers significant savings while maintaining the same high-quality standards and materials.</p>\n\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nCUT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Die-Cut Dry Erase Wall Decal Options</h2>\n\n<p>Our precision cutting process ensures your dry erase wall decals are perfectly shaped to your design specifications. We use professional-grade cutting equipment to create clean, accurate edges for professional installation results.</p>\n\n<h3>Die-Cut Dry Erase Wall Decals</h3>\n<p>Die-cut (also called contour-cut) processing cuts through both the vinyl decal material and paper backing, creating individually shaped decals with no excess material around your design. This \"cookie cutter\" approach produces clean-edged dry erase wall decals that follow your exact design contours.</p>\n\n<p>Each die-cut dry erase wall decal is individually cut to match your design shape, eliminating unnecessary material and providing professional results. Back slit (crack and peel) backing is available on standard and permanent material options for easier installation of larger decals.</p>\n\nCut Options Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Artwork Requirements for Dry Erase Wall Decals</h2>\n\n<p>Proper artwork preparation ensures your dry erase wall decals print with crisp details and accurate colors. Our prepress team reviews all files to optimize print quality and can provide design assistance when needed.</p>\n\n<h3>Preferred File Types</h3>\n<p>For optimal dry erase wall decal printing results, submit Adobe Illustrator EPS or PDF files with all fonts converted to outlines. These vector formats maintain sharp edges at any size and prevent font substitution issues. Maximum accepted file size is 100 MB.</p>\n\n<h3>Additional File Formats</h3>\n<p>High-resolution JPG, TIFF, and PNG files are also accepted for dry erase wall decal printing. Raster images should be provided at 100% scale with 100 DPI minimum resolution, or proportionally higher resolution for smaller scale files.</p>\n\n<h3>File Setup Tips</h3>\n<p>Create artwork proportionate to your exact dry erase wall decal size and convert all text to outlines or curves. Indicate cut lines clearly and avoid flattening layers in PSD files. Include bleed only when necessary and provide clear instructions for any special requirements.</p>\n\n<h3>Design Services</h3>\n<p>Professional vectorizing and recreation services are available for artwork that needs optimization. Most logos can be recreated starting at $15, with complex designs quoted individually. Contact our <a href=\"https://www.decals.com/contact-us\">design team</a> for assistance with your dry erase wall decal artwork.</p>\n\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Dry Erase Wall Decal Shipping & Delivery</h2>\n\n<p>Your dry erase wall decals are carefully packaged to prevent damage during transit and shipped via reliable carriers to ensure timely delivery. Shipping time is separate from production time and varies by destination and selected service level.</p>\n\n<h3>Shipping Methods</h3>\n<p>Standard shipping via UPS Ground provides economical delivery for most dry erase wall decal orders, while expedited options including UPS Next Day Air are available for urgent deliveries. Large format decals may require specialized packaging and carrier handling.</p>\n\n<h3>Shipping Time Expectations</h3>\n<p>Ground shipping typically delivers within 3-7 business days depending on destination, while expedited services offer 1-2 day delivery options. Your dry erase wall decals ship once production is complete, with tracking information provided via email for order monitoring.</p>\n\n<h3>Important Shipping Notes</h3>\n<p>International shipping is available with extended delivery times and potential customs processing. Economy shipping options may have limited tracking capabilities compared to standard services. Contact customer service for specific delivery requirements or address restrictions.</p>\n\nShipping Tab\n\n--------------------------------------------------\n\n==================================================\nINSTALLATION TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Dry Erase Wall Decal Installation Guide</h2>\n\n<p>Proper installation ensures your dry erase wall decals adhere smoothly and perform optimally. Follow these step-by-step instructions for professional results that will provide years of reliable whiteboard functionality.</p>\n\n<h3>Preparing the Surface</h3>\n<p>Clean the installation area thoroughly with mild soap and water, removing all dirt, dust, and residue. The surface should be completely dry before applying your dry erase wall decal. Smooth, non-porous surfaces like painted walls, glass, and metal provide the best adhesion.</p>\n\n<h3>Applying the Decal</h3>\n<p>Position your dry erase wall decal carefully before removing the backing paper, as repositioning becomes more difficult once adhesive contact is made. Apply from one edge using a squeegee or credit card to smooth out air bubbles, working systematically across the entire surface.</p>\n\n<h3>Removing Transfer Tape</h3>\n<p>If your dry erase wall decal includes transfer tape, remove it slowly at a 45-degree angle after the decal is fully applied. If any part of the decal lifts with the tape, press it back down and continue removal more slowly.</p>\n\n<p>Watch our <a href=\"https://www.decals.com/installation-guides\">installation video guides</a> for visual step-by-step instructions specific to dry erase wall decal application and care.</p>\n\nInstallation Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>What Are Dry Erase Wall Decals?</h2>\n\n<p>Dry erase wall decals are vinyl decals with a specialized smooth surface coating that allows writing with standard dry erase markers and easy erasing without ghosting or residue. Made from durable vinyl material with permanent adhesive backing, these decals transform any smooth surface into a functional whiteboard. Common applications include kitchen planning boards, office project tracking, classroom teaching aids, and children's creative spaces. Installation involves removing the backing paper and applying the decal directly to clean, smooth surfaces like painted walls, glass, or metal.</p>\n\n<h2>Design Your Custom Dry Erase Wall Decals Today</h2>\n\n<p>Ready to create the perfect whiteboard solution for your space? Our easy online design system lets you customize dry erase wall decals in any size or shape to match your specific needs. Whether you need a simple rectangular planning board or a creative custom shape for a child's room, our professional printing and precision cutting deliver exceptional results.</p>\n\n<p>Upload your artwork or use our design tools to create personalized dry erase wall decals that combine functionality with style. With fast production times, reliable shipping, and professional customer support, we make it easy to transform any wall into a productive workspace.</p>\n\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Dry Erase Wall Decal FAQs</h2>\n\n<h3>Can I reposition my dry erase wall decal during installation?</h3>\n<p>Yes, dry erase wall decals can be repositioned during initial installation before full adhesive contact is made. Once the decal is fully applied and smoothed down, repositioning becomes more difficult and may affect adhesive strength.</p>\n\n<h3>What surfaces work best for dry erase wall decals?</h3>\n<p>Dry erase wall decals adhere best to smooth, non-porous surfaces like painted walls, glass, metal, and laminated surfaces. Textured walls or porous materials may not provide adequate adhesion for long-term use.</p>\n\n<h3>What file format should I use for my dry erase wall decal artwork?</h3>\n<p>Adobe Illustrator EPS files with fonts converted to outlines provide the best print quality for dry erase wall decals. PDF files are also acceptable, while high-resolution JPG, TIFF, and PNG files work for photographic designs.</p>\n\n<h3>How large can I make my dry erase wall decal?</h3>\n<p>Dry erase wall decals can be produced in virtually any size up to our maximum width capabilities. Large decals may be printed in sections for easier installation, with seams carefully planned to minimize visibility.</p>\n\n<h3>Will dry erase wall decals damage my paint when removed?</h3>\n<p>Properly applied dry erase wall decals should remove cleanly from most painted surfaces without damaging the paint. However, removal results can vary depending on paint type, age, and application method.</p>\n\n<h3>What markers work with dry erase wall decals?</h3>\n<p>Standard dry erase markers work perfectly with our dry erase wall decals. The smooth vinyl surface allows easy writing and complete erasing without ghosting or staining when proper dry erase markers are used.</p>\n\n<h3>How do I remove air bubbles from dry erase wall decals?</h3>\n<p>Small air bubbles can be smoothed out using a squeegee or credit card, working from the center outward. For persistent bubbles, carefully prick with a fine needle and smooth out the air.</p>\n\nFAQ Tab\n\n--------------------------------------------------\n\n==================================================\nSEO ANALYSIS & OPTIMIZATION SUMMARY\n==================================================\n\nTechnical SEO improvements include restructuring the heading hierarchy from scattered H3 tags to a logical H1-H2-H3 progression that supports both user navigation and search engine understanding. The primary product entity \"Dry Erase Wall Decals\" has been consistently integrated across all major headings while maintaining natural language variation.\n\nContent Quality enhancements focus on transforming generic headings like \"Production Time Tables\" into search-optimized headings such as \"Dry Erase Wall Decal Production & Turnaround Times\" that include the target product entity. Each section now provides comprehensive information depth while maintaining transactional intent throughout the customer journey.\n\nInternal Linking strategy incorporates contextual links to related products and services including design assistance, installation guides, and customer support pages. These links are positioned within paragraph content to provide natural navigation without disrupting heading structure.\n\nKeyword Clustering optimization addresses the five primary topic clusters: installation, durability, pricing, customization, and shipping. Each cluster receives dedicated coverage through relevant sections, with semantic keyword variations naturally integrated into paragraph content while maintaining the consistent core entity across headings.\n\nThe FAQ section has been restructured to begin with an entity-specific H2 heading and includes questions that mirror actual search queries potential customers use when researching dry erase wall decal purchases, improving visibility for voice search and featured snippet opportunities."
+  }
+}

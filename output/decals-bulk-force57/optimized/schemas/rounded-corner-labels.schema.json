@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:32:39.314Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Rounded Corner Labels",
+    "description": "Create custom rounded corner labels by using your own image, logo, or design at Decals.com. These are high-quality and durable labels with a soft edge!",
+    "url": "https://www.decals.com/rounded-corner-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

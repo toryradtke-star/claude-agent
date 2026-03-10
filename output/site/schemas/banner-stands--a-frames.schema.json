@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "A-Frame Signs A-Frame",
+  "description": "Order your sidewalk signs from Banners.com! The displays come with hardware and full color signs. Use one of our templates or upload your own artwork!",
+  "url": "https://www.banners.com/banner-stands/a-frames",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

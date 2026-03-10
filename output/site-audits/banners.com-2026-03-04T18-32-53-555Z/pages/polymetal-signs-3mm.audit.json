@@ -1,0 +1,325 @@
+{
+  "url": "https://www.banners.com/polymetal-signs-3mm",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": false,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 887,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Polymetal Signs"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Metal Signs"
+      },
+      {
+        "tag": "h4",
+        "text": "[Material](#materialCollapse)"
+      },
+      {
+        "tag": "h3",
+        "text": "Polymetal Sign Material"
+      },
+      {
+        "tag": "h4",
+        "text": "Polymetal Sign Finishing"
+      },
+      {
+        "tag": "h4",
+        "text": "[Artwork](#artworkCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "[Artwork Guidelines](#artwork-guidelinesCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "[Artwork/Order Proofs](#artworkorder-proofsCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "[Color Match Proof System](#color-match-proof-systemCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "[Production Times](#production-timesCollapse)"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h4",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h4",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h4",
+        "text": "[Shipping Maps](#shipping-mapsCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "[Shipping Methods](#shipping-methodsCollapse)"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Polymetal Signs [Return to Top](#top)"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions [Return to Top](#top)"
+      },
+      {
+        "tag": "h3",
+        "text": "What are 3 mm polymetal signs used for?"
+      },
+      {
+        "tag": "h3",
+        "text": "What are 3 mm polymetal signs made of?"
+      },
+      {
+        "tag": "h3",
+        "text": "What sizes are available for 3 mm polymetal signs?"
+      },
+      {
+        "tag": "h3",
+        "text": "Can I order custom-shaped 3 mm polymetal signs?"
+      },
+      {
+        "tag": "h3",
+        "text": "Can 3 mm polymetal signs be printed double-sided?"
+      },
+      {
+        "tag": "h3",
+        "text": "Are 3 mm polymetal signs printed in full color?"
+      },
+      {
+        "tag": "h3",
+        "text": "Are 3 mm polymetal signs weather-resistant?"
+      },
+      {
+        "tag": "h3",
+        "text": "How should I store my 3 mm polymetal signs?"
+      },
+      {
+        "tag": "h3",
+        "text": "Can I request a proof before printing?"
+      },
+      {
+        "tag": "h3",
+        "text": "What production times do you offer, and when does turnaround start?"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Polymetal Signs"
+    },
+    {
+      "tag": "h3",
+      "text": "Custom Metal Signs"
+    },
+    {
+      "tag": "h4",
+      "text": "[Material](#materialCollapse)"
+    },
+    {
+      "tag": "h3",
+      "text": "Polymetal Sign Material"
+    },
+    {
+      "tag": "h4",
+      "text": "Polymetal Sign Finishing"
+    },
+    {
+      "tag": "h4",
+      "text": "[Artwork](#artworkCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "[Artwork Guidelines](#artwork-guidelinesCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "[Artwork/Order Proofs](#artworkorder-proofsCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "[Color Match Proof System](#color-match-proof-systemCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "[Production Times](#production-timesCollapse)"
+    },
+    {
+      "tag": "h3",
+      "text": "Production Time Tables"
+    },
+    {
+      "tag": "h4",
+      "text": "3 Business Days Standard:"
+    },
+    {
+      "tag": "h4",
+      "text": "5 Business Days Saver:"
+    },
+    {
+      "tag": "h4",
+      "text": "[Shipping Maps](#shipping-mapsCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "[Shipping Methods](#shipping-methodsCollapse)"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Polymetal Signs [Return to Top](#top)"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions [Return to Top](#top)"
+    },
+    {
+      "tag": "h3",
+      "text": "What are 3 mm polymetal signs used for?"
+    },
+    {
+      "tag": "h3",
+      "text": "What are 3 mm polymetal signs made of?"
+    },
+    {
+      "tag": "h3",
+      "text": "What sizes are available for 3 mm polymetal signs?"
+    },
+    {
+      "tag": "h3",
+      "text": "Can I order custom-shaped 3 mm polymetal signs?"
+    },
+    {
+      "tag": "h3",
+      "text": "Can 3 mm polymetal signs be printed double-sided?"
+    },
+    {
+      "tag": "h3",
+      "text": "Are 3 mm polymetal signs printed in full color?"
+    },
+    {
+      "tag": "h3",
+      "text": "Are 3 mm polymetal signs weather-resistant?"
+    },
+    {
+      "tag": "h3",
+      "text": "How should I store my 3 mm polymetal signs?"
+    },
+    {
+      "tag": "h3",
+      "text": "Can I request a proof before printing?"
+    },
+    {
+      "tag": "h3",
+      "text": "What production times do you offer, and when does turnaround start?"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

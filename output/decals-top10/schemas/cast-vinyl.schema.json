@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "1",
+  "promptVersion": "unknown",
+  "model": "claude-3-5-haiku-latest",
+  "createdAt": "2026-03-05T22:02:44.213Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "High-Performance Cast Vinyl",
+    "description": "This is a most popular vinyl material for vehicle wraps. You can also print colorful graphics using cast vinyl. Start your order today by using our online design tool! Decals.com",
+    "url": "https://www.decals.com/cast-vinyl",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

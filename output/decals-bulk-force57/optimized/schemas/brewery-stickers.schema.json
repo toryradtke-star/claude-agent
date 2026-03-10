@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:24:52.531Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Brewery Stickers Brewery",
+    "description": "Promote your business with custom brewery stickers from Decals.com. Our stickers are 100% customizable; simply upload your artwork or work with one of our professional graphic designers to create the custom brewery sticker for you.",
+    "url": "https://www.decals.com/brewery-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

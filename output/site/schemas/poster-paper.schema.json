@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Posters Poster Paper",
+  "description": "Discover the versatility of custom poster paper! Perfect for events, promotions, presentations, and more. Order yours now for vibrant, durable prints!",
+  "url": "https://www.banners.com/poster-paper",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

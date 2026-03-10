@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:47:30.984Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Printed Barcode Labels",
+    "description": "Barcode labels don't have to be boring. At Decals.com design and customize your stickers to match your style. Order today for all your labeling needs.",
+    "url": "https://www.decals.com/barcode-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

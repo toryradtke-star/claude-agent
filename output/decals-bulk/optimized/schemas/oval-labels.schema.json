@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:44:35.961Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "url": "https://www.decals.com/oval-labels",
+    "name": "Custom Oval Labels - Vinyl Labels | Decals.com"
+  }
+}

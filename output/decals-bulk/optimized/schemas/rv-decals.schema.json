@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:07:35.172Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "RV Decals RV",
+    "description": "RV decals can enhance your glamped out ride, your airstream or that old panel camper that your Grandpa left you. Upload your designs today using our online tool",
+    "url": "https://www.decals.com/rv-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

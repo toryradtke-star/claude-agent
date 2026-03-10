@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Business Magnets Magnets",
+  "description": "Create custom business magnets with Banners.com—durable, full-color, weather-resistant, and perfect for promoting your brand on the go.",
+  "url": "https://www.banners.com/custom-business-magnets",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

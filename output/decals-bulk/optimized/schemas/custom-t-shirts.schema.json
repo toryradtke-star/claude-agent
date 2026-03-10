@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:47:02.983Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "T-Shirts - Shirtspot.com",
+    "description": "Order custom t-shirts at Decals.com. T-shirts, polos, fleece, sweatshirts and more. High quality materials tailored for you.",
+    "url": "https://www.decals.com/custom-t-shirts",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

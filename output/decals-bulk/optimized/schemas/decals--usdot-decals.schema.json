@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:53:42.131Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Regulation US DOT",
+    "description": "Ensure your vehicle meets compliance standards with custom US DOT decals. Add your company name, city, state & number for a fleet vehicle decal that is FMCSA compliant.",
+    "url": "https://www.decals.com/decals/usdot-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

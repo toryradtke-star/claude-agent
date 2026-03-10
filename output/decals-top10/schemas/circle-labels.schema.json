@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "1",
+  "promptVersion": "unknown",
+  "model": "claude-3-5-haiku-latest",
+  "createdAt": "2026-03-05T22:02:54.978Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Circle Labels Circle",
+    "description": "Create custom circle labels with our easy to use online designer today. You pick colors and graphics! They are perfect for branding, organizing, and more.",
+    "url": "https://www.decals.com/circle-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "baseUrl": "http://example.com",
+  "domain": "example.com",
+  "generatedAt": "2026-03-04T15:17:01.511Z",
+  "discoveryMethod": "crawl",
+  "totalUrlsDiscovered": 1,
+  "pagesAudited": 1,
+  "productPagesDetected": 0,
+  "productPagesOptimized": 0,
+  "errors": [],
+  "pageAudits": [
+    {
+      "url": "http://example.com/",
+      "productPage": false,
+      "pdpSignals": {
+        "urlPattern": false,
+        "htmlCta": false,
+        "pricing": false,
+        "schema": false,
+        "heading": false
+      },
+      "technicalSEO": {
+        "title": "Example Domain",
+        "metaDescription": "",
+        "canonical": "",
+        "robots": "",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 0,
+        "internalLinks": [],
+        "orphanPageRisk": true,
+        "relativeLinkCount": 0,
+        "absoluteLinkCount": 1,
+        "brokenInternalLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 17,
+        "thinContent": true,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Example Domain"
+          }
+        ],
+        "paragraphCount": 2
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Example Domain"
+        }
+      ],
+      "seoRecommendations": ""
+    }
+  ],
+  "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site-audits\\example.com-2026-03-04T15-17-01-070Z\\full-site-audit.json",
+  "markdownPath": "C:\\Users\\Tory\\claude-agent\\output\\site-audits\\example.com-2026-03-04T15-17-01-070Z\\full-site-audit.md",
+  "runDir": "C:\\Users\\Tory\\claude-agent\\output\\site-audits\\example.com-2026-03-04T15-17-01-070Z",
+  "docsFolderPath": "Site Audits/example.com/2026-03-04T15-17-01-070Z",
+  "summaryDoc": {
+    "docId": "1KR1riiBmGwTCei147uoZ9no1LNOA_gRZ5Kh2xlRNhPk",
+    "url": "https://docs.google.com/document/d/1KR1riiBmGwTCei147uoZ9no1LNOA_gRZ5Kh2xlRNhPk",
+    "folderId": "1skuqHteOo5fFEp39oKpUWEJpmOlCzFCL"
+  }
+}

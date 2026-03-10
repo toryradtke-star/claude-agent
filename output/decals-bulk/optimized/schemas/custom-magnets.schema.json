@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:44:16.067Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Magnets Magnets -",
+    "description": "Design and order custom magnets that are great for cars, fridges, schools, and promotional events. Order in a variety of quantities and sizes.",
+    "url": "https://www.decals.com/custom-magnets",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:57:37.325Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Photo Stickers Photo",
+    "description": "A way to tell a story without using any words. Use photo stickers to decorate journals and personalize gifts in full color. Get yours today at Decals.com!",
+    "url": "https://www.decals.com/stickers/custom-photo-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

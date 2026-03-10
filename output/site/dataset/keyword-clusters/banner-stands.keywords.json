@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "banner stands",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "banner stands installation printing",
+        "banner stands installation custom sizes",
+        "banner stands installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "banner stands durability printing",
+        "banner stands durability custom sizes",
+        "banner stands durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "banner stands pricing printing",
+        "banner stands pricing custom sizes",
+        "banner stands pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "banner stands printing",
+        "banner stands custom sizes",
+        "banner stands design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "banner stands shipping printing",
+        "banner stands shipping custom sizes",
+        "banner stands shipping design upload"
+      ]
+    }
+  ]
+}

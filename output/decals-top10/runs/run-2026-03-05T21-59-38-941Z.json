@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://www.decals.com",
+  "runDir": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\audits\\www.decals.com-2026-03-05T21-59-38-941Z",
+  "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\audits\\www.decals.com-2026-03-05T21-59-38-941Z\\full-site-audit.json",
+  "strategyPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\audits\\www.decals.com-2026-03-05T21-59-38-941Z\\site-strategy.json",
+  "costReportPath": "C:\\Users\\Tory\\claude-agent\\output\\decals-top10\\audits\\www.decals.com-2026-03-05T21-59-38-941Z\\cost-report.json",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "model": "claude-3-5-haiku-latest",
+  "runId": 1,
+  "generatedAt": "2026-03-05T22:06:00.986Z"
+}

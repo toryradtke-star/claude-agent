@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/custom-t-shirts",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 2820,
+    "output_tokens": 2805
+  },
+  "durationMs": 58962
+}

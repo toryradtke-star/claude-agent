@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "clear labels clear",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "clear labels clear installation printing",
+        "clear labels clear installation custom sizes",
+        "clear labels clear installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "clear labels clear durability printing",
+        "clear labels clear durability custom sizes",
+        "clear labels clear durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "clear labels clear pricing printing",
+        "clear labels clear pricing custom sizes",
+        "clear labels clear pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "clear labels clear printing",
+        "clear labels clear custom sizes",
+        "clear labels clear design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "clear labels clear shipping printing",
+        "clear labels clear shipping custom sizes",
+        "clear labels clear shipping design upload"
+      ]
+    }
+  ]
+}

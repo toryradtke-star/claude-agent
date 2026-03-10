@@ -1,0 +1,664 @@
+{
+  "baseUrl": "https://banners.com",
+  "domain": "banners.com",
+  "generatedAt": "2026-03-05T18:01:47.297Z",
+  "discoveryMethod": "url-list",
+  "totalUrlsDiscovered": 1,
+  "pagesAudited": 1,
+  "pagesSkipped": 0,
+  "productPagesDetected": 1,
+  "productPagesOptimized": 1,
+  "errors": [],
+  "pageAudits": [
+    {
+      "url": "https://www.banners.com/double-sided-banners",
+      "pageType": "blog",
+      "productPage": true,
+      "promptVersion": "2026-03-04.v2",
+      "templateVersion": "site-template.v2",
+      "serpInsights": {
+        "query": "double-sided banners double",
+        "keywordThemes": [],
+        "commonHeadings": [],
+        "avgWordCount": 0,
+        "faqPatterns": [],
+        "relatedEntities": [],
+        "schemaTypes": [],
+        "topUrls": []
+      },
+      "keywordClusters": {
+        "coreKeyword": "double-sided banners double",
+        "clusters": [
+          {
+            "topic": "installation",
+            "match": {},
+            "keywords": [
+              "double-sided banners double installation printing",
+              "double-sided banners double installation custom sizes",
+              "double-sided banners double installation design upload"
+            ]
+          },
+          {
+            "topic": "durability",
+            "match": {},
+            "keywords": [
+              "double-sided banners double durability printing",
+              "double-sided banners double durability custom sizes",
+              "double-sided banners double durability design upload"
+            ]
+          },
+          {
+            "topic": "pricing",
+            "match": {},
+            "keywords": [
+              "double-sided banners double pricing printing",
+              "double-sided banners double pricing custom sizes",
+              "double-sided banners double pricing design upload"
+            ]
+          },
+          {
+            "topic": "customization",
+            "match": {},
+            "keywords": [
+              "double-sided banners double printing",
+              "double-sided banners double custom sizes",
+              "double-sided banners double design upload"
+            ]
+          },
+          {
+            "topic": "shipping",
+            "match": {},
+            "keywords": [
+              "double-sided banners double shipping printing",
+              "double-sided banners double shipping custom sizes",
+              "double-sided banners double shipping design upload"
+            ]
+          }
+        ]
+      },
+      "technicalSEO": {
+        "title": "Double Sided Banners | Print on Two Sides | Banners.com",
+        "metaDescription": "Stand out with double sided banners from Banners.com. Our custom printed double-sided banners ensure visibility from every angle at events or storefronts.",
+        "canonical": "https://www.banners.com/double-sided-banners",
+        "robots": "index, follow",
+        "missingAltImages": 0,
+        "multipleH1": false
+      },
+      "internalLinks": {
+        "internalLinkCount": 127,
+        "internalLinks": [
+          "https://www.banners.com/",
+          "https://www.banners.com/contact",
+          "https://www.banners.com/vinyl-banners",
+          "https://www.banners.com/fabric-banners",
+          "https://www.banners.com/mesh-banners",
+          "https://www.banners.com/double-sided-banners",
+          "https://www.banners.com/pole-banners",
+          "https://www.banners.com/standard-size-banners",
+          "https://www.banners.com/oversized-banners",
+          "https://www.banners.com/canvas",
+          "https://www.banners.com/economy-banners",
+          "https://www.banners.com/text-only-banners",
+          "https://www.banners.com/step-and-repeat-banners",
+          "https://www.banners.com/championship-banners",
+          "https://www.banners.com/fence-banners-and-wraps",
+          "https://www.banners.com/sports-banners",
+          "https://www.banners.com/vertical-banners",
+          "https://www.banners.com/large-vinyl-banners",
+          "https://www.banners.com/birthday-banners",
+          "https://www.banners.com/adhesive-banners",
+          "https://www.banners.com/table-banners",
+          "https://www.banners.com/custom-flags",
+          "https://www.banners.com/custom-flags/standard-3x5-flags",
+          "https://www.banners.com/custom-flags/feather-flags",
+          "https://www.banners.com/custom-flags/rectangle-flags",
+          "https://www.banners.com/custom-flags/tear-drop-flags",
+          "https://www.banners.com/custom-flags/base-replacements",
+          "https://www.banners.com/custom-signs",
+          "https://www.banners.com/yard-signs",
+          "https://www.banners.com/yard-signs/custom-shapes",
+          "https://www.banners.com/yard-signs/custom-sizes",
+          "https://www.banners.com/sintra-signs",
+          "https://www.banners.com/styrene-signs",
+          "https://www.banners.com/polymetal-signs-3mm",
+          "https://www.banners.com/magnetic-signs",
+          "https://www.banners.com/banner-stands/a-frames",
+          "https://www.banners.com/magnets",
+          "https://www.banners.com/truck-magnetic-signs",
+          "https://www.banners.com/custom-car-magnets",
+          "https://www.banners.com/custom-fridge-magnets",
+          "https://www.banners.com/custom-photo-magnets",
+          "https://www.banners.com/custom-dry-erase-magnets",
+          "https://www.banners.com/custom-business-magnets",
+          "https://www.banners.com/custom-bumper-magnets",
+          "https://www.banners.com/custom-window-decals",
+          "https://www.banners.com/decals/3m-control-tac",
+          "https://www.banners.com/decals/high-performance-cast-vinyl-with-lamination",
+          "https://www.banners.com/decals/calendered-vinyl",
+          "https://www.banners.com/bumper-stickers",
+          "https://www.banners.com/decals/reflective-decals",
+          "https://www.banners.com/floor-graphics",
+          "https://www.banners.com/window-perf",
+          "https://www.banners.com/wall-graphics",
+          "https://www.banners.com/die-cut-stickers",
+          "https://www.banners.com/custom-car-stickers",
+          "https://www.banners.com/custom-sticker-sheets",
+          "https://www.banners.com/custom-warning-labels",
+          "https://www.banners.com/translucent-adhesive-vinyl",
+          "https://www.banners.com/translucent-non-adhesive-film",
+          "https://www.banners.com/table-covers",
+          "https://www.banners.com/banner-stands/retractors",
+          "https://www.banners.com/banner-stands",
+          "https://www.banners.com/backdrop-banners",
+          "https://www.banners.com/standard-business-cards",
+          "https://www.banners.com/accessories",
+          "https://www.banners.com/postcards",
+          "https://www.banners.com/poster-paper",
+          "https://www.banners.com/stik-pics",
+          "https://www.banners.com/table-tents",
+          "https://www.banners.com/translucent-materials",
+          "https://www.banners.com/custom-wallpaper",
+          "https://www.banners.com/yard-letter-and-number-signs",
+          "https://www.banners.com/custom-t-shirts",
+          "https://www.banners.com/business-signs",
+          "https://www.banners.com/church-signs",
+          "https://www.banners.com/coming-soon-signs",
+          "https://www.banners.com/construction-signs",
+          "https://www.banners.com/election-signs",
+          "https://www.banners.com/farmers-market-signs",
+          "https://www.banners.com/government-signs",
+          "https://www.banners.com/graduation-signs",
+          "https://www.banners.com/now-hiring-signs",
+          "https://www.banners.com/outdoor-signs",
+          "https://www.banners.com/real-estate-signs",
+          "https://www.banners.com/restaurant-signs",
+          "https://www.banners.com/trade-show",
+          "https://www.banners.com/help-center-and-support",
+          "https://www.banners.com/videos",
+          "https://www.banners.com/customer-care",
+          "https://www.banners.com/track-my-order",
+          "https://www.banners.com/login",
+          "https://www.banners.com/home",
+          "https://www.banners.com/banners",
+          "https://www.banners.com/sample-packet-request",
+          "https://www.banners.com/vinyl-banner-finishing-options",
+          "https://www.banners.com/resources/what-are-banner-grommets",
+          "https://www.banners.com/wind-slits",
+          "https://www.banners.com/resources/online-orders-pay-with-check",
+          "https://www.banners.com/quotes",
+          "https://www.banners.com/outdoor-banners",
+          "https://www.banners.com/decals",
+          "https://www.banners.com/about",
+          "https://www.banners.com/faq",
+          "https://www.banners.com/resources",
+          "https://www.banners.com/testimonials",
+          "https://www.banners.com/reviews",
+          "https://www.banners.com/policies",
+          "https://www.banners.com/production-times",
+          "https://www.banners.com/shipping-info",
+          "https://www.banners.com/flags-template",
+          "https://www.banners.com/vinyl-banner-templates",
+          "https://www.banners.com/charity-and-giving-back",
+          "https://www.banners.com/promo",
+          "https://www.banners.com/sitemap",
+          "https://www.banners.com/advertising-banners",
+          "https://www.banners.com/business-banners",
+          "https://www.banners.com/celebration-banners",
+          "https://www.banners.com/church-and-praise-banners",
+          "https://www.banners.com/event-banners",
+          "https://www.banners.com/graduation-banners",
+          "https://www.banners.com/holiday-banners",
+          "https://www.banners.com/military-banners",
+          "https://www.banners.com/political-banners",
+          "https://www.banners.com/real-estate-banners",
+          "https://www.banners.com/sales-banners",
+          "https://www.banners.com/school-banners",
+          "https://www.banners.com/all-categories"
+        ],
+        "orphanPageRisk": false,
+        "relativeLinkCount": 102,
+        "absoluteLinkCount": 84,
+        "brokenInternalLinks": [],
+        "contextualLinks": []
+      },
+      "contentQuality": {
+        "wordCount": 1500,
+        "thinContent": false,
+        "headingStructure": [
+          {
+            "tag": "h1",
+            "text": "Double-Sided Banners"
+          },
+          {
+            "tag": "h3",
+            "text": "Custom Printed Double Sided-Banners"
+          },
+          {
+            "tag": "h4",
+            "text": "Three Customizable Double-Sided Banner Materials"
+          },
+          {
+            "tag": "h4",
+            "text": "Finishing Options"
+          },
+          {
+            "tag": "h4",
+            "text": "Artwork Guidelines"
+          },
+          {
+            "tag": "h4",
+            "text": "Artwork/Order Proofs"
+          },
+          {
+            "tag": "h4",
+            "text": "Color Match Proof System"
+          },
+          {
+            "tag": "h3",
+            "text": "Production Time Tables"
+          },
+          {
+            "tag": "h4",
+            "text": "1 Business Day Priority:"
+          },
+          {
+            "tag": "h4",
+            "text": "2 Business Days Express:"
+          },
+          {
+            "tag": "h4",
+            "text": "3 Business Days Standard:"
+          },
+          {
+            "tag": "h4",
+            "text": "5 Business Days Saver:"
+          },
+          {
+            "tag": "h4",
+            "text": "Payment"
+          },
+          {
+            "tag": "h4",
+            "text": "General Shipping Guidelines"
+          },
+          {
+            "tag": "h4",
+            "text": "Shipping Maps"
+          },
+          {
+            "tag": "h4",
+            "text": "Shipping Methods"
+          },
+          {
+            "tag": "h3",
+            "text": "Products you might like"
+          },
+          {
+            "tag": "h4",
+            "text": "Upload a Print Ready File"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 1 - Choose Choose a product and the size you want"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 2 - Upload Upload the image from your computer"
+          },
+          {
+            "tag": "h4",
+            "text": "Let us design your product"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 1 - Choose Choose a product and the size you want"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 2 - Upload Upload the image from your computer"
+          },
+          {
+            "tag": "h3",
+            "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+          },
+          {
+            "tag": "h2",
+            "text": "More About Double-Sided Banners Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "How to Order Your Double-Sided Banner"
+          },
+          {
+            "tag": "h2",
+            "text": "Frequently Asked Questions Return to Top"
+          },
+          {
+            "tag": "h3",
+            "text": "What is a double-sided (two-sided) banner?"
+          },
+          {
+            "tag": "h3",
+            "text": "How are double-sided banners made (will graphics show through)?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are double-sided banners good for indoor and outdoor use?"
+          },
+          {
+            "tag": "h3",
+            "text": "What is the maximum size you can print?"
+          },
+          {
+            "tag": "h3",
+            "text": "Are double-sided banners printed in full color?"
+          },
+          {
+            "tag": "h3",
+            "text": "Where are your double-sided banners made?"
+          },
+          {
+            "tag": "h3",
+            "text": "What material options are available for double-sided banners?"
+          },
+          {
+            "tag": "h3",
+            "text": "What’s the difference between 13 oz matte, 13 oz gloss, and 18 oz vinyl?"
+          },
+          {
+            "tag": "h3",
+            "text": "What finishing options are available?"
+          },
+          {
+            "tag": "h3",
+            "text": "What pole size fits each pole pocket?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do pole pockets change the finished banner size?"
+          },
+          {
+            "tag": "h3",
+            "text": "How close can text or logos be to the edge with pole pockets?"
+          },
+          {
+            "tag": "h3",
+            "text": "Is there a size limit for finishing double-sided banners?"
+          },
+          {
+            "tag": "h3",
+            "text": "Do you offer wind slits?"
+          },
+          {
+            "tag": "h3",
+            "text": "Can the finished size vary?"
+          },
+          {
+            "tag": "h2",
+            "text": "Why Choose Banners.com?"
+          },
+          {
+            "tag": "h4",
+            "text": "Search"
+          }
+        ],
+        "paragraphCount": 0
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Double-Sided Banners"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Printed Double Sided-Banners"
+        },
+        {
+          "tag": "h4",
+          "text": "Three Customizable Double-Sided Banner Materials"
+        },
+        {
+          "tag": "h4",
+          "text": "Finishing Options"
+        },
+        {
+          "tag": "h4",
+          "text": "Artwork Guidelines"
+        },
+        {
+          "tag": "h4",
+          "text": "Artwork/Order Proofs"
+        },
+        {
+          "tag": "h4",
+          "text": "Color Match Proof System"
+        },
+        {
+          "tag": "h3",
+          "text": "Production Time Tables"
+        },
+        {
+          "tag": "h4",
+          "text": "1 Business Day Priority:"
+        },
+        {
+          "tag": "h4",
+          "text": "2 Business Days Express:"
+        },
+        {
+          "tag": "h4",
+          "text": "3 Business Days Standard:"
+        },
+        {
+          "tag": "h4",
+          "text": "5 Business Days Saver:"
+        },
+        {
+          "tag": "h4",
+          "text": "Payment"
+        },
+        {
+          "tag": "h4",
+          "text": "General Shipping Guidelines"
+        },
+        {
+          "tag": "h4",
+          "text": "Shipping Maps"
+        },
+        {
+          "tag": "h4",
+          "text": "Shipping Methods"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        },
+        {
+          "tag": "h4",
+          "text": "Upload a Print Ready File"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h4",
+          "text": "Let us design your product"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 1 - Choose Choose a product and the size you want"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 2 - Upload Upload the image from your computer"
+        },
+        {
+          "tag": "h3",
+          "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+        },
+        {
+          "tag": "h2",
+          "text": "More About Double-Sided Banners Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Order Your Double-Sided Banner"
+        },
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions Return to Top"
+        },
+        {
+          "tag": "h3",
+          "text": "What is a double-sided (two-sided) banner?"
+        },
+        {
+          "tag": "h3",
+          "text": "How are double-sided banners made (will graphics show through)?"
+        },
+        {
+          "tag": "h3",
+          "text": "Are double-sided banners good for indoor and outdoor use?"
+        },
+        {
+          "tag": "h3",
+          "text": "What is the maximum size you can print?"
+        },
+        {
+          "tag": "h3",
+          "text": "Are double-sided banners printed in full color?"
+        },
+        {
+          "tag": "h3",
+          "text": "Where are your double-sided banners made?"
+        },
+        {
+          "tag": "h3",
+          "text": "What material options are available for double-sided banners?"
+        },
+        {
+          "tag": "h3",
+          "text": "What’s the difference between 13 oz matte, 13 oz gloss, and 18 oz vinyl?"
+        },
+        {
+          "tag": "h3",
+          "text": "What finishing options are available?"
+        },
+        {
+          "tag": "h3",
+          "text": "What pole size fits each pole pocket?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do pole pockets change the finished banner size?"
+        },
+        {
+          "tag": "h3",
+          "text": "How close can text or logos be to the edge with pole pockets?"
+        },
+        {
+          "tag": "h3",
+          "text": "Is there a size limit for finishing double-sided banners?"
+        },
+        {
+          "tag": "h3",
+          "text": "Do you offer wind slits?"
+        },
+        {
+          "tag": "h3",
+          "text": "Can the finished size vary?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Choose Banners.com?"
+        },
+        {
+          "tag": "h4",
+          "text": "Search"
+        }
+      ],
+      "evaluation": {
+        "score": 70,
+        "failedChecks": [
+          {
+            "check": "product_entity",
+            "details": "Entity not found: double-sided banners double"
+          },
+          {
+            "check": "cta_section_rules",
+            "details": [
+              "PRODUCTION TIMES TAB",
+              "SHIPPING GUIDELINES TAB",
+              "ARTWORK TAB"
+            ]
+          },
+          {
+            "check": "generic_headings",
+            "details": "Contains generic headings"
+          }
+        ],
+        "retry": true,
+        "threshold": 85
+      },
+      "contentScore": {
+        "score": 100,
+        "missingEntities": [],
+        "missingHeadings": [],
+        "improvementSuggestions": []
+      },
+      "optimizationAttemptCount": 2,
+      "retryReason": "low_score",
+      "seoRecommendations": "{\"ts\":\"2026-03-05T18:01:22.022Z\",\"level\":\"info\",\"event\":\"metric\",\"agent\":\"pdpAgent\",\"url\":\"https://www.banners.com/double-sided-banners\",\"model\":\"claude-sonnet-4-20250514\",\"tokensIn\":5837,\"tokensOut\":3444,\"promptVersion\":\"unknown\",\"templateVersion\":\"unknown\",\"durationMs\":62341}\n## BEFORE HEADING STRUCTURE\n\n```\nh1: Double-Sided Banners\nh3: Custom Printed Double Sided-Banners\nh4: Three Customizable Double-Sided Banner Materials\nh4: Finishing Options\nh4: Artwork Guidelines\nh4: Artwork/Order Proofs\nh4: Color Match Proof System\nh3: Production Time Tables\nh4: 1 Business Day Priority:\nh4: 2 Business Days Express:\nh4: 3 Business Days Standard:\nh4: 5 Business Days Saver:\nh4: Payment\nh4: General Shipping Guidelines\nh4: Shipping Maps\nh4: Shipping Methods\nh3: Products you might like\nh4: Upload a Print Ready File\nh3: Step 1 - Choose Choose a product and the size you want\nh3: Step 2 - Upload Upload the image from your computer\nh4: Let us design your product\nh3: Step 1 - Choose Choose a product and the size you want\nh3: Step 2 - Upload Upload the image from your computer\nh3: Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!\nh2: More About Double-Sided Banners Return to Top\nh3: How to Order Your Double-Sided Banner\nh2: Frequently Asked Questions Return to Top\nh2: Why Choose Banners.com?\nh4: Search\n```\n\n## AFTER OPTIMIZED STRUCTURE\n\n```\nh1: Custom Double-Sided Banners for Maximum Visibility Marketing\nh2: Premium Vinyl Double-Sided Banner Printing with Custom Sizes & Professional Finishing\nh2: Professional Double-Sided Banner Printing for Indoor & Outdoor Applications\nh2: Premium Vinyl Materials for Double-Sided Banner Durability\nh2: Finishing Options for Double-Sided Banner Installation\nh2: Production Times for Custom Double-Sided Banner Orders\nh2: Payment Options for Double-Sided Banner Printing Services\nh2: Shipping Guidelines for Large Format Double-Sided Banner Orders\nh2: Common Uses for Double-Sided Banner Advertising\nh2: Artwork Requirements for Double-Sided Banner Printing\nh2: Order Your Custom Double-Sided Banner Today\nh2: Frequently Asked Questions\n```\n\n## PRODUCT HEADER\n\n```html\n<h1>Custom Double-Sided Banners for Maximum Visibility Marketing</h1>\n\n<h2>Premium Vinyl Double-Sided Banner Printing with Custom Sizes & Professional Finishing</h2>\n\n<p>Double your exposure with professional double-sided banners from Banners.com. Perfect for ensuring your message is seen from every angle, these premium vinyl banners offer visibility in multiple directions, ideal for high-traffic areas, street advertising, event signage, and storefronts where maximum impact matters.</p>\n```\n\n## CONFIGURATOR LABELS\n\nMaterial Options | Finishing Options | Production Time | Upload Artwork\n\n## PRODUCT OVERVIEW TAB\n\n```html\n<h2>Professional Double-Sided Banner Printing for Indoor & Outdoor Applications</h2>\n\n<p>Our custom double-sided banners maximize your advertising impact by delivering your message from every viewing angle. Constructed using premium vinyl materials, these banners feature true double-sided printing with separate banner layers that are professionally hemmed and bonded back-to-back using heat application and reinforced grommets. This construction method prevents graphic bleed-through while maintaining vivid color clarity on both sides.</p>\n\n<p>Available in sizes up to 6' by 30', our double-sided banners are manufactured and printed in the USA using full-color digital printing technology. Each banner is rated for both indoor and outdoor use, making them perfect for storefronts, trade shows, construction sites, real estate advertising, and street-facing installations where visibility from multiple directions is essential.</p>\n\n<p>Choose from three premium vinyl materials including 13 oz matte, 13 oz gloss, and heavy-duty 18 oz vinyl options. Each material is specifically selected for durability and print quality, ensuring your <a href=\"/vinyl-banners\">vinyl banners</a> maintain their professional appearance in various weather conditions and lighting environments.</p>\n```\n\n## MATERIAL OPTIONS TAB\n\n```html\n<h2>Premium Vinyl Materials for Double-Sided Banner Durability</h2>\n\n<p>Our double-sided banners are available in three professional-grade vinyl materials, each engineered for specific applications and durability requirements. All materials feature excellent ink adhesion and color reproduction for vibrant, long-lasting graphics.</p>\n\n<p><strong>13 oz Matte Vinyl:</strong> Our most popular choice featuring low-glare finish with rich color saturation. Ideal for outdoor applications where readability in various lighting conditions is important. Perfect for storefronts and street advertising.</p>\n\n<p><strong>13 oz Gloss Vinyl:</strong> High-shine finish that produces vibrant, crisp graphics with enhanced color depth. Creates a premium appearance ideal for trade shows, retail displays, and indoor applications where visual impact is priority.</p>\n\n<p><strong>18 oz Heavy-Duty Vinyl:</strong> Our toughest material featuring extra thickness with blockout coating for superior durability. Low-luster finish provides excellent print quality while withstanding harsh weather conditions. Perfect for long-term outdoor installations and <a href=\"/construction-signs\">construction signage</a> applications.</p>\n```\n\n## FINISHING OPTIONS TAB\n\n```html\n<h2>Finishing Options for Double-Sided Banner Installation</h2>\n\n<p>Professional finishing options ensure secure installation and long-term durability for your double-sided banner. We offer reinforced hems with grommets or pole pocket finishing to match your specific mounting requirements.</p>\n\n<p><strong>Reinforced Hems with Grommets:</strong> Heavy-duty hem reinforcement with brass grommets spaced every 2 feet provides secure anchor points for rope, bungee cord, or zip-tie mounting. Ideal for fence installations and temporary displays.</p>\n\n<p><strong>Pole Pocket Options:</strong> Available in 2\", 3\", or 4\" sizes to accommodate different pole diameters. Pole pockets do not increase finished banner dimensions. Recommended to keep text and graphics at least 3 inches from edges when using pole pocket finishing.</p>\n\n<p>We can finish double-sided banners up to 150 square feet. Larger installations require consultation with our production team. Note that pole pockets cannot be combined with reinforced hems, and <a href=\"/custom-signs\">custom signage</a> applications may require specific finishing recommendations.</p>\n```\n\n## PRODUCTION TIMES TAB\n\n```html\n<h2>Production Times for Custom Double-Sided Banner Orders</h2>\n\n<p>Choose from flexible production timelines ranging from 1 to 5 business days to meet your specific deadline requirements. Production time begins once artwork upload is complete and approved.</p>\n\n<p><strong>1 Business Day Priority:</strong> Express turnaround for urgent projects. Orders approved after 5:00 PM CST process the following business day.</p>\n\n<p><strong>2 Business Days Express:</strong> Fast turnaround for time-sensitive campaigns with additional quality control time.</p>\n\n<p><strong>3 Business Days Standard:</strong> Our most popular option balancing speed and cost-effectiveness for most custom banner projects.</p>\n\n<p><strong>5 Business Days Saver:</strong> Cost-effective option for projects with flexible timelines. Production times do not include shipping duration.</p>\n```\n\n## PAYMENT OPTIONS TAB\n\n```html\n<h2>Payment Options for Double-Sided Banner Printing Services</h2>\n\n<p>All double-sided banner orders require payment prior to production start. We accept all major credit cards including Visa, MasterCard, American Express, and Discover for immediate processing and production scheduling.</p>\n\n<p>Check payments are also accepted and must be received before your order enters production. Your credit card will not be charged until you have reviewed and approved your order details, artwork, and specifications.</p>\n\n<p>For large volume orders or corporate accounts, please contact our customer service team at (320) 391-5300 to discuss payment terms and volume pricing options. We also offer detailed invoicing for business accounting requirements and can accommodate purchase order processing for qualified commercial accounts.</p>\n```\n\n## SHIPPING GUIDELINES TAB\n\n```html\n<h2>Shipping Guidelines for Large Format Double-Sided Banner Orders</h2>\n\n<p>Double-sided banners ship via UPS or FedEx depending on size and destination. Standard shipping options include ground service for most banner sizes, with expedited air service available for urgent deliveries.</p>\n\n<p>Large format banners may require freight shipping for oversized dimensions. Shipping costs are calculated based on weight, dimensions, and destination zip code. Most standard-sized banners ship rolled in protective tubes to prevent creasing during transit.</p>\n\n<p>Delivery times vary by shipping method selected and destination. Ground shipping typically takes 2-7 business days depending on distance from our production facility. Expedited shipping options include overnight and 2-day air service for time-critical installations requiring <a href=\"/trade-show-displays\">trade show displays</a> or event signage.</p>\n```\n\n## COMMON USES TAB\n\n```html\n<h2>Common Uses for Double-Sided Banner Advertising</h2>\n\n<p>Double-sided banners excel in applications where visibility from multiple directions maximizes advertising impact. These versatile marketing tools are essential for businesses seeking comprehensive exposure in high-traffic environments.</p>\n\n<p><strong>Retail & Storefront Applications:</strong> Perfect for window displays, sidewalk advertising, and promotional campaigns where foot traffic approaches from multiple directions. Ideal for seasonal sales announcements and grand opening events.</p>\n\n<p><strong>Real Estate & Construction:</strong> Essential for property marketing, construction site identification, and development announcements. Double-sided visibility ensures maximum exposure to passing vehicle and pedestrian traffic.</p>\n\n<p><strong>Events & Trade Shows:</strong> Excellent for booth identification, directional signage, and sponsor recognition where attendees view displays from various angles. Works perfectly with <a href=\"/retractable-banners\">retractable banner stands</a> for portable installations.</p>\n\n<p><strong>Municipal & Government:</strong> Ideal for public announcements, election campaigns, and community event promotion requiring visibility from multiple street approaches.</p>\n```\n\n## ARTWORK TAB\n\n```html\n<h2>Artwork Requirements for Double-Sided Banner Printing</h2>\n\n<p>For optimal print quality, submit artwork as .eps files converted to outlines. We also accept high-resolution .pdf or .jpg files with minimum 150 DPI resolution at actual print size.</p>\n\n<p>Include 0.125\" bleed on all edges and keep important text and graphics at least 0.25\" from finished edges. For pole pocket finishing, maintain 3\" safety margin from pocket edges to prevent text cutoff.</p>\n\n<p>Our professional graphic design team can assist with file preparation, color correction, and artwork optimization. Order proofs are available to verify artwork placement and order specifications before production begins.</p>\n\n<p>Color-critical projects should utilize our Color Match Proof System for precise color reproduction. Contact customer service for color matching requirements and Pantone color specifications for <a href=\"/business-signs\">business signage</a> brand consistency.</p>\n```\n\n## POST-TAB CONTENT\n\n```html\n<h2>Order Your Custom Double-Sided Banner Today</h2>\n\n<p>Ready to maximize your advertising impact with professional double-sided banner printing? Our streamlined ordering process makes it easy to get high-quality banners delivered on your schedule. Simply select your preferred material, finishing options, and production timeline to get started.</p>\n\n<p>Upload your print-ready artwork or work with our design team to create compelling graphics that work effectively on both banner sides. Our experienced customer service representatives are available Monday through Friday, 8AM-4PM CST, to assist with material selection, sizing recommendations, and installation advice.</p>\n\n<p>With over 20 years of banner printing experience, Banners.com delivers consistent quality and reliable service for businesses, organizations, and individuals nationwide. All banners are manufactured in our USA facility using premium materials and state-of-the-art printing equipment.</p>\n\n<p>Questions about your double-sided banner project? Call (320) 391-5300 to speak with a banner specialist who can help optimize your design for maximum visibility and impact.</p>\n```\n\n## FAQ\n\n```html\n<h2>Frequently Asked Questions</h2>\n\n<h3>What is a double-sided banner and how is it constructed?</h3>\n<p>A double-sided banner consists of two separate vinyl banners printed individually and professionally bonded back-to-back using heat application and reinforced grommets. This construction prevents graphic bleed-through while ensuring both sides display vivid, clear graphics. Each side maintains independent design flexibility for maximum marketing impact.</p>\n\n<h3>What sizes are available for double-sided banner printing?</h3>\n<p>We print double-sided banners up to 6' by 30' in custom sizes to meet your specific requirements. Standard sizes are popular for storefronts and events, while custom dimensions work perfectly for unique installation spaces. Vinyl material can vary up to 1/2 inch per linear foot due to temperature sensitivity during production and finishing processes.</p>\n\n<h3>Which vinyl material works best for outdoor double-sided banners?</h3>\n<p>For outdoor applications, we recommend 18 oz heavy-duty vinyl for maximum durability and weather resistance. The blockout coating prevents light penetration while maintaining excellent print quality. 13 oz matte vinyl also performs well outdoors with good color retention and readability in various lighting conditions.</p>\n\n<h3>Can double-sided banners include different graphics on each side?</h3>\n<p>Absolutely! Each side of your double-sided banner can feature completely different designs, messages, or branding. This flexibility allows seasonal messaging, bilingual content, or different promotional offers on each side. Simply provide separate artwork files for each side during the ordering process.</p>\n\n<h3>What finishing options work best for double-sided banner installation?</h3>\n<p>Reinforced hems with grommets provide versatile mounting options for rope, bungee cords, or zip ties. Pole pockets offer clean installations on banner stands or permanent poles. Choose finishing based on your installation method - grommets for temporary mounting and pole pockets for professional permanent displays.</p>\n\n<h3>How do shipping and packaging work for large double-sided banners?</h3>\n<p>Double-sided banners ship rolled in protective tubes to prevent creasing during transit. Large formats may require freight shipping depending on dimensions. We coordinate appropriate shipping methods based on your banner size and delivery timeline. Expedited shipping options are available for urgent installations.</p>\n```"
+    }
+  ],
+  "costReport": {
+    "generatedAt": "2026-03-05T18:01:47.296Z",
+    "baseUrl": "https://banners.com",
+    "domain": "banners.com",
+    "pagesWithClaudeCalls": 1,
+    "totals": {
+      "tokensIn": 5837,
+      "tokensOut": 3444,
+      "estimatedCostUsd": 0.069171
+    },
+    "pages": [
+      {
+        "url": "https://www.banners.com/double-sided-banners",
+        "model": "claude-sonnet-4-20250514",
+        "tokensIn": 5837,
+        "tokensOut": 3444,
+        "estimatedCostUsd": 0.069171,
+        "cached": false
+      }
+    ]
+  },
+  "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\audits\\banners.com-2026-03-05T17-58-44-812Z\\full-site-audit.json",
+  "markdownPath": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\audits\\banners.com-2026-03-05T17-58-44-812Z\\seo-overview.md",
+  "runDir": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\audits\\banners.com-2026-03-05T17-58-44-812Z",
+  "docsFolderPath": "Site Audits/banners.com/2026-03-05T17-58-44-812Z",
+  "summaryDoc": {
+    "docId": "1dbYjlEpzW8s8D9UX5CqOpMniKH-5WJXMTsbr0_KvkPU",
+    "url": "https://docs.google.com/document/d/1dbYjlEpzW8s8D9UX5CqOpMniKH-5WJXMTsbr0_KvkPU",
+    "folderId": "1TS8V0QM1SlLlvJo3n-o-g5LijKgcVa46"
+  },
+  "output": {
+    "rootOutput": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20",
+    "datasetDir": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\dataset",
+    "auditsDir": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\audits",
+    "optimizedDir": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\optimized",
+    "schemasDir": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\schemas",
+    "logsDir": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\logs",
+    "evalsDir": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\evals",
+    "runsDataDir": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\runs",
+    "serpDatasetDir": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\dataset\\serp",
+    "keywordDatasetDir": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\dataset\\keyword-clusters",
+    "linkMapDatasetDir": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\dataset\\link-map",
+    "checkpointPath": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\dataset\\checkpoint.json",
+    "dbPath": "C:\\Users\\Tory\\claude-agent\\output\\site-healthcheck-node20\\runs\\platform.db"
+  }
+}

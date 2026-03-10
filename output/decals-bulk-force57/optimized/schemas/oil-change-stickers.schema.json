@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:31:03.882Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Oil Change Stickers",
+    "description": "Check out our custom oil change stickers that are printed in full-color and easily removable. Oil Change Stickers are completely customizable and can be cut in any shape. Get started on your order today!",
+    "url": "https://www.decals.com/oil-change-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

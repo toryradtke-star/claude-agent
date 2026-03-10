@@ -1,0 +1,200 @@
+{
+  "url": "https://banners.com/accessories/standard-hardware",
+  "productPage": true,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": true,
+    "pricing": true,
+    "schema": false,
+    "heading": true
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 6,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 1931,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Standard Pole Banner Hardware for Indoor & Outdoor Event Displays"
+      },
+      {
+        "tag": "h2",
+        "text": "Durable Bracket Systems for Double-Sided Pole Banners — Ready to Ship"
+      },
+      {
+        "tag": "h2",
+        "text": "Standard Pole Banner Bracket Systems for Short-Term & Event Use"
+      },
+      {
+        "tag": "h3",
+        "text": "Key Features of Standard Pole Banner Hardware"
+      },
+      {
+        "tag": "h3",
+        "text": "When to Choose Standard vs. Wind Deflecting Hardware"
+      },
+      {
+        "tag": "h2",
+        "text": "Material & Durability for Standard Pole Banner Brackets"
+      },
+      {
+        "tag": "h3",
+        "text": "Hardware Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Durability Considerations"
+      },
+      {
+        "tag": "h2",
+        "text": "Finishing & Assembly Options for Pole Banner Hardware"
+      },
+      {
+        "tag": "h3",
+        "text": "Assembly Details"
+      },
+      {
+        "tag": "h3",
+        "text": "Hardware Sizing"
+      },
+      {
+        "tag": "h2",
+        "text": "Production & Turnaround Times for Pole Banner Hardware Orders"
+      },
+      {
+        "tag": "h3",
+        "text": "Estimated Processing Times"
+      },
+      {
+        "tag": "h2",
+        "text": "Payment Options for Standard Pole Banner Hardware"
+      },
+      {
+        "tag": "h3",
+        "text": "Accepted Payment Methods"
+      },
+      {
+        "tag": "h3",
+        "text": "Volume & Bulk Pricing"
+      },
+      {
+        "tag": "h2",
+        "text": "Shipping & Delivery for Pole Banner Bracket Systems"
+      },
+      {
+        "tag": "h3",
+        "text": "Available Shipping Methods"
+      },
+      {
+        "tag": "h3",
+        "text": "Large & Oversized Orders"
+      },
+      {
+        "tag": "h3",
+        "text": "Economy Shipping Notes"
+      },
+      {
+        "tag": "h3",
+        "text": "International Shipping"
+      },
+      {
+        "tag": "h3",
+        "text": "Shipping Policies"
+      },
+      {
+        "tag": "h2",
+        "text": "Common Uses for Standard Pole Banner Hardware"
+      },
+      {
+        "tag": "h3",
+        "text": "Event & Seasonal Displays"
+      },
+      {
+        "tag": "h3",
+        "text": "Municipal & Campus Installations"
+      },
+      {
+        "tag": "h3",
+        "text": "Indoor Applications"
+      },
+      {
+        "tag": "h2",
+        "text": "Artwork & Design Requirements for Pole Banner Printing"
+      },
+      {
+        "tag": "h3",
+        "text": "File Format & Resolution"
+      },
+      {
+        "tag": "h3",
+        "text": "Sizing & Layout Guidelines"
+      },
+      {
+        "tag": "h3",
+        "text": "Design Assistance"
+      },
+      {
+        "tag": "h2",
+        "text": "Order Standard Pole Banner Hardware for Your Next Event"
+      },
+      {
+        "tag": "h3",
+        "text": "Why Customers Choose Banners.com for Pole Banner Hardware"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions About Standard Pole Banner Hardware"
+      },
+      {
+        "tag": "h3",
+        "text": "What is the difference between standard and wind deflecting pole banner hardware?"
+      },
+      {
+        "tag": "h3",
+        "text": "Can standard pole banner hardware be used outdoors?"
+      },
+      {
+        "tag": "h3",
+        "text": "What pole banner sizes does the standard hardware support?"
+      },
+      {
+        "tag": "h3",
+        "text": "Does the hardware support double-sided pole banners?"
+      },
+      {
+        "tag": "h3",
+        "text": "How do I install standard pole banner hardware?"
+      },
+      {
+        "tag": "h3",
+        "text": "Where does standard pole banner hardware ship from?"
+      },
+      {
+        "tag": "h3",
+        "text": "Can I order pole banners and hardware together?"
+      },
+      {
+        "tag": "h3",
+        "text": "What if I need a large quantity of pole banner hardware?"
+      }
+    ],
+    "paragraphCount": 32
+  },
+  "headings": [],
+  "seoRecommendations": "I need to see the actual content of the PDP you want me to optimize. You've provided comprehensive rules and guidelines for optimization, but I don't see the current content that needs to be audited and optimized.\n\nPlease provide:\n\n1. **The current H1/page title**\n2. **The URL slug** (so I can detect the primary product entity)\n3. **All existing headings and content** from the PDP sections:\n   - Product Header\n   - Configurator\n   - Product Overview Tab\n   - Material Options Tab\n   - Finishing Options Tab\n   - Production Times Tab\n   - Payment Options Tab\n   - Shipping Guidelines Tab\n   - Common Uses Tab\n   - Artwork Tab\n   - Post-Tab Content (Before FAQ)\n   - FAQ\n\nOnce you provide the actual PDP content, I'll:\n\n1. **Detect the primary product entity** from the H1/title/URL\n2. **Audit the current heading structure** (BEFORE)\n3. **Create the optimized heading structure** (AFTER)\n4. **Optimize all content sections** according to your rules\n\nPlease paste the current PDP content you want me to optimize."
+}

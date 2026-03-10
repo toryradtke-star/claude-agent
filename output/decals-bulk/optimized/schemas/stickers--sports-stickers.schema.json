@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:00:17.069Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Sports Stickers Sports",
+    "description": "Are you looking for sports stickers for your team? Visit Decals.com to create your own custom sports stickers. Upload your own images or choose from our stock of images and start creating your sticker today.",
+    "url": "https://www.decals.com/stickers/sports-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

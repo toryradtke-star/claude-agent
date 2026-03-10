@@ -1,0 +1,333 @@
+{
+  "url": "https://www.banners.com/postcards",
+  "productPage": false,
+  "pdpSignals": {
+    "urlPattern": false,
+    "htmlCta": false,
+    "pricing": true,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "Postcards – Custom Postcard Printing | Banners.com",
+    "metaDescription": "Design and print custom postcards for business or personal use in minutes. Our postcards a printed in full color on premium cardstock. Available in glossy or matte finish.",
+    "canonical": "https://www.banners.com/postcards",
+    "robots": "index, follow",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 1272,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Custom Postcards"
+      },
+      {
+        "tag": "h3",
+        "text": "Full-Color Postcards"
+      },
+      {
+        "tag": "h4",
+        "text": "Product Specs"
+      },
+      {
+        "tag": "h4",
+        "text": "Artwork"
+      },
+      {
+        "tag": "h4",
+        "text": "Artwork Guidelines"
+      },
+      {
+        "tag": "h4",
+        "text": "Color Match Proof System"
+      },
+      {
+        "tag": "h4",
+        "text": "Production Times"
+      },
+      {
+        "tag": "h3",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h4",
+        "text": "1 Business Day Priority:"
+      },
+      {
+        "tag": "h4",
+        "text": "2 Business Days Express:"
+      },
+      {
+        "tag": "h4",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h4",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h4",
+        "text": "Payment"
+      },
+      {
+        "tag": "h4",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h4",
+        "text": "General Shipping Guidelines"
+      },
+      {
+        "tag": "h4",
+        "text": "Shipping Maps"
+      },
+      {
+        "tag": "h4",
+        "text": "Shipping Methods"
+      },
+      {
+        "tag": "h3",
+        "text": "Business Uses:"
+      },
+      {
+        "tag": "h3",
+        "text": "Personal Uses:"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Custom Postcards Return to Top"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com for Custom Postcards"
+      },
+      {
+        "tag": "h2",
+        "text": "Unmatched Customer Service"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "What size are your personalized postcards?"
+      },
+      {
+        "tag": "h3",
+        "text": "What’s the difference between matte and gloss postcards?"
+      },
+      {
+        "tag": "h3",
+        "text": "How thick are your postcards?"
+      },
+      {
+        "tag": "h3",
+        "text": "How do I design a postcard?"
+      },
+      {
+        "tag": "h3",
+        "text": "What information should I include on a postcard?"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Custom Postcards"
+    },
+    {
+      "tag": "h3",
+      "text": "Full-Color Postcards"
+    },
+    {
+      "tag": "h4",
+      "text": "Product Specs"
+    },
+    {
+      "tag": "h4",
+      "text": "Artwork"
+    },
+    {
+      "tag": "h4",
+      "text": "Artwork Guidelines"
+    },
+    {
+      "tag": "h4",
+      "text": "Color Match Proof System"
+    },
+    {
+      "tag": "h4",
+      "text": "Production Times"
+    },
+    {
+      "tag": "h3",
+      "text": "Production Time Tables"
+    },
+    {
+      "tag": "h4",
+      "text": "1 Business Day Priority:"
+    },
+    {
+      "tag": "h4",
+      "text": "2 Business Days Express:"
+    },
+    {
+      "tag": "h4",
+      "text": "3 Business Days Standard:"
+    },
+    {
+      "tag": "h4",
+      "text": "5 Business Days Saver:"
+    },
+    {
+      "tag": "h4",
+      "text": "Payment"
+    },
+    {
+      "tag": "h4",
+      "text": "Shipping"
+    },
+    {
+      "tag": "h4",
+      "text": "General Shipping Guidelines"
+    },
+    {
+      "tag": "h4",
+      "text": "Shipping Maps"
+    },
+    {
+      "tag": "h4",
+      "text": "Shipping Methods"
+    },
+    {
+      "tag": "h3",
+      "text": "Business Uses:"
+    },
+    {
+      "tag": "h3",
+      "text": "Personal Uses:"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Custom Postcards Return to Top"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com for Custom Postcards"
+    },
+    {
+      "tag": "h2",
+      "text": "Unmatched Customer Service"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "h3",
+      "text": "What size are your personalized postcards?"
+    },
+    {
+      "tag": "h3",
+      "text": "What’s the difference between matte and gloss postcards?"
+    },
+    {
+      "tag": "h3",
+      "text": "How thick are your postcards?"
+    },
+    {
+      "tag": "h3",
+      "text": "How do I design a postcard?"
+    },
+    {
+      "tag": "h3",
+      "text": "What information should I include on a postcard?"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": ""
+}

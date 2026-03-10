@@ -1,0 +1,165 @@
+{
+  "url": "https://www.banners.com/tax-banners",
+  "productPage": true,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": true,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 829,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Custom Tax Service Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Full Color Vinyl Tax Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Tax Service Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Customize Your Income Tax Service Banners | [★★★★★](#product-rvws) [Leave a Review](#product-rvws)"
+      },
+      {
+        "tag": "h3",
+        "text": "Get started on your Tax Service banner by selecting your options:"
+      },
+      {
+        "tag": "h3",
+        "text": "Product Reviews"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Custom Tax Service Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Full Color Vinyl Tax Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Products you might like"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Tax Service Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Customize Your Income Tax Service Banners | [★★★★★](#product-rvws) [Leave a Review](#product-rvws)"
+    },
+    {
+      "tag": "h3",
+      "text": "Get started on your Tax Service banner by selecting your options:"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Reviews"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": "==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\n- h1: Custom Tax Service Banners\n- h3: Full Color Vinyl Tax Banners (should be h2 subtitle)\n- h3: Products you might like (navigational UI - not SEO heading)\n- h4: Upload a Print Ready File (configurator label)\n- h3: Step 1/2/3 (configurator labels - not headings)\n- h4: Let us design your product (configurator label)\n- h2: More About Tax Service Banners (informational - needs optimization)\n- h3: Customize Your Income Tax Service Banners (contains link - against rules)\n- h3: Get started on your Tax Service banner (CTA language in wrong section)\n- h3: Product Reviews (UI element - not SEO heading)\n- h2: Why Choose Banners.com? (company-focused - not product-focused)\n- h4: Search (UI element)\n\nIssues:\n- Missing h2 subtitle after h1\n- Skipped heading levels (h1 to h3)\n- Tool-style headings\n- Missing material and durability language\n- CTA language in wrong sections\n- Links embedded in headings\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\n- h1: Custom Tax Service Banners for Storefront & Seasonal Business Advertising\n- h2: Durable Vinyl Tax Banners with Custom Graphics & Professional Finishing\n- h2: Custom Tax Service Banners for Professional Storefront Display\n- h2: Vinyl Banner Material Options for Tax Service Advertising\n- h2: Professional Finishing Options for Tax Service Banner Installation\n- h2: Tax Service Banner Artwork Requirements & File Specifications\n- h2: Custom Tax Banner Production Times & Rush Options\n- h2: Tax Service Banner Payment & Ordering Methods\n- h2: Shipping Options for Custom Tax Service Banner Delivery\n- h2: Professional Tax Service Banner Applications & Business Uses\n- h2: Order Custom Tax Service Banners for Your Business Today\n- h2: Tax Service Banner Questions & Business Display Solutions\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n# Custom Tax Service Banners for Storefront & Seasonal Business Advertising\n\n## Durable Vinyl Tax Banners with Custom Graphics & Professional Finishing\n\nPASTE INTO:\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nUpload a Print Ready File\n\nChoose a product and the size you want\nUpload the image from your computer\n\nLet us design your product\n\nChoose a product and the size you want\nUpload the image from your computer\nProvide Instructions - Please include any special instructions that our designers should know while putting your project together!\n\nPASTE INTO:\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Tax Service Banners for Professional Storefront Display</h2>\n\n<p>Make the most of tax season with professional vinyl tax service banners designed for maximum visibility and customer attraction. From storefront displays and seasonal advertising to accountant office signage and tax preparation marketing, our custom tax service banners help you stand out during peak business periods and drive more customers to your services.</p>\n\n<p>Here at Banners.com, our goal is to deliver a tax service banner that you're proud to display. That's why we take great care in our craft and work closely with you to bring your vision to reality. One of the ways we do this is through strict quality checks. Our team includes seasoned graphic designers and production experts who have been with us for many years.</p>\n\n<p>We offer a wide selection of custom tax service banners and signage options, including sizes ranging from 1'x1' to 8'x50', unlimited design options in our online designer, and you can even choose production time to ensure your banner is delivered when you need it for tax season.</p>\n\n<p>Your tax service banner is made with durable vinyl materials and printed using state-of-the-art, large-format printers for vibrant colors that attract customers. All banners are manufactured and printed in the USA with professional finishing options for easy installation.</p>\n\nPASTE INTO:\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nMATERIAL OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Vinyl Banner Material Options for Tax Service Advertising</h2>\n\n<p>Your tax service banner is made with the finest materials available for professional business display. We offer six customizable banner materials designed for different installation environments and durability requirements.</p>\n\n<p>All tax service banners are printed using state-of-the-art, large-format printers for vibrant colors that pop and attract customers to your tax services. All banners are manufactured and printed in the USA.</p>\n\n<p>Vinyl is a temperature-sensitive material, and some fluctuation can occur due to heat application in printing, finishing, and outside climate. Please note our acceptable size variance is up to 1/2 inch per linear foot (ex., a 5' banner could finish with a 2.5\" variance).</p>\n\n<p>Material options include standard vinyl for indoor use, heavy-duty vinyl for outdoor installations, mesh vinyl for windy conditions, and fabric options for premium indoor displays.</p>\n\nPASTE INTO:\nMaterial Options Tab\n\n--------------------------------------------------\n\n==================================================\nFINISHING OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Professional Finishing Options for Tax Service Banner Installation</h2>\n\n<p>Professional finishing options ensure your tax service banner is ready for immediate installation and long-lasting display. Choose from multiple finishing methods based on your specific installation requirements and display location.</p>\n\n<p>Standard finishing includes hemmed edges with grommets every 2 feet for easy hanging and professional appearance. Additional options include pole pockets for banner displays, wind slits for outdoor installations, and reinforced corners for high-traffic areas.</p>\n\n<p>All finishing work is completed in-house using professional equipment to ensure consistent quality and durability for your tax service banner investment.</p>\n\nPASTE INTO:\nFinishing Options Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Tax Banner Production Times & Rush Options</h2>\n\n<p>Standard production time for custom tax service banners is 3-5 business days from artwork approval. Rush production options are available for urgent tax season deadlines and last-minute promotional needs.</p>\n\n<p>Production begins once your artwork is approved and payment is processed. Our team will review your tax service banner design and contact you if any adjustments are needed before printing.</p>\n\n<p>Rush options include same-day production for orders placed before noon, next-day production, and 2-day production depending on banner size and complexity.</p>\n\nPASTE INTO:\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nPAYMENT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Tax Service Banner Payment & Ordering Methods</h2>\n\n<p>Multiple payment options are available for your tax service banner investment. We accept major credit cards, PayPal, business checks, and purchase orders for established accounts.</p>\n\n<p>Secure online checkout processes your payment immediately and begins production workflow. Business accounts can establish net payment terms for recurring seasonal banner needs.</p>\n\n<p>All transactions are processed securely with industry-standard encryption for your financial protection.</p>\n\nPASTE INTO:\nPayment Options Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING GUIDELINES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Shipping Options for Custom Tax Service Banner Delivery</h2>\n\n<p>Due to the latest shipping regulations, all vinyl banners that exceed 8 feet in both directions will be folded for shipping. If you do not want your tax service banners folded, please contact us to get a custom freight quote.</p>\n\n<p>Standard shipping options include ground delivery, expedited shipping, and overnight delivery for urgent tax season needs. Large format tax service banners may require freight shipping depending on dimensions.</p>\n\n<p>Tracking information is provided for all shipments so you can monitor delivery progress and plan your banner installation accordingly.</p>\n\nPASTE INTO:\nShipping Guidelines Tab\n\n--------------------------------------------------\n\n==================================================\nCOMMON USES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Professional Tax Service Banner Applications & Business Uses</h2>\n\n<p>Tax service banners are ideal for seasonal business promotion and year-round accounting service advertising. Common applications include storefront displays, office window installations, tax preparation booth signage, and seasonal outdoor advertising.</p>\n\n<p>Professional tax service banners work effectively for CPA offices, H&R Block franchises, independent tax preparers, accounting firms, and seasonal tax services looking to attract more clients during peak filing periods.</p>\n\n<p>Additional uses include trade show displays for tax professionals, community event sponsorship banners, and multi-location franchise advertising for consistent brand presence.</p>\n\nPASTE INTO:\nCommon Uses Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Tax Service Banner Artwork Requirements & File Specifications</h2>\n\n<p>Professional artwork specifications ensure optimal print quality for your tax service banner. Upload print-ready files or work with our design team to create custom graphics that attract customers to your tax services.</p>\n\n<p>Accepted file formats include high-resolution PDF, AI, EPS, and PSD files with embedded fonts and images. Minimum resolution requirements are 150 DPI at actual print size for crisp, professional results.</p>\n\n<p>Our in-house graphic design team can create custom tax service banner artwork or modify existing designs to meet your specific promotional needs and brand requirements.</p>\n\nPASTE INTO:\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Order Custom Tax Service Banners for Your Business Today</h2>\n\n<p>Ready to attract more clients during tax season? Our custom tax service banners provide professional visibility that drives business results. Choose your size, upload your design, and get your banner delivered when you need it.</p>\n\n<p>Did we answer all your questions? If not, please give us a call at <a href=\"tel:13203915300\">(320) 391-5300</a>, and one of our customer service representatives will be more than happy to help you.</p>\n\n<p>Looking for something more specific? <a href=\"https://www.banners.com/quotes\">We can create a custom quote for special projects</a>, unique sizes, and larger quantity orders perfect for multi-location tax service businesses.</p>\n\nPASTE INTO:\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Tax Service Banner Questions & Business Display Solutions</h2>\n\n<h3>What material works best for outdoor tax service banners?</h3>\n<p>Heavy-duty vinyl with UV-resistant inks provides the best durability for outdoor tax service banner installations, withstanding weather while maintaining vibrant colors throughout tax season.</p>\n\n<h3>Can I use the same tax service banner design every year?</h3>\n<p>Yes, classic tax service banner designs can be reordered annually. We can also update phone numbers, addresses, or promotional messaging while keeping your established brand design.</p>\n\n<h3>How long do tax service banners last outdoors?</h3>\n<p>Professional vinyl tax service banners typically last 3-5 years outdoors with proper installation and care, making them a cost-effective investment for seasonal business promotion.</p>\n\n<h3>What size works best for storefront tax service banners?</h3>\n<p>Popular storefront sizes include 3'x8', 4'x8', and 3'x6' depending on your display space. These dimensions provide excellent visibility while fitting standard commercial window and building installations.</p>\n\nPASTE INTO:\nFAQ Tab\n\n--------------------------------------------------"
+}

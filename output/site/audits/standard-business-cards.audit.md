@@ -1,0 +1,218 @@
+# Page Audit
+
+- URL: https://www.banners.com/standard-business-cards
+- Page Type: pdp
+- Product Page: true
+- Word Count: 1500
+- Thin Content: no
+- Internal Links: 122
+- Orphan Risk: no
+- Prompt Version: 2026-03-04.v2
+- Content Score: 100
+
+## SERP Themes
+
+## Keyword Clusters
+- installation: business cards installation printing, business cards installation custom sizes, business cards installation design upload
+- durability: business cards durability printing, business cards durability custom sizes, business cards durability design upload
+- pricing: business cards pricing printing, business cards pricing custom sizes, business cards pricing design upload
+- customization: business cards printing, business cards custom sizes, business cards design upload
+- shipping: business cards shipping printing, business cards shipping custom sizes, business cards shipping design upload
+
+## Suggested Internal Links
+- yard letter and number signs: https://www.banners.com/yard-letter-and-number-signs
+- custom dry erase magnets: https://www.banners.com/custom-dry-erase-magnets
+- truck magnetic signs: https://www.banners.com/truck-magnetic-signs
+- custom car magnets: https://www.banners.com/custom-car-magnets
+- custom fridge magnets: https://www.banners.com/custom-fridge-magnets
+
+## Recommendations
+{"ts":"2026-03-04T22:14:22.437Z","level":"info","event":"metric","agent":"pdpAgent","url":"https://www.banners.com/standard-business-cards","model":"claude-sonnet-4-20250514","tokensIn":4363,"tokensOut":3260,"promptVersion":"unknown","templateVersion":"unknown","durationMs":57515}
+1) BEFORE HEADING STRUCTURE
+
+H1: Business Cards
+H3: Customizable Business Cards
+H4: Product Specs
+H4: Artwork
+H4: Artwork Guidelines
+H4: Color Match Proof System
+H4: Production Times
+H2: Production Time Tables
+H2: 1 Business Day Priority:
+H2: 2 Business Days Express:
+H2: 3 Business Days Standard:
+H2: 5 Business Days Saver:
+H4: Payment
+H4: Shipping
+H4: General Shipping Guidelines
+H4: Shipping Maps
+H4: Shipping Methods
+H4: Upload a Print Ready File
+H3: Step 1 - Choose Choose a product and the size you want
+H3: Step 2 - Upload Upload the image from your computer
+H4: Let us design your product
+H3: Step 1 - Choose Choose a product and the size you want
+H3: Step 2 - Upload Upload the image from your computer
+H3: Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!
+H2: More About Standard Business Cards Return to Top
+H2: Why Choose Banners.com for Standard Business Cards
+H2: Unmatched Customer Service
+H2: Frequently Asked Questions
+H3: What is the standard business card size in the US?
+H3: What's the difference between matte and gloss business cards?
+H3: How thick are your business cards?
+H3: How do I design a business card?
+H3: What information should I include on a business card?
+H2: Why Choose Banners.com?
+H4: Search
+
+2) AFTER OPTIMIZED STRUCTURE
+
+H1: Professional Business Cards & Custom Printing
+H2: Business Cards & Product Overview
+H2: Business Cards & Material Options
+H2: Business Cards & Finishing Options
+H2: Business Cards & Production Times
+H2: Business Cards & Payment Options
+H2: Business Cards & Shipping Guidelines
+H2: Business Cards & Common Uses
+H2: Business Cards & Artwork Requirements
+H2: Professional Business Cards & Benefits
+H2: Frequently Asked Questions
+
+3) PRODUCT HEADER
+
+<div class="product-header">
+<p>Create lasting first impressions with professionally printed business cards designed to showcase your brand. Our high-quality business cards feature premium printing on durable 12.4 pt coverstock with your choice of matte or glossy finishes. Whether you're networking at events, building client relationships, or promoting your business, our custom business cards deliver the professional quality you need to stand out in today's competitive marketplace. See also [yard letter and number signs](https://www.banners.com/yard-letter-and-number-signs).</p>
+</div>
+
+4) CONFIGURATOR LABELS
+
+Size: 2" x 3.5" Standard
+Quantity: Select Amount
+Material: Premium Coverstock
+Finish: Matte or Gloss
+Turnaround: 1-5 Business Days
+
+5) PRODUCT OVERVIEW TAB
+
+<div class="product-overview-tab">
+<h2>Business Cards & Product Overview</h2>
+<p>Our professional business cards are digitally printed on premium 12.4 pt, 120 lb. coverstock paper, delivering exceptional durability and print quality for your networking needs. Each business card features crisp text, vibrant colors, and professional finishing that makes a memorable first impression with clients and prospects.</p>
+
+<p>Available in both matte and glossy finishes, our custom business cards accommodate various design preferences and branding requirements. The matte finish provides an elegant, sophisticated appearance that reduces glare and fingerprints, while our glossy finish offers enhanced color vibrancy and protection against wear.</p>
+
+<p>With flexible production times ranging from 1 to 5 business days, you can choose the turnaround option that best fits your schedule and budget. Our streamlined ordering process includes template design options, file upload capabilities, and professional design assistance to ensure your business cards perfectly represent your brand identity and professional image.</p>
+</div>
+
+6) MATERIAL OPTIONS TAB
+
+<div class="material-options-tab">
+<h2>Business Cards & Material Options</h2>
+<p>Our business cards are printed exclusively on premium 12.4 pt, 120 lb. coverstock paper, providing the ideal balance of durability and professional appearance. This heavyweight paper stock ensures your business cards maintain their shape and quality through repeated handling, networking events, and storage in wallets or cardholders.</p>
+
+<p>The coverstock material features excellent ink absorption properties, resulting in sharp text reproduction and vibrant color saturation that showcases your brand elements effectively. This professional-grade paper stock is specifically chosen for business card applications, offering superior performance compared to standard printing papers.</p>
+
+<p>Our digital printing process on this premium material delivers consistent results across your entire order quantity, ensuring every business card meets our quality standards. The material's smooth surface provides an ideal foundation for both simple text-based designs and complex graphics with multiple colors and design elements.</p>
+</div>
+
+7) FINISHING OPTIONS TAB
+
+<div class="finishing-options-tab">
+<h2>Business Cards & Finishing Options</h2>
+<p>Choose between two professional finishing options to enhance your business cards' appearance and durability. Our matte coating provides a sophisticated, non-reflective surface that reduces glare and fingerprints while offering excellent write-ability for handwritten notes or signatures.</p>
+
+<p>The glossy finish option delivers enhanced color vibrancy and provides additional protection against moisture, wear, and handling. This finish creates a professional shine that makes colors appear more saturated and images more striking, ideal for business cards featuring photography or bold graphics.</p>
+
+<p>Both finishing options are applied during the printing process to ensure consistent coverage and professional results. The protective coating extends the lifespan of your business cards while maintaining their professional appearance through extended use. Consider your brand image and intended use when selecting the finishing option that best represents your professional identity.</p>
+</div>
+
+8) PRODUCTION TIMES TAB
+
+<div class="production-times-tab">
+<h2>Business Cards & Production Times</h2>
+<p>We offer flexible production schedules to meet your business timeline requirements. Choose from 1-day Priority service for urgent needs, 2-day Express for quick turnaround, 3-day Standard (our most popular option), or 5-day Saver for cost-conscious projects.</p>
+
+<p>Production time begins once your artwork is approved and payment is processed. Orders received after 5:00 PM CST are processed the following business day. If your order requires prepress review or proof approval, production time starts from approval confirmation.</p>
+
+<p>Emergency same-day service may be available in select cases. Contact our customer service team at (320) 391-5300 to discuss rush options. Remember that total delivery time includes both production time and shipping duration to your location.</p>
+</div>
+
+9) PAYMENT OPTIONS TAB
+
+<div class="payment-options-tab">
+<h2>Business Cards & Payment Options</h2>
+<p>All business card orders require payment before production begins to ensure timely processing. We accept major credit cards including Visa, MasterCard, American Express, and Discover for immediate order processing and quick production turnaround.</p>
+
+<p>Check payments are also accepted but must be received and cleared before your order enters production. For detailed information about check payment processing and timing, please contact our customer service team or review our payment policies.</p>
+
+<p>Your credit card will not be charged until you have reviewed and approved your order details. This approval process ensures accuracy and gives you final control over your business card specifications before production begins. For large orders or corporate accounts, please contact us to discuss additional payment arrangements.</p>
+</div>
+
+10) SHIPPING GUIDELINES TAB
+
+<div class="shipping-guidelines-tab">
+<h2>Business Cards & Shipping Guidelines</h2>
+<p>Standard shipping via UPS Ground provides 1-3 day delivery to 90% of the United States. Expedited shipping options include Overnight, Two Day, and Three Day service for time-sensitive orders. You'll receive tracking information once your business cards ship.</p>
+
+<p>Shipping costs are calculated based on package weight and destination. International orders require customer-provided shipping labels and customs documentation through USPS or UPS services only. For questions about international shipping, contact our customer service team.</p>
+
+<p>Economy shipping adds 5-10 additional days depending on destination and should include P.O. Box information in the "Address Two" field during checkout. All shipments follow carrier terms and conditions for delays or damage. Our Minnesota facility produces all standard business cards with shipping times calculated from this location.</p>
+</div>
+
+11) COMMON USES TAB
+
+<div class="common-uses-tab">
+<h2>Business Cards & Common Uses</h2>
+<p>Professional business cards serve multiple purposes across various business situations. Networking events, trade shows, and conferences provide prime opportunities to distribute business cards and establish new professional connections with potential clients, partners, and industry contacts.</p>
+
+<p>Sales meetings, client presentations, and follow-up communications benefit from professional business cards that reinforce your brand identity. Restaurant owners, real estate professionals, contractors, and service providers rely on business cards for referral marketing and customer retention strategies.</p>
+
+<p>Consider pairing your business cards with other promotional materials like <a href="https://www.banners.com/custom-fridge-magnets">custom fridge magnets</a> for lasting brand visibility or <a href="https://www.banners.com/custom-car-magnets">custom car magnets</a> for mobile advertising. Professional business cards remain essential tools for face-to-face marketing and relationship building across all industries and business types.</p>
+</div>
+
+12) ARTWORK TAB
+
+<div class="artwork-tab">
+<h2>Business Cards & Artwork Requirements</h2>
+<p>Submit vector-based files like .eps with fonts converted to outlines for optimal print quality. High-resolution .pdf and .jpg files (300 DPI minimum) also produce excellent results when properly prepared for printing specifications.</p>
+
+<p>Include 1/8" bleed on all sides when designing your business cards. Final trimmed size will be 2.00" x 3.50" with the design area extending to 2.25" x 3.75" including bleed. This ensures complete coverage during the cutting process.</p>
+
+<p>Our professional graphic designers provide design assistance for $60 per hour if you need help creating or optimizing your artwork. For color-critical projects, consider our Color Match Proof System to ensure accurate color reproduction. Upload files must be 60 MB or smaller, or contact us for larger file transfer instructions.</p>
+</div>
+
+13) POST-TAB CONTENT
+
+<div class="post-tab-content">
+<h2>Professional Business Cards & Benefits</h2>
+<p>Investing in professionally printed business cards demonstrates attention to detail and commitment to quality that clients and prospects notice. Our premium printing process and materials create business cards that reflect your professional standards and brand values effectively.</p>
+
+<p>With over 20 years of printing experience, Banners.com delivers consistent quality and reliable service for businesses nationwide. Our streamlined ordering process, flexible production times, and professional customer support ensure your business card project exceeds expectations from design to delivery.</p>
+
+<p>Beyond business cards, consider expanding your promotional materials with <a href="https://www.banners.com/yard-letter-and-number-signs">yard letter and number signs</a> for location-based marketing or <a href="https://www.banners.com/truck-magnetic-signs">truck magnetic signs</a> for mobile advertising. Professional business cards form the foundation of effective networking and brand representation in today's competitive business environment.</p>
+</div>
+
+14) FAQ
+
+<div class="faq-section">
+<h2>Frequently Asked Questions</h2>
+
+<h3>What is the standard business card size in the US?</h3>
+<p>The standard US business card size is 2" x 3.5" (finished size), which we print with a 2.25" x 3.75" design area including bleed. This size fits perfectly in standard business card holders, wallets, and networking accessories. Our templates are pre-sized to these specifications for easy design setup.</p>
+
+<h3>What's the difference between matte and gloss business cards?</h3>
+<p>Matte business cards feature a non-reflective coating that reduces glare and fingerprints while allowing easy writing on the surface. Glossy cards have a shiny finish that enhances color vibrancy and provides additional protection against moisture. Choose based on your design style and intended use.</p>
+
+<h3>How thick are your business cards?</h3>
+<p>Our business cards are printed on 12.4 pt, 120 lb. coverstock, providing substantial thickness and durability that feels professional in hand. This premium paper weight prevents bending and maintains shape through repeated handling, storage, and networking use while projecting quality and attention to detail.</p>
+
+<h3>Can I get same-day printing for business cards?</h3>
+<p>Emergency same-day service may be available in select cases depending on order complexity and current production schedule. Contact our customer service team at (320) 391-5300 before 12 PM CST to discuss same-day options. Our standard 1-day Priority service provides reliable next-business-day completion for most orders.</p>
+
+<h3>What file formats work best for business card printing?</h3>
+<p>Vector files like .eps with fonts converted to outlines provide the highest print quality. High-resolution .pdf and .jpg files (300 DPI minimum) also work well when properly prepared. Include 1/8" bleed and keep files under 60 MB for smooth upload processing and optimal print results.</p>
+
+<h3>Do you offer design help for business cards?</h3>
+<p>Yes, our professional graphic designers provide design assistance for $60 per hour. We can help create new designs, optimize existing artwork, or ensure your files meet printing specifications. You'll receive email proofs for approval before production begins, ensuring your business cards meet your exact requirements.</p>
+</div>

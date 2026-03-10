@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:04:05.428Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Bottle Labels Bottle",
+    "description": "Transform your product or bottled party item into something that will make your item unique to who you are or what your business stands for with bottle labels.",
+    "url": "https://www.decals.com/labels/custom-bottle-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

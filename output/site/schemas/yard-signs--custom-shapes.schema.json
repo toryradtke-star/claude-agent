@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Your Yard Sign",
+  "description": "Order custom shaped yard signs from Banners.com. From fun shapes to practical ones, we've got you covered. Promote a Birthday party, baby shower or construction business.",
+  "url": "https://www.banners.com/yard-signs/custom-shapes",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

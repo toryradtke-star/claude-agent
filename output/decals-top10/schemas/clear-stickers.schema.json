@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "1",
+  "promptVersion": "unknown",
+  "model": "claude-3-5-haiku-latest",
+  "createdAt": "2026-03-05T22:02:45.473Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Clear Stickers Clear",
+    "description": "Clear stickers work very well for sharing hours of operation, logos or lettering on your business storefront. Order transparent stickers from Decals.com!",
+    "url": "https://www.decals.com/clear-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

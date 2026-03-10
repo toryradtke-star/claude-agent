@@ -1,0 +1,210 @@
+{
+  "summary": {
+    "totalPages": 10,
+    "pageTypes": {
+      "pdp": 7,
+      "blog": 3
+    },
+    "thinPages": 0,
+    "weakInternalLinkPages": 0,
+    "missingMetaPages": 0,
+    "serpAnalyzedPages": 10,
+    "keywordClusteredPages": 10,
+    "internalLinkRecommendations": 0
+  },
+  "contentGaps": [],
+  "internalLinkOpportunities": [],
+  "pillarPageRecommendations": [
+    "Create pillar pages for each high-volume product family and link child PDPs.",
+    "Build comparison hubs between adjacent product types to support cross-linking.",
+    "Standardize template-level FAQ + specification blocks on top revenue PDPs."
+  ],
+  "missingCategoryPages": [
+    "Long-tail category pages by use-case intent (event, construction, retail).",
+    "Material-specific category collections for high-value terms.",
+    "Shipping/turnaround-focused category hubs for urgent-order intent."
+  ],
+  "keywordGaps": [
+    {
+      "url": "https://www.decals.com/adhesive-wallpaper",
+      "topic": "installation",
+      "missingKeywords": [
+        "adhesive wallpaper create installation printing",
+        "adhesive wallpaper create installation custom sizes",
+        "adhesive wallpaper create installation design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/adhesive-wallpaper",
+      "topic": "durability",
+      "missingKeywords": [
+        "adhesive wallpaper create durability printing",
+        "adhesive wallpaper create durability custom sizes",
+        "adhesive wallpaper create durability design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/adhesive-wallpaper",
+      "topic": "pricing",
+      "missingKeywords": [
+        "adhesive wallpaper create pricing printing",
+        "adhesive wallpaper create pricing custom sizes",
+        "adhesive wallpaper create pricing design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/adhesive-wallpaper",
+      "topic": "customization",
+      "missingKeywords": [
+        "adhesive wallpaper create printing",
+        "adhesive wallpaper create custom sizes",
+        "adhesive wallpaper create design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/adhesive-wallpaper",
+      "topic": "shipping",
+      "missingKeywords": [
+        "adhesive wallpaper create shipping printing",
+        "adhesive wallpaper create shipping custom sizes",
+        "adhesive wallpaper create shipping design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/3m-control-tac",
+      "topic": "installation",
+      "missingKeywords": [
+        "3m controltac vinyl installation printing",
+        "3m controltac vinyl installation custom sizes",
+        "3m controltac vinyl installation design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/3m-control-tac",
+      "topic": "durability",
+      "missingKeywords": [
+        "3m controltac vinyl durability printing",
+        "3m controltac vinyl durability custom sizes",
+        "3m controltac vinyl durability design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/3m-control-tac",
+      "topic": "pricing",
+      "missingKeywords": [
+        "3m controltac vinyl pricing printing",
+        "3m controltac vinyl pricing custom sizes",
+        "3m controltac vinyl pricing design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/3m-control-tac",
+      "topic": "customization",
+      "missingKeywords": [
+        "3m controltac vinyl custom sizes",
+        "3m controltac vinyl design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/3m-control-tac",
+      "topic": "shipping",
+      "missingKeywords": [
+        "3m controltac vinyl shipping printing",
+        "3m controltac vinyl shipping custom sizes",
+        "3m controltac vinyl shipping design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/custom-car-magnet",
+      "topic": "installation",
+      "missingKeywords": [
+        "car magnets car installation printing",
+        "car magnets car installation custom sizes",
+        "car magnets car installation design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/custom-car-magnet",
+      "topic": "durability",
+      "missingKeywords": [
+        "car magnets car durability printing",
+        "car magnets car durability custom sizes",
+        "car magnets car durability design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/custom-car-magnet",
+      "topic": "pricing",
+      "missingKeywords": [
+        "car magnets car pricing printing",
+        "car magnets car pricing custom sizes",
+        "car magnets car pricing design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/custom-car-magnet",
+      "topic": "customization",
+      "missingKeywords": [
+        "car magnets car printing",
+        "car magnets car custom sizes",
+        "car magnets car design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/custom-car-magnet",
+      "topic": "shipping",
+      "missingKeywords": [
+        "car magnets car shipping printing",
+        "car magnets car shipping custom sizes",
+        "car magnets car shipping design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/clear-stickers",
+      "topic": "installation",
+      "missingKeywords": [
+        "clear stickers clear installation printing",
+        "clear stickers clear installation custom sizes",
+        "clear stickers clear installation design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/clear-stickers",
+      "topic": "durability",
+      "missingKeywords": [
+        "clear stickers clear durability printing",
+        "clear stickers clear durability custom sizes",
+        "clear stickers clear durability design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/clear-stickers",
+      "topic": "pricing",
+      "missingKeywords": [
+        "clear stickers clear pricing printing",
+        "clear stickers clear pricing custom sizes",
+        "clear stickers clear pricing design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/clear-stickers",
+      "topic": "customization",
+      "missingKeywords": [
+        "clear stickers clear printing",
+        "clear stickers clear custom sizes",
+        "clear stickers clear design upload"
+      ]
+    },
+    {
+      "url": "https://www.decals.com/clear-stickers",
+      "topic": "shipping",
+      "missingKeywords": [
+        "clear stickers clear shipping printing",
+        "clear stickers clear shipping custom sizes",
+        "clear stickers clear shipping design upload"
+      ]
+    }
+  ],
+  "internalLinkImprovements": [],
+  "recommendedBlogTopics": []
+}

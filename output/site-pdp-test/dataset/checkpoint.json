@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "updatedAt": "2026-03-04T22:23:32.103Z",
+  "pages": {
+    "https://www.banners.com/double-sided-banners": {
+      "status": "done",
+      "runAt": "2026-03-04T22:21:11.833Z",
+      "skipped": false,
+      "outputPath": "C:\\Users\\Tory\\claude-agent\\output\\site-pdp-test\\optimized\\double-sided-banners.optimized.html",
+      "evalPath": "C:\\Users\\Tory\\claude-agent\\output\\site-pdp-test\\evals\\double-sided-banners.eval.json",
+      "scorePath": "C:\\Users\\Tory\\claude-agent\\output\\site-pdp-test\\evals\\double-sided-banners.score.json",
+      "optimizationAttemptCount": 2,
+      "retryReason": "low_score",
+      "lastContentHash": "cf1135dd0e3ed643ef452db637e15d7923bc0617ab7d85223a33b7f4d8d69d61",
+      "lastRunAt": "2026-03-04T22:23:32.103Z"
+    }
+  }
+}

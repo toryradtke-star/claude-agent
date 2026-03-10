@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:46:05.507Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Flag Stickers Flag",
+    "description": "Display your pride with our durable, weather-resistant flag stickers. Perfect for cars, laptops, and more. Customize your flag sticker to represent your unique identity.",
+    "url": "https://www.decals.com/flag-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

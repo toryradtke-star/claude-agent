@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/custom-car-magnets",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4788,
+    "output_tokens": 3454
+  },
+  "durationMs": 65097
+}

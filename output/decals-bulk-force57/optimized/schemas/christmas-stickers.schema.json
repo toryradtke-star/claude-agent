@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:25:06.562Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Christmas Stickers Christmas",
+    "description": "Turn your Christmas spirit into fun, festive stickers at Decals.com. Our Christmas stickers are 100% customizable; simply upload your design or work with our professional graphic designers to get the Christmas stickers you desire.",
+    "url": "https://www.decals.com/christmas-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

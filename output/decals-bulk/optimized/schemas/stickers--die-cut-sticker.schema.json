@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:55:14.588Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Die-Cut Stickers Die-Cut",
+    "description": "Elevate your style with custom Die-Cut Stickers! Perfect for businesses, events, or personal flair on a wide range of surfaces.",
+    "url": "https://www.decals.com/stickers/die-cut-sticker",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

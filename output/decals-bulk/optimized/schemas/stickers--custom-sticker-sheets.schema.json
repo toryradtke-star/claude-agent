@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:57:53.683Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Sticker Sheets Sticker",
+    "description": "Tired of ordering boring stickers that aren't unique? Fret no more. With custom cut sticker sheets, create any kind of sticker, in any shape you want. Just upload your artwork or work with one of our designers to get started today!",
+    "url": "https://www.decals.com/stickers/custom-sticker-sheets",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

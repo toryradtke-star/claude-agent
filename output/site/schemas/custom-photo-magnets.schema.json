@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Photo Magnets Photo",
+  "description": "Create custom photo magnets to showcase memories, promote your brand, or give as personalized gifts. High-quality, durable, and easy to customize online.",
+  "url": "https://www.banners.com/custom-photo-magnets",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

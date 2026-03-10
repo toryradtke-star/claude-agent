@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "evaluatePdpOutput",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:55:59.875Z",
+  "data": {
+    "score": 52,
+    "failedChecks": [
+      {
+        "check": "required_sections",
+        "details": [
+          "MATERIAL OPTIONS TAB",
+          "FINISHING OPTIONS TAB",
+          "SHIPPING GUIDELINES TAB"
+        ]
+      },
+      {
+        "check": "product_entity",
+        "details": "Entity not found: car stickers car"
+      },
+      {
+        "check": "cta_section_rules",
+        "details": [
+          "PRODUCTION TIMES TAB"
+        ]
+      },
+      {
+        "check": "generic_headings",
+        "details": "Contains generic headings"
+      },
+      {
+        "check": "overview_length",
+        "details": "Overview section out of range"
+      }
+    ],
+    "retry": true,
+    "threshold": 85
+  }
+}

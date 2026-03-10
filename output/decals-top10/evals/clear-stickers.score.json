@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "contentScorer",
+  "runId": "1",
+  "promptVersion": "unknown",
+  "model": "claude-3-5-haiku-latest",
+  "createdAt": "2026-03-05T22:02:45.475Z",
+  "data": {
+    "score": 95,
+    "missingEntities": [],
+    "missingHeadings": [],
+    "improvementSuggestions": []
+  }
+}

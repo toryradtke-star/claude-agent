@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/banner-stands/simpo-sign",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 3345,
+    "output_tokens": 3416
+  },
+  "durationMs": 65575
+}

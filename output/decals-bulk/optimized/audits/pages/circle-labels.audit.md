@@ -1,0 +1,9 @@
+# Page Audit
+
+- URL: https://www.decals.com/circle-labels
+- Page Type: blog
+- Product Page: false
+- Score: n/a
+
+## Recommendations
+<h1>Circle Labels - Create Custom Circle Labels | Decals.com</h1><p>Strengthen topical depth with structured H2 sections. Add contextual links to related PDPs and categories. Add a clear conversion bridge near conclusion. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>

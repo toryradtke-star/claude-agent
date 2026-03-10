@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:28:05.676Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Helmet Stickers Helmet",
+    "description": "Design your custom helmet stickers at Decals.com. Stickers for helmets are available in full color, digitally printed and can be cut to almost any shape. Order today!",
+    "url": "https://www.decals.com/helmet-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

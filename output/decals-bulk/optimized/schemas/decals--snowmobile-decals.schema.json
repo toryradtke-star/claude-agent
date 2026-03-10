@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:53:16.037Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Snowmobile Decals Snowmobile",
+    "description": "Make custom snowmobile decals at Decals.com! Durable, yet stylish custom decals come in full color and almost any shape you need! Print snowmobile registration decals and more!",
+    "url": "https://www.decals.com/decals/snowmobile-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

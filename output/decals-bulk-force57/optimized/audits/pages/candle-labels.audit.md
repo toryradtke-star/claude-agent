@@ -1,0 +1,326 @@
+# Page Audit
+
+- URL: https://www.decals.com/candle-labels
+- Page Type: blog
+- Product Page: true
+- Score: 52
+
+## Recommendations
+{"ts":"2026-03-06T16:24:56.630Z","level":"info","event":"metric","agent":"pdpAgent","url":"https://www.decals.com/candle-labels","model":"claude-sonnet-4-20250514","tokensIn":24844,"tokensOut":4275,"promptVersion":"unknown","templateVersion":"unknown","durationMs":89675}
+==================================================
+BEFORE HEADING STRUCTURE
+==================================================
+
+H1: Custom Candle Labels
+H3: Create One-of-a-Kind Candle Labels!
+H3: Design Methods
+H3: Payment
+H3: Live Order Tracking
+H3: Production Time Tables
+H3: 1 Business Day Priority:
+H3: 2 Business Days Express:
+H3: 3 Business Days Standard:
+H3: 5 Business Days Saver:
+H3: Die Cut Labels VS. Kiss Cut Labels
+H3: Die-Cut
+H3: Kiss-Cut
+H3: Custom Label Artwork Specifications
+H3: Preferred Files for Printing
+H3: Additional Files Accepted
+H3: File Tips
+H3: Vector Art
+H3: Raster Art
+H3: Design Services
+H3: Shipping
+H3: Shipping Methods:
+H3: Important Economy Shipping Notes:
+H3: National and International Shipping Notes:
+H2: More About Labels for Candles
+H2: Why Choose Decals.com?
+H2: Frequently Asked Questions
+
+==================================================
+AFTER OPTIMIZED STRUCTURE
+==================================================
+
+H1: Custom Candle Labels
+H2: Design Your Custom Candle Labels Online
+H2: Candle Label Ordering & Design Process
+H2: Candle Label Production & Turnaround Times
+H2: Candle Label Cut Options & Backing Types
+H2: Candle Label Artwork Requirements & File Setup
+H2: Candle Label Shipping & Delivery Options
+H2: Candle Label Application & Installation Guide
+H2: What Are Candle Labels?
+H2: Custom Candle Label FAQs
+
+==================================================
+PRODUCT HEADER
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h1>Custom Candle Labels</h1>
+<h2>Professional Candle Labels for Handmade & Commercial Candles</h2>
+
+Product Title / Subtitle Section
+
+--------------------------------------------------
+
+==================================================
+CONFIGURATOR LABELS
+==================================================
+
+COPY EVERYTHING BELOW
+
+Size Options
+Material Type
+Quantity
+Cut Style
+Production Speed
+
+Configurator Labels
+
+--------------------------------------------------
+
+==================================================
+PRODUCT OVERVIEW TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Design Your Custom Candle Labels Online</h2>
+
+<p>Create professional candle labels that showcase your brand and comply with labeling requirements. Our high-quality vinyl candle labels are perfect for handmade candles, commercial candle lines, and artisan candle makers looking to enhance their product presentation. See also [rectangle label sheets](https://www.decals.com/labels/label-sheets/rectangle-label-sheets).</p>
+
+<p>Choose from multiple design options including our user-friendly online design tool or upload your own artwork. Each candle label is printed on durable vinyl material that resists heat, moisture, and handling while maintaining vibrant colors and sharp text clarity.</p>
+
+<p>Available in various shapes and sizes, our <a href="https://www.decals.com/rounded-corner-labels">rounded corner labels</a> and traditional rectangle formats accommodate different candle jar styles and branding needs. Whether you're creating luxury candle labels or rustic artisan designs, our printing process delivers professional results that help your candles stand out in retail environments.</p>
+
+Product Overview Tab
+
+--------------------------------------------------
+
+==================================================
+ORDER PROCESS TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Candle Label Ordering & Design Process</h2>
+
+<p>Ordering custom candle labels involves three simple steps that ensure you receive exactly what you need for your candle business. Our streamlined process accommodates both design novices and experienced candle makers with professional artwork ready for production.</p>
+
+<h3>Design Process</h3>
+<p>Start by selecting your preferred candle label size and material options. Use our online design tool to create labels from scratch by uploading your logo, adding text, and selecting colors that match your brand. Alternatively, upload a complete design file if you already have finished artwork prepared by a graphic designer.</p>
+
+<p>Our design interface includes templates specifically created for candle labels, making it easy to incorporate required product information, ingredient lists, and safety warnings that comply with candle labeling standards.</p>
+
+<h3>Payment</h3>
+<p>All candle label orders require full payment before production begins. We accept major credit cards including Visa, Mastercard, American Express, and Discover. Check payments are also accepted but must be received and cleared before your labels enter the production queue.</p>
+
+<h3>Live Order Tracking</h3>
+<p>After placing your candle label order, you'll receive a unique tracking number that allows you to monitor your order's progress through every production stage. Our Live Order Tracking system provides real-time updates from design approval through final shipping, giving you complete visibility into your order status.</p>
+
+Order Process Tab
+
+--------------------------------------------------
+
+==================================================
+PRODUCTION TIMES TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Candle Label Production & Turnaround Times</h2>
+
+<p>Our flexible production schedule offers multiple turnaround options to meet your candle business timeline requirements. Production time begins after artwork approval and payment processing, with shipping time calculated separately from manufacturing duration.</p>
+
+<h3>1 Business Day Priority Production</h3>
+<p>Perfect for urgent candle label needs or last-minute orders. Orders approved after 5:00 PM CST begin production the following business day. Emergency same-day production may be available in select cases - contact our customer service team for availability confirmation.</p>
+
+<h3>2 Business Days Express Production</h3>
+<p>Ideal balance of speed and cost-effectiveness for candle makers needing quick turnaround. Orders approved after 5:00 PM CST start production the next business day, with completion typically within two full production days.</p>
+
+<h3>3 Business Days Standard Production</h3>
+<p>Our most popular production option offering excellent value for standard candle label orders. This timeline works well for most candle businesses planning inventory and product launches without rushing the manufacturing process.</p>
+
+<h3>5 Business Days Saver Production</h3>
+<p>Cost-effective option for candle makers planning ahead or ordering labels for seasonal production runs. This extended timeline allows for the most economical pricing while still maintaining our quality standards.</p>
+
+<p>Production time calculations exclude weekends and holidays. If artwork requires revision or approval is pending, production begins from the time final approval is received rather than initial order placement.</p>
+
+Production Times Tab
+
+--------------------------------------------------
+
+==================================================
+CUT OPTIONS TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Candle Label Cut Options & Backing Types</h2>
+
+<p>Understanding candle label cutting options helps you choose the right format for your application method and aesthetic preferences. Each cut style affects how your labels separate from backing material and appear on your candle containers.</p>
+
+<h3>Die-Cut Candle Labels</h3>
+<p>Die-cut processing removes both the vinyl label material and paper backing around your design, creating individually separated labels with no excess material. This cutting method works like a cookie cutter, following your design's exact contours for a clean, professional appearance on round, square, or uniquely shaped candle containers.</p>
+
+<p>Die-cut candle labels provide the most streamlined application process since each label is completely separated and ready for immediate placement. Back slit options are available on standard and permanent adhesive materials for easier peeling and application.</p>
+
+<h3>Kiss-Cut Candle Labels</h3>
+<p>Kiss-cut processing cuts through only the vinyl layer while leaving the paper backing intact, creating a border of backing material around each label. This method makes label removal from the backing sheet easier, particularly beneficial when applying multiple candle labels in production environments.</p>
+
+<p>The extra backing material provides a convenient grip area during application, reducing the chance of damaging delicate label areas or leaving fingerprints on the finished candle label surface.</p>
+
+Cut Options Tab
+
+--------------------------------------------------
+
+==================================================
+ARTWORK TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Candle Label Artwork Requirements & File Setup</h2>
+
+<p>Proper artwork preparation ensures your candle labels print with optimal quality and color accuracy. Our file specifications accommodate both professional design software and standard image formats commonly used in candle making businesses.</p>
+
+<h3>Preferred File Types</h3>
+<p>Adobe Illustrator EPS files and PDF formats provide the highest quality results for candle label printing. These vector-based formats maintain crisp edges and text clarity at any size while supporting CMYK color profiles that match our printing capabilities. Convert all fonts to outlines before submitting to prevent font substitution issues.</p>
+
+<h3>Additional File Formats</h3>
+<p>High-resolution JPG, TIFF, and PNG files are acceptable for candle labels featuring photographic elements or raster-based designs. Submit these files at 300 DPI resolution for full-size output, or proportionally higher resolution for scaled submissions.</p>
+
+<h3>File Setup Tips</h3>
+<p>Create artwork at the exact dimensions of your ordered candle label size to ensure proper scaling and positioning. Include bleed areas only when designs extend to label edges, and clearly indicate cut lines for custom shapes or <a href="https://www.decals.com/clear-stickers">clear stickers</a> integration.</p>
+
+<p>Avoid flattening layers in Photoshop files, and convert all text elements to outlined shapes to prevent font compatibility issues during production. Our maximum file size limit is 100 MB for uploaded artwork files.</p>
+
+<h3>Vector vs Raster Guidelines</h3>
+<p>Vector artwork excels for candle labels featuring text, logos, and geometric designs that require sharp edges at any size. Raster images work best for photographic candle label elements but require sufficient resolution to prevent pixelation during printing.</p>
+
+Artwork Tab
+
+--------------------------------------------------
+
+==================================================
+SHIPPING TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Candle Label Shipping & Delivery Options</h2>
+
+<p>Shipping timeframes for candle labels are calculated separately from production time, beginning after your labels complete manufacturing and quality inspection. We offer multiple shipping speeds to accommodate different delivery requirements and budgets.</p>
+
+<h3>Shipping Methods</h3>
+<p>Standard ground shipping provides economical delivery for most candle label orders, typically arriving within 3-7 business days depending on your location. Express shipping options including 2-day and overnight delivery are available for urgent candle production schedules or time-sensitive product launches.</p>
+
+<p>We utilize major shipping carriers including UPS, FedEx, and USPS to ensure reliable delivery throughout the continental United States. Tracking information is provided automatically once your candle labels ship from our facility.</p>
+
+<h3>Shipping Time Expectations</h3>
+<p>Ground shipping typically requires 3-7 business days for delivery after your candle labels ship. Express 2-day service guarantees delivery within two business days, while overnight shipping ensures next-day delivery to most locations when shipped before carrier cutoff times.</p>
+
+<h3>Important Shipping Notes</h3>
+<p>Shipping time calculations exclude weekends and holidays for all delivery methods. Remote or rural delivery locations may require additional transit time regardless of selected shipping method. International shipping is available to most countries with extended delivery timeframes and potential customs delays.</p>
+
+<p>Large quantity candle label orders may require freight shipping depending on total package weight and dimensions. Our customer service team will coordinate appropriate shipping methods for <a href="https://www.decals.com/bulk-order-stickers">bulk order stickers</a> and high-volume label productions.</p>
+
+Shipping Tab
+
+--------------------------------------------------
+
+==================================================
+INSTALLATION TAB
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Candle Label Application & Installation Guide</h2>
+
+<p>Proper candle label application ensures optimal adhesion, durability, and professional appearance on various candle container materials. Follow these application steps for best results on glass jars, metal tins, and other candle container surfaces.</p>
+
+<h3>Preparing the Surface</h3>
+<p>Clean candle container surfaces thoroughly with rubbing alcohol or degreasing solution to remove manufacturing residues, fingerprints, and dust particles. Allow surfaces to dry completely before label application. Room temperature application (65-75°F) provides optimal adhesive performance for most candle label materials.</p>
+
+<p>Ensure candle containers are at room temperature rather than cold from storage, as temperature differences can affect initial adhesive bonding and long-term label durability.</p>
+
+<h3>Applying Candle Labels</h3>
+<p>Position labels carefully before making contact with the container surface, as repositioning may reduce adhesive strength. For curved containers, apply labels gradually from one edge to prevent air bubbles, using a smooth tool or credit card to press out air pockets as you work across the label surface.</p>
+
+<p>Apply firm, even pressure across the entire candle label surface to ensure complete adhesive contact. Pay particular attention to label edges and corners, which experience the most stress during handling and use.</p>
+
+<h3>Removing Transfer Tape</h3>
+<p>If your candle labels include transfer tape for multi-layer designs, remove the tape slowly at a 45-degree angle after the label has adhered to the container. If label elements lift with the transfer tape, press the label down firmly and attempt removal again at a different angle.</p>
+
+<p>Allow newly applied candle labels to cure for 24-48 hours before subjecting them to temperature changes, moisture, or handling stress. This curing period ensures maximum adhesive bond strength for long-term durability.</p>
+
+Installation Tab
+
+--------------------------------------------------
+
+==================================================
+POST-TAB CONTENT
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>What Are Candle Labels?</h2>
+
+<p>Candle labels are adhesive vinyl stickers designed specifically for application on candle containers, jars, and packaging. Made from durable vinyl material with strong adhesive backing, these labels withstand the heat generated during candle burning while maintaining their appearance and readability. Candle labels serve multiple purposes including brand identification, product information display, safety warnings, and regulatory compliance for commercial candle sales.</p>
+
+<p>Order professional candle labels that enhance your candle business branding while meeting industry labeling requirements. Our custom printing process delivers vibrant colors and sharp text that help your candle products stand out in competitive retail environments.</p>
+
+<p>Whether you're creating artisan soy candle labels, luxury candle collections, or commercial candle lines, our vinyl material options provide the durability and appearance quality your candle business deserves. Start designing your custom candle labels today using our online design tool or upload your existing artwork for professional production.</p>
+
+Post-Tab Content (Before FAQ)
+
+--------------------------------------------------
+
+==================================================
+FAQ
+==================================================
+
+COPY EVERYTHING BELOW
+
+<h2>Custom Candle Label FAQs</h2>
+
+<h3>What materials work best for candle labels?</h3>
+<p>Vinyl material provides the best performance for candle labels due to its heat resistance and durability. Our standard vinyl candle labels withstand temperatures generated during normal candle burning while maintaining adhesion and print quality throughout the candle's lifespan.</p>
+
+<h3>Can I include ingredient lists on my candle labels?</h3>
+<p>Yes, candle labels can include complete ingredient lists, safety warnings, and regulatory information required for commercial candle sales. Our printing process accommodates small text sizes while maintaining readability for compliance with candle labeling regulations.</p>
+
+<h3>What file format should I use for candle label artwork?</h3>
+<p>Adobe Illustrator EPS or PDF files provide optimal results for candle label printing. These vector formats ensure crisp text and graphics at any size while supporting the CMYK color profiles used in our printing process.</p>
+
+<h3>Do you offer waterproof candle labels?</h3>
+<p>Our vinyl candle labels are moisture-resistant and withstand normal humidity and light water exposure. The vinyl material and adhesive combination provides excellent durability in typical candle storage and use environments.</p>
+
+<h3>What's the difference between die-cut and kiss-cut candle labels?</h3>
+<p>Die-cut candle labels are individually separated with no backing material around each label, while kiss-cut labels remain on a backing sheet with extra material for easier handling. Die-cut works best for unique shapes, while kiss-cut simplifies application in production environments.</p>
+
+<h3>Can I order small quantities of candle labels for testing?</h3>
+<p>We accommodate small quantity orders perfect for testing new candle label designs or limited production runs. There is no minimum order quantity, making it easy to experiment with different label styles before committing to larger productions.</p>
+
+<h3>How long do candle labels last on containers?</h3>
+<p>Properly applied candle labels on clean surfaces typically maintain their appearance and adhesion throughout the candle's usable life. The vinyl material resists fading, peeling, and heat damage when exposed to normal candle burning temperatures and handling.</p>
+
+FAQ Tab
+
+--------------------------------------------------
+
+==================================================
+SEO ANALYSIS & OPTIMIZATION SUMMARY
+==================================================
+
+The candle label product page optimization focused on improving technical SEO structure and content quality for better search visibility. Key improvements included restructuring the heading hierarchy from a fragmented H3-heavy format to a logical H2-based section organization that follows the customer purchase journey from design through installation.
+
+Technical SEO enhancements included consolidating redundant headings, implementing consistent primary product entity usage across all major headings, and creating a definition-focused section optimized for AI search visibility. The FAQ section was restructured to use transactional question formats that address real purchase concerns rather than generic informational queries.
+
+Content quality improvements involved expanding thin sections with detailed practical information, incorporating natural keyword variations throughout body content, and adding contextual internal links to related products like rounded corner labels, clear stickers, and bulk order options. Production timeline sections were converted from paragraph labels to proper H3 headings for better content hierarchy.
+
+Internal linking strategy includes strategic placement of relevant product links within natural content flow, supporting both user navigation and search engine content discovery. The optimized structure now provides clear purchase pathway guidance while maintaining informational depth across all tab sections.

@@ -1,0 +1,544 @@
+{
+  "url": "https://www.banners.com/standard-business-cards",
+  "pageType": "pdp",
+  "productPage": true,
+  "promptVersion": "2026-03-04.v2",
+  "templateVersion": "site-template.v2",
+  "serpInsights": {
+    "query": "business cards &",
+    "keywordThemes": [],
+    "commonHeadings": [],
+    "avgWordCount": 0,
+    "faqPatterns": [],
+    "relatedEntities": [],
+    "schemaTypes": [],
+    "topUrls": []
+  },
+  "keywordClusters": {
+    "coreKeyword": "business cards",
+    "clusters": [
+      {
+        "topic": "installation",
+        "match": {},
+        "keywords": [
+          "business cards installation printing",
+          "business cards installation custom sizes",
+          "business cards installation design upload"
+        ]
+      },
+      {
+        "topic": "durability",
+        "match": {},
+        "keywords": [
+          "business cards durability printing",
+          "business cards durability custom sizes",
+          "business cards durability design upload"
+        ]
+      },
+      {
+        "topic": "pricing",
+        "match": {},
+        "keywords": [
+          "business cards pricing printing",
+          "business cards pricing custom sizes",
+          "business cards pricing design upload"
+        ]
+      },
+      {
+        "topic": "customization",
+        "match": {},
+        "keywords": [
+          "business cards printing",
+          "business cards custom sizes",
+          "business cards design upload"
+        ]
+      },
+      {
+        "topic": "shipping",
+        "match": {},
+        "keywords": [
+          "business cards shipping printing",
+          "business cards shipping custom sizes",
+          "business cards shipping design upload"
+        ]
+      }
+    ]
+  },
+  "technicalSEO": {
+    "title": "Custom & Professional Business Card Printing | Banners.com",
+    "metaDescription": "Professional business cards will help you make connections, build your network, or advertise a promotion at events or tradeshows! Banners.com",
+    "canonical": "https://www.banners.com/standard-business-cards",
+    "robots": "index, follow",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 122,
+    "internalLinks": [
+      "https://www.banners.com/",
+      "https://www.banners.com/contact",
+      "https://www.banners.com/vinyl-banners",
+      "https://www.banners.com/fabric-banners",
+      "https://www.banners.com/mesh-banners",
+      "https://www.banners.com/double-sided-banners",
+      "https://www.banners.com/pole-banners",
+      "https://www.banners.com/standard-size-banners",
+      "https://www.banners.com/oversized-banners",
+      "https://www.banners.com/canvas",
+      "https://www.banners.com/economy-banners",
+      "https://www.banners.com/text-only-banners",
+      "https://www.banners.com/step-and-repeat-banners",
+      "https://www.banners.com/championship-banners",
+      "https://www.banners.com/fence-banners-and-wraps",
+      "https://www.banners.com/sports-banners",
+      "https://www.banners.com/vertical-banners",
+      "https://www.banners.com/large-vinyl-banners",
+      "https://www.banners.com/birthday-banners",
+      "https://www.banners.com/adhesive-banners",
+      "https://www.banners.com/table-banners",
+      "https://www.banners.com/custom-flags",
+      "https://www.banners.com/custom-flags/standard-3x5-flags",
+      "https://www.banners.com/custom-flags/feather-flags",
+      "https://www.banners.com/custom-flags/rectangle-flags",
+      "https://www.banners.com/custom-flags/tear-drop-flags",
+      "https://www.banners.com/custom-flags/base-replacements",
+      "https://www.banners.com/custom-signs",
+      "https://www.banners.com/yard-signs",
+      "https://www.banners.com/yard-signs/custom-shapes",
+      "https://www.banners.com/yard-signs/custom-sizes",
+      "https://www.banners.com/sintra-signs",
+      "https://www.banners.com/styrene-signs",
+      "https://www.banners.com/polymetal-signs-3mm",
+      "https://www.banners.com/magnetic-signs",
+      "https://www.banners.com/banner-stands/a-frames",
+      "https://www.banners.com/magnets",
+      "https://www.banners.com/truck-magnetic-signs",
+      "https://www.banners.com/custom-car-magnets",
+      "https://www.banners.com/custom-fridge-magnets",
+      "https://www.banners.com/custom-photo-magnets",
+      "https://www.banners.com/custom-dry-erase-magnets",
+      "https://www.banners.com/custom-business-magnets",
+      "https://www.banners.com/custom-bumper-magnets",
+      "https://www.banners.com/custom-window-decals",
+      "https://www.banners.com/decals/3m-control-tac",
+      "https://www.banners.com/decals/high-performance-cast-vinyl-with-lamination",
+      "https://www.banners.com/decals/calendered-vinyl",
+      "https://www.banners.com/bumper-stickers",
+      "https://www.banners.com/decals/reflective-decals",
+      "https://www.banners.com/floor-graphics",
+      "https://www.banners.com/window-perf",
+      "https://www.banners.com/wall-graphics",
+      "https://www.banners.com/die-cut-stickers",
+      "https://www.banners.com/custom-car-stickers",
+      "https://www.banners.com/custom-sticker-sheets",
+      "https://www.banners.com/custom-warning-labels",
+      "https://www.banners.com/translucent-adhesive-vinyl",
+      "https://www.banners.com/translucent-non-adhesive-film",
+      "https://www.banners.com/table-covers",
+      "https://www.banners.com/banner-stands/retractors",
+      "https://www.banners.com/banner-stands",
+      "https://www.banners.com/backdrop-banners",
+      "https://www.banners.com/standard-business-cards",
+      "https://www.banners.com/accessories",
+      "https://www.banners.com/postcards",
+      "https://www.banners.com/poster-paper",
+      "https://www.banners.com/stik-pics",
+      "https://www.banners.com/table-tents",
+      "https://www.banners.com/translucent-materials",
+      "https://www.banners.com/custom-wallpaper",
+      "https://www.banners.com/yard-letter-and-number-signs",
+      "https://www.banners.com/custom-t-shirts",
+      "https://www.banners.com/business-signs",
+      "https://www.banners.com/church-signs",
+      "https://www.banners.com/coming-soon-signs",
+      "https://www.banners.com/construction-signs",
+      "https://www.banners.com/election-signs",
+      "https://www.banners.com/farmers-market-signs",
+      "https://www.banners.com/government-signs",
+      "https://www.banners.com/graduation-signs",
+      "https://www.banners.com/now-hiring-signs",
+      "https://www.banners.com/outdoor-signs",
+      "https://www.banners.com/real-estate-signs",
+      "https://www.banners.com/restaurant-signs",
+      "https://www.banners.com/trade-show",
+      "https://www.banners.com/help-center-and-support",
+      "https://www.banners.com/videos",
+      "https://www.banners.com/customer-care",
+      "https://www.banners.com/track-my-order",
+      "https://www.banners.com/login",
+      "https://www.banners.com/home",
+      "https://www.banners.com/paper-products",
+      "https://www.banners.com/outdoor-banners",
+      "https://www.banners.com/decals",
+      "https://www.banners.com/about",
+      "https://www.banners.com/faq",
+      "https://www.banners.com/resources",
+      "https://www.banners.com/sample-packet-request",
+      "https://www.banners.com/testimonials",
+      "https://www.banners.com/reviews",
+      "https://www.banners.com/policies",
+      "https://www.banners.com/production-times",
+      "https://www.banners.com/shipping-info",
+      "https://www.banners.com/flags-template",
+      "https://www.banners.com/vinyl-banner-templates",
+      "https://www.banners.com/charity-and-giving-back",
+      "https://www.banners.com/promo",
+      "https://www.banners.com/sitemap",
+      "https://www.banners.com/advertising-banners",
+      "https://www.banners.com/business-banners",
+      "https://www.banners.com/celebration-banners",
+      "https://www.banners.com/church-and-praise-banners",
+      "https://www.banners.com/event-banners",
+      "https://www.banners.com/graduation-banners",
+      "https://www.banners.com/holiday-banners",
+      "https://www.banners.com/military-banners",
+      "https://www.banners.com/political-banners",
+      "https://www.banners.com/real-estate-banners",
+      "https://www.banners.com/sales-banners",
+      "https://www.banners.com/school-banners",
+      "https://www.banners.com/all-categories"
+    ],
+    "orphanPageRisk": false,
+    "relativeLinkCount": 102,
+    "absoluteLinkCount": 84,
+    "brokenInternalLinks": [],
+    "contextualLinks": [
+      {
+        "anchor": "yard letter and number signs",
+        "url": "https://www.banners.com/yard-letter-and-number-signs"
+      },
+      {
+        "anchor": "custom dry erase magnets",
+        "url": "https://www.banners.com/custom-dry-erase-magnets"
+      },
+      {
+        "anchor": "truck magnetic signs",
+        "url": "https://www.banners.com/truck-magnetic-signs"
+      },
+      {
+        "anchor": "custom car magnets",
+        "url": "https://www.banners.com/custom-car-magnets"
+      },
+      {
+        "anchor": "custom fridge magnets",
+        "url": "https://www.banners.com/custom-fridge-magnets"
+      }
+    ]
+  },
+  "contentQuality": {
+    "wordCount": 1500,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Business Cards"
+      },
+      {
+        "tag": "h3",
+        "text": "Customizable Business Cards"
+      },
+      {
+        "tag": "h4",
+        "text": "Product Specs"
+      },
+      {
+        "tag": "h4",
+        "text": "Artwork"
+      },
+      {
+        "tag": "h4",
+        "text": "Artwork Guidelines"
+      },
+      {
+        "tag": "h4",
+        "text": "Color Match Proof System"
+      },
+      {
+        "tag": "h4",
+        "text": "Production Times"
+      },
+      {
+        "tag": "h2",
+        "text": "Production Time Tables"
+      },
+      {
+        "tag": "h2",
+        "text": "1 Business Day Priority:"
+      },
+      {
+        "tag": "h2",
+        "text": "2 Business Days Express:"
+      },
+      {
+        "tag": "h2",
+        "text": "3 Business Days Standard:"
+      },
+      {
+        "tag": "h2",
+        "text": "5 Business Days Saver:"
+      },
+      {
+        "tag": "h4",
+        "text": "Payment"
+      },
+      {
+        "tag": "h4",
+        "text": "Shipping"
+      },
+      {
+        "tag": "h4",
+        "text": "General Shipping Guidelines"
+      },
+      {
+        "tag": "h4",
+        "text": "Shipping Maps"
+      },
+      {
+        "tag": "h4",
+        "text": "Shipping Methods"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Standard Business Cards Return to Top"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com for Standard Business Cards"
+      },
+      {
+        "tag": "h2",
+        "text": "Unmatched Customer Service"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "What is the standard business card size in the US?"
+      },
+      {
+        "tag": "h3",
+        "text": "What’s the difference between matte and gloss business cards?"
+      },
+      {
+        "tag": "h3",
+        "text": "How thick are your business cards?"
+      },
+      {
+        "tag": "h3",
+        "text": "How do I design a business card?"
+      },
+      {
+        "tag": "h3",
+        "text": "What information should I include on a business card?"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Business Cards"
+    },
+    {
+      "tag": "h3",
+      "text": "Customizable Business Cards"
+    },
+    {
+      "tag": "h4",
+      "text": "Product Specs"
+    },
+    {
+      "tag": "h4",
+      "text": "Artwork"
+    },
+    {
+      "tag": "h4",
+      "text": "Artwork Guidelines"
+    },
+    {
+      "tag": "h4",
+      "text": "Color Match Proof System"
+    },
+    {
+      "tag": "h4",
+      "text": "Production Times"
+    },
+    {
+      "tag": "h2",
+      "text": "Production Time Tables"
+    },
+    {
+      "tag": "h2",
+      "text": "1 Business Day Priority:"
+    },
+    {
+      "tag": "h2",
+      "text": "2 Business Days Express:"
+    },
+    {
+      "tag": "h2",
+      "text": "3 Business Days Standard:"
+    },
+    {
+      "tag": "h2",
+      "text": "5 Business Days Saver:"
+    },
+    {
+      "tag": "h4",
+      "text": "Payment"
+    },
+    {
+      "tag": "h4",
+      "text": "Shipping"
+    },
+    {
+      "tag": "h4",
+      "text": "General Shipping Guidelines"
+    },
+    {
+      "tag": "h4",
+      "text": "Shipping Maps"
+    },
+    {
+      "tag": "h4",
+      "text": "Shipping Methods"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Standard Business Cards Return to Top"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com for Standard Business Cards"
+    },
+    {
+      "tag": "h2",
+      "text": "Unmatched Customer Service"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "h3",
+      "text": "What is the standard business card size in the US?"
+    },
+    {
+      "tag": "h3",
+      "text": "What’s the difference between matte and gloss business cards?"
+    },
+    {
+      "tag": "h3",
+      "text": "How thick are your business cards?"
+    },
+    {
+      "tag": "h3",
+      "text": "How do I design a business card?"
+    },
+    {
+      "tag": "h3",
+      "text": "What information should I include on a business card?"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "evaluation": {
+    "score": 82,
+    "failedChecks": [
+      {
+        "check": "cta_section_rules",
+        "details": [
+          "PRODUCTION TIMES TAB",
+          "SHIPPING GUIDELINES TAB"
+        ]
+      },
+      {
+        "check": "generic_headings",
+        "details": "Contains generic headings"
+      }
+    ],
+    "retry": true,
+    "threshold": 85
+  },
+  "contentScore": {
+    "score": 100,
+    "missingEntities": [],
+    "missingHeadings": [],
+    "improvementSuggestions": []
+  },
+  "optimizationAttemptCount": 2,
+  "retryReason": "low_score",
+  "seoRecommendations": "{\"ts\":\"2026-03-04T22:14:22.437Z\",\"level\":\"info\",\"event\":\"metric\",\"agent\":\"pdpAgent\",\"url\":\"https://www.banners.com/standard-business-cards\",\"model\":\"claude-sonnet-4-20250514\",\"tokensIn\":4363,\"tokensOut\":3260,\"promptVersion\":\"unknown\",\"templateVersion\":\"unknown\",\"durationMs\":57515}\n1) BEFORE HEADING STRUCTURE\n\nH1: Business Cards\nH3: Customizable Business Cards\nH4: Product Specs\nH4: Artwork\nH4: Artwork Guidelines\nH4: Color Match Proof System\nH4: Production Times\nH2: Production Time Tables\nH2: 1 Business Day Priority:\nH2: 2 Business Days Express:\nH2: 3 Business Days Standard:\nH2: 5 Business Days Saver:\nH4: Payment\nH4: Shipping\nH4: General Shipping Guidelines\nH4: Shipping Maps\nH4: Shipping Methods\nH4: Upload a Print Ready File\nH3: Step 1 - Choose Choose a product and the size you want\nH3: Step 2 - Upload Upload the image from your computer\nH4: Let us design your product\nH3: Step 1 - Choose Choose a product and the size you want\nH3: Step 2 - Upload Upload the image from your computer\nH3: Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!\nH2: More About Standard Business Cards Return to Top\nH2: Why Choose Banners.com for Standard Business Cards\nH2: Unmatched Customer Service\nH2: Frequently Asked Questions\nH3: What is the standard business card size in the US?\nH3: What's the difference between matte and gloss business cards?\nH3: How thick are your business cards?\nH3: How do I design a business card?\nH3: What information should I include on a business card?\nH2: Why Choose Banners.com?\nH4: Search\n\n2) AFTER OPTIMIZED STRUCTURE\n\nH1: Professional Business Cards & Custom Printing\nH2: Business Cards & Product Overview\nH2: Business Cards & Material Options\nH2: Business Cards & Finishing Options\nH2: Business Cards & Production Times\nH2: Business Cards & Payment Options\nH2: Business Cards & Shipping Guidelines\nH2: Business Cards & Common Uses\nH2: Business Cards & Artwork Requirements\nH2: Professional Business Cards & Benefits\nH2: Frequently Asked Questions\n\n3) PRODUCT HEADER\n\n<div class=\"product-header\">\n<p>Create lasting first impressions with professionally printed business cards designed to showcase your brand. Our high-quality business cards feature premium printing on durable 12.4 pt coverstock with your choice of matte or glossy finishes. Whether you're networking at events, building client relationships, or promoting your business, our custom business cards deliver the professional quality you need to stand out in today's competitive marketplace. See also [yard letter and number signs](https://www.banners.com/yard-letter-and-number-signs).</p>\n</div>\n\n4) CONFIGURATOR LABELS\n\nSize: 2\" x 3.5\" Standard\nQuantity: Select Amount\nMaterial: Premium Coverstock\nFinish: Matte or Gloss\nTurnaround: 1-5 Business Days\n\n5) PRODUCT OVERVIEW TAB\n\n<div class=\"product-overview-tab\">\n<h2>Business Cards & Product Overview</h2>\n<p>Our professional business cards are digitally printed on premium 12.4 pt, 120 lb. coverstock paper, delivering exceptional durability and print quality for your networking needs. Each business card features crisp text, vibrant colors, and professional finishing that makes a memorable first impression with clients and prospects.</p>\n\n<p>Available in both matte and glossy finishes, our custom business cards accommodate various design preferences and branding requirements. The matte finish provides an elegant, sophisticated appearance that reduces glare and fingerprints, while our glossy finish offers enhanced color vibrancy and protection against wear.</p>\n\n<p>With flexible production times ranging from 1 to 5 business days, you can choose the turnaround option that best fits your schedule and budget. Our streamlined ordering process includes template design options, file upload capabilities, and professional design assistance to ensure your business cards perfectly represent your brand identity and professional image.</p>\n</div>\n\n6) MATERIAL OPTIONS TAB\n\n<div class=\"material-options-tab\">\n<h2>Business Cards & Material Options</h2>\n<p>Our business cards are printed exclusively on premium 12.4 pt, 120 lb. coverstock paper, providing the ideal balance of durability and professional appearance. This heavyweight paper stock ensures your business cards maintain their shape and quality through repeated handling, networking events, and storage in wallets or cardholders.</p>\n\n<p>The coverstock material features excellent ink absorption properties, resulting in sharp text reproduction and vibrant color saturation that showcases your brand elements effectively. This professional-grade paper stock is specifically chosen for business card applications, offering superior performance compared to standard printing papers.</p>\n\n<p>Our digital printing process on this premium material delivers consistent results across your entire order quantity, ensuring every business card meets our quality standards. The material's smooth surface provides an ideal foundation for both simple text-based designs and complex graphics with multiple colors and design elements.</p>\n</div>\n\n7) FINISHING OPTIONS TAB\n\n<div class=\"finishing-options-tab\">\n<h2>Business Cards & Finishing Options</h2>\n<p>Choose between two professional finishing options to enhance your business cards' appearance and durability. Our matte coating provides a sophisticated, non-reflective surface that reduces glare and fingerprints while offering excellent write-ability for handwritten notes or signatures.</p>\n\n<p>The glossy finish option delivers enhanced color vibrancy and provides additional protection against moisture, wear, and handling. This finish creates a professional shine that makes colors appear more saturated and images more striking, ideal for business cards featuring photography or bold graphics.</p>\n\n<p>Both finishing options are applied during the printing process to ensure consistent coverage and professional results. The protective coating extends the lifespan of your business cards while maintaining their professional appearance through extended use. Consider your brand image and intended use when selecting the finishing option that best represents your professional identity.</p>\n</div>\n\n8) PRODUCTION TIMES TAB\n\n<div class=\"production-times-tab\">\n<h2>Business Cards & Production Times</h2>\n<p>We offer flexible production schedules to meet your business timeline requirements. Choose from 1-day Priority service for urgent needs, 2-day Express for quick turnaround, 3-day Standard (our most popular option), or 5-day Saver for cost-conscious projects.</p>\n\n<p>Production time begins once your artwork is approved and payment is processed. Orders received after 5:00 PM CST are processed the following business day. If your order requires prepress review or proof approval, production time starts from approval confirmation.</p>\n\n<p>Emergency same-day service may be available in select cases. Contact our customer service team at (320) 391-5300 to discuss rush options. Remember that total delivery time includes both production time and shipping duration to your location.</p>\n</div>\n\n9) PAYMENT OPTIONS TAB\n\n<div class=\"payment-options-tab\">\n<h2>Business Cards & Payment Options</h2>\n<p>All business card orders require payment before production begins to ensure timely processing. We accept major credit cards including Visa, MasterCard, American Express, and Discover for immediate order processing and quick production turnaround.</p>\n\n<p>Check payments are also accepted but must be received and cleared before your order enters production. For detailed information about check payment processing and timing, please contact our customer service team or review our payment policies.</p>\n\n<p>Your credit card will not be charged until you have reviewed and approved your order details. This approval process ensures accuracy and gives you final control over your business card specifications before production begins. For large orders or corporate accounts, please contact us to discuss additional payment arrangements.</p>\n</div>\n\n10) SHIPPING GUIDELINES TAB\n\n<div class=\"shipping-guidelines-tab\">\n<h2>Business Cards & Shipping Guidelines</h2>\n<p>Standard shipping via UPS Ground provides 1-3 day delivery to 90% of the United States. Expedited shipping options include Overnight, Two Day, and Three Day service for time-sensitive orders. You'll receive tracking information once your business cards ship.</p>\n\n<p>Shipping costs are calculated based on package weight and destination. International orders require customer-provided shipping labels and customs documentation through USPS or UPS services only. For questions about international shipping, contact our customer service team.</p>\n\n<p>Economy shipping adds 5-10 additional days depending on destination and should include P.O. Box information in the \"Address Two\" field during checkout. All shipments follow carrier terms and conditions for delays or damage. Our Minnesota facility produces all standard business cards with shipping times calculated from this location.</p>\n</div>\n\n11) COMMON USES TAB\n\n<div class=\"common-uses-tab\">\n<h2>Business Cards & Common Uses</h2>\n<p>Professional business cards serve multiple purposes across various business situations. Networking events, trade shows, and conferences provide prime opportunities to distribute business cards and establish new professional connections with potential clients, partners, and industry contacts.</p>\n\n<p>Sales meetings, client presentations, and follow-up communications benefit from professional business cards that reinforce your brand identity. Restaurant owners, real estate professionals, contractors, and service providers rely on business cards for referral marketing and customer retention strategies.</p>\n\n<p>Consider pairing your business cards with other promotional materials like <a href=\"https://www.banners.com/custom-fridge-magnets\">custom fridge magnets</a> for lasting brand visibility or <a href=\"https://www.banners.com/custom-car-magnets\">custom car magnets</a> for mobile advertising. Professional business cards remain essential tools for face-to-face marketing and relationship building across all industries and business types.</p>\n</div>\n\n12) ARTWORK TAB\n\n<div class=\"artwork-tab\">\n<h2>Business Cards & Artwork Requirements</h2>\n<p>Submit vector-based files like .eps with fonts converted to outlines for optimal print quality. High-resolution .pdf and .jpg files (300 DPI minimum) also produce excellent results when properly prepared for printing specifications.</p>\n\n<p>Include 1/8\" bleed on all sides when designing your business cards. Final trimmed size will be 2.00\" x 3.50\" with the design area extending to 2.25\" x 3.75\" including bleed. This ensures complete coverage during the cutting process.</p>\n\n<p>Our professional graphic designers provide design assistance for $60 per hour if you need help creating or optimizing your artwork. For color-critical projects, consider our Color Match Proof System to ensure accurate color reproduction. Upload files must be 60 MB or smaller, or contact us for larger file transfer instructions.</p>\n</div>\n\n13) POST-TAB CONTENT\n\n<div class=\"post-tab-content\">\n<h2>Professional Business Cards & Benefits</h2>\n<p>Investing in professionally printed business cards demonstrates attention to detail and commitment to quality that clients and prospects notice. Our premium printing process and materials create business cards that reflect your professional standards and brand values effectively.</p>\n\n<p>With over 20 years of printing experience, Banners.com delivers consistent quality and reliable service for businesses nationwide. Our streamlined ordering process, flexible production times, and professional customer support ensure your business card project exceeds expectations from design to delivery.</p>\n\n<p>Beyond business cards, consider expanding your promotional materials with <a href=\"https://www.banners.com/yard-letter-and-number-signs\">yard letter and number signs</a> for location-based marketing or <a href=\"https://www.banners.com/truck-magnetic-signs\">truck magnetic signs</a> for mobile advertising. Professional business cards form the foundation of effective networking and brand representation in today's competitive business environment.</p>\n</div>\n\n14) FAQ\n\n<div class=\"faq-section\">\n<h2>Frequently Asked Questions</h2>\n\n<h3>What is the standard business card size in the US?</h3>\n<p>The standard US business card size is 2\" x 3.5\" (finished size), which we print with a 2.25\" x 3.75\" design area including bleed. This size fits perfectly in standard business card holders, wallets, and networking accessories. Our templates are pre-sized to these specifications for easy design setup.</p>\n\n<h3>What's the difference between matte and gloss business cards?</h3>\n<p>Matte business cards feature a non-reflective coating that reduces glare and fingerprints while allowing easy writing on the surface. Glossy cards have a shiny finish that enhances color vibrancy and provides additional protection against moisture. Choose based on your design style and intended use.</p>\n\n<h3>How thick are your business cards?</h3>\n<p>Our business cards are printed on 12.4 pt, 120 lb. coverstock, providing substantial thickness and durability that feels professional in hand. This premium paper weight prevents bending and maintains shape through repeated handling, storage, and networking use while projecting quality and attention to detail.</p>\n\n<h3>Can I get same-day printing for business cards?</h3>\n<p>Emergency same-day service may be available in select cases depending on order complexity and current production schedule. Contact our customer service team at (320) 391-5300 before 12 PM CST to discuss same-day options. Our standard 1-day Priority service provides reliable next-business-day completion for most orders.</p>\n\n<h3>What file formats work best for business card printing?</h3>\n<p>Vector files like .eps with fonts converted to outlines provide the highest print quality. High-resolution .pdf and .jpg files (300 DPI minimum) also work well when properly prepared. Include 1/8\" bleed and keep files under 60 MB for smooth upload processing and optimal print results.</p>\n\n<h3>Do you offer design help for business cards?</h3>\n<p>Yes, our professional graphic designers provide design assistance for $60 per hour. We can help create new designs, optimize existing artwork, or ensure your files meet printing specifications. You'll receive email proofs for approval before production begins, ensuring your business cards meet your exact requirements.</p>\n</div>"
+}

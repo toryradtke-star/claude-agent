@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:49:09.593Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Window Decals: Easy",
+    "description": "Get your versatile custom window decals from Decals.com. Advertise sales on storefronts or use car window decals driving around town. Order today!",
+    "url": "https://www.decals.com/decals/window-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

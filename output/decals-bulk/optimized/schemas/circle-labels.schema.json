@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:42:56.090Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "url": "https://www.decals.com/circle-labels",
+    "name": "Circle Labels - Create Custom Circle Labels | Decals.com"
+  }
+}

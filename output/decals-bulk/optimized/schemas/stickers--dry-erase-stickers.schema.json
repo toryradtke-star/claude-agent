@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:59:11.211Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Dry Erase Stickers",
+    "description": "Dry Erase Stickers are a fun, easy way to help organize your home or office. Order your vinyl sticker today at Decals.com.",
+    "url": "https://www.decals.com/stickers/dry-erase-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

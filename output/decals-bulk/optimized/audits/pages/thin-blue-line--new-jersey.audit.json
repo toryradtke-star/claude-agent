@@ -1,0 +1,314 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:14:08.981Z",
+  "data": {
+    "url": "https://www.decals.com/thin-blue-line/new-jersey",
+    "pageType": "pdp",
+    "productPage": true,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "State of New Jersey Thin Blue Line Decal"
+      },
+      {
+        "tag": "h3",
+        "text": "How to Apply Vinyl Decals"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 1:"
+      },
+      {
+        "tag": "h4",
+        "text": "Tools Needed"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 2:"
+      },
+      {
+        "tag": "h4",
+        "text": "Clean the Surface"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 3:"
+      },
+      {
+        "tag": "h4",
+        "text": "Tape & Measure"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 4:"
+      },
+      {
+        "tag": "h4",
+        "text": "Remove the Transfer Film from the Backing"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 5:"
+      },
+      {
+        "tag": "h4",
+        "text": "Apply the Decal to the Surface"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 6:"
+      },
+      {
+        "tag": "h4",
+        "text": "Remove the Transfer Film"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 7:"
+      },
+      {
+        "tag": "h4",
+        "text": "Enjoy!"
+      },
+      {
+        "tag": "h2",
+        "text": "Production Time Table"
+      },
+      {
+        "tag": "h4",
+        "text": "3 Business Day Standard:"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      }
+    ],
+    "serpInsights": {
+      "query": "state of new",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "state of new",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "state of new installation printing",
+            "state of new installation custom sizes",
+            "state of new installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "state of new durability printing",
+            "state of new durability custom sizes",
+            "state of new durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "state of new pricing printing",
+            "state of new pricing custom sizes",
+            "state of new pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "state of new printing",
+            "state of new custom sizes",
+            "state of new design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "state of new shipping printing",
+            "state of new shipping custom sizes",
+            "state of new shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "custom paper roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-paper-roll-labels"
+        },
+        {
+          "anchor": "custom clear roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-clear-roll-labels"
+        },
+        {
+          "anchor": "custom water bottle labels",
+          "url": "https://www.decals.com/labels/custom-water-bottle-labels"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 975,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "State of New Jersey Thin Blue Line Decal"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Apply Vinyl Decals"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 1:"
+        },
+        {
+          "tag": "h4",
+          "text": "Tools Needed"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 2:"
+        },
+        {
+          "tag": "h4",
+          "text": "Clean the Surface"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 3:"
+        },
+        {
+          "tag": "h4",
+          "text": "Tape & Measure"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 4:"
+        },
+        {
+          "tag": "h4",
+          "text": "Remove the Transfer Film from the Backing"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 5:"
+        },
+        {
+          "tag": "h4",
+          "text": "Apply the Decal to the Surface"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 6:"
+        },
+        {
+          "tag": "h4",
+          "text": "Remove the Transfer Film"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 7:"
+        },
+        {
+          "tag": "h4",
+          "text": "Enjoy!"
+        },
+        {
+          "tag": "h2",
+          "text": "Production Time Table"
+        },
+        {
+          "tag": "h4",
+          "text": "3 Business Day Standard:"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": {
+      "score": 70,
+      "failedChecks": [
+        {
+          "check": "required_sections",
+          "details": [
+            "MATERIAL OPTIONS TAB",
+            "FINISHING OPTIONS TAB",
+            "SHIPPING GUIDELINES TAB"
+          ]
+        },
+        {
+          "check": "cta_section_rules",
+          "details": [
+            "PRODUCTION TIMES TAB"
+          ]
+        },
+        {
+          "check": "generic_headings",
+          "details": "Contains generic headings"
+        }
+      ],
+      "retry": true,
+      "threshold": 85
+    },
+    "contentScore": {
+      "score": 95,
+      "missingEntities": [],
+      "missingHeadings": [],
+      "improvementSuggestions": []
+    },
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T16:14:08.967Z"
+    },
+    "seoRecommendations": "{\"ts\":\"2026-03-06T16:14:08.954Z\",\"level\":\"info\",\"event\":\"metric\",\"agent\":\"pdpAgent\",\"url\":\"https://www.decals.com/thin-blue-line/new-jersey\",\"model\":\"claude-sonnet-4-20250514\",\"tokensIn\":23488,\"tokensOut\":3495,\"promptVersion\":\"unknown\",\"templateVersion\":\"unknown\",\"durationMs\":67700}\n==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: State of New Jersey Thin Blue Line Decal\nH3: How to Apply Vinyl Decals\nH4: Step 1: Tools Needed\nH4: Step 2: Clean the Surface\nH4: Step 3: Tape & Measure\nH4: Step 4: Remove the Transfer Film from the Backing\nH4: Step 5: Apply the Decal to the Surface\nH4: Step 6: Remove the Transfer Film\nH4: Step 7: Enjoy!\nH2: Production Time Table\nH4: 3 Business Day Standard:\nH3: Products you might like\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: State of New Jersey Thin Blue Line Decal\nH2: Design Your Custom State of New Jersey Decal\nH2: State of New Jersey Decal Order Process\nH2: State of New Jersey Decal Production & Turnaround Times\nH2: Cut Options for State of New Jersey Decals\nH2: State of New Jersey Decal Artwork Requirements\nH2: State of New Jersey Decal Shipping Information\nH2: State of New Jersey Decal Installation Guide\nH2: What Are State of New Jersey Decals?\nH2: State of New Jersey Decal FAQs\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h1>State of New Jersey Thin Blue Line Decal</h1>\n<h2>Premium Vinyl Decals Supporting New Jersey Law Enforcement</h2>\n\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nState of New Jersey Decal Options\nSelect Your Quantity\nChoose Your Size\nPick Your Finish\n\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Design Your Custom State of New Jersey Decal</h2>\n\n<p>Show your support for New Jersey law enforcement with our premium state-shaped thin blue line decals. These durable vinyl decals feature the distinctive outline of New Jersey with a thin blue line design, perfect for displaying on vehicles, laptops, phone cases, and any smooth non-porous surface. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>\n\n<p>Our State of New Jersey decals are crafted from high-quality matte vinyl material that withstands outdoor conditions while maintaining vibrant colors. Each decal measures 5 inches at its highest or widest point and adheres securely to glass, metal, cardboard, and plastic surfaces both indoors and outdoors.</p>\n\n<p>Available in multiple quantities from single decals to bulk orders of 100 pieces, these patriotic decals make excellent gifts for law enforcement families, supporters, and anyone wanting to show their appreciation for New Jersey's finest. The precision die-cut design ensures clean edges and professional appearance every time.</p>\n\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nORDER PROCESS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of New Jersey Decal Order Process</h2>\n\n<p>Ordering your State of New Jersey thin blue line decals is straightforward and efficient. Simply select your desired quantity using our product configurator, add the decals to your cart, and proceed to checkout. Our streamlined ordering system ensures your law enforcement support decals are processed quickly and accurately.</p>\n\n<h3>Design Process</h3>\n<p>Our State of New Jersey decals feature a pre-designed thin blue line pattern that requires no additional design work. The state outline and blue line graphics are professionally created and ready for production upon order placement.</p>\n\n<h3>Payment</h3>\n<p>We accept all major credit cards, PayPal, and business purchase orders for bulk quantities. Payment processing is secure and immediate, allowing your State of New Jersey decal order to move directly into production upon approval.</p>\n\n<h3>Live Order Tracking</h3>\n<p>Monitor your State of New Jersey decal order status through our customer portal. You'll receive email notifications at key production milestones and tracking information once your decals ship from our facility.</p>\n\nOrder Process Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of New Jersey Decal Production & Turnaround Times</h2>\n\n<p>Our State of New Jersey thin blue line decals are manufactured using efficient production processes to meet various timeline needs. Production time begins once your order is placed and payment is processed, separate from shipping time to your location.</p>\n\n<h3>3 Business Day Standard Production</h3>\n<p>Our most popular turnaround option for State of New Jersey decals provides excellent speed at no additional cost. This timeframe works well for most custom orders and personal use applications. Orders placed after 5:00 PM CST begin processing the following business day.</p>\n\n<h3>Rush Production Available</h3>\n<p>Emergency and same-day rush production may be available for urgent State of New Jersey decal orders. Contact our customer service team at 320-391-5250 to discuss expedited options and any additional fees that may apply.</p>\n\n<p>Production timing starts when your order details are complete. If any order requires additional review in our prepress department, the production clock begins once all specifications are confirmed and approved.</p>\n\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nCUT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Cut Options for State of New Jersey Decals</h2>\n\n<p>State of New Jersey thin blue line decals are precision manufactured using die-cut methods to ensure clean edges and professional appearance. Our cutting process creates the exact state outline while maintaining the integrity of the thin blue line design elements.</p>\n\n<h3>Die Cut State of New Jersey Decals</h3>\n<p>Die cutting creates State of New Jersey decals that follow the precise outline of the state shape. This method removes excess vinyl material, leaving only the state silhouette with the thin blue line pattern. The result is a clean, professional decal that applies smoothly to any surface without visible backing material around the edges.</p>\n\n<h3>Precision State Outline</h3>\n<p>Our State of New Jersey decals are cut to exact proportions using digital cutting technology. Each decal maintains the authentic New Jersey state shape while incorporating the symbolic thin blue line design that honors law enforcement service.</p>\n\n<p>The die-cut process ensures consistent quality across all State of New Jersey decal orders, whether you're ordering a single decal or bulk quantities for group distribution.</p>\n\nCut Options Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of New Jersey Decal Artwork Requirements</h2>\n\n<p>State of New Jersey thin blue line decals feature pre-designed artwork that combines the accurate state outline with the traditional thin blue line symbolism. No custom artwork upload is required, as each decal uses our professionally created design templates.</p>\n\n<h3>Pre-Designed Graphics</h3>\n<p>Our State of New Jersey decals incorporate high-resolution vector graphics that ensure crisp edges and clear details at the 5-inch production size. The thin blue line element is precisely positioned within the state outline for optimal visual impact and symbolic meaning.</p>\n\n<h3>Color Specifications</h3>\n<p>State of New Jersey decals are produced using fade-resistant vinyl inks that maintain color accuracy over time. The blue line element uses law enforcement standard blue coloring, while the state outline utilizes contrasting colors for maximum visibility and recognition.</p>\n\n<h3>Quality Control Standards</h3>\n<p>Each State of New Jersey decal undergoes quality inspection to verify accurate state proportions, proper blue line placement, and overall print quality. Our production standards ensure every decal meets professional appearance requirements suitable for public display.</p>\n\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of New Jersey Decal Shipping Information</h2>\n\n<p>State of New Jersey thin blue line decals ship via reliable carriers to ensure safe delivery to your location. Shipping time is calculated separately from production time, giving you complete transparency in delivery expectations.</p>\n\n<h3>Shipping Methods</h3>\n<p>We offer multiple shipping options for State of New Jersey decal orders, from economical ground service to expedited overnight delivery. Choose the shipping method that best fits your timeline and budget requirements during checkout.</p>\n\n<h3>Shipping Time Expectations</h3>\n<p>Ground shipping typically takes 3-7 business days depending on your distance from our Minnesota facility. Expedited options include 2-day and overnight delivery for urgent State of New Jersey decal needs. All shipments include tracking information for delivery monitoring.</p>\n\n<h3>Important Shipping Notes</h3>\n<p>State of New Jersey decals are carefully packaged to prevent damage during transit. Small quantities ship in protective envelopes, while larger orders use rigid mailers or boxes. Remember that total delivery time includes both production time and shipping time to your location.</p>\n\nShipping Tab\n\n--------------------------------------------------\n\n==================================================\nINSTALLATION TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of New Jersey Decal Installation Guide</h2>\n\n<p>Proper installation ensures your State of New Jersey thin blue line decal creates a strong, lasting bond with the application surface. Following these proven steps will help you achieve professional results and maximum durability.</p>\n\n<h3>Preparing the Surface</h3>\n<p>Clean the intended surface thoroughly using warm water and soap, rubbing alcohol, or common household cleaners. Remove all dirt, debris, and moisture that could interfere with adhesion. Wipe the area completely dry with a clean cloth before applying your State of New Jersey decal.</p>\n\n<h3>Applying the State of New Jersey Decal</h3>\n<p>Position your decal on the surface and secure with masking tape to check alignment. Create a hinge with tape across the top edge, then slowly peel away the backing paper. Apply the decal from the center outward using firm pressure with a squeegee, credit card, or smooth applicator tool.</p>\n\n<h3>Removing Transfer Tape</h3>\n<p>Once your State of New Jersey decal is firmly applied, slowly remove the transfer tape at a 45-degree angle. Press down any loose edges and work out air bubbles for a smooth, professional finish. Your decal is now ready to display your support for New Jersey law enforcement.</p>\n\nInstallation Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>What Are State of New Jersey Decals?</h2>\n\n<p>State of New Jersey decals are vinyl adhesive graphics designed in the distinctive outline shape of New Jersey. These decals typically feature symbolic designs, logos, or text that represent state pride, organizational affiliation, or support for specific causes. Made from durable vinyl material, they adhere to smooth surfaces like vehicle windows, laptops, phone cases, and walls for both indoor and outdoor display.</p>\n\n<p>Order your State of New Jersey thin blue line decal today and join thousands of supporters showing appreciation for New Jersey law enforcement. With our fast 3-day production and reliable shipping, you'll receive professional-quality decals that honor the service and sacrifice of New Jersey's finest.</p>\n\n<p>Contact our team at 320-391-5250 for bulk pricing on larger quantities or to discuss custom State of New Jersey decal options for your organization or event.</p>\n\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of New Jersey Decal FAQs</h2>\n\n<h3>How long do State of New Jersey decals last outdoors?</h3>\n<p>State of New Jersey decals are made from durable vinyl material that typically lasts 3-5 years outdoors when properly applied to clean surfaces. The fade-resistant inks and weather-resistant adhesive ensure your thin blue line decal maintains its appearance through various weather conditions.</p>\n\n<h3>What surfaces work best for State of New Jersey decals?</h3>\n<p>State of New Jersey decals adhere best to smooth, non-porous surfaces such as glass, metal, plastic, and painted surfaces. Popular applications include vehicle windows, laptops, phone cases, toolboxes, and smooth painted walls. Avoid applying to textured or porous surfaces for optimal adhesion.</p>\n\n<h3>Can I remove a State of New Jersey decal without damaging the surface?</h3>\n<p>Yes, State of New Jersey decals can be removed by gently heating with a hair dryer and slowly peeling from one corner. The vinyl material and adhesive are designed to remove cleanly from most surfaces without leaving residue when removed properly within the expected lifespan.</p>\n\n<h3>Are State of New Jersey decals available in different sizes?</h3>\n<p>Our standard State of New Jersey thin blue line decals measure 5 inches at the highest or widest point, maintaining accurate state proportions. For custom sizes or bulk quantities with specific size requirements, contact our customer service team to discuss available options.</p>\n\n<h3>Do State of New Jersey decals work on vehicle windows?</h3>\n<p>State of New Jersey decals are excellent for vehicle window application and are commonly used to show law enforcement support on cars, trucks, and motorcycles. The durable vinyl withstands vehicle speeds, weather, and car washing when properly installed on clean glass surfaces.</p>\n\n<h3>How should I clean surfaces before applying State of New Jersey decals?</h3>\n<p>Clean the application surface with warm soapy water, rubbing alcohol, or household glass cleaner to remove dirt, oil, and debris. Dry the surface completely with a lint-free cloth before applying your State of New Jersey decal to ensure maximum adhesion strength.</p>\n\nFAQ Tab\n\n--------------------------------------------------\n\n==================================================\nSEO ANALYSIS & OPTIMIZATION SUMMARY\n==================================================\n\nTechnical SEO improvements include optimized heading hierarchy with H1 product focus and logical H2 section progression. Content structure now follows ecommerce PDP best practices with clear purchase journey stages from product overview through installation guidance.\n\nContent Quality enhancements feature expanded product descriptions, detailed installation instructions, and comprehensive FAQ section addressing common customer concerns. Added semantic keyword variations around state decals, law enforcement support, and vinyl applications while maintaining focus on New Jersey thin blue line decals.\n\nInternal Linking opportunities integrated contextually within content sections, linking to related products like custom hard hat stickers and water bottle labels where relevant to law enforcement and organizational themes.\n\nKeyword Clustering incorporated installation, durability, customization, and shipping themes throughout relevant sections. Natural integration of printing, custom sizes, and design upload variations supports broader search visibility while maintaining content flow and user experience focus."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:28:01.127Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Shape-Cut Labels Shape",
+    "description": "Create your own custom shape cut label today at Decals.com! They are perfect for weddings, birthday parties, showers, businesses, and much more!",
+    "url": "https://www.decals.com/labels/business-labels/shape-cut-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:46:02.402Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Low Tack Vinyl",
+    "description": "Low tack adhesive vinyl is the perfect option for your less permanent decal and sticker product needs. Design your custom decals and stickers today using our online design tool.",
+    "url": "https://www.decals.com/low-tac-vinyl",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

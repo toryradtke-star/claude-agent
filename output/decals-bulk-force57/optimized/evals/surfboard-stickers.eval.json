@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "evaluatePdpOutput",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:33:53.868Z",
+  "data": {
+    "score": 52,
+    "failedChecks": [
+      {
+        "check": "required_sections",
+        "details": [
+          "MATERIAL OPTIONS TAB",
+          "FINISHING OPTIONS TAB",
+          "SHIPPING GUIDELINES TAB"
+        ]
+      },
+      {
+        "check": "product_entity",
+        "details": "Entity not found: surfboard stickers surfboard"
+      },
+      {
+        "check": "cta_section_rules",
+        "details": [
+          "PRODUCTION TIMES TAB"
+        ]
+      },
+      {
+        "check": "generic_headings",
+        "details": "Contains generic headings"
+      },
+      {
+        "check": "overview_length",
+        "details": "Overview section out of range"
+      }
+    ],
+    "retry": true,
+    "threshold": 85
+  }
+}

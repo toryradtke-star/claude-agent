@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:04:54.901Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Address Lables Address",
+    "description": "Shop our selection of custom address labels and stickers. Personalize your envelopes and letters with our high-quality address labels for a professional touch.",
+    "url": "https://www.decals.com/labels/custom-address-labels",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://www.decals.com/3m-control-tac",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 24591,
+    "output_tokens": 4720
+  },
+  "durationMs": 90793
+}

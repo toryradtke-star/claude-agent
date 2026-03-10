@@ -1,0 +1,11 @@
+{
+  "url": "https://www.decals.com/custom-fridge-magnet",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 25029,
+    "output_tokens": 3998
+  },
+  "durationMs": 77461
+}

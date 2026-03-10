@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "banner accessories",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "banner accessories installation printing",
+        "banner accessories installation custom sizes",
+        "banner accessories installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "banner accessories durability printing",
+        "banner accessories durability custom sizes",
+        "banner accessories durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "banner accessories pricing printing",
+        "banner accessories pricing custom sizes",
+        "banner accessories pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "banner accessories printing",
+        "banner accessories custom sizes",
+        "banner accessories design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "banner accessories shipping printing",
+        "banner accessories shipping custom sizes",
+        "banner accessories shipping design upload"
+      ]
+    }
+  ]
+}

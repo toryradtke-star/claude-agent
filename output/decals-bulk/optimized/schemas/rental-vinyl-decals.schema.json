@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:09:09.848Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Rental Decals Vinyl",
+    "description": "Promote your rental items with custom vinyl decals from Decals.com. Durable, weatherproof, and easy to apply, they’re perfect for advertising tools, vehicles, and more.",
+    "url": "https://www.decals.com/rental-vinyl-decals",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

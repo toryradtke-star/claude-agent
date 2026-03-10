@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:56:18.073Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Full-Color Transfer Stickers",
+    "description": "Full-color transfer stickers are a great way to personalize any items and products using your own image, logo, or design!",
+    "url": "https://www.decals.com/stickers/transfer-stickers/full-color",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "url": "https://www.banners.com/hanukkah-banners",
+  "productPage": true,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": true,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 825,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Custom Hanukkah Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Happy Hanukkah Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Hanukkah Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Browse our Free Templates and Use the Online Design tool to Customize"
+      },
+      {
+        "tag": "h3",
+        "text": "Begin Your Hanukkah Celebration Banner by selecting a design option:"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h4",
+        "text": "What material options do you offer for these banners?"
+      },
+      {
+        "tag": "h4",
+        "text": "What is the star of Hanukkah named?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I order a double-sided banner?"
+      },
+      {
+        "tag": "h4",
+        "text": "What is the largest banner I can order?"
+      },
+      {
+        "tag": "h4",
+        "text": "What is the better finish for indoor use, glossy or matte?"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Custom Hanukkah Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Happy Hanukkah Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Products you might like"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Hanukkah Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Browse our Free Templates and Use the Online Design tool to Customize"
+    },
+    {
+      "tag": "h3",
+      "text": "Begin Your Hanukkah Celebration Banner by selecting a design option:"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "h4",
+      "text": "What material options do you offer for these banners?"
+    },
+    {
+      "tag": "h4",
+      "text": "What is the star of Hanukkah named?"
+    },
+    {
+      "tag": "h4",
+      "text": "Can I order a double-sided banner?"
+    },
+    {
+      "tag": "h4",
+      "text": "What is the largest banner I can order?"
+    },
+    {
+      "tag": "h4",
+      "text": "What is the better finish for indoor use, glossy or matte?"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": "==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Custom Hanukkah Banners\n  H3: Happy Hanukkah Banners (subtitle - should be H2)\n  H3: Products you might like (navigational - ignore)\n  H4: Upload a Print Ready File (configurator)\n    H3: Step 1 - Choose Choose a product... (skipped level)\n    H3: Step 2 - Upload Upload the image... (skipped level)\n  H4: Let us design your product (configurator)\n    H3: Step 1 - Choose Choose a product... (skipped level)\n    H3: Step 2 - Upload Upload the image... (skipped level)\n    H3: Step 3 - Provide Instructions... (skipped level)\n  H2: More About Hanukkah Banners (informational)\n    H3: Browse our Free Templates...\n    H3: Begin Your Hanukkah Celebration Banner...\n  H2: Frequently Asked Questions\n    H4: What material options... (should be H3)\n    H4: What is the star of Hanukkah named? (should be H3)\n    H4: Can I order a double-sided banner? (should be H3)\n    H4: What is the largest banner I can order? (should be H3)\n    H4: What is the better finish for indoor use? (should be H3)\n  H2: Why Choose Banners.com?\n    H4: Search (unrelated)\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Hanukkah Banners for Indoor & Outdoor Holiday Celebrations\n  H2: Durable Vinyl Hanukkah Banners - Custom Printed & Ready to Order\n  H2: Order Custom Hanukkah Banners for Holiday Displays & Synagogue Events\n  H2: Vinyl Material Options for Hanukkah Banner Printing\n  H2: Finishing Options for Hanukkah Banner Installation\n  H2: Hanukkah Banner Artwork Requirements for Professional Printing\n  H2: Custom Hanukkah Banner Production & Turnaround Times\n  H2: Hanukkah Banner Payment & Ordering Options\n  H2: Shipping Options for Custom Hanukkah Banner Delivery\n  H2: Holiday & Synagogue Uses for Custom Hanukkah Banners\n  H2: Design & Order Your Custom Hanukkah Banner Today\n  H2: Frequently Asked Questions\n    H3: What material options do you offer for these banners?\n    H3: What is the star of Hanukkah named?\n    H3: Can I order a double-sided banner?\n    H3: What is the largest banner I can order?\n    H3: What is the better finish for indoor use, glossy or matte?\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n# Custom Hanukkah Banners for Indoor & Outdoor Holiday Celebrations\n\n## Durable Vinyl Hanukkah Banners - Custom Printed & Ready to Order\n\nPASTE INTO:\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\n**Upload a Print Ready File**\nStep 1: Choose your Hanukkah banner size\nStep 2: Upload your design file\nStep 3: Complete your order\n\n**Let Us Design Your Hanukkah Banner**\nStep 1: Choose your banner size and material\nStep 2: Upload your images or logos\nStep 3: Provide design instructions for our team\n\nPASTE INTO:\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Order Custom Hanukkah Banners for Holiday Displays & Synagogue Events</h2>\n\n<p>Make the most of your Hanukkah celebration with an eye-catching custom vinyl banner. From synagogue displays and community events to family gatherings and storefront decorations, we can help you improve your visibility and create memorable holiday displays with our professionally designed custom Hanukkah banners.</p>\n\n<p>Here at Banners.com, our goal is to deliver a Hanukkah banner that you're proud to display. That's why we take great care in our craft and work closely with you to bring your holiday vision to reality. One of the ways we do this is through strict quality checks.</p>\n\n<p>Our team includes seasoned graphic designers and production experts who have been with us for many years. They're deeply familiar with the nuances of custom banner printing and are dedicated to ensuring you receive a tailor-made Hanukkah banner. If something doesn't meet our standards, our staff of in-house graphic designers will contact you to fix it immediately.</p>\n\n<p>We offer a wide selection of custom Hanukkah banner options, including sizes ranging from 1'x1' to 8'x50', unlimited design customization in our online designer, and flexible production times to ensure your banner arrives when you need it for your celebration.</p>\n\n<p><strong>Six Customizable Banner Materials</strong></p>\n<p>Your Hanukkah banner is made with the finest materials available and printed using state-of-the-art, large-format printers for vibrant colors that showcase your holiday design. All banners are manufactured and printed in the USA.</p>\n\n<p><em>Due to the latest shipping regulations, all vinyl banners that exceed 8 feet in both directions will be folded for shipping. If you do not want your banners folded, please contact us for a custom freight quote.</em></p>\n\nPASTE INTO:\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nMATERIAL OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Vinyl Material Options for Hanukkah Banner Printing</h2>\n\n<p>Choose from six premium vinyl materials designed for different Hanukkah celebration environments:</p>\n\n<p><strong>13oz Vinyl Banner Material</strong> - Our most popular choice for indoor and outdoor Hanukkah displays. Weather-resistant and durable for synagogue installations and community events.</p>\n\n<p><strong>8oz Vinyl Banner Material</strong> - Lightweight option perfect for temporary indoor Hanukkah celebrations and budget-conscious holiday displays.</p>\n\n<p><strong>18oz Vinyl Banner Material</strong> - Heavy-duty material ideal for long-term outdoor installations and windy conditions during winter holiday seasons.</p>\n\n<p><strong>Mesh Banner Material</strong> - Wind-resistant option with perforations, perfect for outdoor Hanukkah displays in areas with high wind exposure.</p>\n\n<p><strong>Fabric Banner Material</strong> - Premium cloth-like finish ideal for elegant synagogue installations and upscale holiday events.</p>\n\n<p><strong>Canvas Banner Material</strong> - Textured material providing a sophisticated look for commemorative Hanukkah banners and permanent installations.</p>\n\n<p>All materials accept full-color digital printing and can accommodate traditional Hanukkah colors, Star of David designs, and Hebrew text.</p>\n\nPASTE INTO:\nMaterial Options Tab\n\n--------------------------------------------------\n\n==================================================\nFINISHING OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Finishing Options for Hanukkah Banner Installation</h2>\n\n<p>Professional finishing options to ensure secure installation for your Hanukkah celebration:</p>\n\n<p><strong>Hemmed Edges with Grommets</strong> - Reinforced edges with metal grommets every 2-3 feet for easy hanging on walls, fences, or between posts during outdoor Hanukkah events.</p>\n\n<p><strong>Pole Pockets</strong> - Sewn pockets along the top, bottom, or sides for inserting poles or dowels. Ideal for synagogue banner displays and parade installations.</p>\n\n<p><strong>Wind Slits</strong> - Strategic cuts in the banner material to reduce wind load during outdoor winter celebrations while maintaining design integrity.</p>\n\n<p><strong>Reinforced Corners</strong> - Extra material and stitching at stress points to prevent tearing during installation and extended display periods.</p>\n\n<p><strong>Rope and Ties</strong> - Professional-grade attachments included for immediate installation at your Hanukkah celebration venue.</p>\n\n<p><strong>Double-Sided Printing</strong> - Available for banners that will be viewed from both sides during parades or suspended installations.</p>\n\n<p>Our finishing specialists will recommend the best options based on your specific Hanukkah display requirements and installation environment.</p>\n\nPASTE INTO:\nFinishing Options Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Hanukkah Banner Production & Turnaround Times</h2>\n\n<p>Flexible production schedules to meet your Hanukkah celebration timeline:</p>\n\n<p><strong>Standard Production (5-7 Business Days)</strong> - Perfect for advance planning of Hanukkah events and synagogue installations. Includes design review and quality control checks.</p>\n\n<p><strong>Rush Production (3-4 Business Days)</strong> - Expedited service for urgent Hanukkah banner needs. Additional fees apply for priority processing and faster turnaround.</p>\n\n<p><strong>Super Rush Production (1-2 Business Days)</strong> - Emergency service for last-minute Hanukkah celebrations. Premium pricing ensures immediate processing and priority printing.</p>\n\n<p><strong>Production Timeline Factors:</strong></p>\n<ul>\n<li>Banner size and material selection</li>\n<li>Complexity of Hanukkah design and Hebrew text</li>\n<li>Custom artwork requiring design assistance</li>\n<li>Finishing options and installation hardware</li>\n<li>Quality control and approval processes</li>\n</ul>\n\n<p>All production times begin after final artwork approval. Our team will contact you within 24 hours if any design modifications are needed for optimal printing results.</p>\n\n<p><strong>Holiday Season Planning:</strong> We recommend placing Hanukkah banner orders at least 2 weeks before your celebration to ensure availability and avoid seasonal shipping delays.</p>\n\nPASTE INTO:\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nPAYMENT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Hanukkah Banner Payment & Ordering Options</h2>\n\n<p>Convenient payment methods for your custom Hanukkah banner order:</p>\n\n<p><strong>Credit Card Payment</strong> - Secure online processing accepting Visa, Mastercard, American Express, and Discover. Immediate order processing upon payment confirmation.</p>\n\n<p><strong>PayPal</strong> - Fast and secure payment through your PayPal account with buyer protection for your Hanukkah banner purchase.</p>\n\n<p><strong>Purchase Orders</strong> - Available for synagogues, schools, and established businesses. Net 30 terms available for qualified accounts with credit approval.</p>\n\n<p><strong>Bank Transfer</strong> - Wire transfer options available for large Hanukkah banner orders or international customers. Contact customer service for banking details.</p>\n\n<p><strong>Split Payment Options</strong> - Deposit required for orders over $500, with balance due before shipping. Helps manage budget for large Hanukkah celebration orders.</p>\n\n<p><strong>Tax-Exempt Status</strong> - Religious organizations and qualifying non-profits can apply tax-exempt status to their Hanukkah banner orders. Valid documentation required.</p>\n\n<p>All payments are processed securely with 256-bit SSL encryption. Order confirmation and tracking information will be provided via email immediately after payment processing.</p>\n\nPASTE INTO:\nPayment Options Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING GUIDELINES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Shipping Options for Custom Hanukkah Banner Delivery</h2>\n\n<p>Reliable shipping methods to ensure your Hanukkah banners arrive in time for your celebration:</p>\n\n<p><strong>Standard Ground Shipping (5-7 Business Days)</strong> - Cost-effective delivery for advance Hanukkah planning. Free shipping available on orders over $99.</p>\n\n<p><strong>Express Shipping (2-3 Business Days)</strong> - Expedited delivery for time-sensitive Hanukkah events and synagogue installations.</p>\n\n<p><strong>Overnight Shipping</strong> - Next business day delivery available for emergency Hanukkah banner needs. Order by 2 PM EST for same-day processing.</p>\n\n<p><strong>Freight Shipping</strong> - Required for oversized Hanukkah banners exceeding standard carrier limits. Professional handling ensures safe delivery of large-format banners.</p>\n\n<p><strong>International Shipping</strong> - Worldwide delivery available for Hanukkah celebrations globally. Customs documentation and duties handled professionally.</p>\n\n<p><strong>Shipping Guidelines:</strong></p>\n<ul>\n<li>Banners over 8 feet in both directions will be folded unless freight shipping is selected</li>\n<li>Tracking information provided for all shipments</li>\n<li>Signature confirmation available for valuable orders</li>\n<li>Weather delays possible during winter holiday season</li>\n</ul>\n\n<p>All Hanukkah banners are carefully packaged in protective tubes or boxes to prevent damage during transit. Insurance coverage available for high-value orders.</p>\n\nPASTE INTO:\nShipping Guidelines Tab\n\n--------------------------------------------------\n\n==================================================\nCOMMON USES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Holiday & Synagogue Uses for Custom Hanukkah Banners</h2>\n\n<p>Versatile applications for your custom Hanukkah banners across various celebration settings:</p>\n\n<p><strong>Synagogue Installations</strong> - Welcome banners, Torah study announcements, and holiday greetings for congregation members and visitors during Hanukkah services.</p>\n\n<p><strong>Community Events</strong> - Festival of Lights celebrations, menorah lightings, and public Hanukkah gatherings requiring visible signage and decorative displays.</p>\n\n<p><strong>Business Displays</strong> - Retail storefronts, Jewish community centers, and businesses celebrating Hanukkah with customers and clients.</p>\n\n<p><strong>Educational Settings</strong> - Schools, Hebrew schools, and universities hosting Hanukkah educational events and cultural celebrations.</p>\n\n<p><strong>Family Celebrations</strong> - Home parties, family reunions, and private Hanukkah gatherings requiring personalized holiday decorations.</p>\n\n<p><strong>Parade Participation</strong> - Holiday parades and community processions featuring Hanukkah themes and Jewish cultural celebration.</p>\n\n<p><strong>Fundraising Events</strong> - Charity drives, community fundraisers, and non-profit events during the Hanukkah season.</p>\n\n<p><strong>Cultural Centers</strong> - Jewish cultural organizations, museums, and heritage centers promoting Hanukkah awareness and education.</p>\n\n<p>All custom Hanukkah banners can incorporate traditional symbols including the Star of David, menorahs, dreidels, and Hebrew text to authentically represent your celebration.</p>\n\nPASTE INTO:\nCommon Uses Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Hanukkah Banner Artwork Requirements for Professional Printing</h2>\n\n<p>Technical specifications to ensure optimal print quality for your custom Hanukkah banner:</p>\n\n<p><strong>File Format Requirements:</strong></p>\n<ul>\n<li>Preferred: PDF, AI, EPS with embedded fonts and linked images</li>\n<li>Acceptable: High-resolution JPEG, PNG, TIFF (300 DPI minimum)</li>\n<li>Vector formats recommended for Hebrew text and Star of David designs</li>\n</ul>\n\n<p><strong>Resolution Standards:</strong></p>\n<ul>\n<li>Vector artwork: Scalable to any size without quality loss</li>\n<li>Raster images: 150 DPI at final print size minimum</li>\n<li>Photography: 300 DPI recommended for crisp reproduction</li>\n</ul>\n\n<p><strong>Color Specifications:</strong></p>\n<ul>\n<li>CMYK color mode for accurate color reproduction</li>\n<li>RGB files acceptable but may experience slight color shifts</li>\n<li>Pantone colors available for exact brand matching</li>\n<li>Traditional Hanukkah colors: Blue, white, gold, silver</li>\n</ul>\n\n<p><strong>Design Guidelines:</strong></p>\n<ul>\n<li>0.5\" bleed area recommended for hemmed banners</li>\n<li>Keep text and important elements 1\" from edges</li>\n<li>Font size minimum 1\" for readability at viewing distance</li>\n<li>Hebrew text requires Unicode-compliant fonts</li>\n</ul>\n\n<p><strong>Free Design Services:</strong> Our in-house designers can assist with Hebrew text integration, traditional Hanukkah symbols, and layout optimization for your specific banner size and application.</p>\n\nPASTE INTO:\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Design & Order Your Custom Hanukkah Banner Today</h2>\n\n<p>Ready to create a memorable Hanukkah celebration with a professional custom banner? Our experienced team is here to help you design and produce the perfect Hanukkah banner for your synagogue, community event, or family celebration.</p>\n\n<p><strong>Get started on your order today:</strong></p>\n<ul>\n<li>Choose your banner size and material from our configurator above</li>\n<li>Upload your artwork or work with our design team</li>\n<li>Select your preferred production timeline</li>\n<li>Complete your order with secure online payment</li>\n</ul>\n\n<p><strong>Need assistance?</strong> Our customer support team is available Monday–Friday 8AM–4PM CST to help with design questions, material selection, and order processing. Call us at <a href=\"tel:13203915300\">(320) 391-5300</a> or toll-free at <a href=\"tel:18664197446\">(866) 419-7446</a>.</p>\n\n<p><strong>Special Requirements?</strong> We can customize your order for unique sizes, special materials, or large quantity discounts. <a href=\"https://www.banners.com/quotes\">Request a custom quote</a> for specialized Hanukkah banner projects.</p>\n\n<p><strong>Why Choose Banners.com for Your Hanukkah Banners:</strong></p>\n<ul>\n<li>Professional printing with state-of-the-art equipment</li>\n<li>All banners manufactured and printed in the USA</li>\n<li>Experienced graphic design team familiar with Hebrew text</li>\n<li>Quality guarantee with satisfaction promise</li>\n<li>Fast turnaround times to meet your celebration deadline</li>\n<li>Secure packaging and reliable shipping nationwide</li>\n</ul>\n\nPASTE INTO:\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Frequently Asked Questions</h2>\n\n<h3>What material options do you offer for these banners?</h3>\n<p>We offer six premium vinyl materials for Hanukkah banners: 8oz vinyl (lightweight), 13oz vinyl (standard), 18oz vinyl (heavy-duty), mesh vinyl (wind-resistant), fabric material (elegant finish), and canvas material (textured). Each material is suitable for different installation environments and celebration requirements.</p>\n\n<h3>What is the star of Hanukkah named?</h3>\n<p>The Star of David (Magen David in Hebrew) is the six-pointed star symbol commonly associated with Judaism and often featured on Hanukkah banners. Our design team can incorporate authentic Star of David designs and other traditional Hanukkah symbols into your custom banner.</p>\n\n<h3>Can I order a double-sided banner?</h3>\n<p>Yes, we offer double-sided printing for Hanukkah banners that will be viewed from both sides, such as suspended installations or parade banners. Double-sided banners use a blockout liner between prints to prevent show-through and ensure vibrant colors on both sides.</p>\n\n<h3>What is the largest banner I can order?</h3>\n<p>Our standard production accommodates Hanukkah banners up to 8'x50'. For larger sizes or custom dimensions, we can provide specialized printing through our custom quote service. Contact our team to discuss oversized banner requirements for large venues or outdoor installations.</p>\n\n<h3>What is the better finish for indoor use, glossy or matte?</h3>\n<p>For indoor Hanukkah displays, matte finish is typically preferred as it reduces glare and provides better readability under artificial lighting. Glossy finish works well for outdoor applications where weather resistance is important. Our team can recommend the best finish based on your specific installation environment.</p>\n\nPASTE INTO:\nFAQ Tab\n\n--------------------------------------------------"
+}

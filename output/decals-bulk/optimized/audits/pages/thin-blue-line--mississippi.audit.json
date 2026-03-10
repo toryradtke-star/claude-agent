@@ -1,0 +1,315 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "runPagePipeline",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:13:07.799Z",
+  "data": {
+    "url": "https://www.decals.com/thin-blue-line/mississippi",
+    "pageType": "pdp",
+    "productPage": true,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "State of Mississippi Thin Blue Line Decal"
+      },
+      {
+        "tag": "h3",
+        "text": "How to Apply Vinyl Decals"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 1:"
+      },
+      {
+        "tag": "h4",
+        "text": "Tools Needed"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 2:"
+      },
+      {
+        "tag": "h4",
+        "text": "Clean the Surface"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 3:"
+      },
+      {
+        "tag": "h4",
+        "text": "Tape & Measure"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 4:"
+      },
+      {
+        "tag": "h4",
+        "text": "Remove the Transfer Film from the Backing"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 5:"
+      },
+      {
+        "tag": "h4",
+        "text": "Apply the Decal to the Surface"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 6:"
+      },
+      {
+        "tag": "h4",
+        "text": "Remove the Transfer Film"
+      },
+      {
+        "tag": "h4",
+        "text": "Step 7:"
+      },
+      {
+        "tag": "h4",
+        "text": "Enjoy!"
+      },
+      {
+        "tag": "h2",
+        "text": "Production Time Table"
+      },
+      {
+        "tag": "h4",
+        "text": "3 Business Day Standard:"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      }
+    ],
+    "serpInsights": {
+      "query": "state of mississippi",
+      "keywordThemes": [],
+      "commonHeadings": [],
+      "avgWordCount": 0,
+      "faqPatterns": [],
+      "relatedEntities": [],
+      "structuredDataPresence": "unknown",
+      "schemaTypes": [],
+      "topUrls": []
+    },
+    "keywordClusters": {
+      "coreKeyword": "state of mississippi",
+      "clusters": [
+        {
+          "topic": "installation",
+          "match": {},
+          "keywords": [
+            "state of mississippi installation printing",
+            "state of mississippi installation custom sizes",
+            "state of mississippi installation design upload"
+          ]
+        },
+        {
+          "topic": "durability",
+          "match": {},
+          "keywords": [
+            "state of mississippi durability printing",
+            "state of mississippi durability custom sizes",
+            "state of mississippi durability design upload"
+          ]
+        },
+        {
+          "topic": "pricing",
+          "match": {},
+          "keywords": [
+            "state of mississippi pricing printing",
+            "state of mississippi pricing custom sizes",
+            "state of mississippi pricing design upload"
+          ]
+        },
+        {
+          "topic": "customization",
+          "match": {},
+          "keywords": [
+            "state of mississippi printing",
+            "state of mississippi custom sizes",
+            "state of mississippi design upload"
+          ]
+        },
+        {
+          "topic": "shipping",
+          "match": {},
+          "keywords": [
+            "state of mississippi shipping printing",
+            "state of mississippi shipping custom sizes",
+            "state of mississippi shipping design upload"
+          ]
+        }
+      ]
+    },
+    "internalLinks": {
+      "internalLinkCount": 0,
+      "internalLinks": [],
+      "orphanPageRisk": true,
+      "relativeLinkCount": 0,
+      "absoluteLinkCount": 0,
+      "brokenInternalLinks": [],
+      "contextualLinks": [
+        {
+          "anchor": "save the date magnets",
+          "url": "https://www.decals.com/save-the-date-magnets"
+        },
+        {
+          "anchor": "dry erase wall decals",
+          "url": "https://www.decals.com/decals/dry-erase-wall-decals"
+        },
+        {
+          "anchor": "custom hard hat stickers",
+          "url": "https://www.decals.com/stickers/custom-hard-hat-stickers"
+        },
+        {
+          "anchor": "custom holographic vinyl material",
+          "url": "https://www.decals.com/custom-holographic-vinyl-material"
+        },
+        {
+          "anchor": "custom paper roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-paper-roll-labels"
+        },
+        {
+          "anchor": "custom clear roll labels",
+          "url": "https://www.decals.com/labels/roll-labels/custom-clear-roll-labels"
+        }
+      ]
+    },
+    "technicalSEO": {
+      "title": "",
+      "metaDescription": "",
+      "canonical": "",
+      "robots": "",
+      "missingAltImages": 0,
+      "multipleH1": false
+    },
+    "contentQuality": {
+      "wordCount": 981,
+      "thinContent": false,
+      "headingStructure": [
+        {
+          "tag": "h1",
+          "text": "State of Mississippi Thin Blue Line Decal"
+        },
+        {
+          "tag": "h3",
+          "text": "How to Apply Vinyl Decals"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 1:"
+        },
+        {
+          "tag": "h4",
+          "text": "Tools Needed"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 2:"
+        },
+        {
+          "tag": "h4",
+          "text": "Clean the Surface"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 3:"
+        },
+        {
+          "tag": "h4",
+          "text": "Tape & Measure"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 4:"
+        },
+        {
+          "tag": "h4",
+          "text": "Remove the Transfer Film from the Backing"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 5:"
+        },
+        {
+          "tag": "h4",
+          "text": "Apply the Decal to the Surface"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 6:"
+        },
+        {
+          "tag": "h4",
+          "text": "Remove the Transfer Film"
+        },
+        {
+          "tag": "h4",
+          "text": "Step 7:"
+        },
+        {
+          "tag": "h4",
+          "text": "Enjoy!"
+        },
+        {
+          "tag": "h2",
+          "text": "Production Time Table"
+        },
+        {
+          "tag": "h4",
+          "text": "3 Business Day Standard:"
+        },
+        {
+          "tag": "h3",
+          "text": "Products you might like"
+        }
+      ],
+      "paragraphCount": 0
+    },
+    "evaluation": {
+      "score": 70,
+      "failedChecks": [
+        {
+          "check": "required_sections",
+          "details": [
+            "MATERIAL OPTIONS TAB",
+            "FINISHING OPTIONS TAB",
+            "SHIPPING GUIDELINES TAB"
+          ]
+        },
+        {
+          "check": "cta_section_rules",
+          "details": [
+            "PRODUCTION TIMES TAB",
+            "ARTWORK TAB"
+          ]
+        },
+        {
+          "check": "generic_headings",
+          "details": "Contains generic headings"
+        }
+      ],
+      "retry": true,
+      "threshold": 85
+    },
+    "contentScore": {
+      "score": 95,
+      "missingEntities": [],
+      "missingHeadings": [],
+      "improvementSuggestions": []
+    },
+    "retryMetadata": {
+      "attemptCount": 1,
+      "retryReason": null,
+      "timestamp": "2026-03-06T16:13:07.786Z"
+    },
+    "seoRecommendations": "{\"ts\":\"2026-03-06T16:13:07.773Z\",\"level\":\"info\",\"event\":\"metric\",\"agent\":\"pdpAgent\",\"url\":\"https://www.decals.com/thin-blue-line/mississippi\",\"model\":\"claude-sonnet-4-20250514\",\"tokensIn\":23145,\"tokensOut\":3895,\"promptVersion\":\"unknown\",\"templateVersion\":\"unknown\",\"durationMs\":77313}\n==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: State of Mississippi Thin Blue Line Decal\nH2: Production Time Table\nH3: How to Apply Vinyl Decals\nH3: Products you might like\nH4: Step 1: Tools Needed\nH4: Step 2: Clean the Surface\nH4: Step 3: Tape & Measure\nH4: Step 4: Remove the Transfer Film from the Backing\nH4: Step 5: Apply the Decal to the Surface\nH4: Step 6: Remove the Transfer Film\nH4: Step 7: Enjoy!\nH4: 3 Business Day Standard\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: State of Mississippi Thin Blue Line Decal\nH2: Custom State of Mississippi Decals for Law Enforcement Support\nH2: State of Mississippi Decal Order Process\nH2: State of Mississippi Production & Turnaround Times\nH2: State of Mississippi Cut Options\nH2: State of Mississippi Artwork Requirements\nH2: State of Mississippi Decal Shipping\nH2: State of Mississippi Installation Guide\nH2: What Are State of Mississippi Decals?\nH2: State of Mississippi Decal FAQs\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\nState of Mississippi Thin Blue Line Decal\nShow support for Mississippi Law Enforcement with professional-grade vinyl decals\n\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nMississippi Thin Blue Line Decal Configuration\nQuantity Selection\nSize Options\nMaterial Selection\nCustom Upload Options\n\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom State of Mississippi Decals for Law Enforcement Support</h2>\n<p>Back the blue in Mississippi with professional State of Mississippi thin blue line decals designed for long-lasting durability and powerful visual impact. These custom state-shaped decals are crafted from premium weather-resistant vinyl material that withstands outdoor conditions while maintaining vibrant colors and crisp detail. See also [save the date magnets](https://www.decals.com/save-the-date-magnets).</p>\n\n<p>State of Mississippi decals feature the iconic thin blue line design within the precise state outline, creating a meaningful tribute to Mississippi law enforcement officers. The durable vinyl construction ensures these decals maintain their appearance on vehicles, windows, water bottles, phone cases, and other smooth non-porous surfaces.</p>\n\n<p>Each State of Mississippi decal is precision-cut to exact state proportions and available in professional matte vinyl finish. Whether displaying support on personal vehicles or distributing at community events, these decals provide a respectful way to honor Mississippi's law enforcement community.</p>\n\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nORDER PROCESS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Mississippi Decal Order Process</h2>\n<p>Ordering your State of Mississippi decals follows a streamlined process designed for accuracy and customer satisfaction. Select your quantity and size options through our online configurator, then proceed through our secure checkout system.</p>\n\n<h3>Design Process</h3>\n<p>State of Mississippi decals feature our standard thin blue line design within the precise state outline. No custom artwork upload is required for this design, as we maintain the exact Mississippi state proportions and official thin blue line styling.</p>\n\n<h3>Payment</h3>\n<p>Complete payment through our secure online system using major credit cards or PayPal. Order confirmation and tracking information will be provided immediately after payment processing.</p>\n\n<h3>Live Order Tracking</h3>\n<p>Monitor your State of Mississippi decal order status through our online tracking system. You'll receive email updates at each production milestone, from order receipt through shipping dispatch.</p>\n\nOrder Process Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Mississippi Production & Turnaround Times</h2>\n<p>State of Mississippi decal production begins immediately upon order confirmation. Our standard production schedule ensures consistent quality while meeting delivery expectations for both individual orders and bulk quantities.</p>\n\n<h3>3 Business Day Standard Production</h3>\n<p>Our most popular production timeline for State of Mississippi decals. This standard turnaround provides the optimal balance of speed and affordability for most orders. Production time begins once payment is processed and order details are confirmed.</p>\n\n<h3>Rush Production Options</h3>\n<p>Emergency and same-day rush production may be available for State of Mississippi decals depending on current production capacity. Contact our customer service team at 320-391-5250 to discuss expedited options for urgent orders.</p>\n\n<p>Production time is separate from shipping time. Orders approved after 5:00 PM CST begin production the following business day. Total delivery time includes both production time and selected shipping method duration.</p>\n\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nCUT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Mississippi Cut Options</h2>\n<p>State of Mississippi decals are available in multiple cut styles to match your application preferences and surface requirements. Each cut option provides different adhesive backing behaviors and installation characteristics.</p>\n\n<h3>Die Cut State of Mississippi Decals</h3>\n<p>Die cut State of Mississippi decals are cut precisely to the state outline with no excess material around the edges. The backing paper is removed entirely during application, leaving only the state shape adhered to your surface. This option works best for permanent applications on vehicles, windows, and equipment.</p>\n\n<h3>Kiss Cut State of Mississippi Decals</h3>\n<p>Kiss cut State of Mississippi decals feature the state design cut through the vinyl layer while leaving the backing paper intact. This creates an easy-to-remove decal that peels away from the backing paper in one piece. Kiss cut is ideal for temporary applications and surfaces where easy removal is important.</p>\n\n<h3>Transfer Cut State of Mississippi Decals</h3>\n<p>Transfer cut State of Mississippi decals include a transfer tape overlay that holds all design elements in perfect alignment during application. This method is particularly useful for multi-layer designs or when precise positioning is critical for the final appearance.</p>\n\nCut Options Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Mississippi Artwork Requirements</h2>\n<p>State of Mississippi thin blue line decals use our standard design template featuring the precise Mississippi state outline with integrated thin blue line element. This standardized approach ensures consistent quality and accurate state proportions across all orders.</p>\n\n<h3>Standard Design Template</h3>\n<p>The State of Mississippi decal design is pre-configured with exact state boundary coordinates and proper thin blue line placement. This eliminates the need for custom artwork uploads while maintaining geographic accuracy and respectful law enforcement symbolism.</p>\n\n<h3>Color Specifications</h3>\n<p>State of Mississippi decals are produced using premium vinyl in standard thin blue line colorway. The design features high-contrast elements that remain visible across various background surfaces and lighting conditions.</p>\n\n<h3>Size Scaling</h3>\n<p>All State of Mississippi decals are scaled proportionally to maintain accurate state dimensions regardless of selected size. The thin blue line element scales appropriately with the overall state outline to preserve design balance and visual impact.</p>\n\n<p>Custom modifications to the State of Mississippi design may be available for bulk orders. Contact our design team to discuss <a href=\"https://www.decals.com/stickers/custom-hard-hat-stickers\">custom hard hat stickers</a> or other specialized applications requiring design adjustments.</p>\n\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Mississippi Decal Shipping</h2>\n<p>State of Mississippi decals ship nationwide using reliable carrier services with full tracking capabilities. Our shipping department carefully packages each order to prevent damage during transit while ensuring timely delivery.</p>\n\n<h3>Shipping Methods</h3>\n<p>Multiple shipping speed options are available for State of Mississippi decals, from standard ground service to expedited overnight delivery. Select your preferred shipping method during checkout based on your timeline requirements and budget considerations.</p>\n\n<h3>Shipping Time Expectations</h3>\n<p>Shipping time is calculated separately from production time. Standard ground shipping typically takes 3-7 business days depending on destination distance from our Minnesota facility. Expedited shipping options can reduce delivery time to 1-3 business days.</p>\n\n<h3>Important Shipping Notes</h3>\n<p>State of Mississippi decals are shipped in protective packaging to prevent creasing or damage during transport. Large quantity orders may ship in multiple packages to ensure proper protection. Tracking numbers are provided automatically once orders ship from our facility.</p>\n\n<p>International shipping is available for State of Mississippi decals with additional processing time for customs documentation. Contact customer service for international shipping rates and delivery estimates.</p>\n\nShipping Tab\n\n--------------------------------------------------\n\n==================================================\nINSTALLATION TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Mississippi Installation Guide</h2>\n<p>Proper installation ensures your State of Mississippi decals create a strong, long-lasting bond with optimal appearance. Follow these step-by-step instructions for professional results on any smooth, non-porous surface.</p>\n\n<h3>Preparing the Surface</h3>\n<p>Clean the installation surface thoroughly using warm water and soap, rubbing alcohol, or household cleaning products. Remove all dirt, debris, oils, and moisture that could interfere with adhesion. Wipe the surface completely dry with a clean cloth before applying your State of Mississippi decal.</p>\n\n<h3>Positioning the State of Mississippi Decal</h3>\n<p>Before removing any backing material, tape your State of Mississippi decal in the desired position. Use masking tape to secure the decal temporarily while you measure and adjust placement. Ensure the state outline is level and centered according to your preferences.</p>\n\n<h3>Applying the State of Mississippi Decal</h3>\n<p>Create a hinge by running tape across the top edge of the decal. Slowly peel away the backing paper while applying the decal from top to bottom. Use a <a href=\"https://www.decals.com/squeegee\">plastic applicator squeegee</a> or credit card to smooth the decal, working from the center outward to eliminate air bubbles.</p>\n\n<h3>Removing Transfer Tape</h3>\n<p>For transfer-cut State of Mississippi decals, carefully remove the transfer tape after the decal is fully applied. Peel the transfer tape slowly at a low angle to avoid lifting the decal edges. Press down any loose sections and work out remaining air bubbles with the applicator tool.</p>\n\n<p>Watch our die-cut video installation guide for visual demonstration of proper State of Mississippi decal application techniques. Proper installation ensures maximum adhesion and longevity for your law enforcement support decal.</p>\n\nInstallation Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>What Are State of Mississippi Decals?</h2>\n<p>State of Mississippi decals are precision-cut vinyl graphics featuring the exact outline of Mississippi state boundaries. These decals are manufactured from durable outdoor-grade vinyl material designed to withstand weather exposure while maintaining color stability and adhesive strength. State of Mississippi decals commonly serve as vehicle graphics, window displays, and personal item customization, with applications ranging from law enforcement support to state pride demonstrations. The decals are applied to smooth, non-porous surfaces using pressure-sensitive adhesive backing.</p>\n\n<h2>Order Your State of Mississippi Decals Today</h2>\n<p>Show your support for Mississippi law enforcement with professional-quality State of Mississippi thin blue line decals. Our precision manufacturing process ensures each decal maintains accurate state proportions while delivering the durability needed for long-term display.</p>\n\n<p>Whether you're outfitting a fleet of vehicles, creating promotional materials for community events, or simply displaying personal support, State of Mississippi decals provide a respectful and visually striking solution. The weather-resistant vinyl construction makes these decals suitable for both indoor and outdoor applications.</p>\n\n<p>Configure your State of Mississippi decal order using our online system, selecting the quantity and size that best meets your needs. Our standard production timeline ensures quick turnaround without compromising quality, while our shipping network provides reliable delivery nationwide.</p>\n\n<p>Join thousands of customers who trust Decals.com for their custom state decal needs. Contact our customer service team at 320-391-5250 with questions about bulk pricing, custom applications, or specialized requirements for your State of Mississippi decal project.</p>\n\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>State of Mississippi Decal FAQs</h2>\n\n<h3>How long do State of Mississippi decals last outdoors?</h3>\n<p>State of Mississippi decals typically last 5-7 years outdoors when applied to clean glass, metal, or painted surfaces. The premium vinyl material resists fading, cracking, and peeling under normal weather conditions including sun exposure, rain, and temperature fluctuations.</p>\n\n<h3>What surfaces work best for State of Mississippi decals?</h3>\n<p>State of Mississippi decals adhere best to smooth, non-porous surfaces such as vehicle windows, metal surfaces, painted walls, plastic cases, and glass. Avoid applying to textured, porous, or heavily curved surfaces as this can reduce adhesion strength and longevity.</p>\n\n<h3>Are State of Mississippi decals removable?</h3>\n<p>State of Mississippi decals can be removed from most surfaces, though removal difficulty depends on surface type and installation duration. Decals applied to glass typically remove more easily than those on painted surfaces. Heat from a hair dryer can help soften the adhesive for easier removal.</p>\n\n<h3>What size State of Mississippi decals are available?</h3>\n<p>State of Mississippi decals are available in 5-inch height as the standard size, with the width proportional to maintain accurate state dimensions. Custom sizing may be available for bulk orders or special applications through our customer service team.</p>\n\n<h3>Can I get custom colors for State of Mississippi decals?</h3>\n<p>The thin blue line State of Mississippi decals are produced in standard colorway to maintain the symbolic integrity of law enforcement support. Custom color options may be available for non-thin blue line state designs through our <a href=\"https://www.decals.com/decals/dry-erase-wall-decals\">custom decal</a> services.</p>\n\n<h3>Do State of Mississippi decals include installation tools?</h3>\n<p>State of Mississippi decals do not include installation tools. We recommend having scissors, masking tape, a measuring tool, and a plastic applicator squeegee or credit card available for proper installation. Professional installation tools are available separately.</p>\n\n<h3>What is the minimum order quantity for State of Mississippi decals?</h3>\n<p>State of Mississippi decals can be ordered in quantities starting from 1 unit with no minimum order requirement. Volume pricing is available for larger quantities, making them cost-effective for organizations, events, or group purchases.</p>\n\nFAQ Tab\n\n--------------------------------------------------\n\n==================================================\nSEO ANALYSIS & OPTIMIZATION SUMMARY\n==================================================\n\nTechnical SEO improvements include implementing proper heading hierarchy with H1 for product name, H2 for major sections, and H3 for subsections. The optimized structure eliminates orphaned H4 headings and creates logical content flow through the purchase journey. Meta description and title tag optimization focuses on primary keyword \"State of Mississippi\" while incorporating commercial intent signals.\n\nContent Quality enhancements expand thin existing content into comprehensive sections covering ordering, production, cut options, artwork, shipping, and installation. Each section targets specific user intent stages from awareness through post-purchase support. The FAQ section addresses common customer concerns using natural question formatting optimized for featured snippets.\n\nInternal Linking strategy incorporates contextual links to related products and services including custom hard hat stickers, plastic applicator squeegees, dry erase wall decals, and custom decal services. Links are positioned within relevant paragraph content to support user navigation and distribute page authority.\n\nKeyword Clustering optimization integrates semantic variations including \"state of mississippi printing,\" \"custom sizes,\" \"design upload,\" \"installation,\" \"durability,\" and \"shipping\" throughout the content. Primary entity \"State of Mississippi\" appears consistently in all major headings while avoiding keyword stuffing through natural language variation."
+  }
+}

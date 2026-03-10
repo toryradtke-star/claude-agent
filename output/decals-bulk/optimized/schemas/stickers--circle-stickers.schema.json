@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:54:40.452Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Circle Stickers Circle",
+    "description": "Design custom circle stickers at Decals.com. Upload your own graphics or easily begin designing our blank template using our online design tool.",
+    "url": "https://www.decals.com/stickers/circle-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://www.decals.com/calendered-vinyl",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 24053,
+    "output_tokens": 4302
+  },
+  "durationMs": 86218
+}

@@ -1,0 +1,205 @@
+{
+  "url": "https://www.banners.com/custom-photo-banners",
+  "productPage": true,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": true,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 825,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Personalized Photo Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Order Online Today!"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Personalized Photo Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Create the perfect custom banner with your very own photos!"
+      },
+      {
+        "tag": "h3",
+        "text": "Easily begin your order by selecting a design option:"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h4",
+        "text": ""
+      },
+      {
+        "tag": "h4",
+        "text": "Can I order a double-sided banner?"
+      },
+      {
+        "tag": "h4",
+        "text": "I need help with my design, what should I do?"
+      },
+      {
+        "tag": "h4",
+        "text": "What are my banner hanging options?"
+      },
+      {
+        "tag": "h4",
+        "text": "How large can my photo banner be printed?"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Personalized Photo Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Order Online Today!"
+    },
+    {
+      "tag": "h3",
+      "text": "Products you might like"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Personalized Photo Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Create the perfect custom banner with your very own photos!"
+    },
+    {
+      "tag": "h3",
+      "text": "Easily begin your order by selecting a design option:"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "h4",
+      "text": ""
+    },
+    {
+      "tag": "h4",
+      "text": "Can I order a double-sided banner?"
+    },
+    {
+      "tag": "h4",
+      "text": "I need help with my design, what should I do?"
+    },
+    {
+      "tag": "h4",
+      "text": "What are my banner hanging options?"
+    },
+    {
+      "tag": "h4",
+      "text": "How large can my photo banner be printed?"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": "==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Personalized Photo Banners\nH3: Order Online Today! (skipped H2 level)\nH3: Products you might like (navigational, not SEO)\nH4: Upload a Print Ready File (orphaned)\nH3: Step 1 - Choose Choose a product and the size you want (procedural)\nH3: Step 2 - Upload Upload the image from your computer (procedural) \nH4: Let us design your product (orphaned)\nH3: Step 1 - Choose Choose a product and the size you want (duplicate)\nH3: Step 2 - Upload Upload the image from your computer (duplicate)\nH3: Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together! (procedural)\nH2: More About Personalized Photo Banners (informational)\nH3: Create the perfect custom banner with your very own photos! (generic)\nH3: Easily begin your order by selecting a design option: (procedural)\nH2: Frequently Asked Questions\nH4: (empty)\nH4: Can I order a double-sided banner?\nH4: I need help with my design, what should I do?\nH4: What are my banner hanging options?\nH4: How large can my photo banner be printed?\nH2: Why Choose Banners.com?\nH4: Search (navigational)\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Photo Banners for Personal Events & Display Use\nH2: High-Quality Vinyl Photo Banner Printing with Custom Personalization\nH2: Photo Banner Material for Outdoor & Indoor Display\nH2: Finishing Options for Custom Photo Banner Installation\nH2: Photo Banner Artwork Requirements for High-Quality Printing\nH2: Custom Photo Banner Production & Turnaround Times\nH2: Photo Banner Payment & Ordering Options\nH2: Shipping Options for Custom Photo Banner Delivery\nH2: Personal Events & Display Uses for Custom Photo Banners\nH2: Order Custom Photo Banners with Your Personal Images\nH2: Frequently Asked Questions About Photo Banners\nH3: Can I order double-sided photo banners?\nH3: How do I get help with my photo banner design?\nH3: What hanging options are available for photo banners?\nH3: What's the maximum size for custom photo banner printing?\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n# Custom Photo Banners for Personal Events & Display Use\n\n## High-Quality Vinyl Photo Banner Printing with Custom Personalization\n\nPASTE INTO:\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nUpload Your Photo Design\nSelect Photo Banner Size\nChoose Material Options\nAdd Finishing & Grommets\nReview Photo Banner Preview\nAdd to Cart\n\nPASTE INTO:\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n## Custom Photo Banners for Personal Events & Celebrations\n\nTransform your favorite photos into stunning custom vinyl banners perfect for personal celebrations, family reunions, graduations, birthdays, anniversaries, and special events. Our personalized photo banners feature high-resolution printing on durable vinyl material designed for both indoor and outdoor display.\n\nEach custom photo banner is professionally printed using state-of-the-art large-format printers that deliver vibrant colors and sharp detail reproduction from your digital images. Whether you're celebrating a milestone birthday, commemorating a special achievement, or creating a memorable backdrop for your event, our photo banners provide the perfect solution for personal display needs.\n\n**Key Features:**\n- High-resolution photo printing on premium vinyl material\n- Custom sizes available from small personal displays to large event backdrops\n- Weather-resistant material suitable for outdoor celebrations\n- Professional finishing options including grommets and hemming\n- Fast turnaround times for last-minute events\n- Easy online ordering with photo upload capabilities\n\n**Photo Quality Requirements:**\nYour uploaded images should be high-resolution (minimum 150 DPI at final print size) for optimal print quality. Our design team will review your photo files and contact you if any adjustments are needed to ensure the best possible print results.\n\n**Installation Options:**\nPhoto banners include standard finishing options for easy hanging and display. Choose from grommets for rope or bungee cord installation, pole pockets for banner pole mounting, or hemmed edges for a clean finished appearance.\n\nPASTE INTO:\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nMATERIAL OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n## Photo Banner Material for Outdoor & Indoor Display\n\nOur custom photo banners are printed on premium 13oz vinyl banner material specifically chosen for excellent photo reproduction and durability. This heavy-duty vinyl provides the ideal surface for high-resolution photo printing while maintaining weather resistance for outdoor celebrations and events.\n\n**Premium Vinyl Photo Banner Material:**\n- 13oz scrim vinyl construction for durability\n- Smooth surface optimized for photo detail reproduction\n- Weather-resistant for outdoor event display\n- UV-resistant inks prevent fading during extended outdoor use\n- Flexible material allows for easy hanging and transport\n- Tear-resistant construction withstands wind and weather\n\n**Photo Print Quality:**\nThe vinyl material surface is engineered to accept high-resolution digital printing with exceptional color accuracy and detail reproduction. Your photos will appear vibrant and sharp, with true-to-life colors that make your personal images stand out at any event or celebration.\n\n**Durability for Events:**\nThis material withstands typical outdoor conditions during events and celebrations. The vinyl construction resists tearing, while the weather-resistant properties protect your custom photo banner from moisture and UV exposure during outdoor use.\n\n**Indoor Applications:**\nFor indoor events, the material provides a professional appearance with excellent color reproduction under artificial lighting. The vinyl surface reflects light evenly, ensuring your photo banner looks great in any indoor venue or celebration space.\n\nPASTE INTO:\nMaterial Options Tab\n\n--------------------------------------------------\n\n==================================================\nFINISHING OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n## Finishing Options for Custom Photo Banner Installation\n\nChoose from professional finishing options designed to make installation and display of your custom photo banner simple and secure. Each finishing option is tailored for different hanging methods and display environments.\n\n**Grommet Installation:**\n- Rust-resistant grommets placed every 2-3 feet along top edge\n- Reinforced grommet holes prevent tearing during installation\n- Compatible with rope, bungee cords, or zip ties\n- Ideal for outdoor events and temporary installations\n- Standard grommet placement with custom spacing available\n\n**Hemmed Edge Finishing:**\n- Heat-welded hem along all four edges\n- Creates clean, professional appearance\n- Prevents fraying and extends banner lifespan\n- Reinforces banner structure for better hanging\n- Available with or without grommets\n\n**Pole Pocket Options:**\n- 2\" or 3\" pole pocket sewn along top edge\n- Allows banner to slide onto banner poles or mounting hardware\n- Creates smooth, professional display without visible hardware\n- Ideal for indoor events and permanent installations\n- Custom pole pocket sizes available upon request\n\n**Corner Reinforcement:**\nAll photo banners include reinforced corners to prevent tearing at stress points. This additional reinforcement ensures your custom photo banner maintains its appearance throughout your event or display period.\n\n**Wind Slits:**\nFor outdoor installations in windy conditions, we can add wind slits to reduce wind resistance and prevent banner damage. Wind slits are strategically placed to maintain photo integrity while improving outdoor performance.\n\nPASTE INTO:\nFinishing Options Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n## Custom Photo Banner Production & Turnaround Times\n\nWe offer flexible production schedules to accommodate your event timeline, from standard production for advance planning to rush production for last-minute celebrations and urgent photo banner needs.\n\n**Standard Production (5-7 Business Days):**\n- Includes design review and photo optimization\n- Quality control inspection before shipping\n- Most economical production option\n- Ideal for advance event planning\n- Includes one round of design revisions if needed\n\n**Rush Production Options:**\n- 3-4 Business Day Production: Available for most photo banner sizes\n- 1-2 Business Day Rush: Limited sizes, additional fees apply\n- Same Day Production: Available for select sizes with morning approval\n- Weekend Production: Available for urgent event needs\n\n**Production Process Timeline:**\n1. **Order Submission:** Upload photos and approve design (same day)\n2. **Design Review:** Our team optimizes your photos for printing (1 business day)\n3. **Customer Approval:** Review and approve final design proof (customer timeline)\n4. **Printing Production:** High-resolution printing on vinyl material (1-2 business days)\n5. **Finishing & Quality Control:** Apply finishing options and inspect (1 business day)\n6. **Shipping:** Package and ship via selected method\n\n**Photo Approval Process:**\nAfter uploading your photos, our design team will review image quality and create a design proof for your approval. This ensures your custom photo banner meets quality standards before production begins. Rush orders require same-day approval to maintain accelerated timeline.\n\n**Holiday and Event Considerations:**\nDuring peak seasons (graduation, wedding season, holidays), we recommend ordering with extra lead time. Contact our customer service team for current production schedules during busy periods.\n\nPASTE INTO:\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nPAYMENT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n## Photo Banner Payment & Ordering Options\n\nWe accept multiple payment methods to make ordering your custom photo banner convenient and secure. All transactions are processed through secure payment systems with full encryption protection.\n\n**Accepted Payment Methods:**\n- All major credit cards (Visa, MasterCard, American Express, Discover)\n- PayPal and PayPal Credit options\n- Business accounts and NET payment terms\n- Purchase orders for qualifying organizations\n- Bank transfers for large orders\n\n**Secure Online Ordering:**\nOur website uses SSL encryption to protect your payment information during the ordering process. All credit card transactions are processed immediately, allowing production to begin without delay.\n\n**Business Account Options:**\n- NET 30 payment terms for approved business accounts\n- Volume pricing for multiple photo banner orders\n- Purchase order processing for schools and organizations\n- Account management for repeat customers\n- Dedicated customer service for business accounts\n\n**Order Confirmation Process:**\n1. Complete photo upload and design selection\n2. Review order summary and pricing\n3. Enter payment information securely\n4. Receive immediate order confirmation email\n5. Track production progress online\n\n**Pricing Structure:**\nPhoto banner pricing is based on finished size, material selection, finishing options, and production timeline. Rush production and specialty finishing options include additional fees clearly displayed during the ordering process.\n\n**Refund and Satisfaction Policy:**\nWe stand behind the quality of our custom photo banners. If you're not completely satisfied with your order, contact our customer service team within 30 days of delivery to discuss resolution options.\n\nPASTE INTO:\nPayment Options Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING GUIDELINES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n## Shipping Options for Custom Photo Banner Delivery\n\nWe offer comprehensive shipping options to ensure your custom photo banner arrives safely and on time for your event or celebration. All photo banners are carefully packaged to prevent damage during transit.\n\n**Standard Shipping Methods:**\n- Ground Shipping (5-7 business days): Most economical option\n- Expedited Shipping (2-3 business days): Faster delivery for events\n- Overnight Shipping (1 business day): Next-day delivery available\n- Two-Day Express: Guaranteed delivery in 2 business days\n- Local Pickup: Available at our Minnesota facility\n\n**Photo Banner Packaging:**\n- Small banners (under 4 feet): Shipped in protective tubes\n- Large banners: Carefully folded in protective packaging\n- Fragile handling labels applied to all shipments\n- Weather-resistant packaging for outdoor delivery\n- Tracking information provided for all shipments\n\n**Shipping Restrictions and Guidelines:**\nDue to shipping regulations, vinyl banners exceeding 8 feet in both directions must be folded for standard shipping. If you require your large photo banner to remain unfolded, contact us for custom freight shipping options with additional fees.\n\n**Delivery Timing Considerations:**\n- Shipping time begins after production completion\n- Weekend and holiday deliveries available for rush orders\n- Rural delivery areas may require additional time\n- International shipping available with customs documentation\n- Event-specific delivery scheduling available\n\n**Order Tracking:**\nAll shipped orders include tracking information sent via email. You can monitor your custom photo banner shipment progress and receive delivery notifications to ensure you're prepared for arrival.\n\n**Shipping Insurance:**\nAll shipments include basic shipping insurance. Additional insurance coverage is available for high-value orders. Damaged shipments should be reported immediately for rapid replacement processing.\n\nPASTE INTO:\nShipping Guidelines Tab\n\n--------------------------------------------------\n\n==================================================\nCOMMON USES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n## Personal Events & Display Uses for Custom Photo Banners\n\nCustom photo banners provide the perfect solution for commemorating special moments and creating memorable displays at personal celebrations, family gatherings, and milestone events.\n\n**Birthday and Anniversary Celebrations:**\n- Milestone birthday displays with favorite photos\n- Anniversary commemorative banners featuring wedding photos\n- Photo timelines showing years of memories\n- Party backdrop banners for photo opportunities\n- Outdoor birthday celebration displays\n\n**Graduation and Achievement Events:**\n- Graduate photo banners for graduation parties\n- Academic achievement celebration displays\n- Sports accomplishment commemorative banners\n- Scholarship and award recognition displays\n- School milestone celebration banners\n\n**Family Reunion and Gathering Events:**\n- Family photo collage banners\n- Multi-generational family tree displays\n- Reunion welcome banners with family photos\n- Memorial tribute banners honoring family members\n- Family vacation memory displays\n\n**Wedding and Engagement Celebrations:**\n- Engagement photo announcement banners\n- Wedding reception photo displays\n- Bridal shower photo memory banners\n- Wedding anniversary celebration displays\n- Save-the-date announcement banners\n\n**Memorial and Tribute Applications:**\n- Memorial service photo tribute displays\n- Celebration of life commemorative banners\n- Pet memorial and tribute banners\n- Honor and remembrance displays\n- Funeral service photo presentations\n\n**Special Event and Party Uses:**\n- Retirement party photo celebration banners\n- Baby shower photo displays\n- Holiday party custom photo banners\n- Company picnic family photo displays\n- Community event photo documentation banners\n\nPASTE INTO:\nCommon Uses Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n## Photo Banner Artwork Requirements for High-Quality Printing\n\nEnsure your custom photo banner achieves the best possible print quality by following our photo submission guidelines and artwork requirements for optimal results.\n\n**Photo Resolution Requirements:**\n- Minimum 150 DPI at final print size\n- Higher resolution images (300 DPI) recommended for best quality\n- Large file sizes acceptable for better detail reproduction\n- RAW or high-quality JPEG formats preferred\n- Avoid heavily compressed or low-resolution images\n\n**Photo File Format Guidelines:**\n- **Preferred Formats:** JPEG, PNG, TIFF, PDF\n- **High-Quality Sources:** Digital camera originals, professional scans\n- **Avoid:** Screenshots, web images, heavily edited photos\n- **Color Mode:** RGB color mode for digital printing\n- **File Size:** Larger files generally produce better print results\n\n**Design Layout Considerations:**\n- Allow 1-2 inches of safe area from banner edges\n- Important photo elements should avoid grommet placement areas\n- Consider banner viewing distance when selecting photo detail level\n- Horizontal photos work best for standard banner orientations\n- Multiple photo layouts available for collage-style banners\n\n**Photo Upload Process:**\n1. Select your highest quality photo files\n2. Upload through our secure online system\n3. Our design team reviews image quality\n4. Receive design proof for approval\n5. Request adjustments if needed before production\n\n**Design Assistance Available:**\nOur experienced graphic design team can help optimize your photos for banner printing. We offer photo enhancement services including color correction, brightness adjustment, and layout optimization to ensure your custom photo banner exceeds expectations.\n\n**Photo Enhancement Services:**\n- Color correction and brightness optimization\n- Background removal or replacement\n- Multiple photo layout and arrangement\n- Text overlay and caption addition\n- Border and frame design options\n\n**Quality Guarantee:**\nIf your submitted photos don't meet our quality standards for professional printing, our design team will contact you with recommendations for improvement or alternative solutions before production begins.\n\nPASTE INTO:\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n## Order Custom Photo Banners with Your Personal Images\n\nReady to create a stunning custom photo banner for your next celebration or special event? Our easy online ordering process makes it simple to transform your favorite photos into professional-quality vinyl banners perfect for any occasion.\n\n**Simple 3-Step Ordering Process:**\n\n**Step 1 - Choose Your Banner Size**\nSelect from our standard sizes or specify custom dimensions that fit your display space and event needs. Popular sizes include 2'x6', 3'x8', 4'x8', and larger custom dimensions for major celebrations.\n\n**Step 2 - Upload Your High-Quality Photos**\nUse our secure upload system to submit your favorite digital photos. Our design team will review your images and create a professional layout that showcases your memories beautifully.\n\n**Step 3 - Select Production Timeline**\nChoose standard production for economical pricing or rush production to meet urgent event deadlines. We offer flexible scheduling to accommodate your celebration timeline.\n\n**Why Choose Banners.com for Your Photo Banners:**\n- **Professional Quality:** State-of-the-art printing equipment ensures vibrant, detailed photo reproduction\n- **Weather Resistant:** Durable vinyl material withstands outdoor celebrations and events  \n- **Fast Turnaround:** Rush production available for last-minute event needs\n- **Design Support:** Experienced graphic designers optimize your photos for best results\n- **Satisfaction Guarantee:** We're committed to delivering photo banners that exceed your expectations\n\n**Get Started Today:**\nUpload your photos and begin creating your custom photo banner now. Our customer service team is available to assist with sizing questions, design guidance, or special requirements for your personal celebration.\n\nQuestions about your photo banner project? Call our customer service team at (320) 391-5300 or request a custom quote for specialty sizes and unique design requirements.\n\nPASTE INTO:\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n## Frequently Asked Questions About Photo Banners\n\n### Can I order double-sided photo banners?\n\nYes, we offer double-sided photo banner printing options. Double-sided banners allow different photos or designs on each side, perfect for displays that will be viewed from multiple angles. Double-sided printing requires additional production time and includes supplementary costs for the extra printing and materials required.\n\n### How do I get help with my photo banner design?\n\nOur experienced graphic design team is available to assist with your photo banner layout and optimization. After uploading your photos, we'll review the image quality and create a design proof for your approval. If you need additional design assistance, color correction, or layout modifications, our designers can provide professional support to ensure your banner meets your expectations.\n\n### What hanging options are available for photo banners?\n\nWe offer several finishing options for easy photo banner installation. Standard grommets allow hanging with rope, bungee cords, or zip ties. Pole pockets enable sliding the banner onto banner poles or mounting hardware. Hemmed edges provide a clean, professional appearance. All options include reinforced corners to prevent tearing during installation and use.\n\n### What's the maximum size for custom photo banner printing?\n\nOur large-format printing capabilities allow photo banners up to 8 feet by 50 feet in size. For standard photo applications, popular sizes range from 2'x6' up to 8'x20'. Larger custom dimensions are available through special order. Keep in mind that photo resolution requirements become more critical with larger banner sizes to maintain print quality.\n\n### How long does photo banner production take?\n\nStandard production time is 5-7 business days after design approval. Rush production options include 3-4 business day production for most sizes, and 1-2 business day rush production for urgent needs. Same-day production is available for select smaller sizes with morning approval. Production time begins after you approve the design proof of your photo banner.\n\n### What photo resolution do I need for good print quality?\n\nFor optimal print quality, submit photos with minimum 150 DPI resolution at the final banner size. Higher resolution images (300 DPI) will produce the best results. Our design team will review your uploaded photos and contact you if the resolution is insufficient for quality printing at your requested banner size.\n\nPASTE INTO:\nFAQ Tab\n\n--------------------------------------------------"
+}

@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "table tents table",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "table tents table installation printing",
+        "table tents table installation custom sizes",
+        "table tents table installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "table tents table durability printing",
+        "table tents table durability custom sizes",
+        "table tents table durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "table tents table pricing printing",
+        "table tents table pricing custom sizes",
+        "table tents table pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "table tents table printing",
+        "table tents table custom sizes",
+        "table tents table design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "table tents table shipping printing",
+        "table tents table shipping custom sizes",
+        "table tents table shipping design upload"
+      ]
+    }
+  ]
+}

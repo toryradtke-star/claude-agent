@@ -1,0 +1,75 @@
+{
+  "summary": {
+    "totalPages": 1,
+    "pageTypes": {
+      "blog": 1
+    },
+    "thinPages": 0,
+    "weakInternalLinkPages": 0,
+    "missingMetaPages": 0,
+    "serpAnalyzedPages": 1,
+    "keywordClusteredPages": 1,
+    "internalLinkRecommendations": 0
+  },
+  "contentGaps": [],
+  "internalLinkOpportunities": [],
+  "pillarPageRecommendations": [
+    "Create pillar pages for each high-volume product family and link child PDPs.",
+    "Build comparison hubs between adjacent product types to support cross-linking.",
+    "Standardize template-level FAQ + specification blocks on top revenue PDPs."
+  ],
+  "missingCategoryPages": [
+    "Long-tail category pages by use-case intent (event, construction, retail).",
+    "Material-specific category collections for high-value terms.",
+    "Shipping/turnaround-focused category hubs for urgent-order intent."
+  ],
+  "keywordGaps": [
+    {
+      "url": "https://www.banners.com/double-sided-banners",
+      "topic": "installation",
+      "missingKeywords": [
+        "double-sided banners double installation printing",
+        "double-sided banners double installation custom sizes",
+        "double-sided banners double installation design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/double-sided-banners",
+      "topic": "durability",
+      "missingKeywords": [
+        "double-sided banners double durability printing",
+        "double-sided banners double durability custom sizes",
+        "double-sided banners double durability design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/double-sided-banners",
+      "topic": "pricing",
+      "missingKeywords": [
+        "double-sided banners double pricing printing",
+        "double-sided banners double pricing custom sizes",
+        "double-sided banners double pricing design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/double-sided-banners",
+      "topic": "customization",
+      "missingKeywords": [
+        "double-sided banners double printing",
+        "double-sided banners double custom sizes",
+        "double-sided banners double design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/double-sided-banners",
+      "topic": "shipping",
+      "missingKeywords": [
+        "double-sided banners double shipping printing",
+        "double-sided banners double shipping custom sizes",
+        "double-sided banners double shipping design upload"
+      ]
+    }
+  ],
+  "internalLinkImprovements": [],
+  "recommendedBlogTopics": []
+}

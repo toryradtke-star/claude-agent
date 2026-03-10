@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:26:33.506Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Clear Stickers Clear",
+    "description": "Clear stickers work very well for sharing hours of operation, logos or lettering on your business storefront. Order transparent stickers from Decals.com!",
+    "url": "https://www.decals.com/clear-stickers",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

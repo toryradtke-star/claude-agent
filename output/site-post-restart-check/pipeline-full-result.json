@@ -1,0 +1,36 @@
+{
+  "mode": "full",
+  "baseUrl": "https://banners.com",
+  "generatedAt": "2026-03-05T18:07:08.416Z",
+  "discovery": {
+    "totalUrlsDiscovered": 1,
+    "discoveryMethod": "explicit-list",
+    "preloadedFromScraper": 1,
+    "preloadErrors": 0
+  },
+  "audit": {
+    "pagesAudited": 1,
+    "pagesSkipped": 0,
+    "reusedPreScraped": 0,
+    "reusedMemoryCache": 1,
+    "errors": 0,
+    "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site-post-restart-check\\audit\\audit-report.json"
+  },
+  "optimize": {
+    "pagesOptimized": 1,
+    "pagesSkipped": 0,
+    "reusedPreScraped": 0,
+    "reusedMemoryCache": 1,
+    "errors": 0,
+    "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site-post-restart-check\\optimized\\optimized-report.json"
+  },
+  "contentGaps": {
+    "pagesAnalyzed": 1,
+    "reusedPreScraped": 0,
+    "reusedMemoryCache": 1,
+    "outputDir": "C:\\Users\\Tory\\claude-agent\\output\\site-post-restart-check\\content-gaps",
+    "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site-post-restart-check\\content-gaps\\gap-report.json",
+    "errors": 0
+  },
+  "outputDir": "C:\\Users\\Tory\\claude-agent\\output\\site-post-restart-check"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Magnetic Signs Magnetic",
+  "description": "Design custom magnetic signs for any magnetic surface | Fast shipping, vibrant printing, easy to apply | Order your magnetic signage today at Banners.com!",
+  "url": "https://www.banners.com/magnetic-signs",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-03-04T22:23:32.105Z",
+  "baseUrl": "https://banners.com",
+  "domain": "banners.com",
+  "pagesWithClaudeCalls": 1,
+  "totals": {
+    "tokensIn": 5566,
+    "tokensOut": 3323,
+    "estimatedCostUsd": 0.066543
+  },
+  "pages": [
+    {
+      "url": "https://www.banners.com/double-sided-banners",
+      "model": "claude-sonnet-4-20250514",
+      "tokensIn": 5566,
+      "tokensOut": 3323,
+      "estimatedCostUsd": 0.066543,
+      "cached": false
+    }
+  ]
+}

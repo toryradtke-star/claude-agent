@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:03:31.035Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Clear Square Waterproof",
+    "description": "Give your packaging a clean and modern look with clear square waterproof roll labels. Great for products that need both visibility and long-lasting durability.",
+    "url": "https://www.decals.com/labels/roll-labels/custom-clear-waterproof-roll-labels/square",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

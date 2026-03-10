@@ -1,0 +1,11 @@
+{
+  "url": "https://www.decals.com/cast-vinyl",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 24937,
+    "output_tokens": 3848
+  },
+  "durationMs": 78366
+}

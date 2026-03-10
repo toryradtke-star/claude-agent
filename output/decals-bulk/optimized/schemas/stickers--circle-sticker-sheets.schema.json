@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T15:57:49.874Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Circle Sticker Sheets",
+    "description": "Create round custom stickers on sheets at Decals.com for coinvent peeling and placing. Upload your own artwork, logo or image using our user-friendly online design tool.",
+    "url": "https://www.decals.com/stickers/circle-sticker-sheets",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

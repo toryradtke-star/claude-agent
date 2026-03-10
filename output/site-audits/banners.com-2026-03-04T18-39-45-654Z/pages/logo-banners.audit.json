@@ -1,0 +1,205 @@
+{
+  "url": "https://www.banners.com/logo-banners",
+  "productPage": true,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": true,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 829,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Custom Logo Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Banners for Business"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Logo Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Easily design and order high quality logo banners!"
+      },
+      {
+        "tag": "h3",
+        "text": "Select a design option below to begin your order now:"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h4",
+        "text": ""
+      },
+      {
+        "tag": "h4",
+        "text": "Are these banners printed in full color?"
+      },
+      {
+        "tag": "h4",
+        "text": "How do I get design assistance?"
+      },
+      {
+        "tag": "h4",
+        "text": "What is the maximum banner size I can order?"
+      },
+      {
+        "tag": "h4",
+        "text": "Are these products available double-sided?"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Custom Logo Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Custom Banners for Business"
+    },
+    {
+      "tag": "h3",
+      "text": "Products you might like"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Logo Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Easily design and order high quality logo banners!"
+    },
+    {
+      "tag": "h3",
+      "text": "Select a design option below to begin your order now:"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "h4",
+      "text": ""
+    },
+    {
+      "tag": "h4",
+      "text": "Are these banners printed in full color?"
+    },
+    {
+      "tag": "h4",
+      "text": "How do I get design assistance?"
+    },
+    {
+      "tag": "h4",
+      "text": "What is the maximum banner size I can order?"
+    },
+    {
+      "tag": "h4",
+      "text": "Are these products available double-sided?"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": "==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Custom Logo Banners\nH3: Custom Banners for Business (should be H2)\nH3: Products you might like (UI element, not SEO)\nH4: Upload a Print Ready File (configurator, should be H3)\nH3: Step 1 - Choose Choose a product... (configurator content)\nH3: Step 2 - Upload Upload the image... (configurator content)\nH4: Let us design your product (configurator, should be H3)\nH3: Step 1 - Choose Choose a product... (duplicate)\nH3: Step 2 - Upload Upload the image... (duplicate)\nH3: Step 3 - Provide Instructions... (configurator content)\nH2: More About Logo Banners (informational, needs optimization)\nH3: Easily design and order high quality logo banners! (should be content)\nH3: Select a design option below... (should be content)\nH2: Frequently Asked Questions (correct)\nH4: [Empty heading - remove]\nH4: Are these banners printed in full color? (should be H3)\nH4: How do I get design assistance? (should be H3)\nH4: What is the maximum banner size... (should be H3)\nH4: Are these products available double-sided? (should be H3)\nH2: Why Choose Banners.com? (post-tab content, needs optimization)\nH4: Search (UI element, not SEO)\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Logo Banners for Business & Event Displays\nH2: Professional Vinyl Logo Banners with Custom Design & Fast Turnaround\nH3: Upload Print Ready Design File\nH3: Professional Logo Banner Design Service\nH2: Order Custom Logo Banners for Professional Business Display\nH2: Logo Banner Material Options for Indoor & Outdoor Use\nH2: Finishing Options for Professional Logo Banner Installation\nH2: Logo Banner Artwork Requirements for Print Quality\nH2: Custom Logo Banner Production & Turnaround Times\nH2: Logo Banner Payment & Ordering Options\nH2: Shipping Guidelines for Custom Logo Banner Delivery\nH2: Business & Event Uses for Professional Logo Banners\nH2: Design & Order Your Custom Logo Banner Today\nH2: Logo Banner Questions & Answers\nH3: Are logo banners printed in full color?\nH3: How do I get logo banner design assistance?\nH3: What is the maximum logo banner size available?\nH3: Are logo banners available double-sided?\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n# Custom Logo Banners for Business & Event Displays\n\n## Professional Vinyl Logo Banners with Custom Design & Fast Turnaround\n\nPASTE INTO:\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nUpload Print Ready Design File\nProfessional Logo Banner Design Service\n\nPASTE INTO:\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Order Custom Logo Banners for Professional Business Display</h2>\n\n<p>Make the most of your next event with an eye-catching logo banner that showcases your brand professionally. From trade shows and in-store displays to corporate events and outdoor promotions, our custom logo banners help you improve visibility and make an unforgettable first impression with high-quality vinyl construction and vibrant full-color printing.</p>\n\n<p>Our professional logo banners are designed to withstand both indoor and outdoor conditions, featuring durable 13oz vinyl material that resists fading, tearing, and weather damage. Each banner is custom printed with your logo using state-of-the-art large-format printers for sharp detail and brilliant colors that represent your brand with professional quality.</p>\n\n<p>At Banners.com, we take great care in our craft and work closely with you to bring your vision to reality. Our team includes seasoned graphic designers and production experts who ensure every logo banner meets our strict quality standards. If something doesn't meet our standards, our staff of in-house graphic designers will contact you to fix it immediately.</p>\n\n<p>We offer logo banners in sizes ranging from 1'x1' to 8'x50', with unlimited design options through our online designer tool. You can choose your production time to ensure your logo banner is delivered when you need it for your event or business display.</p>\n\n<p><strong>Key Features:</strong></p>\n<ul>\n<li>Professional 13oz vinyl construction for durability</li>\n<li>Full-color printing with fade-resistant inks</li>\n<li>Custom sizes from small displays to large outdoor installations</li>\n<li>Indoor and outdoor weather resistance</li>\n<li>Professional finishing options including grommets and pole pockets</li>\n<li>Fast turnaround times to meet your deadline</li>\n</ul>\n\nPASTE INTO:\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nMATERIAL OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Logo Banner Material Options for Indoor & Outdoor Use</h2>\n\n<p>Your custom logo banner is manufactured using premium vinyl materials designed for professional business displays and long-lasting durability in various environments.</p>\n\n<p><strong>13oz Vinyl Banner Material:</strong></p>\n<ul>\n<li>Heavy-duty construction resists tearing and punctures</li>\n<li>Weather-resistant for outdoor logo displays</li>\n<li>Smooth surface accepts high-resolution printing</li>\n<li>Flexible material allows for easy installation and storage</li>\n<li>UV-resistant coating prevents fading in sunlight</li>\n</ul>\n\n<p><strong>Material Benefits for Logo Applications:</strong></p>\n<ul>\n<li>Maintains logo color vibrancy in all weather conditions</li>\n<li>Professional appearance suitable for corporate environments</li>\n<li>Lightweight yet durable for various mounting options</li>\n<li>Compatible with all standard finishing options</li>\n<li>Manufactured in the USA with quality materials</li>\n</ul>\n\n<p><strong>Size Tolerance Information:</strong> Vinyl is a temperature-sensitive material, and some fluctuation can occur due to heat application in printing and finishing. Our acceptable size variance is up to 1/2 inch per linear foot. Contact customer service if your logo banner requires precise dimensions.</p>\n\nPASTE INTO:\nMaterial Options Tab\n\n--------------------------------------------------\n\n==================================================\nFINISHING OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Finishing Options for Professional Logo Banner Installation</h2>\n\n<p>Choose from professional finishing options designed to make your logo banner installation secure and professional-looking for any business or event display.</p>\n\n<p><strong>Grommet Installation:</strong></p>\n<ul>\n<li>Heavy-duty metal grommets every 2-3 feet along edges</li>\n<li>Rust-resistant brass construction for outdoor durability</li>\n<li>Allows secure mounting with rope, bungee cords, or zip ties</li>\n<li>Professional appearance suitable for business displays</li>\n</ul>\n\n<p><strong>Pole Pocket Options:</strong></p>\n<ul>\n<li>Top pole pocket for banner pole mounting systems</li>\n<li>Bottom pole pocket adds weight for wind resistance</li>\n<li>Clean appearance without visible mounting hardware</li>\n<li>Ideal for trade show displays and indoor installations</li>\n</ul>\n\n<p><strong>Hem and Tape Reinforcement:</strong></p>\n<ul>\n<li>Double-folded hems provide extra strength along edges</li>\n<li>Heat-welded construction prevents separation</li>\n<li>Professional finished appearance</li>\n<li>Extends banner lifespan in outdoor conditions</li>\n</ul>\n\n<p><strong>Installation Recommendations:</strong></p>\n<ul>\n<li>Outdoor installations: Use grommets with secure tie-downs</li>\n<li>Indoor displays: Pole pockets provide clean professional look</li>\n<li>Temporary events: Grommets offer quick setup and removal</li>\n<li>Permanent installations: Reinforced hems for long-term durability</li>\n</ul>\n\nPASTE INTO:\nFinishing Options Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Logo Banner Production & Turnaround Times</h2>\n\n<p>We offer flexible production schedules to ensure your custom logo banner arrives when you need it for your business event or display deadline.</p>\n\n<p><strong>Standard Production:</strong></p>\n<ul>\n<li>3-5 business days production time</li>\n<li>Includes design review and approval process</li>\n<li>Quality inspection before shipping</li>\n<li>Most cost-effective option for planned events</li>\n</ul>\n\n<p><strong>Rush Production Available:</strong></p>\n<ul>\n<li>1-2 business day production for urgent needs</li>\n<li>Same quality standards and materials</li>\n<li>Priority processing through all production stages</li>\n<li>Additional rush charges apply</li>\n</ul>\n\n<p><strong>Production Process Timeline:</strong></p>\n<ul>\n<li><strong>Design Phase:</strong> Logo artwork review and approval (same day)</li>\n<li><strong>Printing:</strong> Large-format printing with quality inspection (1-2 days)</li>\n<li><strong>Finishing:</strong> Grommet installation and hemming (1 day)</li>\n<li><strong>Quality Control:</strong> Final inspection and packaging (same day)</li>\n</ul>\n\n<p><strong>Factors Affecting Production Time:</strong></p>\n<ul>\n<li>Logo artwork quality and resolution</li>\n<li>Banner size and complexity</li>\n<li>Finishing options selected</li>\n<li>Current production volume</li>\n<li>Design revisions or approvals needed</li>\n</ul>\n\n<p>Production times begin after final artwork approval. Our design team will contact you if your logo requires any adjustments for optimal print quality.</p>\n\nPASTE INTO:\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nPAYMENT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Logo Banner Payment & Ordering Options</h2>\n\n<p>We offer convenient payment methods and ordering options to make purchasing your custom logo banner simple and secure.</p>\n\n<p><strong>Accepted Payment Methods:</strong></p>\n<ul>\n<li>Major credit cards (Visa, MasterCard, American Express, Discover)</li>\n<li>PayPal for secure online transactions</li>\n<li>Business checks for corporate accounts</li>\n<li>Purchase orders for established business customers</li>\n</ul>\n\n<p><strong>Online Ordering Process:</strong></p>\n<ul>\n<li>Select logo banner size and finishing options</li>\n<li>Upload your logo or use our design service</li>\n<li>Review digital proof before production</li>\n<li>Secure payment processing with immediate confirmation</li>\n</ul>\n\n<p><strong>Business Account Benefits:</strong></p>\n<ul>\n<li>Net payment terms for qualified businesses</li>\n<li>Bulk pricing for multiple logo banner orders</li>\n<li>Dedicated customer service representative</li>\n<li>Streamlined reordering process</li>\n</ul>\n\n<p><strong>Custom Quote Options:</strong></p>\n<ul>\n<li>Special sizes beyond standard dimensions</li>\n<li>Large quantity discounts</li>\n<li>Unique finishing requirements</li>\n<li>Complex logo applications or specialty materials</li>\n</ul>\n\n<p><strong>Order Security:</strong> All transactions are processed through secure SSL encryption to protect your payment information and business details.</p>\n\nPASTE INTO:\nPayment Options Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING GUIDELINES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Shipping Guidelines for Custom Logo Banner Delivery</h2>\n\n<p>We provide reliable shipping options to ensure your custom logo banner arrives safely and on time for your business event or installation.</p>\n\n<p><strong>Standard Shipping Options:</strong></p>\n<ul>\n<li>Ground shipping: 3-7 business days after production</li>\n<li>Expedited shipping: 2-3 business days delivery</li>\n<li>Overnight shipping: Next business day delivery available</li>\n<li>Local pickup available at our facility</li>\n</ul>\n\n<p><strong>Logo Banner Packaging:</strong></p>\n<ul>\n<li>Banners up to 8 feet folded in protective packaging</li>\n<li>Larger banners rolled in sturdy shipping tubes when possible</li>\n<li>Extra protection for outdoor weather resistance during transit</li>\n<li>Professional packaging suitable for business addresses</li>\n</ul>\n\n<p><strong>Large Banner Shipping:</strong></p>\n<ul>\n<li>Banners exceeding 8 feet in both directions will be folded</li>\n<li>Custom freight shipping available for oversized orders</li>\n<li>Contact customer service for freight quotes on large installations</li>\n<li>Specialty packaging for trade show shipments</li>\n</ul>\n\n<p><strong>Shipping Considerations:</strong></p>\n<ul>\n<li>Business addresses recommended for large banner deliveries</li>\n<li>Signature confirmation available for valuable orders</li>\n<li>Tracking information provided for all shipments</li>\n<li>Insurance available for high-value logo banner orders</li>\n</ul>\n\n<p><strong>Delivery Timing:</strong> Plan your logo banner order to allow adequate time for production plus shipping. Contact customer service if you need delivery by a specific event date.</p>\n\nPASTE INTO:\nShipping Guidelines Tab\n\n--------------------------------------------------\n\n==================================================\nCOMMON USES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Business & Event Uses for Professional Logo Banners</h2>\n\n<p>Custom logo banners provide versatile marketing and branding solutions for businesses, organizations, and events of all types.</p>\n\n<p><strong>Trade Shows & Exhibitions:</strong></p>\n<ul>\n<li>Booth backdrop displays featuring company logos</li>\n<li>Hanging banners for overhead brand visibility</li>\n<li>Table banners for professional presentation areas</li>\n<li>Directional signage with logo branding</li>\n</ul>\n\n<p><strong>Retail & Storefront Applications:</strong></p>\n<ul>\n<li>Grand opening announcements with business logos</li>\n<li>Sale and promotion banners maintaining brand identity</li>\n<li>Window displays featuring product logos</li>\n<li>Outdoor storefront advertising with weather-resistant logos</li>\n</ul>\n\n<p><strong>Corporate Events & Meetings:</strong></p>\n<ul>\n<li>Conference backdrop banners with company branding</li>\n<li>Welcome banners featuring organizational logos</li>\n<li>Award ceremony displays with sponsor logos</li>\n<li>Employee recognition events with corporate identity</li>\n</ul>\n\n<p><strong>Outdoor Advertising & Promotions:</strong></p>\n<ul>\n<li>Construction site banners with contractor logos</li>\n<li>Event sponsorship displays featuring brand logos</li>\n<li>Parade entries with organizational branding</li>\n<li>Festival vendor displays with business identity</li>\n</ul>\n\n<p><strong>Sports & Recreation:</strong></p>\n<ul>\n<li>Team sponsor banners with logo recognition</li>\n<li>Tournament displays featuring league branding</li>\n<li>Championship banners with organizational logos</li>\n<li>Facility identification with club or business logos</li>\n</ul>\n\nPASTE INTO:\nCommon Uses Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Logo Banner Artwork Requirements for Print Quality</h2>\n\n<p>Follow these artwork specifications to ensure your logo prints with professional quality and sharp detail on your custom banner.</p>\n\n<p><strong>Logo File Requirements:</strong></p>\n<ul>\n<li>High-resolution files: 150 DPI minimum at final print size</li>\n<li>Vector formats preferred: AI, EPS, PDF with embedded fonts</li>\n<li>Raster formats acceptable: PNG, TIFF, high-resolution JPG</li>\n<li>CMYK color mode for accurate color reproduction</li>\n</ul>\n\n<p><strong>Logo Design Considerations:</strong></p>\n<ul>\n<li>Avoid fine details that may not reproduce clearly at distance</li>\n<li>Use bold fonts and clear lettering for readability</li>\n<li>Ensure adequate contrast between logo and background colors</li>\n<li>Consider viewing distance when sizing logo elements</li>\n</ul>\n\n<p><strong>Color Specifications:</strong></p>\n<ul>\n<li>CMYK color values ensure consistent color matching</li>\n<li>Pantone colors can be converted to CMYK equivalents</li>\n<li>RGB colors acceptable but may shift during printing</li>\n<li>Avoid extremely dark backgrounds that require heavy ink coverage</li>\n</ul>\n\n<p><strong>File Preparation Tips:</strong></p>\n<ul>\n<li>Convert all text to outlines or embed fonts</li>\n<li>Flatten transparency effects and complex filters</li>\n<li>Include bleed area if logo extends to banner edges</li>\n<li>Provide multiple file formats when possible</li>\n</ul>\n\n<p><strong>Design Assistance Available:</strong></p>\n<ul>\n<li>Professional design service for logo banner layouts</li>\n<li>Logo enhancement and optimization for print</li>\n<li>Color correction and file format conversion</li>\n<li>Digital proof provided before production begins</li>\n</ul>\n\n<p>Our design team will review your logo artwork and contact you if any adjustments are needed for optimal print quality on your banner.</p>\n\nPASTE INTO:\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Design & Order Your Custom Logo Banner Today</h2>\n\n<p>Ready to create a professional logo banner that showcases your brand with impact? Our streamlined ordering process makes it easy to design and order custom logo banners that meet your exact specifications and deadline requirements.</p>\n\n<p><strong>Why Choose Banners.com for Logo Banners:</strong></p>\n<ul>\n<li>Over 20 years of experience in custom banner printing</li>\n<li>In-house design team and production facility in the USA</li>\n<li>State-of-the-art printing technology for vibrant logo reproduction</li>\n<li>Strict quality control ensures every banner meets our standards</li>\n<li>Fast turnaround times to meet your event deadlines</li>\n<li>Professional customer service from order to delivery</li>\n</ul>\n\n<p><strong>Get Started Today:</strong></p>\n<ul>\n<li>Choose your banner size and finishing options above</li>\n<li>Upload your logo file or request professional design assistance</li>\n<li>Review and approve your digital proof</li>\n<li>Receive your professionally printed logo banner</li>\n</ul>\n\n<p><strong>Need Help with Your Order?</strong> Our customer service team is ready to assist with logo banner specifications, artwork requirements, or custom sizing options. Call us at <a href=\"tel:13203915300\">(320) 391-5300</a> or <a href=\"/contact\">contact us online</a> for personalized assistance.</p>\n\n<p><strong>Custom Quote Available:</strong> For special projects, unique sizes, larger quantity orders, or specialty logo applications, <a href=\"/quotes\">request a custom quote</a> for personalized pricing and specifications.</p>\n\nPASTE INTO:\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Logo Banner Questions & Answers</h2>\n\n<h3>Are logo banners printed in full color?</h3>\n<p>Yes, all logo banners are printed in full color using state-of-the-art large-format printers. We can reproduce your logo in unlimited colors with sharp detail and vibrant color accuracy. Our printing process ensures your brand colors are represented professionally and consistently.</p>\n\n<h3>How do I get logo banner design assistance?</h3>\n<p>Our professional design team offers logo banner layout services to help optimize your logo for banner display. Simply select our design service option during ordering and provide your logo file along with any specific requirements. Our designers will create a custom banner layout and provide a digital proof for your approval.</p>\n\n<h3>What is the maximum logo banner size available?</h3>\n<p>We can produce logo banners up to 8 feet by 50 feet through our standard ordering system. For larger installations or unique dimensions, contact our customer service team for a custom quote. We regularly produce oversized banners for large-scale logo displays and outdoor advertising applications.</p>\n\n<h3>Are logo banners available double-sided?</h3>\n<p>Yes, we offer double-sided printing for logo banners that will be viewed from both sides. Double-sided banners feature your logo printed on both the front and back, with a blockout layer in between to prevent show-through. This option is ideal for hanging displays, pole-mounted banners, and applications where both sides will be visible.</p>\n\n<h3>What file formats do you accept for logo artwork?</h3>\n<p>We accept vector files (AI, EPS, PDF) and high-resolution raster files (PNG, TIFF, JPG). Vector formats are preferred for logos as they can be scaled to any size without quality loss. If you only have a low-resolution logo file, our design team can help enhance it for optimal print quality.</p>\n\n<h3>How long do logo banners last outdoors?</h3>\n<p>Our vinyl logo banners are designed for outdoor durability and typically last 2-3 years in normal outdoor conditions. The 13oz vinyl material and UV-resistant inks provide excellent weather resistance, maintaining logo color vibrancy and material integrity through various weather conditions.</p>\n\nPASTE INTO:\nFAQ Tab\n\n--------------------------------------------------"
+}

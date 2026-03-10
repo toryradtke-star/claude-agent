@@ -1,0 +1,241 @@
+{
+  "summary": {
+    "totalPages": 34,
+    "pageTypes": {
+      "pdp": 30,
+      "generic": 4
+    },
+    "thinPages": 0,
+    "weakInternalLinkPages": 0,
+    "missingMetaPages": 0,
+    "serpAnalyzedPages": 34,
+    "keywordClusteredPages": 34,
+    "internalLinkRecommendations": 36
+  },
+  "contentGaps": [],
+  "internalLinkOpportunities": [],
+  "pillarPageRecommendations": [
+    "Create pillar pages for each high-volume product family and link child PDPs.",
+    "Build comparison hubs between adjacent product types to support cross-linking.",
+    "Standardize template-level FAQ + specification blocks on top revenue PDPs."
+  ],
+  "missingCategoryPages": [
+    "Long-tail category pages by use-case intent (event, construction, retail).",
+    "Material-specific category collections for high-value terms.",
+    "Shipping/turnaround-focused category hubs for urgent-order intent."
+  ],
+  "keywordGaps": [
+    {
+      "url": "https://www.banners.com/yard-signs/custom-shapes",
+      "topic": "installation",
+      "missingKeywords": [
+        "your yard sign installation printing",
+        "your yard sign installation custom sizes",
+        "your yard sign installation design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/yard-signs/custom-shapes",
+      "topic": "durability",
+      "missingKeywords": [
+        "your yard sign durability printing",
+        "your yard sign durability custom sizes",
+        "your yard sign durability design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/yard-signs/custom-shapes",
+      "topic": "pricing",
+      "missingKeywords": [
+        "your yard sign pricing printing",
+        "your yard sign pricing custom sizes",
+        "your yard sign pricing design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/yard-signs/custom-shapes",
+      "topic": "customization",
+      "missingKeywords": [
+        "your yard sign printing",
+        "your yard sign custom sizes",
+        "your yard sign design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/yard-signs/custom-shapes",
+      "topic": "shipping",
+      "missingKeywords": [
+        "your yard sign shipping printing",
+        "your yard sign shipping custom sizes",
+        "your yard sign shipping design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/sintra-signs",
+      "topic": "installation",
+      "missingKeywords": [
+        "sintra signs plastic installation printing",
+        "sintra signs plastic installation custom sizes",
+        "sintra signs plastic installation design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/sintra-signs",
+      "topic": "durability",
+      "missingKeywords": [
+        "sintra signs plastic durability printing",
+        "sintra signs plastic durability custom sizes",
+        "sintra signs plastic durability design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/sintra-signs",
+      "topic": "pricing",
+      "missingKeywords": [
+        "sintra signs plastic pricing printing",
+        "sintra signs plastic pricing custom sizes",
+        "sintra signs plastic pricing design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/sintra-signs",
+      "topic": "customization",
+      "missingKeywords": [
+        "sintra signs plastic custom sizes",
+        "sintra signs plastic design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/sintra-signs",
+      "topic": "shipping",
+      "missingKeywords": [
+        "sintra signs plastic shipping printing",
+        "sintra signs plastic shipping custom sizes",
+        "sintra signs plastic shipping design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/yard-signs/custom-sizes",
+      "topic": "installation",
+      "missingKeywords": [
+        "high quality yard installation printing",
+        "high quality yard installation custom sizes",
+        "high quality yard installation design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/yard-signs/custom-sizes",
+      "topic": "durability",
+      "missingKeywords": [
+        "high quality yard durability printing",
+        "high quality yard durability custom sizes",
+        "high quality yard durability design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/yard-signs/custom-sizes",
+      "topic": "pricing",
+      "missingKeywords": [
+        "high quality yard pricing printing",
+        "high quality yard pricing custom sizes",
+        "high quality yard pricing design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/yard-signs/custom-sizes",
+      "topic": "customization",
+      "missingKeywords": [
+        "high quality yard printing",
+        "high quality yard custom sizes",
+        "high quality yard design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/yard-signs/custom-sizes",
+      "topic": "shipping",
+      "missingKeywords": [
+        "high quality yard shipping printing",
+        "high quality yard shipping custom sizes",
+        "high quality yard shipping design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/styrene-signs",
+      "topic": "installation",
+      "missingKeywords": [
+        "styrene signs styrene installation printing",
+        "styrene signs styrene installation custom sizes",
+        "styrene signs styrene installation design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/styrene-signs",
+      "topic": "durability",
+      "missingKeywords": [
+        "styrene signs styrene durability printing",
+        "styrene signs styrene durability custom sizes",
+        "styrene signs styrene durability design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/styrene-signs",
+      "topic": "pricing",
+      "missingKeywords": [
+        "styrene signs styrene pricing printing",
+        "styrene signs styrene pricing custom sizes",
+        "styrene signs styrene pricing design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/styrene-signs",
+      "topic": "customization",
+      "missingKeywords": [
+        "styrene signs styrene printing",
+        "styrene signs styrene custom sizes",
+        "styrene signs styrene design upload"
+      ]
+    },
+    {
+      "url": "https://www.banners.com/styrene-signs",
+      "topic": "shipping",
+      "missingKeywords": [
+        "styrene signs styrene shipping printing",
+        "styrene signs styrene shipping custom sizes",
+        "styrene signs styrene shipping design upload"
+      ]
+    }
+  ],
+  "internalLinkImprovements": [
+    "https://www.banners.com/yard-signs -> (custom shapes) -> https://www.banners.com/yard-signs/custom-shapes",
+    "https://www.banners.com/yard-signs -> (custom sizes) -> https://www.banners.com/yard-signs/custom-sizes",
+    "https://www.banners.com/yard-signs/custom-shapes -> (yard signs) -> https://www.banners.com/yard-signs",
+    "https://www.banners.com/yard-signs/custom-shapes -> (custom sizes) -> https://www.banners.com/yard-signs/custom-sizes",
+    "https://www.banners.com/yard-signs/custom-sizes -> (yard signs) -> https://www.banners.com/yard-signs",
+    "https://www.banners.com/yard-signs/custom-sizes -> (custom shapes) -> https://www.banners.com/yard-signs/custom-shapes",
+    "https://www.banners.com/banner-stands/a-frames -> (signicade deluxe a frame white) -> https://www.banners.com/banner-stands/signicade-deluxe-a-frame-white",
+    "https://www.banners.com/banner-stands/a-frames -> (signicade deluxe a frame black) -> https://www.banners.com/banner-stands/signicade-deluxe-a-frame-black",
+    "https://www.banners.com/banner-stands/a-frames -> (simpo sign) -> https://www.banners.com/banner-stands/simpo-sign",
+    "https://www.banners.com/banner-stands/a-frames -> (retractors) -> https://www.banners.com/banner-stands/retractors",
+    "https://www.banners.com/banner-stands/a-frames -> (banner stands) -> https://www.banners.com/banner-stands",
+    "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-white -> (a frames) -> https://www.banners.com/banner-stands/a-frames",
+    "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-white -> (signicade deluxe a frame black) -> https://www.banners.com/banner-stands/signicade-deluxe-a-frame-black",
+    "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-white -> (simpo sign) -> https://www.banners.com/banner-stands/simpo-sign",
+    "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-white -> (retractors) -> https://www.banners.com/banner-stands/retractors",
+    "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-white -> (banner stands) -> https://www.banners.com/banner-stands",
+    "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-black -> (a frames) -> https://www.banners.com/banner-stands/a-frames",
+    "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-black -> (signicade deluxe a frame white) -> https://www.banners.com/banner-stands/signicade-deluxe-a-frame-white",
+    "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-black -> (simpo sign) -> https://www.banners.com/banner-stands/simpo-sign",
+    "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-black -> (retractors) -> https://www.banners.com/banner-stands/retractors",
+    "https://www.banners.com/banner-stands/signicade-deluxe-a-frame-black -> (banner stands) -> https://www.banners.com/banner-stands",
+    "https://www.banners.com/banner-stands/simpo-sign -> (a frames) -> https://www.banners.com/banner-stands/a-frames",
+    "https://www.banners.com/banner-stands/simpo-sign -> (signicade deluxe a frame white) -> https://www.banners.com/banner-stands/signicade-deluxe-a-frame-white",
+    "https://www.banners.com/banner-stands/simpo-sign -> (signicade deluxe a frame black) -> https://www.banners.com/banner-stands/signicade-deluxe-a-frame-black",
+    "https://www.banners.com/banner-stands/simpo-sign -> (retractors) -> https://www.banners.com/banner-stands/retractors",
+    "https://www.banners.com/banner-stands/simpo-sign -> (banner stands) -> https://www.banners.com/banner-stands",
+    "https://www.banners.com/banner-stands/retractors -> (a frames) -> https://www.banners.com/banner-stands/a-frames",
+    "https://www.banners.com/banner-stands/retractors -> (signicade deluxe a frame white) -> https://www.banners.com/banner-stands/signicade-deluxe-a-frame-white",
+    "https://www.banners.com/banner-stands/retractors -> (signicade deluxe a frame black) -> https://www.banners.com/banner-stands/signicade-deluxe-a-frame-black",
+    "https://www.banners.com/banner-stands/retractors -> (simpo sign) -> https://www.banners.com/banner-stands/simpo-sign"
+  ],
+  "recommendedBlogTopics": []
+}

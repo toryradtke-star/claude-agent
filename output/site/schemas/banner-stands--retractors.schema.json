@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Retractable Banners -",
+  "description": "Order retractable banner stands from Banners.com. Design and print custom standing banners online for trade shows, job fairs, and other events.",
+  "url": "https://www.banners.com/banner-stands/retractors",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

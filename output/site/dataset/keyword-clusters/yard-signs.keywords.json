@@ -1,0 +1,50 @@
+{
+  "coreKeyword": "yard signs yard",
+  "clusters": [
+    {
+      "topic": "installation",
+      "match": {},
+      "keywords": [
+        "yard signs yard installation printing",
+        "yard signs yard installation custom sizes",
+        "yard signs yard installation design upload"
+      ]
+    },
+    {
+      "topic": "durability",
+      "match": {},
+      "keywords": [
+        "yard signs yard durability printing",
+        "yard signs yard durability custom sizes",
+        "yard signs yard durability design upload"
+      ]
+    },
+    {
+      "topic": "pricing",
+      "match": {},
+      "keywords": [
+        "yard signs yard pricing printing",
+        "yard signs yard pricing custom sizes",
+        "yard signs yard pricing design upload"
+      ]
+    },
+    {
+      "topic": "customization",
+      "match": {},
+      "keywords": [
+        "yard signs yard printing",
+        "yard signs yard custom sizes",
+        "yard signs yard design upload"
+      ]
+    },
+    {
+      "topic": "shipping",
+      "match": {},
+      "keywords": [
+        "yard signs yard shipping printing",
+        "yard signs yard shipping custom sizes",
+        "yard signs yard shipping design upload"
+      ]
+    }
+  ]
+}

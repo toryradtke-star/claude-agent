@@ -1,0 +1,11 @@
+{
+  "url": "https://www.banners.com/custom-wallpaper",
+  "model": "claude-sonnet-4-20250514",
+  "promptVersion": "unknown",
+  "templateVersion": "unknown",
+  "usage": {
+    "input_tokens": 4893,
+    "output_tokens": 3443
+  },
+  "durationMs": 64558
+}

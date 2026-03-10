@@ -1,0 +1,36 @@
+{
+  "mode": "full",
+  "baseUrl": "optimize",
+  "generatedAt": "2026-03-06T15:30:47.449Z",
+  "discovery": {
+    "totalUrlsDiscovered": 0,
+    "discoveryMethod": "internal-crawl",
+    "preloadedFromScraper": 0,
+    "preloadErrors": 0
+  },
+  "audit": {
+    "pagesAudited": 0,
+    "pagesSkipped": 0,
+    "reusedPreScraped": 0,
+    "reusedMemoryCache": 0,
+    "errors": 0,
+    "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site\\audit\\audit-report.json"
+  },
+  "optimize": {
+    "pagesOptimized": 0,
+    "pagesSkipped": 0,
+    "reusedPreScraped": 0,
+    "reusedMemoryCache": 0,
+    "errors": 0,
+    "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site\\optimized\\optimized-report.json"
+  },
+  "contentGaps": {
+    "pagesAnalyzed": 0,
+    "reusedPreScraped": 0,
+    "reusedMemoryCache": 0,
+    "outputDir": "C:\\Users\\Tory\\claude-agent\\output\\site\\content-gaps",
+    "reportPath": "C:\\Users\\Tory\\claude-agent\\output\\site\\content-gaps\\gap-report.json",
+    "errors": 0
+  },
+  "outputDir": "C:\\Users\\Tory\\claude-agent\\output\\site"
+}

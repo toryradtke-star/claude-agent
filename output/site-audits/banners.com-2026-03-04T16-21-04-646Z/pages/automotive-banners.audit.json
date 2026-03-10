@@ -1,0 +1,157 @@
+{
+  "url": "https://www.banners.com/automotive-banners",
+  "productPage": true,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": true,
+    "pricing": true,
+    "schema": false,
+    "heading": true
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 3765,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Automotive Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Automotive Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "More About Automotive Banners"
+      },
+      {
+        "tag": "h2",
+        "text": "Get custom Automotive Banners from Banners.com! Automotive Banners can be used to advertise your business by providing your company name, business hours and contact information. Vinyl Banners can also be used to promote sales events, like tire sales, oil change specials, car washes, trade-in specials, new car sales events and more!"
+      },
+      {
+        "tag": "h3",
+        "text": "Product Reviews"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Automotive Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Custom Automotive Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Products you might like"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "More About Automotive Banners"
+    },
+    {
+      "tag": "h2",
+      "text": "Get custom Automotive Banners from Banners.com! Automotive Banners can be used to advertise your business by providing your company name, business hours and contact information. Vinyl Banners can also be used to promote sales events, like tire sales, oil change specials, car washes, trade-in specials, new car sales events and more!"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Reviews"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": "==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Automotive Banners\n└── H3: Custom Automotive Banners (should be H2)\n└── H3: Products you might like (should be removed - navigational)\n    └── H4: Upload a Print Ready File (configurator element)\n└── H3: Step 1 - Choose Choose a product and the size you want (configurator)\n└── H3: Step 2 - Upload Upload the image from your computer (configurator)\n    └── H4: Let us design your product (configurator)\n└── H3: Step 1 - Choose Choose a product and the size you want (configurator)\n└── H3: Step 2 - Upload Upload the image from your computer (configurator)\n└── H3: Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together! (configurator)\n└── H2: More About Automotive Banners (should be Product Overview)\n└── H2: Get custom Automotive Banners from Banners.com! Automotive Banners can be used to advertise your business by providing your company name, business hours and contact information. Vinyl Banners can also be used to promote sales events, like tire sales, oil change specials, car washes, trade-in specials, new car sales events and more! (invalid - should be content, not heading)\n    └── H3: Product Reviews (should be removed or restructured)\n└── H2: Why Choose Banners.com? (should be Post-Tab Content)\n    └── H4: Search (unrelated element)\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Automotive Banners for Car Dealerships & Auto Service Centers\n└── H2: Durable Vinyl Automotive Banners - Order Custom Vehicle Advertising Online\n└── H2: Order Custom Automotive Banners for Car Lot & Service Center Advertising (Product Overview Tab)\n└── H2: Automotive Banner Materials for Outdoor Car Dealership Display (Material Options Tab)\n└── H2: Finishing Options for Professional Automotive Banner Installation (Finishing Options Tab)\n└── H2: Artwork Requirements for Custom Automotive Banner Printing (Artwork Tab)\n└── H2: Custom Automotive Banner Production & Turnaround Times (Production Times Tab)\n└── H2: Automotive Banner Payment & Ordering Options (Payment Options Tab)\n└── H2: Shipping Guidelines for Custom Automotive Banner Delivery (Shipping Guidelines Tab)\n└── H2: Car Dealership & Auto Service Uses for Automotive Banners (Common Uses Tab)\n└── H2: Design & Order Custom Automotive Banners Online Today (Post-Tab Content)\n└── H2: Frequently Asked Questions About Automotive Banners (FAQ)\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h1>Custom Automotive Banners for Car Dealerships & Auto Service Centers</h1>\n<h2>Durable Vinyl Automotive Banners - Order Custom Vehicle Advertising Online</h2>\n\nPASTE INTO:\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nSize (Height x Width)\nQuantity\nMaterial Options\nFinishing Options\nProduction Time\nDesign Method\n\nPASTE INTO:\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Order Custom Automotive Banners for Car Dealership & Auto Service Advertising</h2>\n\n<p><strong><em>Due to the latest shipping regulations, all vinyl banners that exceed 8 feet in both directions will be folded for shipping. If you do not want your banners folded, please <a href=\"https://www.banners.com/quotes\">contact us</a> to get a custom freight quote.</em></strong></p>\n\n<p>Make the most of your automotive business with eye-catching custom automotive banners designed for car dealerships, auto service centers, and vehicle advertising. From showroom displays and service bay promotions to outdoor car lot advertising, our professionally designed automotive banners help increase your visibility and drive customer traffic to your automotive business.</p>\n\n<p>Here at Banners.com, our goal is to deliver automotive banners that you're proud to display at your dealership or service center. That's why we take great care in our craft and work closely with you to bring your automotive advertising vision to reality. Our automotive banners are perfect for promoting tire sales, oil change specials, car washes, trade-in promotions, new car sales events, financing offers, and seasonal automotive services.</p>\n\n<p>We offer automotive banners in sizes ranging from 1'x1' to 8'x50', with unlimited design options through our <a href=\"https://www.banners.com/resources/how-to-use-online-designer\">online designer</a>. All automotive banners are manufactured and printed in the USA using state-of-the-art, large-format printers for vibrant colors that attract customers to your automotive business.</p>\n\n<p><strong>Six Customizable Automotive Banner Materials</strong></p>\n\n<p>Your automotive banner is made with the finest materials available and printed using state-of-the-art equipment for vibrant colors that withstand outdoor automotive environments. All banners are manufactured and printed in the USA.</p>\n\n<p>Exact sizes of banners cannot be guaranteed. Vinyl is a temperature-sensitive material, and some fluctuation can occur due to heat application in printing, finishing, and outside climate. Please note our acceptable size variance is up to 1/2 inch per linear foot (ex., a 5' banner could finish with a 2.5\" variance). If your automotive banner needs to be precise, please contact customer service.</p>\n\nPASTE INTO:\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nMATERIAL OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Automotive Banner Materials for Outdoor Car Dealership Display</h2>\n\n<p><strong>13 oz Matte Vinyl Banners</strong></p>\n<p>Our high-quality 13 oz matte vinyl banner material is our most popular automotive banner material. It has a low shine and rich color gamut, perfect for professional automotive advertising displays.</p>\n\n<p><strong>13 oz Gloss Vinyl Banners</strong></p>\n<p>Our high-quality 13 oz gloss vinyl banner material has a high shine that produces vibrant, crisp colors and graphics ideal for eye-catching automotive promotions.</p>\n\n<p><strong>18 oz Vinyl Banners</strong></p>\n<p>Our extra heavy-duty matte 18 oz vinyl banner material is our toughest automotive banner material. It has a low luster, blockout coating for extra durability in harsh automotive environments.</p>\n\n<p><strong>Mesh Banners</strong></p>\n<p>Made with 8 oz PVC polyester mesh material that has a criss-crossed breathable scrim allowing 37% airflow. Mesh automotive banners are ideal for outdoor car lot conditions and windy environments.</p>\n\n<p><strong>Fabric Banners</strong></p>\n<p>Made with a premium nylon/polyester blend material called Banner Soft. This fabric is ideal for indoor automotive showroom displays and has a low shine that produces a high-end professional look.</p>\n\n<p><strong>Adhesive Banners</strong></p>\n<p>Standard Tack Vinyl: Standard tack vinyl can be used both indoors and outdoors for automotive applications, with an outdoor lifespan of 3 to 5 years when properly installed and maintained.</p>\n<p>Extreme Tack Vinyl: Extreme Tack vinyl is white calendered vinyl material with a high tack adhesive specifically designed for automotive surfaces and low energy applications.</p>\n\nPASTE INTO:\nMaterial Options Tab\n\n--------------------------------------------------\n\n==================================================\nFINISHING OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Finishing Options for Professional Automotive Banner Installation</h2>\n\n<p><strong>Heat Welded Hems & Grommets</strong></p>\n<p>Hems consist of one inch of the vinyl banner material folded over and heated together to form a strong hem. We recommend hems for all automotive banners to increase durability in outdoor car dealership environments.</p>\n\n<p>You will have the following options when selecting hems and grommets for automotive banner installation:</p>\n\n<p><strong>Top and Bottom Only Hems</strong> – Standard finishing option for automotive banners.</p>\n<p><strong>All Four Sides Hems</strong> – All 4 sides of the automotive banner will be heat welded and grommeted.</p>\n\n<p><strong>Pole Pockets</strong></p>\n<p>Pole pockets consist of 2, 3, or 4 inches of material wrapped around the sides, top, or bottom of the automotive banner for professional pole mounting.</p>\n\n<ul>\n<li><strong>2\" Pole Pockets</strong> – fits a pole 3/4\" in diameter</li>\n<li><strong>3\" Pole Pockets</strong> – fits a pole 1 1/4\" in diameter</li>\n<li><strong>4\" Pole Pockets</strong> – fits a pole 1 1/2\" in diameter</li>\n</ul>\n\n<p>By selecting pole pockets, there will be no increase in the finished size of your automotive banner.</p>\n<p><em>Pole pockets are not available with reinforced hems or corners.</em></p>\n\n<p><strong>Reinforced Corners</strong></p>\n<p>Reinforced corners provide extra strength for automotive banner installations and are grommeted to each corner of the banner.</p>\n\n<p><strong>Reinforced Hems</strong></p>\n<p>Reinforced hems are a PVC-coated webbing which increases the strength of the automotive banner for long-term outdoor car lot display.</p>\n<p><em>You cannot have reinforced hems with pole pockets.</em></p>\n\n<p><strong>Double-Sided Banner Finishing</strong></p>\n<p>We can finish double-sided automotive banners up to 150 square feet. Larger automotive banner sizes require a custom quote.</p>\n\n<p>To learn more, visit our <a href=\"https://www.banners.com/vinyl-banner-finishing-options\">vinyl banner finishing options</a> page.</p>\n\n<p>We do not recommend wind slits in automotive banners. For more information, visit our <a href=\"https://www.banners.com/wind-slits\">wind slit banners</a> page.</p>\n\nPASTE INTO:\nFinishing Options Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Automotive Banner Production & Turnaround Times</h2>\n\n<p>We provide flexible production time ranges for your automotive banner project. Because it's important for you to have ultimate control over your automotive advertising timeline, our production times range from one to five business days.</p>\n\n<p><strong>1 Business Day Priority:</strong></p>\n<p>Timelines can be tight for automotive promotions. That's why we offer this zippy one day turnaround option for urgent automotive banner needs.</p>\n\n<p><strong>2 Business Days Express:</strong></p>\n<p>Have an extra day for your automotive banner project, but still need your products quickly? The express option is ideal for automotive advertising campaigns.</p>\n\n<p><strong>3 Business Days Standard:</strong></p>\n<p>This is our most popular fast turnaround option for automotive banners. Free and speedy for most custom automotive banner orders.</p>\n\n<p><strong>5 Business Days Saver:</strong></p>\n<p>If you're not in a rush for your automotive banner, you can save money by choosing our 5-Day Saver option for planned automotive promotions.</p>\n\n<ul>\n<li>Orders approved after 5:00 PM CST will be processed the following business day.</li>\n<li>Emergency/same day rushes may be available for automotive banners. Please contact customer service for more information.</li>\n<li>Total delivery time includes both production and shipping time.</li>\n<li>Turnaround starts once file upload is complete and approval is given if a proof is requested.</li>\n</ul>\n\nPASTE INTO:\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nPAYMENT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Automotive Banner Payment & Ordering Options</h2>\n\n<p>All automotive banners must be paid for prior to being put into production. We accept Visa, MasterCard, American Express, and Discover cards for automotive banner orders. We also accept checks, which must be received before your automotive banner order is put into production.</p>\n\n<p>We will not charge your credit card until you have approved your automotive banner order.</p>\n\n<p>For more information on check orders for automotive banners, <a href=\"https://www.banners.com/resources/online-orders-pay-with-check\">see this article on our blog</a>.</p>\n\nPASTE INTO:\nPayment Options Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING GUIDELINES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Shipping Guidelines for Custom Automotive Banner Delivery</h2>\n\n<p>If you have any questions about shipping your automotive banners, please contact customer service at <a href=\"tel:13203915300\">(320) 391-5300</a> prior to ordering. Unless otherwise specified at the time of ordering, your automotive banner order will be shipped via UPS Ground. We offer a 1–3 day ground shipment to 90% of the United States.</p>\n\n<p><strong>You will receive a tracking number once your automotive banner package has been shipped.</strong></p>\n\n<p>Shipping prices for automotive banners are determined by the weight and destination of the package. Additional shipping charges apply to large automotive banner orders.</p>\n\n<p>After automotive banner products have been shipped, all shipping company terms and conditions apply for lost or delayed packages. We will not refund the automotive banner cost if UPS or any other shipping company has a delay in your package.</p>\n\n<p><strong>International Shipping Notes:</strong></p>\n<p>For international shipments of automotive banners, customers must provide both shipping labels and customs documentation. Currently, we only accept international shipping labels from USPS and UPS.</p>\n\n<p><strong>Shipping Methods Available for Automotive Banners:</strong></p>\n<ul>\n<li>Standard (3–5 Business Days)</li>\n<li>Three Day (3 Business Days)</li>\n<li>Two Day (2 Business Days)</li>\n<li>Overnight (1 Business Day)</li>\n<li>UPS Overnight AM</li>\n</ul>\n\nPASTE INTO:\nShipping Guidelines Tab\n\n--------------------------------------------------\n\n==================================================\nCOMMON USES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Car Dealership & Auto Service Uses for Automotive Banners</h2>\n\n<p>We print thousands of automotive banners each year for car dealerships, auto service centers, and vehicle-related businesses. Explore popular ways our customers use automotive banners for their automotive advertising needs.</p>\n\n<p><strong>Car Dealerships and Auto Sales</strong></p>\n<ul>\n<li>New car sales event promotions</li>\n<li>Trade-in special advertising</li>\n<li>Financing offer displays</li>\n<li>End-of-year clearance events</li>\n<li>Grand opening automotive banners</li>\n</ul>\n\n<p><strong>Auto Service Centers</strong></p>\n<ul>\n<li>Oil change special promotions</li>\n<li>Tire sale advertising</li>\n<li>Brake service promotions</li>\n<li>Seasonal maintenance reminders</li>\n<li>Service bay advertising</li>\n</ul>\n\n<p><strong>Car Washes and Detailing</strong></p>\n<ul>\n<li>Car wash promotional banners</li>\n<li>Detailing service advertising</li>\n<li>Membership program promotions</li>\n<li>Seasonal car care campaigns</li>\n</ul>\n\n<p><strong>Automotive Events and Shows</strong></p>\n<ul>\n<li>Car show sponsor banners</li>\n<li>Auto auction advertising</li>\n<li>Racing event promotions</li>\n<li>Classic car show displays</li>\n</ul>\n\n<p><strong>Auto Parts and Accessories</strong></p>\n<ul>\n<li>Parts store promotional banners</li>\n<li>Accessory installation services</li>\n<li>Performance parts advertising</li>\n<li>Aftermarket equipment promotions</li>\n</ul>\n\nPASTE INTO:\nCommon Uses Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Artwork Requirements for Custom Automotive Banner Printing</h2>\n\n<p>The file that prints best for automotive banners is .eps converted to outline. We can also print high resolution .pdf or .jpg files for automotive banner projects. If you are unsure of the quality of your automotive banner files, our professional graphic designers will be more than happy to help you.</p>\n\n<p><strong>Artwork/Order Proofs for Automotive Banners</strong></p>\n<p>If you would like to double-check your automotive banner order for correct information, requesting an order proof will allow you to do that. Your automotive banner proof will include a low-resolution image of your artwork and a summary of your order (including pricing), as well as your billing and shipping information. Please note that if you request a proof, we will not send your automotive banner order into production until you have sent your approval.</p>\n\n<p><strong>Color Match Proof System for Automotive Banners</strong></p>\n<p>If your automotive banner project is color critical, we recommend using our Color Match Proof System, as this is the best way to ensure the color match for your specific automotive banner project. For more details, please contact a customer service representative.</p>\n\nPASTE INTO:\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Design & Order Custom Automotive Banners Online Today</h2>\n\n<p><strong>Did we answer all your questions about automotive banners?</strong></p>\n<p>If not, please give us a call at <a href=\"tel:13203915300\">(320) 391-5300</a>, and one of our customer service representatives will be more than happy to help you with your automotive banner project.</p>\n\n<p>Looking for something more specific for your automotive business? Custom sizing and specialty applications are available upon request! Ideal for special automotive projects, unique sizes, and larger quantity automotive banner orders.</p>\n\n<p>High-quality, high-resolution, and full-color automotive banners take your car dealership or auto service center to the next level. At banners.com, we offer all that and more, like quick delivery and outdoor durability for automotive environments. Start your automotive banner design today.</p>\n\nPASTE INTO:\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Frequently Asked Questions About Automotive Banners</h2>\n\n<h3>What material works best for outdoor automotive banners?</h3>\n<p>For outdoor car dealership and auto service center applications, we recommend 13 oz or 18 oz vinyl materials. The 18 oz vinyl provides extra durability for harsh automotive environments, while mesh banners work well in windy car lot conditions.</p>\n\n<h3>Can I use automotive banners for both indoor and outdoor advertising?</h3>\n<p>Yes, our automotive banner materials are versatile. Vinyl materials work excellent for both indoor showroom displays and outdoor car lot advertising. Fabric banners are ideal for indoor automotive showrooms and provide a premium appearance.</p>\n\n<h3>What sizes work best for automotive banner advertising?</h3>\n<p>Popular automotive banner sizes include 3'x8', 4'x8', and 4'x12' for car lot displays. Larger sizes like 5'x15' or 6'x20' work well for major automotive promotions. We can create automotive banners up to 8'x50'.</p>\n\n<h3>How long do automotive banners last outdoors?</h3>\n<p>When properly installed and maintained, automotive vinyl banners typically last 2-3 years outdoors. The 18 oz vinyl material provides the longest lifespan for automotive applications in harsh weather conditions.</p>\n\n<h3>Can you help design automotive banners for my car dealership?</h3>\n<p>Yes, our professional graphic designers specialize in automotive banner design. We can create custom automotive banners featuring your dealership branding, promotional offers, and automotive-specific messaging.</p>\n\n<h3>What finishing options work best for automotive banner installation?</h3>\n<p>For car lot installations, we recommend hems and grommets for easy mounting on fence posts or poles. Reinforced corners and hems provide extra durability for automotive banners in high-traffic areas.</p>\n\nPASTE INTO:\nFAQ Tab\n\n--------------------------------------------------"
+}

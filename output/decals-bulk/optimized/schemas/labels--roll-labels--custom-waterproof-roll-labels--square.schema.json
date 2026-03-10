@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0",
+  "producer": "schemaAgent",
+  "runId": "",
+  "promptVersion": "unknown",
+  "model": "",
+  "createdAt": "2026-03-06T16:02:27.391Z",
+  "data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "White Square Waterproof",
+    "description": "Custom square waterproof roll labels are waterproof, durable, and stylish. Perfect for food, beverage, and cosmetic packaging with clear or white finishes!",
+    "url": "https://www.decals.com/labels/roll-labels/custom-waterproof-roll-labels/square",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}

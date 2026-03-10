@@ -1,0 +1,5 @@
+{
+  "ok": true,
+  "testedAt": "2026-03-03T22:22:29.189Z",
+  "note": "docsAgent.js publishes to Google Docs; this file is the local /output verification artifact."
+}

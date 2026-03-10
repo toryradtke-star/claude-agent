@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Styrene Signs Styrene",
+  "description": "Design a professional-grade custom styrene sign today! Here at Banners.com, we offer high-quality materials, affordable prices, and fast shipping on all styrene signs.",
+  "url": "https://www.banners.com/styrene-signs",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

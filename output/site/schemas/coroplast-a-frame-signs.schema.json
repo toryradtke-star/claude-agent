@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Coroplast A Frames",
+  "description": "Get affordable, durable custom coroplast a-frame signage for outdoor and indoor use. Lightweight, portable, and customizable. Ideal for businesses, events, and promotions. Order now!",
+  "url": "https://www.banners.com/coroplast-a-frame-signs",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

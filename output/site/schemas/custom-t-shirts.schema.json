@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "T-shirts - Shirtspot.com",
+  "description": "Order custom apparel at Banners.com. Custom T-shirts, polos, fleece, sweatshirts and more. High quality materials tailored for you.",
+  "url": "https://www.banners.com/custom-t-shirts",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}

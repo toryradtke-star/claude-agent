@@ -1,0 +1,181 @@
+{
+  "url": "https://www.banners.com/event-banners",
+  "productPage": true,
+  "pdpSignals": {
+    "urlPattern": true,
+    "htmlCta": true,
+    "pricing": false,
+    "schema": false,
+    "heading": false
+  },
+  "technicalSEO": {
+    "title": "",
+    "metaDescription": "",
+    "canonical": "",
+    "robots": "",
+    "missingAltImages": 0,
+    "multipleH1": false
+  },
+  "internalLinks": {
+    "internalLinkCount": 0,
+    "internalLinks": [],
+    "orphanPageRisk": true,
+    "relativeLinkCount": 0,
+    "absoluteLinkCount": 0,
+    "brokenInternalLinks": []
+  },
+  "contentQuality": {
+    "wordCount": 828,
+    "thinContent": false,
+    "headingStructure": [
+      {
+        "tag": "h1",
+        "text": "Event Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Full-Color Custom Event Banners"
+      },
+      {
+        "tag": "h3",
+        "text": "Products you might like"
+      },
+      {
+        "tag": "h4",
+        "text": "Upload a Print Ready File"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h4",
+        "text": "Let us design your product"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 1 - Choose Choose a product and the size you want"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 2 - Upload Upload the image from your computer"
+      },
+      {
+        "tag": "h3",
+        "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+      },
+      {
+        "tag": "h2",
+        "text": "Add a custom banner to your next celebration or big event!"
+      },
+      {
+        "tag": "h2",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h4",
+        "text": ""
+      },
+      {
+        "tag": "h4",
+        "text": "What is the largest banner I can order?"
+      },
+      {
+        "tag": "h4",
+        "text": "Can I order double-sided banners?"
+      },
+      {
+        "tag": "h4",
+        "text": "What is the best way to hang a vinyl banner?"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Banners.com?"
+      },
+      {
+        "tag": "h4",
+        "text": "Search"
+      }
+    ],
+    "paragraphCount": 0
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Event Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Full-Color Custom Event Banners"
+    },
+    {
+      "tag": "h3",
+      "text": "Products you might like"
+    },
+    {
+      "tag": "h4",
+      "text": "Upload a Print Ready File"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h4",
+      "text": "Let us design your product"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 1 - Choose Choose a product and the size you want"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 2 - Upload Upload the image from your computer"
+    },
+    {
+      "tag": "h3",
+      "text": "Step 3 - Provide Instructions Please include any special instructions that our designers should know while putting your project together!"
+    },
+    {
+      "tag": "h2",
+      "text": "Add a custom banner to your next celebration or big event!"
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "h4",
+      "text": ""
+    },
+    {
+      "tag": "h4",
+      "text": "What is the largest banner I can order?"
+    },
+    {
+      "tag": "h4",
+      "text": "Can I order double-sided banners?"
+    },
+    {
+      "tag": "h4",
+      "text": "What is the best way to hang a vinyl banner?"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Choose Banners.com?"
+    },
+    {
+      "tag": "h4",
+      "text": "Search"
+    }
+  ],
+  "seoRecommendations": "==================================================\nBEFORE HEADING STRUCTURE\n==================================================\n\nH1: Event Banners\nH3: Full-Color Custom Event Banners ❌ (should be H2)\nH3: Products you might like ❌ (navigational, should not be optimized)\nH4: Upload a Print Ready File ❌ (skipped H2/H3 levels)\nH3: Step 1 - Choose Choose a product... ❌ (tool-style heading)\nH3: Step 2 - Upload Upload the image... ❌ (tool-style heading)\nH4: Let us design your product ❌ (skipped levels)\nH3: Step 1 - Choose Choose a product... ❌ (duplicate/tool-style)\nH3: Step 2 - Upload Upload the image... ❌ (duplicate/tool-style)\nH3: Step 3 - Provide Instructions... ❌ (tool-style heading)\nH2: Add a custom banner to your next celebration or big event!\nH2: Frequently Asked Questions\nH4: [empty] ❌ (empty heading)\nH4: What is the largest banner I can order? ❌ (should be H3)\nH4: Can I order double-sided banners? ❌ (should be H3)\nH4: What is the best way to hang a vinyl banner? ❌ (should be H3)\nH2: Why Choose Banners.com?\nH4: Search ❌ (UI element, not content heading)\n\n==================================================\nAFTER OPTIMIZED STRUCTURE\n==================================================\n\nH1: Custom Event Banners for Celebrations & Special Events\nH2: Durable Vinyl Event Banners with Custom Printing & Fast Turnaround\nH2: Event Banner Material for Indoor & Outdoor Celebrations\nH2: Event Banner Finishing Options for Professional Display\nH2: Custom Event Banner Production & Turnaround Times\nH2: Event Banner Payment & Ordering Options\nH2: Shipping Options for Custom Event Banner Delivery\nH2: Event Banner Artwork Requirements for Professional Printing\nH2: Celebration & Special Event Uses for Custom Banners\nH2: Order Custom Event Banners for Your Next Celebration\nH2: Event Banner Questions & Answers\n  H3: What is the largest event banner I can order?\n  H3: Can I order double-sided event banners?\n  H3: What is the best way to hang a vinyl event banner?\n\n==================================================\nPRODUCT HEADER\n==================================================\n\nCOPY EVERYTHING BELOW\n\n# Custom Event Banners for Celebrations & Special Events\n\n## Durable Vinyl Event Banners with Custom Printing & Fast Turnaround\n\nPASTE INTO:\nProduct Title / Subtitle Section\n\n--------------------------------------------------\n\n==================================================\nCONFIGURATOR LABELS\n==================================================\n\nCOPY EVERYTHING BELOW\n\nUpload a Print Ready File for Your Event Banner\n\nStep 1 - Choose your event banner product and size\nStep 2 - Upload your image file from your computer\n\nLet Our Designers Create Your Event Banner\n\nStep 1 - Choose your event banner product and size  \nStep 2 - Upload reference images from your computer\nStep 3 - Provide design instructions for our graphic design team\n\nPASTE INTO:\nConfigurator Labels\n\n--------------------------------------------------\n\n==================================================\nPRODUCT OVERVIEW TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Event Banner Material for Indoor & Outdoor Celebrations</h2>\n\n<p><em>Due to the latest shipping regulations, all vinyl banners that exceed 8 feet in both directions will be folded for shipping. If you do not want your banners folded, please <a href=\"https://www.banners.com/quotes\">contact us</a> to get a custom freight quote.</em></p>\n\n<p>Make the most of your next event with an eye-catching vinyl banner. From <a href=\"https://www.banners.com/trade-show\">trade shows and in-store displays</a> to family reunions and parades, we can help you improve your visibility and make an unforgettable first impression with our professionally designed custom vinyl banners.</p>\n\n<p>Here at Banners.com, our goal is to deliver a banner that you're proud to hang. That's why we take great care in our craft and work closely with you to bring your vision to reality. One of the ways we do this is through strict quality checks. <a href=\"https://www.banners.com/resources/working-with-graphic-designers\">Our team includes seasoned graphic designers</a> and production experts who have been with us for many years.</p>\n\n<p>They're deeply familiar with the nuances of the vinyl banner industry and are dedicated to collaborating to ensure you receive a tailor-made vinyl banner. If something doesn't meet our standards, our staff of in-house graphic designers will contact you to fix it immediately. Your satisfaction is our number one priority.</p>\n\n<p>We offer a wide selection of custom vinyl banners and signage options, including sizes ranging from 1'x1' to 8'x50', unlimited design options in our <a href=\"https://www.banners.com/resources/how-to-use-online-designer\">online designer</a>, and you can even choose production time to ensure your banner is delivered when you need it.</p>\n\n<h3>Six Customizable Event Banner Materials</h3>\n\n<p>Your banner is made with the finest materials available and <a href=\"https://www.banners.com/banner-printing\">printed using state-of-the-art, large-format printers</a> for vibrant colors that pop. All banners are manufactured and printed in the USA.</p>\n\n<p>Exact sizes of banners cannot be guaranteed. Vinyl is a temperature-sensitive material, and some fluctuation can occur due to heat application in printing, finishing, and outside climate. Please note our acceptable size variance is up to 1/2 inch per linear foot (ex., a 5' banner could finish with a 2.5\" variance). If your banner needs to be precise, please contact our customer service team.</p>\n\nPASTE INTO:\nProduct Overview Tab\n\n--------------------------------------------------\n\n==================================================\nMATERIAL OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Event Banner Material for Indoor & Outdoor Celebrations</h2>\n\n<p>Choose from our selection of high-quality vinyl materials specifically designed for event banners and celebrations:</p>\n\n<h3>13oz Vinyl Banner Material</h3>\n<p>Our most popular option for event banners, offering excellent durability for both indoor and outdoor celebrations. This heavyweight vinyl provides vibrant color reproduction and weather resistance for festivals, parades, and outdoor events.</p>\n\n<h3>18oz Vinyl Banner Material</h3>\n<p>Premium heavy-duty material ideal for long-term outdoor event displays and windy conditions. Perfect for recurring annual events, trade shows, and permanent celebration installations.</p>\n\n<h3>Mesh Banner Material</h3>\n<p>Wind-resistant option for outdoor event banners in high-wind areas. The perforated design allows air flow while maintaining excellent visibility for your event messaging.</p>\n\n<h3>Fabric Banner Material</h3>\n<p>Wrinkle-resistant polyester fabric ideal for indoor events, conferences, and upscale celebrations. Provides a premium appearance with excellent color saturation.</p>\n\n<h3>Specialty Materials</h3>\n<p>Additional material options are available for unique event requirements. Contact our team for specialty substrates and custom material recommendations.</p>\n\nPASTE INTO:\nMaterial Options Tab\n\n--------------------------------------------------\n\n==================================================\nFINISHING OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Event Banner Finishing Options for Professional Display</h2>\n\n<p>Professional finishing options to ensure your event banner displays perfectly at your celebration:</p>\n\n<h3>Hemmed Edges with Grommets</h3>\n<p>Reinforced hems with brass grommets every 2-3 feet for secure hanging. Ideal for outdoor events and permanent installations.</p>\n\n<h3>Pole Pockets</h3>\n<p>Sewn sleeves along top and bottom edges for pole insertion. Perfect for trade show displays and banner stands.</p>\n\n<h3>Velcro Strips</h3>\n<p>Hook and loop fasteners for easy mounting to compatible surfaces. Great for indoor events and temporary displays.</p>\n\n<h3>Rope and Tie-offs</h3>\n<p>Reinforced corners with rope attachments for flexible hanging options. Suitable for fence mounting and outdoor celebrations.</p>\n\n<h3>Wind Slits</h3>\n<p>Strategic cuts in large banners to reduce wind load while maintaining visibility. Recommended for oversized outdoor event banners.</p>\n\n<h3>Double-Sided Printing</h3>\n<p>Full-color printing on both sides with blockout material to prevent show-through. Perfect for banners viewed from multiple directions.</p>\n\nPASTE INTO:\nFinishing Options Tab\n\n--------------------------------------------------\n\n==================================================\nPRODUCTION TIMES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Custom Event Banner Production & Turnaround Times</h2>\n\n<p>Fast production times to meet your event deadlines:</p>\n\n<h3>Standard Production</h3>\n<p><strong>3-5 Business Days:</strong> Our standard production time includes design review, printing, finishing, and quality control for most event banner orders.</p>\n\n<h3>Rush Production Available</h3>\n<p><strong>1-2 Business Days:</strong> Expedited production available for urgent event deadlines. Rush charges apply for accelerated turnaround.</p>\n\n<h3>Same-Day Production</h3>\n<p><strong>Same Business Day:</strong> Limited same-day service available for simple designs and standard sizes. Contact us before 10 AM CST for same-day consideration.</p>\n\n<h3>Production Process</h3>\n<p>Your event banner goes through our complete quality control process:</p>\n<ul>\n<li>Design review and approval</li>\n<li>High-resolution digital printing</li>\n<li>Professional finishing and reinforcement</li>\n<li>Final quality inspection</li>\n<li>Secure packaging for shipment</li>\n</ul>\n\n<h3>Design Approval Timeline</h3>\n<p>Production begins after final design approval. Digital proofs are typically provided within 1 business day for review and approval.</p>\n\nPASTE INTO:\nProduction Times Tab\n\n--------------------------------------------------\n\n==================================================\nPAYMENT OPTIONS TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Event Banner Payment & Ordering Options</h2>\n\n<p>Flexible payment methods to accommodate your event planning needs:</p>\n\n<h3>Credit Card Payment</h3>\n<p>We accept all major credit cards including Visa, MasterCard, American Express, and Discover. Secure online processing with immediate order confirmation.</p>\n\n<h3>PayPal Payment</h3>\n<p>Fast and secure PayPal checkout available for personal and business accounts. Express checkout for returning customers.</p>\n\n<h3>Net Terms for Qualified Accounts</h3>\n<p>NET 15 and NET 30 payment terms available for established business customers. Credit application required for approval.</p>\n\n<h3>Purchase Orders</h3>\n<p>We accept purchase orders from schools, government agencies, and approved commercial accounts. Email PO to orders@banners.com.</p>\n\n<h3>Bulk Order Discounts</h3>\n<p>Volume pricing available for large quantity event banner orders. Contact us for custom pricing on orders of 10+ banners.</p>\n\n<h3>Payment Security</h3>\n<p>All transactions are processed through secure SSL encryption. Your payment information is never stored on our servers.</p>\n\nPASTE INTO:\nPayment Options Tab\n\n--------------------------------------------------\n\n==================================================\nSHIPPING GUIDELINES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Shipping Options for Custom Event Banner Delivery</h2>\n\n<p>Reliable shipping options to ensure your event banners arrive on time:</p>\n\n<h3>Standard Ground Shipping</h3>\n<p><strong>5-7 Business Days:</strong> Economical shipping via UPS Ground or FedEx Ground. Free shipping available on orders over $100.</p>\n\n<h3>Expedited Shipping Options</h3>\n<p><strong>UPS 3-Day Select:</strong> Delivery in 3 business days<br>\n<strong>UPS 2nd Day Air:</strong> Delivery in 2 business days<br>\n<strong>UPS Next Day Air:</strong> Overnight delivery for urgent deadlines</p>\n\n<h3>Large Banner Shipping</h3>\n<p>Banners exceeding 8 feet in both directions will be folded for standard shipping. Freight shipping available to avoid folding - contact us for custom freight quotes.</p>\n\n<h3>International Shipping</h3>\n<p>International shipping available to most countries. Customs duties and taxes are the responsibility of the recipient. Contact us for international shipping quotes.</p>\n\n<h3>Local Pickup Available</h3>\n<p>Local pickup available at our Minnesota facility by appointment. Save on shipping costs and inspect your banner before taking it.</p>\n\n<h3>Tracking Information</h3>\n<p>All shipments include tracking numbers provided via email. Monitor your order status online through our order tracking system.</p>\n\nPASTE INTO:\nShipping Guidelines Tab\n\n--------------------------------------------------\n\n==================================================\nCOMMON USES TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Celebration & Special Event Uses for Custom Banners</h2>\n\n<p>Event banners are perfect for a wide variety of celebrations and special occasions:</p>\n\n<h3>Private Celebrations</h3>\n<ul>\n<li>Birthday party banners and milestone celebrations</li>\n<li>Wedding reception and ceremony backdrops</li>\n<li>Anniversary party displays</li>\n<li>Graduation celebrations and achievements</li>\n<li>Family reunion identification and welcome banners</li>\n</ul>\n\n<h3>Community Events</h3>\n<ul>\n<li>Festival entrance and sponsor banners</li>\n<li>Parade participant identification</li>\n<li>Fundraiser event promotion</li>\n<li>School carnival and field day displays</li>\n<li>Neighborhood block party banners</li>\n</ul>\n\n<h3>Corporate Events</h3>\n<ul>\n<li>Trade show booth backdrops and displays</li>\n<li>Company picnic and employee appreciation events</li>\n<li>Product launch announcements</li>\n<li>Corporate conference and seminar banners</li>\n<li>Grand opening celebration displays</li>\n</ul>\n\n<h3>Seasonal Events</h3>\n<ul>\n<li>Holiday celebration banners</li>\n<li>Summer festival displays</li>\n<li>Fall harvest and Halloween events</li>\n<li>Winter holiday and New Year celebrations</li>\n<li>Spring outdoor event banners</li>\n</ul>\n\nPASTE INTO:\nCommon Uses Tab\n\n--------------------------------------------------\n\n==================================================\nARTWORK TAB\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Event Banner Artwork Requirements for Professional Printing</h2>\n\n<p>Ensure the best quality results with proper artwork preparation:</p>\n\n<h3>File Format Requirements</h3>\n<p><strong>Preferred Formats:</strong> PDF, AI, EPS, PSD<br>\n<strong>Acceptable Formats:</strong> JPG, PNG, TIFF<br>\n<strong>Minimum Resolution:</strong> 150 DPI at full size (300 DPI preferred)</p>\n\n<h3>Design Specifications</h3>\n<p><strong>Color Mode:</strong> CMYK for best color accuracy<br>\n<strong>Bleed Area:</strong> Include 2\" bleed around all edges<br>\n<strong>Text Safety:</strong> Keep important text 3\" from edges<br>\n<strong>Font Requirements:</strong> Convert text to outlines or include font files</p>\n\n<h3>Design Services Available</h3>\n<p>Our professional graphic designers can create your event banner design:</p>\n<ul>\n<li>Custom design from your concepts and ideas</li>\n<li>Logo integration and brand compliance</li>\n<li>Text layout and typography optimization</li>\n<li>Image editing and enhancement</li>\n<li>Color matching and print optimization</li>\n</ul>\n\n<h3>Artwork Review Process</h3>\n<p>Every design receives professional review before production:</p>\n<ul>\n<li>Technical specifications check</li>\n<li>Color and resolution verification</li>\n<li>Text readability assessment</li>\n<li>Overall design quality review</li>\n<li>Client approval before printing</li>\n</ul>\n\n<h3>File Upload Methods</h3>\n<p>Upload your artwork through our secure online system, email to artwork@banners.com, or use file transfer services for large files.</p>\n\nPASTE INTO:\nArtwork Tab\n\n--------------------------------------------------\n\n==================================================\nPOST-TAB CONTENT\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Order Custom Event Banners for Your Next Celebration</h2>\n\n<p>Ready to make your event memorable with a professional custom banner? Our experienced team is here to help you create the perfect display for your celebration.</p>\n\n<p><strong>Did we answer all your questions?</strong> If not, please give us a call at <a href=\"tel:13203915300\">(320) 391-5300</a>, and one of our customer service representatives will be more than happy to help you.</p>\n\n<p>Looking for something more specific? <a href=\"https://www.banners.com/quotes\">Contact us for a custom quote</a>! Ideal for special projects, unique sizes, and larger quantity orders.</p>\n\n<h3>Why Choose Banners.com for Your Event Banners?</h3>\n\n<ul>\n<li><strong>Professional Design Team:</strong> In-house graphic designers with years of banner design experience</li>\n<li><strong>Quality Materials:</strong> Premium vinyl and fabric materials designed for durability</li>\n<li><strong>Fast Turnaround:</strong> Rush production available to meet tight event deadlines</li>\n<li><strong>Satisfaction Guarantee:</strong> We stand behind every banner with our quality guarantee</li>\n<li><strong>Competitive Pricing:</strong> Fair pricing with volume discounts for multiple banners</li>\n<li><strong>Expert Support:</strong> Knowledgeable customer service team available to assist you</li>\n</ul>\n\n<p>Get started on your custom event banner today and make your celebration stand out from the crowd.</p>\n\nPASTE INTO:\nPost-Tab Content (Before FAQ)\n\n--------------------------------------------------\n\n==================================================\nFAQ\n==================================================\n\nCOPY EVERYTHING BELOW\n\n<h2>Event Banner Questions & Answers</h2>\n\n<h3>What is the largest event banner I can order?</h3>\n<p>We can produce event banners up to 8 feet tall by 50 feet wide using our standard vinyl materials. For larger sizes or custom dimensions, we offer specialty printing options and can provide a custom quote for your specific requirements.</p>\n\n<h3>Can I order double-sided event banners?</h3>\n<p>Yes, we offer double-sided printing for event banners with a blockout liner to prevent show-through. This option is perfect for banners that will be viewed from both sides, such as hanging displays or street banners for parades and festivals.</p>\n\n<h3>What is the best way to hang a vinyl event banner?</h3>\n<p>The best hanging method depends on your location and conditions. For outdoor events, we recommend hemmed edges with grommets for secure rope or bungee cord attachment. For indoor events, pole pockets or velcro strips provide clean, professional mounting options. Our team can recommend the best finishing option for your specific event needs.</p>\n\n<h3>How long will my event banner last outdoors?</h3>\n<p>Our vinyl event banners are designed for durability and typically last 2-3 years in outdoor conditions with proper care. Factors like weather exposure, UV intensity, and wind conditions can affect longevity. For temporary events, our banners will maintain excellent appearance throughout the event duration.</p>\n\n<h3>Can you match specific colors for my event banner?</h3>\n<p>Yes, we can match specific brand colors using Pantone color references. For best results, provide Pantone color codes or physical color samples. Our design team will ensure your event banner colors align with your branding requirements.</p>\n\n<h3>Do you offer design services for event banners?</h3>\n<p>Absolutely! Our professional graphic design team can create custom designs for your event banner. Simply provide your text, images, and design preferences, and we'll create a professional layout that effectively promotes your celebration or event.</p>\n\nPASTE INTO:\nFAQ Tab\n\n--------------------------------------------------"
+}
